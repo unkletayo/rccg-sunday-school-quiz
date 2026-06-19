@@ -11,7 +11,7 @@ import ssl
 LESSONS_DIR = "lessons"
 OUTPUT_DIR = "bible_questions"
 INDEX_FILE = "quiz-app/bible_quiz_index.json"
-CACHE_FILE = "bible_api_cache.json"
+CACHE_FILE = "quiz-app/scripts/bible_api_cache.json"
 
 BIBLE_REF_REGEX = re.compile(r'\b(?:[1-3]\s+)?[A-Z][a-z\s]+\s+\d+:\d+(?:-\d+)?(?:,\s*\d+(?:-\d+)?)?\b')
 
