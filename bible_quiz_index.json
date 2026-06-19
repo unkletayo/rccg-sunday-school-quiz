@@ -5,6 +5,11 @@
     "filename": "2025-09-07-bible-lesson-01.json"
   },
   {
+    "week": 2,
+    "topic": "THE DEITY OF JESUS PART 1",
+    "filename": "2025-09-14-bible-lesson-00.json"
+  },
+  {
     "week": 3,
     "topic": "THE DEITY OF JESUS (PART 2)",
     "filename": "2025-09-21-bible-lesson-03.json"
@@ -13,6 +18,11 @@
     "week": 4,
     "topic": "HODEGEO PNEUMA",
     "filename": "2025-09-28-bible-lesson-04.json"
+  },
+  {
+    "week": 5,
+    "topic": "MY ENEMY: \"THE FLESH\"",
+    "filename": "2025-10-05-bible-lesson-00.json"
   },
   {
     "week": 6,
@@ -33,6 +43,11 @@
     "week": 9,
     "topic": "PROPHECY",
     "filename": "2025-11-02-bible-lesson-09.json"
+  },
+  {
+    "week": 10,
+    "topic": "SPIRITUAL MATURITY",
+    "filename": "2025-11-09-bible-lesson-00.json"
   },
   {
     "week": 11,
@@ -60,6 +75,11 @@
     "filename": "2025-12-21-bible-lesson-16.json"
   },
   {
+    "week": 17,
+    "topic": "STAY PURE",
+    "filename": "2025-12-28-bible-lesson-00.json"
+  },
+  {
     "week": 19,
     "topic": "EFFECTIVE PLANNING",
     "filename": "2026-01-11-bible-lesson-19.json"
@@ -68,6 +88,51 @@
     "week": 20,
     "topic": "RESOURCEFULNESS",
     "filename": "2026-01-18-bible-lesson-20.json"
+  },
+  {
+    "week": 21,
+    "topic": "TIME MANAGEMENT",
+    "filename": "2026-01-25-bible-lesson-00.json"
+  },
+  {
+    "week": 22,
+    "topic": "AGENTS OF TRANSFORMATION",
+    "filename": "2026-02-01-bible-lesson-00.json"
+  },
+  {
+    "week": 23,
+    "topic": "CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
+    "filename": "2026-02-08-bible-lesson-00.json"
+  },
+  {
+    "week": 24,
+    "topic": "CHRISTIANS AND POLITICS: BE INVOLVED",
+    "filename": "2026-02-15-bible-lesson-00.json"
+  },
+  {
+    "week": 25,
+    "topic": "STRENGTH IN QUIETNESS",
+    "filename": "2026-02-22-bible-lesson-00.json"
+  },
+  {
+    "week": 27,
+    "topic": "GET RICH QUICK SYNDROME",
+    "filename": "2026-03-08-bible-lesson-00.json"
+  },
+  {
+    "week": 28,
+    "topic": "LOVE YOURSELF",
+    "filename": "2026-03-15-bible-lesson-00.json"
+  },
+  {
+    "week": 29,
+    "topic": "COPING WITH LOSS",
+    "filename": "2026-03-22-bible-lesson-00.json"
+  },
+  {
+    "week": 30,
+    "topic": "CRISIS MANAGEMENT",
+    "filename": "2026-03-29-bible-lesson-00.json"
   },
   {
     "week": 31,
@@ -113,5 +178,10 @@
     "week": 40,
     "topic": "RAHAB",
     "filename": "2026-06-07-bible-lesson-40.json"
+  },
+  {
+    "week": 41,
+    "topic": "STRATEGIC LEADERSHIP",
+    "filename": "2026-06-14-bible-lesson-00.json"
   }
 ]

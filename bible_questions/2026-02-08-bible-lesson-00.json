@@ -3,12 +3,12 @@
   "generated_at": "2026-06-16T03:15:15Z",
   "weeks": [
     {
-      "week_number": 0,
+      "week_number": 23,
       "topic": "CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
       "questions": [
         {
           "id": "BW0Q1",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -25,7 +25,7 @@
         },
         {
           "id": "BW0Q2",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -41,7 +41,7 @@
         },
         {
           "id": "BW0Q3",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -58,7 +58,7 @@
         },
         {
           "id": "BW0Q4",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -74,7 +74,7 @@
         },
         {
           "id": "BW0Q5",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -91,7 +91,7 @@
         },
         {
           "id": "BW0Q6",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -107,7 +107,7 @@
         },
         {
           "id": "BW0Q7",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -124,7 +124,7 @@
         },
         {
           "id": "BW0Q8",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -140,7 +140,7 @@
         },
         {
           "id": "BW0Q9",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -157,7 +157,7 @@
         },
         {
           "id": "BW0Q10",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -173,7 +173,7 @@
         },
         {
           "id": "BW0Q11",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -190,7 +190,7 @@
         },
         {
           "id": "BW0Q12",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -206,7 +206,7 @@
         },
         {
           "id": "BW0Q13",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -223,7 +223,7 @@
         },
         {
           "id": "BW0Q14",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -239,7 +239,7 @@
         },
         {
           "id": "BW0Q15",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -256,7 +256,7 @@
         },
         {
           "id": "BW0Q16",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -272,7 +272,7 @@
         },
         {
           "id": "BW0Q17",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -289,7 +289,7 @@
         },
         {
           "id": "BW0Q18",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -305,7 +305,7 @@
         },
         {
           "id": "BW0Q19",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -322,7 +322,7 @@
         },
         {
           "id": "BW0Q20",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -338,7 +338,7 @@
         },
         {
           "id": "BW0Q21",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -355,7 +355,7 @@
         },
         {
           "id": "BW0Q22",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -371,7 +371,7 @@
         },
         {
           "id": "BW0Q23",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -388,7 +388,7 @@
         },
         {
           "id": "BW0Q24",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -404,7 +404,7 @@
         },
         {
           "id": "BW0Q25",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -421,7 +421,7 @@
         },
         {
           "id": "BW0Q26",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -437,7 +437,7 @@
         },
         {
           "id": "BW0Q27",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -454,7 +454,7 @@
         },
         {
           "id": "BW0Q28",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -470,7 +470,7 @@
         },
         {
           "id": "BW0Q29",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -487,7 +487,7 @@
         },
         {
           "id": "BW0Q30",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -503,7 +503,7 @@
         },
         {
           "id": "BW0Q31",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -520,7 +520,7 @@
         },
         {
           "id": "BW0Q32",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -536,7 +536,7 @@
         },
         {
           "id": "BW0Q33",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -553,7 +553,7 @@
         },
         {
           "id": "BW0Q34",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -569,7 +569,7 @@
         },
         {
           "id": "BW0Q35",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -586,7 +586,7 @@
         },
         {
           "id": "BW0Q36",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -602,7 +602,7 @@
         },
         {
           "id": "BW0Q37",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -619,7 +619,7 @@
         },
         {
           "id": "BW0Q38",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -635,7 +635,7 @@
         },
         {
           "id": "BW0Q39",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -652,7 +652,7 @@
         },
         {
           "id": "BW0Q40",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
@@ -668,7 +668,7 @@
         },
         {
           "id": "BW0Q41",
-          "week": 0,
+          "week": 23,
           "category": "bible_reference",
           "difficulty": "medium",
           "type": "multiple_choice",
@@ -685,7 +685,7 @@
         },
         {
           "id": "BW0Q42",
-          "week": 0,
+          "week": 23,
           "category": "bible_memorization",
           "difficulty": "hard",
           "type": "free_text",
