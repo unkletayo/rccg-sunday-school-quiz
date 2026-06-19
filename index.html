@@ -4,16 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Sunday School Quiz</title>
-    <!-- Notion uses a specific system font stack, but Inter is close enough for the web if we want it. We'll stick to the system font stack specified in CSS for true Notion feel, but let's just keep this tag just in case we need it later -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div id="resume-toast" class="toast hidden">
+        <span id="resume-toast-text">Resuming from question 4</span>
+        <button id="resume-dismiss" class="toast-dismiss">✕</button>
+    </div>
+
     <div class="app-container">
         <!-- Header -->
         <header>
-            <div class="logo">Sunday School Quiz</div>
-            <button id="back-to-menu-btn" class="hidden btn">Back to Menu</button>
+            <button class="logo" id="logo-home">Sunday School Quiz</button>
+            <nav class="breadcrumb hidden" id="breadcrumb">
+                <button class="breadcrumb-btn" id="breadcrumb-home">Home</button>
+                <span class="breadcrumb-sep">›</span>
+                <button class="breadcrumb-btn" id="breadcrumb-mode"></button>
+                <span class="breadcrumb-sep" id="breadcrumb-quiz-sep" style="display:none">›</span>
+                <span class="breadcrumb-current" id="breadcrumb-quiz"></span>
+            </nav>
         </header>
 
         <!-- Main Content -->
@@ -24,7 +34,7 @@
                     <h1>Test Your Knowledge</h1>
                     <p>Select a week's lesson to start your quiz or try a Mastery mode.</p>
                 </div>
-                
+
                 <div class="controls-section">
                     <div class="mode-selector" id="mode-selector">
                         <button class="mode-btn active" data-mode="general">General Quiz</button>
@@ -32,7 +42,7 @@
                         <button class="mode-btn" data-mode="topics">Topics Mastery</button>
                         <button class="mode-btn" data-mode="memory">Memory Verses</button>
                     </div>
-                    
+
                     <div class="search-container">
                         <input type="text" id="search-input" class="search-input" placeholder="Search by topic or week...">
                         <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -42,9 +52,7 @@
                     </div>
                 </div>
 
-                <div id="quiz-list" class="quiz-grid">
-                    <!-- Quizzes will be loaded here -->
-                </div>
+                <div id="quiz-list" class="quiz-grid"></div>
             </section>
 
             <!-- Quiz Screen -->
@@ -55,16 +63,15 @@
                     </div>
                     <div class="quiz-meta">
                         <span id="question-counter">Question 1 of 10</span>
+                        <span id="live-score" class="live-score">0 correct</span>
                         <span id="difficulty-badge" class="week-badge">Medium</span>
                     </div>
                     <h2 id="quiz-title">Quiz Title</h2>
                 </div>
 
-                <div class="question-container">
+                <div class="question-container" id="question-container">
                     <h3 class="question-text" id="question-text">Question text goes here?</h3>
-                    <div class="options-grid" id="options-container">
-                        <!-- Options loaded dynamically -->
-                    </div>
+                    <div class="options-grid" id="options-container"></div>
                 </div>
 
                 <div id="feedback-container" class="feedback-panel hidden">
@@ -73,6 +80,7 @@
                 </div>
 
                 <div class="quiz-actions">
+                    <p class="keyboard-hint">Press <kbd>1</kbd>–<kbd>4</kbd> to select · <kbd>Enter</kbd> to continue</p>
                     <button id="next-btn" class="btn primary-btn" disabled>Next Question</button>
                 </div>
             </section>
@@ -80,10 +88,14 @@
             <!-- Result Screen -->
             <section id="result-screen" class="screen hidden">
                 <div class="result-card">
+                    <div class="result-icon" id="result-icon">🎉</div>
                     <h2>Quiz Completed!</h2>
                     <div class="final-score" id="final-score">8/10</div>
                     <p id="result-message" style="margin-bottom: 2rem;">Great job!</p>
-                    <button id="return-home-btn" class="btn primary-btn">Return to Menu</button>
+                    <div class="result-actions">
+                        <button id="try-again-btn" class="btn">Try Again</button>
+                        <button id="return-home-btn" class="btn primary-btn">Return to Menu</button>
+                    </div>
                 </div>
             </section>
         </main>

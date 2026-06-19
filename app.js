@@ -4,11 +4,17 @@ document.addEventListener('DOMContentLoaded', () => {
         quizScreen: document.getElementById('quiz-screen'),
         resultScreen: document.getElementById('result-screen'),
         quizList: document.getElementById('quiz-list'),
-        backToMenuBtn: document.getElementById('back-to-menu-btn'),
+        breadcrumb: document.getElementById('breadcrumb'),
+        breadcrumbHome: document.getElementById('breadcrumb-home'),
+        breadcrumbMode: document.getElementById('breadcrumb-mode'),
+        breadcrumbQuizSep: document.getElementById('breadcrumb-quiz-sep'),
+        breadcrumbQuiz: document.getElementById('breadcrumb-quiz'),
         quizTitle: document.getElementById('quiz-title'),
         progressBar: document.getElementById('progress-bar'),
         questionCounter: document.getElementById('question-counter'),
+        liveScore: document.getElementById('live-score'),
         difficultyBadge: document.getElementById('difficulty-badge'),
+        questionContainer: document.getElementById('question-container'),
         questionText: document.getElementById('question-text'),
         optionsContainer: document.getElementById('options-container'),
         feedbackContainer: document.getElementById('feedback-container'),
@@ -16,10 +22,15 @@ document.addEventListener('DOMContentLoaded', () => {
         feedbackExplanation: document.getElementById('feedback-explanation'),
         nextBtn: document.getElementById('next-btn'),
         finalScore: document.getElementById('final-score'),
+        resultIcon: document.getElementById('result-icon'),
         resultMessage: document.getElementById('result-message'),
         returnHomeBtn: document.getElementById('return-home-btn'),
+        tryAgainBtn: document.getElementById('try-again-btn'),
         modeBtns: document.querySelectorAll('.mode-btn'),
-        searchInput: document.getElementById('search-input')
+        searchInput: document.getElementById('search-input'),
+        resumeToast: document.getElementById('resume-toast'),
+        resumeToastText: document.getElementById('resume-toast-text'),
+        resumeDismiss: document.getElementById('resume-dismiss'),
     };
 
     let quizzes = [];
@@ -29,6 +40,13 @@ document.addEventListener('DOMContentLoaded', () => {
     let hasAnsweredCurrent = false;
     let currentMode = 'general';
     let currentFile = null;
+
+    const MODE_LABELS = {
+        general: 'General Quiz',
+        bible: 'Bible Mastery',
+        topics: 'Topics Mastery',
+        memory: 'Memory Verses',
+    };
 
     // --- URL helpers ---
     function setUrl(mode, file = null) {
@@ -43,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return { mode: params.get('mode'), file: params.get('file') };
     }
 
-    // --- Session helpers ---
+    // --- localStorage progress ---
     const SESSION_KEY = 'quiz_progress';
 
     function sessionId() {
@@ -55,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: sessionId(),
             questionIndex: currentQuestionIndex,
             score,
-            quizData: currentQuizData
+            quizData: currentQuizData,
         }));
     }
 
@@ -74,23 +92,84 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.removeItem(SESSION_KEY);
     }
 
+    // --- Breadcrumb ---
+    function updateBreadcrumb(showQuiz = false) {
+        const label = MODE_LABELS[currentMode] || currentMode;
+        DOM.breadcrumbMode.textContent = label;
+
+        if (showQuiz && currentQuizData) {
+            const title = currentQuizData.week_number === 'Mastery'
+                ? `${currentQuizData.topic} Mastery`
+                : `Week ${currentQuizData.week_number}`;
+            DOM.breadcrumbQuiz.textContent = title;
+            DOM.breadcrumbQuizSep.style.display = '';
+        } else {
+            DOM.breadcrumbQuiz.textContent = '';
+            DOM.breadcrumbQuizSep.style.display = 'none';
+        }
+
+        DOM.breadcrumb.classList.remove('hidden');
+    }
+
+    function hideBreadcrumb() {
+        DOM.breadcrumb.classList.add('hidden');
+    }
+
     // --- Mode tab ---
     function activateModeTab(mode) {
         DOM.modeBtns.forEach(b => b.classList.toggle('active', b.dataset.mode === mode));
     }
 
+    // --- Resume toast ---
+    let toastTimer = null;
+
+    function showResumeToast(questionIndex) {
+        DOM.resumeToastText.textContent = `Resuming from question ${questionIndex + 1}`;
+        DOM.resumeToast.classList.remove('hidden');
+        clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => DOM.resumeToast.classList.add('hidden'), 4000);
+    }
+
+    DOM.resumeDismiss.addEventListener('click', () => {
+        DOM.resumeToast.classList.add('hidden');
+        clearTimeout(toastTimer);
+    });
+
+    // --- Live score ---
+    function updateLiveScore() {
+        DOM.liveScore.textContent = `${score} correct`;
+    }
+
     // --- Show quiz screen ---
     function showQuizScreen() {
-        DOM.quizTitle.textContent = currentQuizData.week_number === 'Mastery'
+        const title = currentQuizData.week_number === 'Mastery'
             ? `${currentQuizData.topic} Mastery Quiz`
             : `Week ${currentQuizData.week_number}: ${currentQuizData.topic}`;
+        DOM.quizTitle.textContent = title;
         DOM.menuScreen.classList.add('hidden');
         DOM.resultScreen.classList.add('hidden');
         DOM.quizScreen.classList.remove('hidden');
-        DOM.backToMenuBtn.classList.remove('hidden');
+        updateBreadcrumb(true);
     }
 
-    // Initialize App
+    // --- Keyboard navigation ---
+    document.addEventListener('keydown', (e) => {
+        if (DOM.quizScreen.classList.contains('hidden')) return;
+
+        const options = DOM.optionsContainer.querySelectorAll('.option-btn');
+        if (e.key >= '1' && e.key <= '4') {
+            const idx = parseInt(e.key, 10) - 1;
+            if (options[idx] && !options[idx].disabled) {
+                options[idx].click();
+            }
+        }
+        if ((e.key === 'Enter' || e.key === ' ') && !DOM.nextBtn.disabled) {
+            e.preventDefault();
+            DOM.nextBtn.click();
+        }
+    });
+
+    // --- Init ---
     async function init() {
         DOM.modeBtns.forEach(btn => {
             btn.addEventListener('click', (e) => {
@@ -101,12 +180,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 activateModeTab(mode);
                 setUrl(mode);
                 loadQuizzesForMode(mode);
+                showMenuScreen();
             });
         });
 
         DOM.searchInput.addEventListener('input', (e) => {
             renderMenu(e.target.value.toLowerCase());
         });
+
+        document.getElementById('logo-home').addEventListener('click', returnToMenu);
+        DOM.breadcrumbHome.addEventListener('click', returnToMenu);
+        DOM.breadcrumbMode.addEventListener('click', returnToMenu);
 
         const { mode, file } = getUrl();
         if (mode) {
@@ -121,40 +205,51 @@ document.addEventListener('DOMContentLoaded', () => {
         if (file) {
             currentFile = file;
             const saved = loadProgress(`${currentMode}/${file}`);
-            if (saved) {
+            if (saved && saved.questionIndex > 0) {
                 currentQuizData = saved.quizData;
                 currentQuestionIndex = saved.questionIndex;
                 score = saved.score;
                 showQuizScreen();
+                updateLiveScore();
                 renderQuestion();
+                showResumeToast(currentQuestionIndex);
             } else {
                 await loadQuiz(file);
             }
         } else if (currentMode === 'topics' || currentMode === 'memory') {
             const saved = loadProgress(`${currentMode}/mastery`);
-            if (saved) {
+            if (saved && saved.questionIndex > 0) {
                 currentFile = null;
                 currentQuizData = saved.quizData;
                 currentQuestionIndex = saved.questionIndex;
                 score = saved.score;
                 showQuizScreen();
+                updateLiveScore();
                 renderQuestion();
+                showResumeToast(currentQuestionIndex);
             }
         }
     }
 
+    function showMenuScreen() {
+        DOM.quizScreen.classList.add('hidden');
+        DOM.resultScreen.classList.add('hidden');
+        DOM.menuScreen.classList.remove('hidden');
+        hideBreadcrumb();
+    }
+
     async function loadQuizzesForMode(mode) {
-        DOM.quizList.innerHTML = '<p>Loading quizzes...</p>';
+        DOM.quizList.innerHTML = '<p style="padding:1rem;color:var(--text-muted)">Loading quizzes...</p>';
 
         if (mode === 'topics' || mode === 'memory') {
             try {
                 const response = await fetch('topics_memory_data.json');
-                if (!response.ok) throw new Error("Data not found");
+                if (!response.ok) throw new Error('Data not found');
                 quizzes = await response.json();
                 renderMenu();
             } catch (error) {
                 console.error(error);
-                DOM.quizList.innerHTML = '<p>Error loading mastery data. Please run the extraction script.</p>';
+                DOM.quizList.innerHTML = '<p style="padding:1rem">Error loading mastery data.</p>';
             }
             return;
         }
@@ -162,12 +257,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const indexFile = mode === 'general' ? 'quiz_index.json' : 'bible_quiz_index.json';
         try {
             const response = await fetch(indexFile);
-            if (!response.ok) throw new Error("Index file not found");
+            if (!response.ok) throw new Error('Index file not found');
             quizzes = await response.json();
             renderMenu();
         } catch (error) {
             console.error('Failed to load quiz index:', error);
-            DOM.quizList.innerHTML = '<p>Error loading quizzes.</p>';
+            DOM.quizList.innerHTML = '<p style="padding:1rem">Error loading quizzes.</p>';
         }
     }
 
@@ -179,10 +274,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'quiz-card';
 
-            const count = currentMode === 'memory' ? quizzes.length : 10;
+            const count = quizzes.length;
             const subtitle = currentMode === 'memory'
                 ? `Comprehensive test across all ${quizzes.length} weeks!`
-                : `10 Random Questions drawn from all ${quizzes.length} weeks!`;
+                : `All ${quizzes.length} weeks in randomized order!`;
 
             card.innerHTML = `
                 <div class="week-badge">Mastery Mode</div>
@@ -199,16 +294,16 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         DOM.searchInput.parentElement.style.display = 'block';
-        const filteredQuizzes = quizzes.filter(quiz => {
-            return `week ${quiz.week} ${quiz.topic}`.toLowerCase().includes(searchQuery);
-        });
+        const filtered = quizzes.filter(q =>
+            `week ${q.week} ${q.topic}`.toLowerCase().includes(searchQuery)
+        );
 
-        if (filteredQuizzes.length === 0) {
+        if (filtered.length === 0) {
             DOM.quizList.innerHTML = '<div class="no-results">No quizzes found matching your search.</div>';
             return;
         }
 
-        filteredQuizzes.forEach(quiz => {
+        filtered.forEach(quiz => {
             const card = document.createElement('div');
             card.className = 'quiz-card';
             card.innerHTML = `
@@ -233,34 +328,31 @@ document.addEventListener('DOMContentLoaded', () => {
         const chap = parseInt(match[3], 10);
         const verse = parseInt(match[4], 10);
         const extra = correctRef.substring(match[0].length);
-
-        const distractors = new Set();
         const prefix = hasNum ? hasNum + ' ' : '';
+        const d = new Set();
 
-        distractors.add(`${prefix}${bookStr} ${chap + 1}:${verse}${extra}`);
-        if (chap > 1) distractors.add(`${prefix}${bookStr} ${chap - 1}:${verse}${extra}`);
-        if (chap > 2) distractors.add(`${prefix}${bookStr} ${chap - 2}:${verse}${extra}`);
-
-        distractors.add(`${prefix}${bookStr} ${chap}:${verse + 1}${extra}`);
-        if (verse > 1) distractors.add(`${prefix}${bookStr} ${chap}:${verse - 1}${extra}`);
-        if (verse > 2) distractors.add(`${prefix}${bookStr} ${chap}:${verse - 2}${extra}`);
+        d.add(`${prefix}${bookStr} ${chap + 1}:${verse}${extra}`);
+        if (chap > 1) d.add(`${prefix}${bookStr} ${chap - 1}:${verse}${extra}`);
+        if (chap > 2) d.add(`${prefix}${bookStr} ${chap - 2}:${verse}${extra}`);
+        d.add(`${prefix}${bookStr} ${chap}:${verse + 1}${extra}`);
+        if (verse > 1) d.add(`${prefix}${bookStr} ${chap}:${verse - 1}${extra}`);
+        if (verse > 2) d.add(`${prefix}${bookStr} ${chap}:${verse - 2}${extra}`);
 
         if (hasNum) {
-            const altNum = hasNum === '1' ? '2' : (hasNum === '2' ? '3' : '1');
-            distractors.add(`${altNum} ${bookStr} ${chap}:${verse}${extra}`);
-            const altNum2 = hasNum === '1' ? '3' : (hasNum === '2' ? '1' : '2');
-            distractors.add(`${altNum2} ${bookStr} ${chap}:${verse}${extra}`);
+            const a1 = hasNum === '1' ? '2' : (hasNum === '2' ? '3' : '1');
+            const a2 = hasNum === '1' ? '3' : (hasNum === '2' ? '1' : '2');
+            d.add(`${a1} ${bookStr} ${chap}:${verse}${extra}`);
+            d.add(`${a2} ${bookStr} ${chap}:${verse}${extra}`);
         }
 
-        return shuffleArray(Array.from(distractors).filter(r => r !== correctRef));
+        return shuffleArray(Array.from(d).filter(r => r !== correctRef));
     }
 
     function generateDynamicQuiz(mode, data, count) {
         const questions = [];
-        const numQuestions = Math.min(count, data.length);
-        const selectedWeeks = shuffleArray(data).slice(0, numQuestions);
+        const selected = shuffleArray(data).slice(0, Math.min(count, data.length));
 
-        selectedWeeks.forEach(weekData => {
+        selected.forEach(weekData => {
             let options = [], questionText = '', answer = '', explanation = '';
 
             if (mode === 'topics') {
@@ -269,16 +361,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     questionText = `Which week has the topic: "${weekData.topic}"?`;
                     answer = `Week ${weekData.week}`;
                     explanation = `Week ${weekData.week} focuses on "${weekData.topic}".`;
-                    const distractors = shuffleArray(data).filter(d => d.week !== weekData.week).slice(0, 3);
-                    options = [answer, ...distractors.map(d => `Week ${d.week}`)];
+                    const d = shuffleArray(data).filter(x => x.week !== weekData.week).slice(0, 3);
+                    options = shuffleArray([answer, ...d.map(x => `Week ${x.week}`)]);
                 } else {
                     questionText = `What is the topic for Week ${weekData.week}?`;
                     answer = weekData.topic;
                     explanation = `The topic for Week ${weekData.week} is "${weekData.topic}".`;
-                    const distractors = shuffleArray(data).filter(d => d.topic !== weekData.topic).slice(0, 3);
-                    options = [answer, ...distractors.map(d => d.topic)];
+                    const d = shuffleArray(data).filter(x => x.topic !== weekData.topic).slice(0, 3);
+                    options = shuffleArray([answer, ...d.map(x => x.topic)]);
                 }
-                questions.push({ question: questionText, answer, options: shuffleArray(options), difficulty: 'Medium', explanation });
+                questions.push({ question: questionText, answer, options, difficulty: 'Medium', explanation });
             } else if (mode === 'memory') {
                 const types = ['ref_to_text', 'text_to_ref', 'week_to_ref'];
                 const type = types[Math.floor(Math.random() * types.length)];
@@ -286,38 +378,32 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (type === 'ref_to_text') {
                     questionText = `Which of these is the memory verse for ${weekData.memory_verse_ref}?`;
                     answer = weekData.memory_verse_text;
-                    explanation = `The memory verse for Week ${weekData.week} is ${weekData.memory_verse_ref}: "${weekData.memory_verse_text}"`;
-                    const distractors = shuffleArray(data).filter(d => d.memory_verse_text !== weekData.memory_verse_text).slice(0, 3);
-                    options = [answer, ...distractors.map(d => d.memory_verse_text)];
+                    explanation = `Week ${weekData.week} — ${weekData.memory_verse_ref}: "${weekData.memory_verse_text}"`;
+                    const d = shuffleArray(data).filter(x => x.memory_verse_text !== weekData.memory_verse_text).slice(0, 3);
+                    options = shuffleArray([answer, ...d.map(x => x.memory_verse_text)]);
                 } else if (type === 'text_to_ref') {
-                    questionText = `Which reference matches this memory verse: "${weekData.memory_verse_text}"?`;
+                    questionText = `Which reference matches: "${weekData.memory_verse_text}"?`;
                     answer = weekData.memory_verse_ref;
-                    explanation = `The memory verse for Week ${weekData.week} is ${weekData.memory_verse_ref}.`;
-                    let similarRefs = generateSimilarReferences(weekData.memory_verse_ref);
-                    if (similarRefs.length < 3) {
-                        const fallback = shuffleArray(data).filter(d => d.memory_verse_ref !== weekData.memory_verse_ref).map(d => d.memory_verse_ref);
-                        similarRefs = similarRefs.concat(fallback);
-                    }
-                    options = [answer, ...similarRefs.slice(0, 3)];
+                    explanation = `Week ${weekData.week} memory verse is ${weekData.memory_verse_ref}.`;
+                    let refs = generateSimilarReferences(weekData.memory_verse_ref);
+                    if (refs.length < 3) refs = refs.concat(shuffleArray(data).filter(x => x.memory_verse_ref !== weekData.memory_verse_ref).map(x => x.memory_verse_ref));
+                    options = shuffleArray([answer, ...refs.slice(0, 3)]);
                 } else {
                     questionText = `What is the memory verse reference for Week ${weekData.week}?`;
                     answer = weekData.memory_verse_ref;
                     explanation = `Week ${weekData.week} memory verse is ${weekData.memory_verse_ref}.`;
-                    let similarRefs = generateSimilarReferences(weekData.memory_verse_ref);
-                    if (similarRefs.length < 3) {
-                        const fallback = shuffleArray(data).filter(d => d.memory_verse_ref !== weekData.memory_verse_ref).map(d => d.memory_verse_ref);
-                        similarRefs = similarRefs.concat(fallback);
-                    }
-                    options = [answer, ...similarRefs.slice(0, 3)];
+                    let refs = generateSimilarReferences(weekData.memory_verse_ref);
+                    if (refs.length < 3) refs = refs.concat(shuffleArray(data).filter(x => x.memory_verse_ref !== weekData.memory_verse_ref).map(x => x.memory_verse_ref));
+                    options = shuffleArray([answer, ...refs.slice(0, 3)]);
                 }
-                questions.push({ question: questionText, answer, options: shuffleArray(options), difficulty: 'Hard', explanation });
+                questions.push({ question: questionText, answer, options, difficulty: 'Hard', explanation });
             }
         });
 
         return {
             week_number: 'Mastery',
             topic: mode === 'topics' ? 'Topics' : 'Memory Verses',
-            questions
+            questions,
         };
     }
 
@@ -344,6 +430,7 @@ document.addEventListener('DOMContentLoaded', () => {
         setUrl(currentMode, currentFile);
         saveProgress();
         showQuizScreen();
+        updateLiveScore();
         renderQuestion();
     }
 
@@ -354,21 +441,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
         DOM.questionCounter.textContent = `Question ${currentQuestionIndex + 1} of ${total}`;
         DOM.progressBar.style.width = `${(currentQuestionIndex / total) * 100}%`;
-
         DOM.difficultyBadge.textContent = q.difficulty;
-        DOM.difficultyBadge.className = `difficulty-badge ${q.difficulty}`;
-
+        DOM.difficultyBadge.className = `difficulty-badge week-badge ${q.difficulty}`;
         DOM.questionText.innerHTML = q.question.replace(/\n/g, '<br>');
         DOM.optionsContainer.innerHTML = '';
         DOM.feedbackContainer.classList.add('hidden');
         DOM.nextBtn.disabled = true;
         DOM.nextBtn.textContent = (currentQuestionIndex === total - 1) ? 'Finish Quiz' : 'Next Question';
 
+        // Fade animation
+        DOM.questionContainer.classList.remove('fade-in');
+        void DOM.questionContainer.offsetWidth;
+        DOM.questionContainer.classList.add('fade-in');
+
+        // Scroll to top on mobile
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
         if (q.options && q.options.length > 0) {
-            q.options.forEach(opt => {
+            q.options.forEach((opt, idx) => {
                 const btn = document.createElement('button');
                 btn.className = 'option-btn';
-                btn.textContent = opt;
+                btn.innerHTML = `<span class="key-hint">${idx + 1}</span><span>${opt}</span>`;
                 btn.addEventListener('click', () => handleOptionClick(btn, opt, q));
                 DOM.optionsContainer.appendChild(btn);
             });
@@ -393,11 +486,12 @@ document.addEventListener('DOMContentLoaded', () => {
         if (hasAnsweredCurrent) return;
         hasAnsweredCurrent = true;
 
-        const isCorrect = selectedText.startsWith(question.answer) || selectedText === question.answer;
+        const isCorrect = selectedText === question.answer || selectedText.startsWith(question.answer);
 
         DOM.optionsContainer.querySelectorAll('.option-btn').forEach(btn => {
             btn.disabled = true;
-            if (btn.textContent.startsWith(question.answer) || btn.textContent === question.answer) {
+            const text = btn.querySelector('span:last-child').textContent;
+            if (text === question.answer || text.startsWith(question.answer)) {
                 btn.classList.add('correct');
             }
         });
@@ -411,6 +505,7 @@ document.addEventListener('DOMContentLoaded', () => {
             showFeedback(false, question.explanation);
         }
 
+        updateLiveScore();
         DOM.nextBtn.disabled = false;
     }
 
@@ -434,15 +529,16 @@ document.addEventListener('DOMContentLoaded', () => {
             score++;
             showFeedback(true, question.explanation);
         } else {
-            showFeedback(false, `Correct answer was: ${question.answer}. \n${question.explanation}`);
+            showFeedback(false, `Correct answer: ${question.answer}. ${question.explanation}`);
         }
 
+        updateLiveScore();
         DOM.nextBtn.disabled = false;
     }
 
     function showFeedback(isCorrect, explanation) {
         DOM.feedbackContainer.className = `feedback-panel ${isCorrect ? 'correct' : 'wrong'}`;
-        DOM.feedbackTitle.textContent = isCorrect ? 'Correct!' : 'Incorrect';
+        DOM.feedbackTitle.textContent = isCorrect ? '✓ Correct!' : '✗ Incorrect';
         DOM.feedbackExplanation.textContent = explanation;
         DOM.feedbackContainer.classList.remove('hidden');
     }
@@ -463,34 +559,49 @@ document.addEventListener('DOMContentLoaded', () => {
 
         DOM.quizScreen.classList.add('hidden');
         DOM.resultScreen.classList.remove('hidden');
-        DOM.backToMenuBtn.classList.add('hidden');
+        updateBreadcrumb(false);
 
         const total = currentQuizData.questions.length;
-        DOM.finalScore.innerHTML = `${score} <small style="font-size:1rem;font-weight:normal;opacity:0.8">/ ${total}</small>`;
-
         const percentage = score / total;
+
+        DOM.finalScore.innerHTML = `${score} <small style="font-size:1rem;font-weight:400;opacity:0.6">/ ${total}</small>`;
+
         if (percentage === 1) {
+            DOM.resultIcon.textContent = '🏆';
             DOM.resultMessage.textContent = "Perfect Score! You mastered this week's lesson!";
         } else if (percentage >= 0.8) {
+            DOM.resultIcon.textContent = '🌟';
             DOM.resultMessage.textContent = "Excellent work! Very impressive knowledge.";
         } else if (percentage >= 0.5) {
+            DOM.resultIcon.textContent = '👍';
             DOM.resultMessage.textContent = "Good job. A little more review and you'll be an expert.";
         } else {
+            DOM.resultIcon.textContent = '📚';
             DOM.resultMessage.textContent = "Keep studying! Review the lesson and try again.";
         }
     }
 
     function returnToMenu() {
+        clearProgress();
         setUrl(currentMode);
-        DOM.quizScreen.classList.add('hidden');
-        DOM.resultScreen.classList.add('hidden');
-        DOM.menuScreen.classList.remove('hidden');
-        DOM.backToMenuBtn.classList.add('hidden');
+        currentFile = null;
+        showMenuScreen();
     }
+
+    // Try Again — restart same quiz from scratch
+    DOM.tryAgainBtn.addEventListener('click', () => {
+        if (currentFile) {
+            loadQuiz(currentFile);
+        } else {
+            // Mastery: regenerate
+            const count = currentMode === 'memory' ? quizzes.length : 10;
+            const quizData = generateDynamicQuiz(currentMode, quizzes, count);
+            startQuiz(quizData);
+        }
+    });
 
     DOM.nextBtn.addEventListener('click', handleNext);
     DOM.returnHomeBtn.addEventListener('click', returnToMenu);
-    DOM.backToMenuBtn.addEventListener('click', returnToMenu);
 
     init();
 });
