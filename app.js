@@ -28,30 +28,124 @@ document.addEventListener('DOMContentLoaded', () => {
     let score = 0;
     let hasAnsweredCurrent = false;
     let currentMode = 'general';
+    let currentFile = null;
+
+    // --- URL helpers ---
+    function setUrl(mode, file = null) {
+        const params = new URLSearchParams({ mode });
+        if (file) params.set('file', file);
+        history.replaceState(null, '', '#' + params.toString());
+    }
+
+    function getUrl() {
+        const hash = window.location.hash.slice(1);
+        const params = new URLSearchParams(hash);
+        return { mode: params.get('mode'), file: params.get('file') };
+    }
+
+    // --- Session helpers ---
+    const SESSION_KEY = 'quiz_progress';
+
+    function sessionId() {
+        return currentFile ? `${currentMode}/${currentFile}` : `${currentMode}/mastery`;
+    }
+
+    function saveProgress() {
+        localStorage.setItem(SESSION_KEY, JSON.stringify({
+            id: sessionId(),
+            questionIndex: currentQuestionIndex,
+            score,
+            quizData: currentQuizData
+        }));
+    }
+
+    function loadProgress(id) {
+        try {
+            const raw = localStorage.getItem(SESSION_KEY);
+            if (!raw) return null;
+            const saved = JSON.parse(raw);
+            return saved.id === id ? saved : null;
+        } catch {
+            return null;
+        }
+    }
+
+    function clearProgress() {
+        localStorage.removeItem(SESSION_KEY);
+    }
+
+    // --- Mode tab ---
+    function activateModeTab(mode) {
+        DOM.modeBtns.forEach(b => b.classList.toggle('active', b.dataset.mode === mode));
+    }
+
+    // --- Show quiz screen ---
+    function showQuizScreen() {
+        DOM.quizTitle.textContent = currentQuizData.week_number === 'Mastery'
+            ? `${currentQuizData.topic} Mastery Quiz`
+            : `Week ${currentQuizData.week_number}: ${currentQuizData.topic}`;
+        DOM.menuScreen.classList.add('hidden');
+        DOM.resultScreen.classList.add('hidden');
+        DOM.quizScreen.classList.remove('hidden');
+        DOM.backToMenuBtn.classList.remove('hidden');
+    }
 
     // Initialize App
     async function init() {
         DOM.modeBtns.forEach(btn => {
             btn.addEventListener('click', (e) => {
-                DOM.modeBtns.forEach(b => b.classList.remove('active'));
-                e.target.classList.add('active');
-                currentMode = e.target.dataset.mode;
-                DOM.searchInput.value = ''; // Clear search on tab switch
-                loadQuizzesForMode(currentMode);
+                const mode = e.target.dataset.mode;
+                currentMode = mode;
+                currentFile = null;
+                DOM.searchInput.value = '';
+                activateModeTab(mode);
+                setUrl(mode);
+                loadQuizzesForMode(mode);
             });
         });
-        
+
         DOM.searchInput.addEventListener('input', (e) => {
-            const query = e.target.value.toLowerCase();
-            renderMenu(query);
+            renderMenu(e.target.value.toLowerCase());
         });
 
+        const { mode, file } = getUrl();
+        if (mode) {
+            currentMode = mode;
+            activateModeTab(mode);
+        } else {
+            setUrl(currentMode);
+        }
+
         await loadQuizzesForMode(currentMode);
+
+        if (file) {
+            currentFile = file;
+            const saved = loadProgress(`${currentMode}/${file}`);
+            if (saved) {
+                currentQuizData = saved.quizData;
+                currentQuestionIndex = saved.questionIndex;
+                score = saved.score;
+                showQuizScreen();
+                renderQuestion();
+            } else {
+                await loadQuiz(file);
+            }
+        } else if (currentMode === 'topics' || currentMode === 'memory') {
+            const saved = loadProgress(`${currentMode}/mastery`);
+            if (saved) {
+                currentFile = null;
+                currentQuizData = saved.quizData;
+                currentQuestionIndex = saved.questionIndex;
+                score = saved.score;
+                showQuizScreen();
+                renderQuestion();
+            }
+        }
     }
 
     async function loadQuizzesForMode(mode) {
         DOM.quizList.innerHTML = '<p>Loading quizzes...</p>';
-        
+
         if (mode === 'topics' || mode === 'memory') {
             try {
                 const response = await fetch('topics_memory_data.json');
@@ -73,27 +167,30 @@ document.addEventListener('DOMContentLoaded', () => {
             renderMenu();
         } catch (error) {
             console.error('Failed to load quiz index:', error);
-            DOM.quizList.innerHTML = '<p>Error loading quizzes. Please ensure the generation script has finished and you are running via a local web server.</p>';
+            DOM.quizList.innerHTML = '<p>Error loading quizzes.</p>';
         }
     }
 
     function renderMenu(searchQuery = '') {
         DOM.quizList.innerHTML = '';
-        
+
         if (currentMode === 'topics' || currentMode === 'memory') {
             DOM.searchInput.parentElement.style.display = 'none';
             const card = document.createElement('div');
             card.className = 'quiz-card';
-            
+
             const count = currentMode === 'memory' ? quizzes.length : 10;
-            const subtitle = currentMode === 'memory' ? `Comprehensive test across all ${quizzes.length} weeks!` : `10 Random Questions drawn from all ${quizzes.length} weeks!`;
-            
+            const subtitle = currentMode === 'memory'
+                ? `Comprehensive test across all ${quizzes.length} weeks!`
+                : `10 Random Questions drawn from all ${quizzes.length} weeks!`;
+
             card.innerHTML = `
                 <div class="week-badge">Mastery Mode</div>
                 <h3>${currentMode === 'topics' ? 'Topics Mastery' : 'Memory Verses Mastery'}</h3>
                 <p>${subtitle}</p>
             `;
             card.addEventListener('click', () => {
+                currentFile = null;
                 const quizData = generateDynamicQuiz(currentMode, quizzes, count);
                 startQuiz(quizData);
             });
@@ -103,10 +200,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         DOM.searchInput.parentElement.style.display = 'block';
         const filteredQuizzes = quizzes.filter(quiz => {
-            const searchStr = `week ${quiz.week} ${quiz.topic}`.toLowerCase();
-            return searchStr.includes(searchQuery);
+            return `week ${quiz.week} ${quiz.topic}`.toLowerCase().includes(searchQuery);
         });
-        
+
         if (filteredQuizzes.length === 0) {
             DOM.quizList.innerHTML = '<div class="no-results">No quizzes found matching your search.</div>';
             return;
@@ -131,36 +227,32 @@ document.addEventListener('DOMContentLoaded', () => {
     function generateSimilarReferences(correctRef) {
         const match = correctRef.match(/^(?:(\d)\s+)?([A-Za-z]+)\s+(\d+):(\d+)/);
         if (!match) return [];
-        
+
         const hasNum = match[1];
         const bookStr = match[2];
         const chap = parseInt(match[3], 10);
         const verse = parseInt(match[4], 10);
-        const extra = correctRef.substring(match[0].length); // e.g. "-12" if "4:11-12"
+        const extra = correctRef.substring(match[0].length);
 
         const distractors = new Set();
         const prefix = hasNum ? hasNum + ' ' : '';
-        
-        // Same book, different chapter
+
         distractors.add(`${prefix}${bookStr} ${chap + 1}:${verse}${extra}`);
         if (chap > 1) distractors.add(`${prefix}${bookStr} ${chap - 1}:${verse}${extra}`);
         if (chap > 2) distractors.add(`${prefix}${bookStr} ${chap - 2}:${verse}${extra}`);
-        
-        // Same book, different verse
+
         distractors.add(`${prefix}${bookStr} ${chap}:${verse + 1}${extra}`);
         if (verse > 1) distractors.add(`${prefix}${bookStr} ${chap}:${verse - 1}${extra}`);
         if (verse > 2) distractors.add(`${prefix}${bookStr} ${chap}:${verse - 2}${extra}`);
-        
-        // Different book number if applicable
+
         if (hasNum) {
             const altNum = hasNum === '1' ? '2' : (hasNum === '2' ? '3' : '1');
             distractors.add(`${altNum} ${bookStr} ${chap}:${verse}${extra}`);
             const altNum2 = hasNum === '1' ? '3' : (hasNum === '2' ? '1' : '2');
             distractors.add(`${altNum2} ${bookStr} ${chap}:${verse}${extra}`);
         }
-        
-        const arr = Array.from(distractors).filter(r => r !== correctRef);
-        return shuffleArray(arr);
+
+        return shuffleArray(Array.from(distractors).filter(r => r !== correctRef));
     }
 
     function generateDynamicQuiz(mode, data, count) {
@@ -169,10 +261,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedWeeks = shuffleArray(data).slice(0, numQuestions);
 
         selectedWeeks.forEach(weekData => {
-            let options = [];
-            let questionText = '';
-            let answer = '';
-            let explanation = '';
+            let options = [], questionText = '', answer = '', explanation = '';
 
             if (mode === 'topics') {
                 const type = Math.random() > 0.5 ? 'topic_to_week' : 'week_to_topic';
@@ -189,14 +278,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     const distractors = shuffleArray(data).filter(d => d.topic !== weekData.topic).slice(0, 3);
                     options = [answer, ...distractors.map(d => d.topic)];
                 }
-                questions.push({
-                    question: questionText, answer: answer,
-                    options: shuffleArray(options), difficulty: 'Medium', explanation: explanation
-                });
+                questions.push({ question: questionText, answer, options: shuffleArray(options), difficulty: 'Medium', explanation });
             } else if (mode === 'memory') {
                 const types = ['ref_to_text', 'text_to_ref', 'week_to_ref'];
                 const type = types[Math.floor(Math.random() * types.length)];
-                
+
                 if (type === 'ref_to_text') {
                     questionText = `Which of these is the memory verse for ${weekData.memory_verse_ref}?`;
                     answer = weekData.memory_verse_text;
@@ -207,7 +293,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     questionText = `Which reference matches this memory verse: "${weekData.memory_verse_text}"?`;
                     answer = weekData.memory_verse_ref;
                     explanation = `The memory verse for Week ${weekData.week} is ${weekData.memory_verse_ref}.`;
-                    
                     let similarRefs = generateSimilarReferences(weekData.memory_verse_ref);
                     if (similarRefs.length < 3) {
                         const fallback = shuffleArray(data).filter(d => d.memory_verse_ref !== weekData.memory_verse_ref).map(d => d.memory_verse_ref);
@@ -218,7 +303,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     questionText = `What is the memory verse reference for Week ${weekData.week}?`;
                     answer = weekData.memory_verse_ref;
                     explanation = `Week ${weekData.week} memory verse is ${weekData.memory_verse_ref}.`;
-                    
                     let similarRefs = generateSimilarReferences(weekData.memory_verse_ref);
                     if (similarRefs.length < 3) {
                         const fallback = shuffleArray(data).filter(d => d.memory_verse_ref !== weekData.memory_verse_ref).map(d => d.memory_verse_ref);
@@ -226,26 +310,24 @@ document.addEventListener('DOMContentLoaded', () => {
                     }
                     options = [answer, ...similarRefs.slice(0, 3)];
                 }
-                questions.push({
-                    question: questionText, answer: answer,
-                    options: shuffleArray(options), difficulty: 'Hard', explanation: explanation
-                });
+                questions.push({ question: questionText, answer, options: shuffleArray(options), difficulty: 'Hard', explanation });
             }
         });
 
         return {
             week_number: 'Mastery',
             topic: mode === 'topics' ? 'Topics' : 'Memory Verses',
-            questions: questions
+            questions
         };
     }
 
     async function loadQuiz(filename) {
+        currentFile = filename;
         const folder = currentMode === 'general' ? 'questions/' : 'bible_questions/';
         try {
             const response = await fetch(`${folder}${filename}`);
+            if (!response.ok) throw new Error('Not found');
             const data = await response.json();
-            
             if (data.weeks && data.weeks.length > 0) {
                 startQuiz(data.weeks[0]);
             }
@@ -259,13 +341,9 @@ document.addEventListener('DOMContentLoaded', () => {
         currentQuizData = quizData;
         currentQuestionIndex = 0;
         score = 0;
-        
-        DOM.quizTitle.textContent = quizData.week_number === 'Mastery' ? `${quizData.topic} Mastery Quiz` : `Week ${quizData.week_number}: ${quizData.topic}`;
-        DOM.menuScreen.classList.add('hidden');
-        DOM.resultScreen.classList.add('hidden');
-        DOM.quizScreen.classList.remove('hidden');
-        DOM.backToMenuBtn.classList.remove('hidden');
-        
+        setUrl(currentMode, currentFile);
+        saveProgress();
+        showQuizScreen();
         renderQuestion();
     }
 
@@ -273,14 +351,13 @@ document.addEventListener('DOMContentLoaded', () => {
         hasAnsweredCurrent = false;
         const q = currentQuizData.questions[currentQuestionIndex];
         const total = currentQuizData.questions.length;
-        
+
         DOM.questionCounter.textContent = `Question ${currentQuestionIndex + 1} of ${total}`;
-        DOM.progressBar.style.width = `${((currentQuestionIndex) / total) * 100}%`;
-        
+        DOM.progressBar.style.width = `${(currentQuestionIndex / total) * 100}%`;
+
         DOM.difficultyBadge.textContent = q.difficulty;
         DOM.difficultyBadge.className = `difficulty-badge ${q.difficulty}`;
-        
-        // Preserve line breaks for verses
+
         DOM.questionText.innerHTML = q.question.replace(/\n/g, '<br>');
         DOM.optionsContainer.innerHTML = '';
         DOM.feedbackContainer.classList.add('hidden');
@@ -288,7 +365,6 @@ document.addEventListener('DOMContentLoaded', () => {
         DOM.nextBtn.textContent = (currentQuestionIndex === total - 1) ? 'Finish Quiz' : 'Next Question';
 
         if (q.options && q.options.length > 0) {
-            // Multiple choice style
             q.options.forEach(opt => {
                 const btn = document.createElement('button');
                 btn.className = 'option-btn';
@@ -297,19 +373,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 DOM.optionsContainer.appendChild(btn);
             });
         } else {
-            // Free text style
             const input = document.createElement('textarea');
             input.className = 'input-field textarea-field';
             input.placeholder = 'Type your answer here...';
             input.rows = 3;
-            
+
             const submitBtn = document.createElement('button');
             submitBtn.className = 'btn primary-btn';
             submitBtn.textContent = 'Submit Answer';
             submitBtn.style.alignSelf = 'flex-start';
-            
             submitBtn.addEventListener('click', () => handleFreeTextSubmit(input.value, q, submitBtn));
-            
+
             DOM.optionsContainer.appendChild(input);
             DOM.optionsContainer.appendChild(submitBtn);
         }
@@ -320,9 +394,8 @@ document.addEventListener('DOMContentLoaded', () => {
         hasAnsweredCurrent = true;
 
         const isCorrect = selectedText.startsWith(question.answer) || selectedText === question.answer;
-        
-        const buttons = DOM.optionsContainer.querySelectorAll('.option-btn');
-        buttons.forEach(btn => {
+
+        DOM.optionsContainer.querySelectorAll('.option-btn').forEach(btn => {
             btn.disabled = true;
             if (btn.textContent.startsWith(question.answer) || btn.textContent === question.answer) {
                 btn.classList.add('correct');
@@ -345,17 +418,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (hasAnsweredCurrent) return;
         hasAnsweredCurrent = true;
         btn.disabled = true;
-        
+
         const userAnswer = answer.toLowerCase().trim();
         let isCorrect = false;
-        
+
         if (question.keywords) {
-            // Check if major keywords are present
             let matches = 0;
-            question.keywords.forEach(kw => {
-                if (userAnswer.includes(kw.toLowerCase())) matches++;
-            });
-            isCorrect = matches >= Math.ceil(question.keywords.length / 2); // lenient check
+            question.keywords.forEach(kw => { if (userAnswer.includes(kw.toLowerCase())) matches++; });
+            isCorrect = matches >= Math.ceil(question.keywords.length / 2);
         } else if (question.answer) {
             isCorrect = userAnswer === question.answer.toLowerCase().trim();
         }
@@ -379,6 +449,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function handleNext() {
         currentQuestionIndex++;
+        saveProgress();
         if (currentQuestionIndex < currentQuizData.questions.length) {
             renderQuestion();
         } else {
@@ -387,13 +458,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showResults() {
+        clearProgress();
+        setUrl(currentMode);
+
         DOM.quizScreen.classList.add('hidden');
         DOM.resultScreen.classList.remove('hidden');
         DOM.backToMenuBtn.classList.add('hidden');
-        
+
         const total = currentQuizData.questions.length;
         DOM.finalScore.innerHTML = `${score} <small style="font-size:1rem;font-weight:normal;opacity:0.8">/ ${total}</small>`;
-        
+
         const percentage = score / total;
         if (percentage === 1) {
             DOM.resultMessage.textContent = "Perfect Score! You mastered this week's lesson!";
@@ -407,13 +481,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function returnToMenu() {
+        setUrl(currentMode);
         DOM.quizScreen.classList.add('hidden');
         DOM.resultScreen.classList.add('hidden');
         DOM.menuScreen.classList.remove('hidden');
         DOM.backToMenuBtn.classList.add('hidden');
     }
 
-    // Event Listeners
     DOM.nextBtn.addEventListener('click', handleNext);
     DOM.returnHomeBtn.addEventListener('click', returnToMenu);
     DOM.backToMenuBtn.addEventListener('click', returnToMenu);
