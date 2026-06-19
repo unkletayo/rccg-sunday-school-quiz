@@ -350,7 +350,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function generateDynamicQuiz(mode, data, count) {
         const questions = [];
-        const selected = shuffleArray(data).slice(0, Math.min(count, data.length));
+        const clean = mode === 'memory'
+            ? data.filter(d => d.memory_verse_text && d.memory_verse_ref &&
+                !d.memory_verse_text.toLowerCase().includes('unknown') &&
+                !d.memory_verse_ref.toLowerCase().includes('unknown'))
+            : data;
+        const selected = shuffleArray(clean).slice(0, Math.min(count, clean.length));
 
         selected.forEach(weekData => {
             let options = [], questionText = '', answer = '', explanation = '';
@@ -379,21 +384,21 @@ document.addEventListener('DOMContentLoaded', () => {
                     questionText = `Which of these is the memory verse for ${weekData.memory_verse_ref}?`;
                     answer = weekData.memory_verse_text;
                     explanation = `Week ${weekData.week} — ${weekData.memory_verse_ref}: "${weekData.memory_verse_text}"`;
-                    const d = shuffleArray(data).filter(x => x.memory_verse_text !== weekData.memory_verse_text).slice(0, 3);
+                    const d = shuffleArray(clean).filter(x => x.memory_verse_text !== weekData.memory_verse_text).slice(0, 3);
                     options = shuffleArray([answer, ...d.map(x => x.memory_verse_text)]);
                 } else if (type === 'text_to_ref') {
                     questionText = `Which reference matches: "${weekData.memory_verse_text}"?`;
                     answer = weekData.memory_verse_ref;
                     explanation = `Week ${weekData.week} memory verse is ${weekData.memory_verse_ref}.`;
                     let refs = generateSimilarReferences(weekData.memory_verse_ref);
-                    if (refs.length < 3) refs = refs.concat(shuffleArray(data).filter(x => x.memory_verse_ref !== weekData.memory_verse_ref).map(x => x.memory_verse_ref));
+                    if (refs.length < 3) refs = refs.concat(shuffleArray(clean).filter(x => x.memory_verse_ref !== weekData.memory_verse_ref).map(x => x.memory_verse_ref));
                     options = shuffleArray([answer, ...refs.slice(0, 3)]);
                 } else {
                     questionText = `What is the memory verse reference for Week ${weekData.week}?`;
                     answer = weekData.memory_verse_ref;
                     explanation = `Week ${weekData.week} memory verse is ${weekData.memory_verse_ref}.`;
                     let refs = generateSimilarReferences(weekData.memory_verse_ref);
-                    if (refs.length < 3) refs = refs.concat(shuffleArray(data).filter(x => x.memory_verse_ref !== weekData.memory_verse_ref).map(x => x.memory_verse_ref));
+                    if (refs.length < 3) refs = refs.concat(shuffleArray(clean).filter(x => x.memory_verse_ref !== weekData.memory_verse_ref).map(x => x.memory_verse_ref));
                     options = shuffleArray([answer, ...refs.slice(0, 3)]);
                 }
                 questions.push({ question: questionText, answer, options, difficulty: 'Hard', explanation });
