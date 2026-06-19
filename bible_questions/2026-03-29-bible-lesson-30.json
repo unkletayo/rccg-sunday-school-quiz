@@ -1,0 +1,804 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-19T23:28:47Z",
+  "weeks": [
+    {
+      "week_number": 30,
+      "topic": "CRISIS MANAGEMENT",
+      "questions": [
+        {
+          "id": "BW30Q1",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Ye are the light of the world. A city that is set on an hill cannot be hid.'",
+          "options": [
+            "A. Matthew 6:14",
+            "B. Matthew 5:13",
+            "C. Matthew 5:14-16",
+            "D. Matthew 5:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Ye are the light of the world. A city that is set on an hill cannot be hid.' is found in Matthew 5:14-16.",
+          "source_section": "Matthew 5:14-16"
+        },
+        {
+          "id": "BW30Q2",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:14-16:\nYe are the light of the _____. A city _____ is set on an _____ cannot be hid.",
+          "answer": "world, that, hill",
+          "keywords": [
+            "world",
+            "that",
+            "hill"
+          ],
+          "explanation": "The full text is: Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "source_section": "Matthew 5:14-16"
+        },
+        {
+          "id": "BW30Q3",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.'",
+          "options": [
+            "A. Genesis 42:33",
+            "B. Genesis 41:32",
+            "C. Genesis 41:34",
+            "D. Genesis 41:33-41"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.' is found in Genesis 41:33-41.",
+          "source_section": "Genesis 41:33-41"
+        },
+        {
+          "id": "BW30Q4",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:33-41:\nNow therefore let Pharaoh _____ out a man _____ and _____, and set him over the land of Egypt.",
+          "answer": "look, discreet, wise",
+          "keywords": [
+            "look",
+            "discreet",
+            "wise"
+          ],
+          "explanation": "The full text is: Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.",
+          "source_section": "Genesis 41:33-41"
+        },
+        {
+          "id": "BW30Q5",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another.'",
+          "options": [
+            "A. Nehemiah 4:20",
+            "B. Nehemiah 5:19",
+            "C. Nehemiah 4:18",
+            "D. Nehemiah 4:19-23"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another.' is found in Nehemiah 4:19-23.",
+          "source_section": "Nehemiah 4:19-23"
+        },
+        {
+          "id": "BW30Q6",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 4:19-23:\n\u00b6 And I said _____ the _____, and to the rulers, and to the rest of the people, The work is _____ and large, and we are separated upon the wall, one far from another.",
+          "answer": "unto, nobles, great",
+          "keywords": [
+            "unto",
+            "nobles",
+            "great"
+          ],
+          "explanation": "The full text is: \u00b6 And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another.",
+          "source_section": "Nehemiah 4:19-23"
+        },
+        {
+          "id": "BW30Q7",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'God is our refuge and strength, a very present help in trouble.46.1 for: or, of'",
+          "options": [
+            "A. Psalm 46:1",
+            "B. Psalm 47:1",
+            "C. Psalm 46:2",
+            "D. Psalm 46:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'God is our refuge and strength, a very present help in trouble.46.1 for: or, of' is found in Psalm 46:1.",
+          "source_section": "Psalm 46:1"
+        },
+        {
+          "id": "BW30Q8",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 46:1:\nGod is our refuge and _____, a _____ present help in _____ for: or, of",
+          "answer": "strength, very, trouble.46.1",
+          "keywords": [
+            "strength",
+            "very",
+            "trouble.46.1"
+          ],
+          "explanation": "The full text is: God is our refuge and strength, a very present help in trouble.46.1 for: or, of",
+          "source_section": "Psalm 46:1"
+        },
+        {
+          "id": "BW30Q9",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.2.19 barren: Heb. causing to miscarry'",
+          "options": [
+            "A. 2 Kings 3:19",
+            "B. 2 Kings 2:18",
+            "C. 2 Kings 2:19-21",
+            "D. 2 Kings 2:20"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.2.19 barren: Heb. causing to miscarry' is found in 2 Kings 2:19-21.",
+          "source_section": "2 Kings 2:19-21"
+        },
+        {
+          "id": "BW30Q10",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 2:19-21:\n\u00b6 And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is _____, as my _____ seeth: but the water is _____, and the ground barren.2.19 barren: Heb. causing to miscarry",
+          "answer": "pleasant, lord, naught",
+          "keywords": [
+            "pleasant",
+            "lord",
+            "naught"
+          ],
+          "explanation": "The full text is: \u00b6 And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.2.19 barren: Heb. causing to miscarry",
+          "source_section": "2 Kings 2:19-21"
+        },
+        {
+          "id": "BW30Q11",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.'",
+          "options": [
+            "A. Exodus 14:10",
+            "B. Exodus 15:10",
+            "C. Exodus 14:9",
+            "D. Exodus 14:11"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.' is found in Exodus 14:10.",
+          "source_section": "Exodus 14:10"
+        },
+        {
+          "id": "BW30Q12",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 14:10:\n\u00b6 And when Pharaoh drew nigh, the children of _____ lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel _____ out unto the _____.",
+          "answer": "Israel, cried, LORD",
+          "keywords": [
+            "Israel",
+            "cried",
+            "LORD"
+          ],
+          "explanation": "The full text is: \u00b6 And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.",
+          "source_section": "Exodus 14:10"
+        },
+        {
+          "id": "BW30Q13",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And a certain woman, which had an issue of blood twelve years,'",
+          "options": [
+            "A. Mark 5:24",
+            "B. Mark 6:25",
+            "C. Mark 5:25-26",
+            "D. Mark 5:26"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And a certain woman, which had an issue of blood twelve years,' is found in Mark 5:25-26.",
+          "source_section": "Mark 5:25-26"
+        },
+        {
+          "id": "BW30Q14",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 5:25-26:\nAnd a certain woman, which had an _____ of blood _____ _____,",
+          "answer": "issue, twelve, years",
+          "keywords": [
+            "issue",
+            "twelve",
+            "years"
+          ],
+          "explanation": "The full text is: And a certain woman, which had an issue of blood twelve years,",
+          "source_section": "Mark 5:25-26"
+        },
+        {
+          "id": "BW30Q15",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.'",
+          "options": [
+            "A. Another book 4:8",
+            "B. John 11:1-6, 11-21",
+            "C. Another book 3:9",
+            "D. Another book 3:5"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.' is found in John 11:1-6, 11-21.",
+          "source_section": "John 11:1-6, 11-21"
+        },
+        {
+          "id": "BW30Q16",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 11:1-6, 11-21:\nNow a certain man was sick, named _____, of Bethany, the _____ of _____ and her sister Martha.",
+          "answer": "Lazarus, town, Mary",
+          "keywords": [
+            "Lazarus",
+            "town",
+            "Mary"
+          ],
+          "explanation": "The full text is: Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.",
+          "source_section": "John 11:1-6, 11-21"
+        },
+        {
+          "id": "BW30Q17",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau.'",
+          "options": [
+            "A. Gen 27:31",
+            "B. Gen 28:32",
+            "C. Gen 27:32-41",
+            "D. Gen 27:33"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau.' is found in Gen 27:32-41.",
+          "source_section": "Gen 27:32-41"
+        },
+        {
+          "id": "BW30Q18",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Gen 27:32-41:\nAnd Isaac his father _____ unto him, Who art _____ And he said, I am thy son, thy _____ Esau.",
+          "answer": "said, thou?, firstborn",
+          "keywords": [
+            "said",
+            "thou?",
+            "firstborn"
+          ],
+          "explanation": "The full text is: And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau.",
+          "source_section": "Gen 27:32-41"
+        },
+        {
+          "id": "BW30Q19",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.'",
+          "options": [
+            "A. Nehemiah 5:6",
+            "B. Nehemiah 4:7",
+            "C. Nehemiah 4:6-9",
+            "D. Nehemiah 4:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.' is found in Nehemiah 4:6-9.",
+          "source_section": "Nehemiah 4:6-9"
+        },
+        {
+          "id": "BW30Q20",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 4:6-9:\nSo built we the wall; and all the wall was joined together unto the half _____: for the people had a _____ to _____.",
+          "answer": "thereof, mind, work",
+          "keywords": [
+            "thereof",
+            "mind",
+            "work"
+          ],
+          "explanation": "The full text is: So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.",
+          "source_section": "Nehemiah 4:6-9"
+        },
+        {
+          "id": "BW30Q21",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Man that is born of a woman is of few days, and full of trouble.14.1 few\u2026: Heb. short of days'",
+          "options": [
+            "A. Job 14:3",
+            "B. Job 14:1",
+            "C. Job 14:2",
+            "D. Job 15:1"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Man that is born of a woman is of few days, and full of trouble.14.1 few\u2026: Heb. short of days' is found in Job 14:1.",
+          "source_section": "Job 14:1"
+        },
+        {
+          "id": "BW30Q22",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 14:1:\nMan that is _____ of a _____ is of few days, and full of _____ few\u2026: Heb. short of days",
+          "answer": "born, woman, trouble.14.1",
+          "keywords": [
+            "born",
+            "woman",
+            "trouble.14.1"
+          ],
+          "explanation": "The full text is: Man that is born of a woman is of few days, and full of trouble.14.1 few\u2026: Heb. short of days",
+          "source_section": "Job 14:1"
+        },
+        {
+          "id": "BW30Q23",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass.41.32 established\u2026: or, prepared of God'",
+          "options": [
+            "A. Genesis 41:32-41",
+            "B. Genesis 42:32",
+            "C. Genesis 41:33",
+            "D. Genesis 41:31"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass.41.32 established\u2026: or, prepared of God' is found in Genesis 41:32-41.",
+          "source_section": "Genesis 41:32-41"
+        },
+        {
+          "id": "BW30Q24",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:32-41:\nAnd for that the _____ was doubled unto Pharaoh _____; it is because the thing is established by God, and God will shortly _____ it to pass.41.32 established\u2026: or, prepared of God",
+          "answer": "dream, twice, bring",
+          "keywords": [
+            "dream",
+            "twice",
+            "bring"
+          ],
+          "explanation": "The full text is: And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass.41.32 established\u2026: or, prepared of God",
+          "source_section": "Genesis 41:32-41"
+        },
+        {
+          "id": "BW30Q25",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.'",
+          "options": [
+            "A. 2 Kings 4:1",
+            "B. 2 Kings 4:2",
+            "C. 2 Kings 5:1",
+            "D. 2 Kings 4:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.' is found in 2 Kings 4:1.",
+          "source_section": "2 Kings 4:1"
+        },
+        {
+          "id": "BW30Q26",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 4:1:\nNow _____ cried a _____ woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my _____ is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.",
+          "answer": "there, certain, husband",
+          "keywords": [
+            "there",
+            "certain",
+            "husband"
+          ],
+          "explanation": "The full text is: Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.",
+          "source_section": "2 Kings 4:1"
+        },
+        {
+          "id": "BW30Q27",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!'",
+          "options": [
+            "A. Job 10:19",
+            "B. Job 11:18",
+            "C. Job 10:18",
+            "D. Job 10:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!' is found in Job 10:18.",
+          "source_section": "Job 10:18"
+        },
+        {
+          "id": "BW30Q28",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 10:18:\nWherefore then hast thou _____ me forth out of the _____ Oh _____ I had given up the ghost, and no eye had seen me!",
+          "answer": "brought, womb?, that",
+          "keywords": [
+            "brought",
+            "womb?",
+            "that"
+          ],
+          "explanation": "The full text is: Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
+          "source_section": "Job 10:18"
+        },
+        {
+          "id": "BW30Q29",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.'",
+          "options": [
+            "A. Proverbs 27:13",
+            "B. Proverbs 27:11",
+            "C. Proverbs 27:12",
+            "D. Proverbs 28:12"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.' is found in Proverbs 27:12.",
+          "source_section": "Proverbs 27:12"
+        },
+        {
+          "id": "BW30Q30",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 27:12:\nA prudent man _____ the evil, and hideth himself; but the _____ _____ on, and are punished.",
+          "answer": "foreseeth, simple, pass",
+          "keywords": [
+            "foreseeth",
+            "simple",
+            "pass"
+          ],
+          "explanation": "The full text is: A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.",
+          "source_section": "Proverbs 27:12"
+        },
+        {
+          "id": "BW30Q31",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Behold, there come seven years of great plenty throughout all the land of Egypt:'",
+          "options": [
+            "A. Genesis 41:28",
+            "B. Genesis 41:29-31",
+            "C. Genesis 41:30",
+            "D. Genesis 42:29"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Behold, there come seven years of great plenty throughout all the land of Egypt:' is found in Genesis 41:29-31.",
+          "source_section": "Genesis 41:29-31"
+        },
+        {
+          "id": "BW30Q32",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:29-31:\nBehold, _____ _____ seven years of great plenty throughout all the land of _____:",
+          "answer": "there, come, Egypt",
+          "keywords": [
+            "there",
+            "come",
+            "Egypt"
+          ],
+          "explanation": "The full text is: Behold, there come seven years of great plenty throughout all the land of Egypt:",
+          "source_section": "Genesis 41:29-31"
+        },
+        {
+          "id": "BW30Q33",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.'",
+          "options": [
+            "A. Exodus 32:3",
+            "B. Exodus 32:2",
+            "C. Exodus 32:1",
+            "D. Exodus 33:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.' is found in Exodus 32:1.",
+          "source_section": "Exodus 32:1"
+        },
+        {
+          "id": "BW30Q34",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 32:1:\nAnd when the _____ saw that Moses delayed to come _____ out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is _____ of him.",
+          "answer": "people, down, become",
+          "keywords": [
+            "people",
+            "down",
+            "become"
+          ],
+          "explanation": "The full text is: And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
+          "source_section": "Exodus 32:1"
+        },
+        {
+          "id": "BW30Q35",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?'",
+          "options": [
+            "A. Matthew 28:17",
+            "B. Matthew 27:17",
+            "C. Matthew 27:16",
+            "D. Matthew 27:18"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?' is found in Matthew 27:17.",
+          "source_section": "Matthew 27:17"
+        },
+        {
+          "id": "BW30Q36",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 27:17:\nTherefore when they were gathered together, Pilate said unto them, _____ will ye that I release _____ you? Barabbas, or Jesus _____ is called Christ?",
+          "answer": "Whom, unto, which",
+          "keywords": [
+            "Whom",
+            "unto",
+            "which"
+          ],
+          "explanation": "The full text is: Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?",
+          "source_section": "Matthew 27:17"
+        },
+        {
+          "id": "BW30Q37",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops'",
+          "options": [
+            "A. 1 Samuel 2:23",
+            "B. 1 Samuel 3:22",
+            "C. 1 Samuel 2:21",
+            "D. 1 Samuel 2:22-30"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops' is found in 1 Samuel 2:22-30.",
+          "source_section": "1 Samuel 2:22-30"
+        },
+        {
+          "id": "BW30Q38",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 2:22-30:\n\u00b6 Now Eli was very old, and heard all that his sons did _____ all Israel; and how they lay with the women that assembled at the door of the tabernacle of the _____ _____: Heb. assembled by troops",
+          "answer": "unto, congregation.2.22, assembled",
+          "keywords": [
+            "unto",
+            "congregation.2.22",
+            "assembled"
+          ],
+          "explanation": "The full text is: \u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops",
+          "source_section": "1 Samuel 2:22-30"
+        },
+        {
+          "id": "BW30Q39",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;'",
+          "options": [
+            "A. Ephesians 4:13",
+            "B. Ephesians 4:14",
+            "C. Ephesians 4:15",
+            "D. Ephesians 5:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;' is found in Ephesians 4:14.",
+          "source_section": "Ephesians 4:14"
+        },
+        {
+          "id": "BW30Q40",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:14:\nThat we henceforth be no more children, tossed to and fro, and _____ about with every wind of doctrine, by the sleight of men, and _____ craftiness, whereby _____ lie in wait to deceive;",
+          "answer": "carried, cunning, they",
+          "keywords": [
+            "carried",
+            "cunning",
+            "they"
+          ],
+          "explanation": "The full text is: That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;",
+          "source_section": "Ephesians 4:14"
+        },
+        {
+          "id": "BW30Q41",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king\u2019s house, more than all the Jews.'",
+          "options": [
+            "A. Esther 4:13-17",
+            "B. Esther 4:12",
+            "C. Esther 4:14",
+            "D. Esther 5:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king\u2019s house, more than all the Jews.' is found in Esther 4:13-17.",
+          "source_section": "Esther 4:13-17"
+        },
+        {
+          "id": "BW30Q42",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 4:13-17:\nThen Mordecai commanded to answer Esther, Think not with thyself that thou _____ _____ in the king\u2019s house, _____ than all the Jews.",
+          "answer": "shalt, escape, more",
+          "keywords": [
+            "shalt",
+            "escape",
+            "more"
+          ],
+          "explanation": "The full text is: Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king\u2019s house, more than all the Jews.",
+          "source_section": "Esther 4:13-17"
+        },
+        {
+          "id": "BW30Q43",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.'",
+          "options": [
+            "A. Nehemiah 4:7",
+            "B. Nehemiah 5:6",
+            "C. Nehemiah 4:6-9,16-18",
+            "D. Nehemiah 4:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.' is found in Nehemiah 4:6-9,16-18.",
+          "source_section": "Nehemiah 4:6-9,16-18"
+        },
+        {
+          "id": "BW30Q44",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 4:6-9,16-18:\nSo _____ we the wall; and all the _____ was joined together unto the half thereof: for the people had a _____ to work.",
+          "answer": "built, wall, mind",
+          "keywords": [
+            "built",
+            "wall",
+            "mind"
+          ],
+          "explanation": "The full text is: So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.",
+          "source_section": "Nehemiah 4:6-9,16-18"
+        },
+        {
+          "id": "BW30Q45",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.'",
+          "options": [
+            "A. Romans 8:27",
+            "B. Romans 8:29",
+            "C. Romans 9:28",
+            "D. Romans 8:28"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.' is found in Romans 8:28.",
+          "source_section": "Romans 8:28"
+        },
+        {
+          "id": "BW30Q46",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:28:\nAnd we know _____ all things work together for _____ to them that love God, to _____ who are the called according to his purpose.",
+          "answer": "that, good, them",
+          "keywords": [
+            "that",
+            "good",
+            "them"
+          ],
+          "explanation": "The full text is: And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+          "source_section": "Romans 8:28"
+        },
+        {
+          "id": "BW30Q47",
+          "week": 30,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,'",
+          "options": [
+            "A. Nehemiah 1:1-4",
+            "B. Nehemiah 1:3",
+            "C. Nehemiah 1:2",
+            "D. Nehemiah 2:1"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,' is found in Nehemiah 1:1-4.",
+          "source_section": "Nehemiah 1:1-4"
+        },
+        {
+          "id": "BW30Q48",
+          "week": 30,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 1:1-4:\nThe words of Nehemiah the son of _____. And it came to pass in the month Chisleu, in the _____ _____, as I was in Shushan the palace,",
+          "answer": "Hachaliah, twentieth, year",
+          "keywords": [
+            "Hachaliah",
+            "twentieth",
+            "year"
+          ],
+          "explanation": "The full text is: The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+          "source_section": "Nehemiah 1:1-4"
+        }
+      ]
+    }
+  ]
+}

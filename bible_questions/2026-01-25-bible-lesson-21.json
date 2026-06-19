@@ -1,0 +1,342 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-19T23:28:47Z",
+  "weeks": [
+    {
+      "week_number": 21,
+      "topic": "TIME MANAGEMENT",
+      "questions": [
+        {
+          "id": "BW21Q1",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,'",
+          "options": [
+            "A. Philippians 4:13",
+            "B. Philippians 3:13",
+            "C. Philippians 3:14",
+            "D. Philippians 3:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,' is found in Philippians 3:13.",
+          "source_section": "Philippians 3:13"
+        },
+        {
+          "id": "BW21Q2",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 3:13:\nBrethren, I _____ not myself to have apprehended: but this one thing I do, forgetting _____ things which are behind, and reaching forth unto those things _____ are before,",
+          "answer": "count, those, which",
+          "keywords": [
+            "count",
+            "those",
+            "which"
+          ],
+          "explanation": "The full text is: Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,",
+          "source_section": "Philippians 3:13"
+        },
+        {
+          "id": "BW21Q3",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He openeth also their ear to discipline, and commandeth that they return from iniquity.'",
+          "options": [
+            "A. Job 36:10",
+            "B. Job 36:9",
+            "C. Job 36:11",
+            "D. Job 37:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'He openeth also their ear to discipline, and commandeth that they return from iniquity.' is found in Job 36:10.",
+          "source_section": "Job 36:10"
+        },
+        {
+          "id": "BW21Q4",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 36:10:\nHe openeth also their ear to discipline, and commandeth _____ _____ return _____ iniquity.",
+          "answer": "that, they, from",
+          "keywords": [
+            "that",
+            "they",
+            "from"
+          ],
+          "explanation": "The full text is: He openeth also their ear to discipline, and commandeth that they return from iniquity.",
+          "source_section": "Job 36:10"
+        },
+        {
+          "id": "BW21Q5",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Redeeming the time, because the days are evil.'",
+          "options": [
+            "A. Ephesians 5:15",
+            "B. Ephesians 5:16",
+            "C. Ephesians 6:16",
+            "D. Ephesians 5:17"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Redeeming the time, because the days are evil.' is found in Ephesians 5:16.",
+          "source_section": "Ephesians 5:16"
+        },
+        {
+          "id": "BW21Q6",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 5:16:\n_____ the time, _____ the _____ are evil.",
+          "answer": "Redeeming, because, days",
+          "keywords": [
+            "Redeeming",
+            "because",
+            "days"
+          ],
+          "explanation": "The full text is: Redeeming the time, because the days are evil.",
+          "source_section": "Ephesians 5:16"
+        },
+        {
+          "id": "BW21Q7",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed time every year;9.27 fail: Heb. pass'",
+          "options": [
+            "A. Esther 9:28",
+            "B. Esther 9:27",
+            "C. Esther 9:26",
+            "D. Esther 10:27"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed time every year;9.27 fail: Heb. pass' is found in Esther 9:27.",
+          "source_section": "Esther 9:27"
+        },
+        {
+          "id": "BW21Q8",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 9:27:\nThe Jews ordained, and took upon them, and upon their _____, and upon all such as joined themselves unto _____, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed _____ every year;9.27 fail: Heb. pass",
+          "answer": "seed, them, time",
+          "keywords": [
+            "seed",
+            "them",
+            "time"
+          ],
+          "explanation": "The full text is: The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their appointed time every year;9.27 fail: Heb. pass",
+          "source_section": "Esther 9:27"
+        },
+        {
+          "id": "BW21Q9",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.'",
+          "options": [
+            "A. James 5:11",
+            "B. James 6:12",
+            "C. James 5:13",
+            "D. James 5:12"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.' is found in James 5:12.",
+          "source_section": "James 5:12"
+        },
+        {
+          "id": "BW21Q10",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 5:12:\nBut _____ all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let _____ yea be yea; and your nay, nay; lest ye fall _____ condemnation.",
+          "answer": "above, your, into",
+          "keywords": [
+            "above",
+            "your",
+            "into"
+          ],
+          "explanation": "The full text is: But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.",
+          "source_section": "James 5:12"
+        },
+        {
+          "id": "BW21Q11",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To every thing there is a season, and a time to every purpose under the heaven:'",
+          "options": [
+            "A. Ecclesiastes 4:1",
+            "B. Ecclesiastes 3:1",
+            "C. Ecclesiastes 3:2",
+            "D. Ecclesiastes 3:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'To every thing there is a season, and a time to every purpose under the heaven:' is found in Ecclesiastes 3:1.",
+          "source_section": "Ecclesiastes 3:1"
+        },
+        {
+          "id": "BW21Q12",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 3:1:\nTo every thing there is a _____, and a time to every purpose _____ the _____:",
+          "answer": "season, under, heaven",
+          "keywords": [
+            "season",
+            "under",
+            "heaven"
+          ],
+          "explanation": "The full text is: To every thing there is a season, and a time to every purpose under the heaven:",
+          "source_section": "Ecclesiastes 3:1"
+        },
+        {
+          "id": "BW21Q13",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Go to the ant, thou sluggard; consider her ways, and be wise:'",
+          "options": [
+            "A. Proverbs 6:5",
+            "B. Proverbs 6:6-11",
+            "C. Proverbs 7:6",
+            "D. Proverbs 6:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Go to the ant, thou sluggard; consider her ways, and be wise:' is found in Proverbs 6:6-11.",
+          "source_section": "Proverbs 6:6-11"
+        },
+        {
+          "id": "BW21Q14",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 6:6-11:\n\u00b6 Go to the ant, _____ _____; _____ her ways, and be wise:",
+          "answer": "thou, sluggard, consider",
+          "keywords": [
+            "thou",
+            "sluggard",
+            "consider"
+          ],
+          "explanation": "The full text is: \u00b6 Go to the ant, thou sluggard; consider her ways, and be wise:",
+          "source_section": "Proverbs 6:6-11"
+        },
+        {
+          "id": "BW21Q15",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.'",
+          "options": [
+            "A. Matthew 7:33",
+            "B. Matthew 6:33",
+            "C. Matthew 6:34",
+            "D. Matthew 6:32"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.' is found in Matthew 6:33.",
+          "source_section": "Matthew 6:33"
+        },
+        {
+          "id": "BW21Q16",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:33:\nBut _____ ye _____ the kingdom of God, and his _____; and all these things shall be added unto you.",
+          "answer": "seek, first, righteousness",
+          "keywords": [
+            "seek",
+            "first",
+            "righteousness"
+          ],
+          "explanation": "The full text is: But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+          "source_section": "Matthew 6:33"
+        },
+        {
+          "id": "BW21Q17",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.18.18 Thou wilt\u2026: Heb. Fading thou wilt fade'",
+          "options": [
+            "A. Exodus 18:17",
+            "B. Exodus 19:18",
+            "C. Exodus 18:19",
+            "D. Exodus 18:18-23"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.18.18 Thou wilt\u2026: Heb. Fading thou wilt fade' is found in Exodus 18:18-23.",
+          "source_section": "Exodus 18:18-23"
+        },
+        {
+          "id": "BW21Q18",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 18:18-23:\n_____ wilt surely _____ away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it _____ alone.18.18 Thou wilt\u2026: Heb. Fading thou wilt fade",
+          "answer": "Thou, wear, thyself",
+          "keywords": [
+            "Thou",
+            "wear",
+            "thyself"
+          ],
+          "explanation": "The full text is: Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.18.18 Thou wilt\u2026: Heb. Fading thou wilt fade",
+          "source_section": "Exodus 18:18-23"
+        },
+        {
+          "id": "BW21Q19",
+          "week": 21,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I must work the works of him that sent me, while it is day: the night cometh, when no man can work.'",
+          "options": [
+            "A. John 9:3",
+            "B. John 9:5",
+            "C. John 9:4",
+            "D. John 10:4"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'I must work the works of him that sent me, while it is day: the night cometh, when no man can work.' is found in John 9:4.",
+          "source_section": "John 9:4"
+        },
+        {
+          "id": "BW21Q20",
+          "week": 21,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 9:4:\nI must work the works of him that sent me, _____ it is day: the night _____, when no man can _____.",
+          "answer": "while, cometh, work",
+          "keywords": [
+            "while",
+            "cometh",
+            "work"
+          ],
+          "explanation": "The full text is: I must work the works of him that sent me, while it is day: the night cometh, when no man can work.",
+          "source_section": "John 9:4"
+        }
+      ]
+    }
+  ]
+}

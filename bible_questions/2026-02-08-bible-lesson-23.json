@@ -1,0 +1,705 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-19T23:28:47Z",
+  "weeks": [
+    {
+      "week_number": 23,
+      "topic": "CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
+      "questions": [
+        {
+          "id": "BW23Q1",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Ye are the light of the world. A city that is set on an hill cannot be hid.'",
+          "options": [
+            "A. Matthew 5:15",
+            "B. Matthew 5:14-16",
+            "C. Matthew 6:14",
+            "D. Matthew 5:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Ye are the light of the world. A city that is set on an hill cannot be hid.' is found in Matthew 5:14-16.",
+          "source_section": "Matthew 5:14-16"
+        },
+        {
+          "id": "BW23Q2",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:14-16:\nYe are the light of the _____. A city _____ is set on an hill _____ be hid.",
+          "answer": "world, that, cannot",
+          "keywords": [
+            "world",
+            "that",
+            "cannot"
+          ],
+          "explanation": "The full text is: Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "source_section": "Matthew 5:14-16"
+        },
+        {
+          "id": "BW23Q3",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king\u2019s house, over against the king\u2019s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.'",
+          "options": [
+            "A. Esther 5:1-2",
+            "B. Esther 6:1",
+            "C. Esther 5:3",
+            "D. Esther 5:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king\u2019s house, over against the king\u2019s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.' is found in Esther 5:1-2.",
+          "source_section": "Esther 5:1-2"
+        },
+        {
+          "id": "BW23Q4",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 5:1-2:\nNow it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner _____ of the king\u2019s house, over against the king\u2019s house: and the king sat upon his royal throne in the _____ _____, over against the gate of the house.",
+          "answer": "court, royal, house",
+          "keywords": [
+            "court",
+            "royal",
+            "house"
+          ],
+          "explanation": "The full text is: Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king\u2019s house, over against the king\u2019s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.",
+          "source_section": "Esther 5:1-2"
+        },
+        {
+          "id": "BW23Q5",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.'",
+          "options": [
+            "A. Daniel 6:11",
+            "B. Daniel 7:10",
+            "C. Daniel 6:10",
+            "D. Daniel 6:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.' is found in Daniel 6:10.",
+          "source_section": "Daniel 6:10"
+        },
+        {
+          "id": "BW23Q6",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 6:10:\n\u00b6 Now when Daniel _____ that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his _____ three _____ a day, and prayed, and gave thanks before his God, as he did aforetime.",
+          "answer": "knew, knees, times",
+          "keywords": [
+            "knew",
+            "knees",
+            "times"
+          ],
+          "explanation": "The full text is: \u00b6 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
+          "source_section": "Daniel 6:10"
+        },
+        {
+          "id": "BW23Q7",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For that they hated knowledge, and did not choose the fear of the LORD:'",
+          "options": [
+            "A. Proverbs 2:29",
+            "B. Proverbs 1:28",
+            "C. Proverbs 1:30",
+            "D. Proverbs 1:29"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For that they hated knowledge, and did not choose the fear of the LORD:' is found in Proverbs 1:29.",
+          "source_section": "Proverbs 1:29"
+        },
+        {
+          "id": "BW23Q8",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 1:29:\nFor _____ they hated knowledge, and did not choose the _____ of the _____:",
+          "answer": "that, fear, LORD",
+          "keywords": [
+            "that",
+            "fear",
+            "LORD"
+          ],
+          "explanation": "The full text is: For that they hated knowledge, and did not choose the fear of the LORD:",
+          "source_section": "Proverbs 1:29"
+        },
+        {
+          "id": "BW23Q9",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?'",
+          "options": [
+            "A. Matthew 7:15",
+            "B. Matthew 8:16",
+            "C. Matthew 7:16-18",
+            "D. Matthew 7:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?' is found in Matthew 7:16-18.",
+          "source_section": "Matthew 7:16-18"
+        },
+        {
+          "id": "BW23Q10",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 7:16-18:\nYe shall know _____ by their _____. Do men gather grapes of thorns, or _____ of thistles?",
+          "answer": "them, fruits, figs",
+          "keywords": [
+            "them",
+            "fruits",
+            "figs"
+          ],
+          "explanation": "The full text is: Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?",
+          "source_section": "Matthew 7:16-18"
+        },
+        {
+          "id": "BW23Q11",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.'",
+          "options": [
+            "A. Exodus 3:9",
+            "B. Exodus 3:10-12",
+            "C. Exodus 3:11",
+            "D. Exodus 4:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.' is found in Exodus 3:10-12.",
+          "source_section": "Exodus 3:10-12"
+        },
+        {
+          "id": "BW23Q12",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 3:10-12:\nCome now _____, and I will _____ thee unto Pharaoh, that thou _____ bring forth my people the children of Israel out of Egypt.",
+          "answer": "therefore, send, mayest",
+          "keywords": [
+            "therefore",
+            "send",
+            "mayest"
+          ],
+          "explanation": "The full text is: Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.",
+          "source_section": "Exodus 3:10-12"
+        },
+        {
+          "id": "BW23Q13",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:10.5 from: Heb. from before'",
+          "options": [
+            "A. Ecclesiastes 11:5",
+            "B. Ecclesiastes 10:4",
+            "C. Ecclesiastes 10:5-7",
+            "D. Ecclesiastes 10:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:10.5 from: Heb. from before' is found in Ecclesiastes 10:5-7.",
+          "source_section": "Ecclesiastes 10:5-7"
+        },
+        {
+          "id": "BW23Q14",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 10:5-7:\nThere is an evil which I have _____ _____ the sun, as an error _____ proceedeth from the ruler:10.5 from: Heb. from before",
+          "answer": "seen, under, which",
+          "keywords": [
+            "seen",
+            "under",
+            "which"
+          ],
+          "explanation": "The full text is: There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:10.5 from: Heb. from before",
+          "source_section": "Ecclesiastes 10:5-7"
+        },
+        {
+          "id": "BW23Q15",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.'",
+          "options": [
+            "A. Judges 4:3",
+            "B. Judges 5:4",
+            "C. Judges 4:5",
+            "D. Judges 4:4-15"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.' is found in Judges 4:4-15.",
+          "source_section": "Judges 4:4-15"
+        },
+        {
+          "id": "BW23Q16",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 4:4-15:\n\u00b6 And Deborah, a _____, the _____ of Lapidoth, she _____ Israel at that time.",
+          "answer": "prophetess, wife, judged",
+          "keywords": [
+            "prophetess",
+            "wife",
+            "judged"
+          ],
+          "explanation": "The full text is: \u00b6 And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.",
+          "source_section": "Judges 4:4-15"
+        },
+        {
+          "id": "BW23Q17",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.'",
+          "options": [
+            "A. Titus 2:15",
+            "B. Titus 1:16",
+            "C. Titus 1:15",
+            "D. Titus 1:14"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.' is found in Titus 1:15.",
+          "source_section": "Titus 1:15"
+        },
+        {
+          "id": "BW23Q18",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Titus 1:15:\n_____ the pure all things are pure: but unto them _____ are defiled and unbelieving is nothing pure; but even _____ mind and conscience is defiled.",
+          "answer": "Unto, that, their",
+          "keywords": [
+            "Unto",
+            "that",
+            "their"
+          ],
+          "explanation": "The full text is: Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
+          "source_section": "Titus 1:15"
+        },
+        {
+          "id": "BW23Q19",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.'",
+          "options": [
+            "A. Genesis 41:47",
+            "B. Genesis 42:46",
+            "C. Genesis 41:46-47",
+            "D. Genesis 41:45"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.' is found in Genesis 41:46-47.",
+          "source_section": "Genesis 41:46-47"
+        },
+        {
+          "id": "BW23Q20",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:46-47:\n\u00b6 And Joseph was thirty years old when he stood before _____ _____ of Egypt. And Joseph went out from the presence of _____, and went throughout all the land of Egypt.",
+          "answer": "Pharaoh, king, Pharaoh",
+          "keywords": [
+            "Pharaoh",
+            "king",
+            "Pharaoh"
+          ],
+          "explanation": "The full text is: \u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
+          "source_section": "Genesis 41:46-47"
+        },
+        {
+          "id": "BW23Q21",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And hast made us unto our God kings and priests: and we shall reign on the earth.'",
+          "options": [
+            "A. Revelation 6:10",
+            "B. Revelation 5:9",
+            "C. Revelation 5:11",
+            "D. Revelation 5:10"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And hast made us unto our God kings and priests: and we shall reign on the earth.' is found in Revelation 5:10.",
+          "source_section": "Revelation 5:10"
+        },
+        {
+          "id": "BW23Q22",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 5:10:\nAnd hast _____ us unto our God kings and _____: and we shall reign on the _____.",
+          "answer": "made, priests, earth",
+          "keywords": [
+            "made",
+            "priests",
+            "earth"
+          ],
+          "explanation": "The full text is: And hast made us unto our God kings and priests: and we shall reign on the earth.",
+          "source_section": "Revelation 5:10"
+        },
+        {
+          "id": "BW23Q23",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.'",
+          "options": [
+            "A. 2 Samuel 5:1-5",
+            "B. 2 Samuel 5:2",
+            "C. 2 Samuel 6:1",
+            "D. 2 Samuel 5:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.' is found in 2 Samuel 5:1-5.",
+          "source_section": "2 Samuel 5:1-5"
+        },
+        {
+          "id": "BW23Q24",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Samuel 5:1-5:\nThen _____ all the tribes of Israel to David _____ Hebron, and _____, saying, Behold, we are thy bone and thy flesh.",
+          "answer": "came, unto, spake",
+          "keywords": [
+            "came",
+            "unto",
+            "spake"
+          ],
+          "explanation": "The full text is: Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.",
+          "source_section": "2 Samuel 5:1-5"
+        },
+        {
+          "id": "BW23Q25",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.'",
+          "options": [
+            "A. Genesis 41:46-49",
+            "B. Genesis 41:45",
+            "C. Genesis 41:47",
+            "D. Genesis 42:46"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.' is found in Genesis 41:46-49.",
+          "source_section": "Genesis 41:46-49"
+        },
+        {
+          "id": "BW23Q26",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:46-49:\n\u00b6 And _____ was thirty years old when he stood before Pharaoh _____ of Egypt. And _____ went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
+          "answer": "Joseph, king, Joseph",
+          "keywords": [
+            "Joseph",
+            "king",
+            "Joseph"
+          ],
+          "explanation": "The full text is: \u00b6 And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.",
+          "source_section": "Genesis 41:46-49"
+        },
+        {
+          "id": "BW23Q27",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither.16.11 down: Heb. round'",
+          "options": [
+            "A. 1 Samuel 16:12",
+            "B. 1 Samuel 16:10",
+            "C. 1 Samuel 16:11-13",
+            "D. 1 Samuel 17:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither.16.11 down: Heb. round' is found in 1 Samuel 16:11-13.",
+          "source_section": "1 Samuel 16:11-13"
+        },
+        {
+          "id": "BW23Q28",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 16:11-13:\nAnd Samuel _____ unto _____, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither.16.11 _____: Heb. round",
+          "answer": "said, Jesse, down",
+          "keywords": [
+            "said",
+            "Jesse",
+            "down"
+          ],
+          "explanation": "The full text is: And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither.16.11 down: Heb. round",
+          "source_section": "1 Samuel 16:11-13"
+        },
+        {
+          "id": "BW23Q29",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king\u2019s gate: let nothing fail of all that thou hast spoken.6.10 let\u2026: Heb. suffer not a whit to fall'",
+          "options": [
+            "A. Esther 6:10",
+            "B. Esther 7:10",
+            "C. Esther 6:11",
+            "D. Esther 6:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king\u2019s gate: let nothing fail of all that thou hast spoken.6.10 let\u2026: Heb. suffer not a whit to fall' is found in Esther 6:10.",
+          "source_section": "Esther 6:10"
+        },
+        {
+          "id": "BW23Q30",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 6:10:\nThen the king said to Haman, Make haste, and take the apparel and the horse, as _____ hast said, and do even so to Mordecai the Jew, that _____ at the king\u2019s gate: let nothing fail of all that thou hast _____ let\u2026: Heb. suffer not a whit to fall",
+          "answer": "thou, sitteth, spoken.6.10",
+          "keywords": [
+            "thou",
+            "sitteth",
+            "spoken.6.10"
+          ],
+          "explanation": "The full text is: Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king\u2019s gate: let nothing fail of all that thou hast spoken.6.10 let\u2026: Heb. suffer not a whit to fall",
+          "source_section": "Esther 6:10"
+        },
+        {
+          "id": "BW23Q31",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father\u2019s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?4.14 enlargement: Heb. respiration'",
+          "options": [
+            "A. Esther 4:14",
+            "B. Esther 5:14",
+            "C. Esther 4:13",
+            "D. Esther 4:15"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father\u2019s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?4.14 enlargement: Heb. respiration' is found in Esther 4:14.",
+          "source_section": "Esther 4:14"
+        },
+        {
+          "id": "BW23Q32",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 4:14:\nFor if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another _____; but thou and thy father\u2019s _____ shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?4.14 enlargement: Heb. _____",
+          "answer": "place, house, respiration",
+          "keywords": [
+            "place",
+            "house",
+            "respiration"
+          ],
+          "explanation": "The full text is: For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father\u2019s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?4.14 enlargement: Heb. respiration",
+          "source_section": "Esther 4:14"
+        },
+        {
+          "id": "BW23Q33",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou shalt not covet thy neighbour\u2019s house, thou shalt not covet thy neighbour\u2019s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour\u2019s.'",
+          "options": [
+            "A. Exodus 20:17",
+            "B. Exodus 20:16",
+            "C. Exodus 21:17",
+            "D. Exodus 20:18"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Thou shalt not covet thy neighbour\u2019s house, thou shalt not covet thy neighbour\u2019s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour\u2019s.' is found in Exodus 20:17.",
+          "source_section": "Exodus 20:17"
+        },
+        {
+          "id": "BW23Q34",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 20:17:\nThou shalt not covet thy neighbour\u2019s house, thou shalt not covet thy neighbour\u2019s _____, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing _____ is thy _____.",
+          "answer": "wife, that, neighbour\u2019s",
+          "keywords": [
+            "wife",
+            "that",
+            "neighbour\u2019s"
+          ],
+          "explanation": "The full text is: Thou shalt not covet thy neighbour\u2019s house, thou shalt not covet thy neighbour\u2019s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour\u2019s.",
+          "source_section": "Exodus 20:17"
+        },
+        {
+          "id": "BW23Q35",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.45.7 to preserve\u2026: Heb. to put for you a remnant'",
+          "options": [
+            "A. Genesis 45:6",
+            "B. Genesis 45:8",
+            "C. Genesis 46:7",
+            "D. Genesis 45:7-8"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.45.7 to preserve\u2026: Heb. to put for you a remnant' is found in Genesis 45:7-8.",
+          "source_section": "Genesis 45:7-8"
+        },
+        {
+          "id": "BW23Q36",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 45:7-8:\nAnd God sent me _____ you to preserve you a _____ in the earth, and to _____ your lives by a great deliverance.45.7 to preserve\u2026: Heb. to put for you a remnant",
+          "answer": "before, posterity, save",
+          "keywords": [
+            "before",
+            "posterity",
+            "save"
+          ],
+          "explanation": "The full text is: And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.45.7 to preserve\u2026: Heb. to put for you a remnant",
+          "source_section": "Genesis 45:7-8"
+        },
+        {
+          "id": "BW23Q37",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn. 29.2 in\u2026: or, increased'",
+          "options": [
+            "A. Proverbs 30:2",
+            "B. Proverbs 29:1",
+            "C. Proverbs 29:2",
+            "D. Proverbs 29:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn. 29.2 in\u2026: or, increased' is found in Proverbs 29:2.",
+          "source_section": "Proverbs 29:2"
+        },
+        {
+          "id": "BW23Q38",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:2:\nWhen the righteous are in _____, the _____ rejoice: but when the wicked beareth rule, the people mourn. _____ in\u2026: or, increased",
+          "answer": "authority, people, 29.2",
+          "keywords": [
+            "authority",
+            "people",
+            "29.2"
+          ],
+          "explanation": "The full text is: When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn. 29.2 in\u2026: or, increased",
+          "source_section": "Proverbs 29:2"
+        },
+        {
+          "id": "BW23Q39",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,'",
+          "options": [
+            "A. Nehemiah 1:2",
+            "B. Nehemiah 2:1",
+            "C. Nehemiah 1:1-4",
+            "D. Nehemiah 1:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,' is found in Nehemiah 1:1-4.",
+          "source_section": "Nehemiah 1:1-4"
+        },
+        {
+          "id": "BW23Q40",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 1:1-4:\nThe words of Nehemiah the son of Hachaliah. And it came to pass in the _____ Chisleu, in the _____ year, as I was in _____ the palace,",
+          "answer": "month, twentieth, Shushan",
+          "keywords": [
+            "month",
+            "twentieth",
+            "Shushan"
+          ],
+          "explanation": "The full text is: The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+          "source_section": "Nehemiah 1:1-4"
+        },
+        {
+          "id": "BW23Q41",
+          "week": 23,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.'",
+          "options": [
+            "A. Daniel 2:48-49",
+            "B. Daniel 3:48",
+            "C. Daniel 2:47",
+            "D. Daniel 2:49"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.' is found in Daniel 2:48-49.",
+          "source_section": "Daniel 2:48-49"
+        },
+        {
+          "id": "BW23Q42",
+          "week": 23,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 2:48-49:\nThen the king made Daniel a great man, and gave him many great gifts, and made him _____ _____ the whole province of Babylon, and chief of the governors over all the _____ men of Babylon.",
+          "answer": "ruler, over, wise",
+          "keywords": [
+            "ruler",
+            "over",
+            "wise"
+          ],
+          "explanation": "The full text is: Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.",
+          "source_section": "Daniel 2:48-49"
+        }
+      ]
+    }
+  ]
+}

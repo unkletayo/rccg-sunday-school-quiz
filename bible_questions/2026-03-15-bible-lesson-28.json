@@ -1,0 +1,672 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-19T23:28:47Z",
+  "weeks": [
+    {
+      "week_number": 28,
+      "topic": "LOVE YOURSELF",
+      "questions": [
+        {
+          "id": "BW28Q1",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.'",
+          "options": [
+            "A. Proverbs 15:14",
+            "B. Proverbs 15:13",
+            "C. Proverbs 16:13",
+            "D. Proverbs 15:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.' is found in Proverbs 15:13.",
+          "source_section": "Proverbs 15:13"
+        },
+        {
+          "id": "BW28Q2",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 15:13:\nA merry _____ maketh a _____ countenance: but by sorrow of the heart the spirit is _____.",
+          "answer": "heart, cheerful, broken",
+          "keywords": [
+            "heart",
+            "cheerful",
+            "broken"
+          ],
+          "explanation": "The full text is: A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.",
+          "source_section": "Proverbs 15:13"
+        },
+        {
+          "id": "BW28Q3",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.'",
+          "options": [
+            "A. Isaiah 65:8",
+            "B. Isaiah 64:8",
+            "C. Isaiah 64:9",
+            "D. Isaiah 64:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.' is found in Isaiah 64:8.",
+          "source_section": "Isaiah 64:8"
+        },
+        {
+          "id": "BW28Q4",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 64:8:\nBut now, O _____, thou art our _____; we are the clay, and thou our potter; and we all are the _____ of thy hand.",
+          "answer": "LORD, father, work",
+          "keywords": [
+            "LORD",
+            "father",
+            "work"
+          ],
+          "explanation": "The full text is: But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+          "source_section": "Isaiah 64:8"
+        },
+        {
+          "id": "BW28Q5",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;'",
+          "options": [
+            "A. Exodus 35:31",
+            "B. Exodus 35:29",
+            "C. Exodus 36:30",
+            "D. Exodus 35:30-33"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;' is found in Exodus 35:30-33.",
+          "source_section": "Exodus 35:30-33"
+        },
+        {
+          "id": "BW28Q6",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 35:30-33:\n\u00b6 And Moses said unto the _____ of Israel, See, the _____ hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of _____;",
+          "answer": "children, LORD, Judah",
+          "keywords": [
+            "children",
+            "LORD",
+            "Judah"
+          ],
+          "explanation": "The full text is: \u00b6 And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
+          "source_section": "Exodus 35:30-33"
+        },
+        {
+          "id": "BW28Q7",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.30.6 grieved: Heb. bitter'",
+          "options": [
+            "A. 1 Samuel 31:6",
+            "B. 1 Samuel 30:6",
+            "C. 1 Samuel 30:5",
+            "D. 1 Samuel 30:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.30.6 grieved: Heb. bitter' is found in 1 Samuel 30:6.",
+          "source_section": "1 Samuel 30:6"
+        },
+        {
+          "id": "BW28Q8",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 30:6:\nAnd David was greatly distressed; for the people spake of stoning him, because the soul of all the people was _____, every man for his sons and for his daughters: but _____ encouraged himself in the LORD his God.30.6 grieved: Heb. _____",
+          "answer": "grieved, David, bitter",
+          "keywords": [
+            "grieved",
+            "David",
+            "bitter"
+          ],
+          "explanation": "The full text is: And David was greatly distressed; for the people spake of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters: but David encouraged himself in the LORD his God.30.6 grieved: Heb. bitter",
+          "source_section": "1 Samuel 30:6"
+        },
+        {
+          "id": "BW28Q9",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.'",
+          "options": [
+            "A. 2 Peter 4:18",
+            "B. 2 Peter 3:18",
+            "C. 2 Peter 3:19",
+            "D. 2 Peter 3:17"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.' is found in 2 Peter 3:18.",
+          "source_section": "2 Peter 3:18"
+        },
+        {
+          "id": "BW28Q10",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Peter 3:18:\nBut grow in _____, and in the knowledge of our Lord and Saviour _____ Christ. To him be _____ both now and for ever. Amen.",
+          "answer": "grace, Jesus, glory",
+          "keywords": [
+            "grace",
+            "Jesus",
+            "glory"
+          ],
+          "explanation": "The full text is: But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.",
+          "source_section": "2 Peter 3:18"
+        },
+        {
+          "id": "BW28Q11",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the very hairs of your head are all numbered.'",
+          "options": [
+            "A. Matthew 11:30",
+            "B. Matthew 10:29",
+            "C. Matthew 10:31",
+            "D. Matthew 10:30"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But the very hairs of your head are all numbered.' is found in Matthew 10:30.",
+          "source_section": "Matthew 10:30"
+        },
+        {
+          "id": "BW28Q12",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 10:30:\nBut the _____ _____ of your head are all _____.",
+          "answer": "very, hairs, numbered",
+          "keywords": [
+            "very",
+            "hairs",
+            "numbered"
+          ],
+          "explanation": "The full text is: But the very hairs of your head are all numbered.",
+          "source_section": "Matthew 10:30"
+        },
+        {
+          "id": "BW28Q13",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the second is like unto it, Thou shalt love thy neighbour as thyself.'",
+          "options": [
+            "A. Matthew 23:39",
+            "B. Matthew 22:39",
+            "C. Matthew 22:38",
+            "D. Matthew 22:40"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And the second is like unto it, Thou shalt love thy neighbour as thyself.' is found in Matthew 22:39.",
+          "source_section": "Matthew 22:39"
+        },
+        {
+          "id": "BW28Q14",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 22:39:\nAnd the _____ is _____ unto it, Thou shalt love thy _____ as thyself.",
+          "answer": "second, like, neighbour",
+          "keywords": [
+            "second",
+            "like",
+            "neighbour"
+          ],
+          "explanation": "The full text is: And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+          "source_section": "Matthew 22:39"
+        },
+        {
+          "id": "BW28Q15",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!'",
+          "options": [
+            "A. Proverbs 16:16",
+            "B. Proverbs 16:15",
+            "C. Proverbs 16:17",
+            "D. Proverbs 17:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!' is found in Proverbs 16:16.",
+          "source_section": "Proverbs 16:16"
+        },
+        {
+          "id": "BW28Q16",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 16:16:\nHow _____ _____ is it to get wisdom than _____ and to get understanding rather to be chosen than silver!",
+          "answer": "much, better, gold!",
+          "keywords": [
+            "much",
+            "better",
+            "gold!"
+          ],
+          "explanation": "The full text is: How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!",
+          "source_section": "Proverbs 16:16"
+        },
+        {
+          "id": "BW28Q17",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.139.14 right\u2026: Heb. greatly'",
+          "options": [
+            "A. Psalm 139:15",
+            "B. Psalm 139:14",
+            "C. Psalm 140:14",
+            "D. Psalm 139:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.139.14 right\u2026: Heb. greatly' is found in Psalm 139:14.",
+          "source_section": "Psalm 139:14"
+        },
+        {
+          "id": "BW28Q18",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 139:14:\nI will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and _____ my soul knoweth _____ _____ right\u2026: Heb. greatly",
+          "answer": "that, right, well.139.14",
+          "keywords": [
+            "that",
+            "right",
+            "well.139.14"
+          ],
+          "explanation": "The full text is: I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.139.14 right\u2026: Heb. greatly",
+          "source_section": "Psalm 139:14"
+        },
+        {
+          "id": "BW28Q19",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.'",
+          "options": [
+            "A. 1 Timothy 5:8",
+            "B. 1 Timothy 4:7",
+            "C. 1 Timothy 4:9",
+            "D. 1 Timothy 4:8"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.' is found in 1 Timothy 4:8.",
+          "source_section": "1 Timothy 4:8"
+        },
+        {
+          "id": "BW28Q20",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 4:8:\nFor _____ exercise profiteth little: but godliness is profitable unto all _____, _____ promise of the life that now is, and of that which is to come.",
+          "answer": "bodily, things, having",
+          "keywords": [
+            "bodily",
+            "things",
+            "having"
+          ],
+          "explanation": "The full text is: For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+          "source_section": "1 Timothy 4:8"
+        },
+        {
+          "id": "BW28Q21",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A sound heart is the life of the flesh: but envy the rottenness of the bones.'",
+          "options": [
+            "A. Proverbs 14:31",
+            "B. Proverbs 15:30",
+            "C. Proverbs 14:29",
+            "D. Proverbs 14:30"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'A sound heart is the life of the flesh: but envy the rottenness of the bones.' is found in Proverbs 14:30.",
+          "source_section": "Proverbs 14:30"
+        },
+        {
+          "id": "BW28Q22",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 14:30:\nA _____ heart is the life of the flesh: but envy the _____ of the _____.",
+          "answer": "sound, rottenness, bones",
+          "keywords": [
+            "sound",
+            "rottenness",
+            "bones"
+          ],
+          "explanation": "The full text is: A sound heart is the life of the flesh: but envy the rottenness of the bones.",
+          "source_section": "Proverbs 14:30"
+        },
+        {
+          "id": "BW28Q23",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.'",
+          "options": [
+            "A. Ecclesiastes 5:13",
+            "B. Ecclesiastes 6:12",
+            "C. Ecclesiastes 5:11",
+            "D. Ecclesiastes 5:12"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.' is found in Ecclesiastes 5:12.",
+          "source_section": "Ecclesiastes 5:12"
+        },
+        {
+          "id": "BW28Q24",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 5:12:\nThe sleep of a labouring man is sweet, _____ he eat little or _____: but the abundance of the rich will not _____ him to sleep.",
+          "answer": "whether, much, suffer",
+          "keywords": [
+            "whether",
+            "much",
+            "suffer"
+          ],
+          "explanation": "The full text is: The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+          "source_section": "Ecclesiastes 5:12"
+        },
+        {
+          "id": "BW28Q25",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:'",
+          "options": [
+            "A. Ephesians 4:32",
+            "B. Ephesians 5:31",
+            "C. Ephesians 4:31",
+            "D. Ephesians 4:30"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:' is found in Ephesians 4:31.",
+          "source_section": "Ephesians 4:31"
+        },
+        {
+          "id": "BW28Q26",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:31:\nLet all bitterness, and wrath, and _____, and clamour, and _____ _____, be put away from you, with all malice:",
+          "answer": "anger, evil, speaking",
+          "keywords": [
+            "anger",
+            "evil",
+            "speaking"
+          ],
+          "explanation": "The full text is: Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:",
+          "source_section": "Ephesians 4:31"
+        },
+        {
+          "id": "BW28Q27",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.'",
+          "options": [
+            "A. 2 Corinthians 10:11",
+            "B. 2 Corinthians 10:12",
+            "C. 2 Corinthians 11:12",
+            "D. 2 Corinthians 10:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.' is found in 2 Corinthians 10:12.",
+          "source_section": "2 Corinthians 10:12"
+        },
+        {
+          "id": "BW28Q28",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 10:12:\nFor we dare not make ourselves of the number, or compare _____ with some that _____ themselves: but they measuring themselves by themselves, and comparing _____ among themselves, are not wise.",
+          "answer": "ourselves, commend, themselves",
+          "keywords": [
+            "ourselves",
+            "commend",
+            "themselves"
+          ],
+          "explanation": "The full text is: For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
+          "source_section": "2 Corinthians 10:12"
+        },
+        {
+          "id": "BW28Q29",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:23.13 wilt\u2026: Heb. sittest down'",
+          "options": [
+            "A. Deuteronomy 23:12",
+            "B. Deuteronomy 23:14",
+            "C. Deuteronomy 23:13-14",
+            "D. Deuteronomy 24:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:23.13 wilt\u2026: Heb. sittest down' is found in Deuteronomy 23:13-14.",
+          "source_section": "Deuteronomy 23:13-14"
+        },
+        {
+          "id": "BW28Q30",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 23:13-14:\nAnd thou shalt have a paddle upon thy weapon; and it _____ be, when _____ wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which _____ from thee:23.13 wilt\u2026: Heb. sittest down",
+          "answer": "shall, thou, cometh",
+          "keywords": [
+            "shall",
+            "thou",
+            "cometh"
+          ],
+          "explanation": "The full text is: And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:23.13 wilt\u2026: Heb. sittest down",
+          "source_section": "Deuteronomy 23:13-14"
+        },
+        {
+          "id": "BW28Q31",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The hand of the diligent shall bear rule: but the slothful shall be under tribute.12.24 slothful: or, deceitful'",
+          "options": [
+            "A. Proverbs 12:24",
+            "B. Proverbs 12:23",
+            "C. Proverbs 13:24",
+            "D. Proverbs 12:25"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The hand of the diligent shall bear rule: but the slothful shall be under tribute.12.24 slothful: or, deceitful' is found in Proverbs 12:24.",
+          "source_section": "Proverbs 12:24"
+        },
+        {
+          "id": "BW28Q32",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 12:24:\nThe hand of the diligent shall bear rule: but the slothful _____ be under tribute.12.24 _____: or, _____",
+          "answer": "shall, slothful, deceitful",
+          "keywords": [
+            "shall",
+            "slothful",
+            "deceitful"
+          ],
+          "explanation": "The full text is: The hand of the diligent shall bear rule: but the slothful shall be under tribute.12.24 slothful: or, deceitful",
+          "source_section": "Proverbs 12:24"
+        },
+        {
+          "id": "BW28Q33",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.'",
+          "options": [
+            "A. Deuteronomy 6:5",
+            "B. Deuteronomy 6:4",
+            "C. Deuteronomy 6:6",
+            "D. Deuteronomy 7:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.' is found in Deuteronomy 6:5.",
+          "source_section": "Deuteronomy 6:5"
+        },
+        {
+          "id": "BW28Q34",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 6:5:\nAnd _____ shalt love the _____ thy God with all _____ heart, and with all thy soul, and with all thy might.",
+          "answer": "thou, LORD, thine",
+          "keywords": [
+            "thou",
+            "LORD",
+            "thine"
+          ],
+          "explanation": "The full text is: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
+          "source_section": "Deuteronomy 6:5"
+        },
+        {
+          "id": "BW28Q35",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.'",
+          "options": [
+            "A. Ecclesiastes 9:9",
+            "B. Ecclesiastes 10:10",
+            "C. Ecclesiastes 9:10",
+            "D. Ecclesiastes 9:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.' is found in Ecclesiastes 9:10.",
+          "source_section": "Ecclesiastes 9:10"
+        },
+        {
+          "id": "BW28Q36",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 9:10:\nWhatsoever thy hand findeth to do, do it with thy might; for there is no _____, nor device, nor _____, nor wisdom, in the grave, _____ thou goest.",
+          "answer": "work, knowledge, whither",
+          "keywords": [
+            "work",
+            "knowledge",
+            "whither"
+          ],
+          "explanation": "The full text is: Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+          "source_section": "Ecclesiastes 9:10"
+        },
+        {
+          "id": "BW28Q37",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Neither shalt thou swear by thy head, because thou canst not make one hair white or black.'",
+          "options": [
+            "A. Matthew 6:36",
+            "B. Matthew 5:35",
+            "C. Matthew 5:36",
+            "D. Matthew 5:37"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Neither shalt thou swear by thy head, because thou canst not make one hair white or black.' is found in Matthew 5:36.",
+          "source_section": "Matthew 5:36"
+        },
+        {
+          "id": "BW28Q38",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:36:\nNeither shalt thou _____ by thy _____, because thou canst not make one hair white or _____.",
+          "answer": "swear, head, black",
+          "keywords": [
+            "swear",
+            "head",
+            "black"
+          ],
+          "explanation": "The full text is: Neither shalt thou swear by thy head, because thou canst not make one hair white or black.",
+          "source_section": "Matthew 5:36"
+        },
+        {
+          "id": "BW28Q39",
+          "week": 28,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.13.20 destroyed: Heb. broken'",
+          "options": [
+            "A. Proverbs 14:20",
+            "B. Proverbs 13:20",
+            "C. Proverbs 13:21",
+            "D. Proverbs 13:19"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.13.20 destroyed: Heb. broken' is found in Proverbs 13:20.",
+          "source_section": "Proverbs 13:20"
+        },
+        {
+          "id": "BW28Q40",
+          "week": 28,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 13:20:\nHe that walketh with wise men _____ be wise: but a companion of fools _____ be destroyed.13.20 destroyed: Heb. _____",
+          "answer": "shall, shall, broken",
+          "keywords": [
+            "shall",
+            "shall",
+            "broken"
+          ],
+          "explanation": "The full text is: He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.13.20 destroyed: Heb. broken",
+          "source_section": "Proverbs 13:20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-19T23:28:46Z",
+  "weeks": [
+    {
+      "week_number": 5,
+      "topic": "MY ENEMY: \u201cTHE FLESH\u201d",
+      "questions": [
+        {
+          "id": "BW5Q1",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:'",
+          "options": [
+            "A. Luke 13:16",
+            "B. Luke 12:17",
+            "C. Luke 12:16-19",
+            "D. Luke 12:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:' is found in Luke 12:16-19.",
+          "source_section": "Luke 12:16-19"
+        },
+        {
+          "id": "BW5Q2",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 12:16-19:\nAnd he spake a _____ unto them, _____, The ground of a certain rich man _____ forth plentifully:",
+          "answer": "parable, saying, brought",
+          "keywords": [
+            "parable",
+            "saying",
+            "brought"
+          ],
+          "explanation": "The full text is: And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:",
+          "source_section": "Luke 12:16-19"
+        },
+        {
+          "id": "BW5Q3",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.'",
+          "options": [
+            "A. Exodus 6:2",
+            "B. Exodus 5:2",
+            "C. Exodus 5:1",
+            "D. Exodus 5:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.' is found in Exodus 5:2.",
+          "source_section": "Exodus 5:2"
+        },
+        {
+          "id": "BW5Q4",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 5:2:\nAnd Pharaoh _____, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither _____ I let _____ go.",
+          "answer": "said, will, Israel",
+          "keywords": [
+            "said",
+            "will",
+            "Israel"
+          ],
+          "explanation": "The full text is: And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.",
+          "source_section": "Exodus 5:2"
+        },
+        {
+          "id": "BW5Q5",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.'",
+          "options": [
+            "A. Romans 7:12",
+            "B. Romans 6:13",
+            "C. Romans 6:12",
+            "D. Romans 6:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.' is found in Romans 6:12.",
+          "source_section": "Romans 6:12"
+        },
+        {
+          "id": "BW5Q6",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 6:12:\nLet not sin therefore reign in your _____ _____, that ye should _____ it in the lusts thereof.",
+          "answer": "mortal, body, obey",
+          "keywords": [
+            "mortal",
+            "body",
+            "obey"
+          ],
+          "explanation": "The full text is: Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.",
+          "source_section": "Romans 6:12"
+        },
+        {
+          "id": "BW5Q7",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,'",
+          "options": [
+            "A. Galatians 5:18",
+            "B. Galatians 6:19",
+            "C. Galatians 5:20",
+            "D. Galatians 5:19-21"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,' is found in Galatians 5:19-21.",
+          "source_section": "Galatians 5:19-21"
+        },
+        {
+          "id": "BW5Q8",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:19-21:\nNow the works of the flesh are _____, which are these; Adultery, fornication, _____, _____,",
+          "answer": "manifest, uncleanness, lasciviousness",
+          "keywords": [
+            "manifest",
+            "uncleanness",
+            "lasciviousness"
+          ],
+          "explanation": "The full text is: Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+          "source_section": "Galatians 5:19-21"
+        },
+        {
+          "id": "BW5Q9",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.'",
+          "options": [
+            "A. James 1:15",
+            "B. James 1:16",
+            "C. James 1:14",
+            "D. James 2:15"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.' is found in James 1:15.",
+          "source_section": "James 1:15"
+        },
+        {
+          "id": "BW5Q10",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:15:\nThen when lust hath _____, it _____ forth sin: and sin, when it is finished, _____ forth death.",
+          "answer": "conceived, bringeth, bringeth",
+          "keywords": [
+            "conceived",
+            "bringeth",
+            "bringeth"
+          ],
+          "explanation": "The full text is: Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death.",
+          "source_section": "James 1:15"
+        },
+        {
+          "id": "BW5Q11",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.'",
+          "options": [
+            "A. Romans 7:6",
+            "B. Romans 6:5",
+            "C. Romans 6:6-7",
+            "D. Romans 6:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.' is found in Romans 6:6-7.",
+          "source_section": "Romans 6:6-7"
+        },
+        {
+          "id": "BW5Q12",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 6:6-7:\nKnowing this, that our old man is crucified with him, that the _____ of sin might be _____, _____ henceforth we should not serve sin.",
+          "answer": "body, destroyed, that",
+          "keywords": [
+            "body",
+            "destroyed",
+            "that"
+          ],
+          "explanation": "The full text is: Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.",
+          "source_section": "Romans 6:6-7"
+        },
+        {
+          "id": "BW5Q13",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.'",
+          "options": [
+            "A. Matthew 27:39",
+            "B. Matthew 26:38",
+            "C. Matthew 26:39",
+            "D. Matthew 26:40"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.' is found in Matthew 26:39.",
+          "source_section": "Matthew 26:39"
+        },
+        {
+          "id": "BW5Q14",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 26:39:\nAnd he went a little _____, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I _____, but as _____ wilt.",
+          "answer": "further, will, thou",
+          "keywords": [
+            "further",
+            "will",
+            "thou"
+          ],
+          "explanation": "The full text is: And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt.",
+          "source_section": "Matthew 26:39"
+        },
+        {
+          "id": "BW5Q15",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.'",
+          "options": [
+            "A. Romans 8:6",
+            "B. Romans 9:7",
+            "C. Romans 8:8",
+            "D. Romans 8:7"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.' is found in Romans 8:7.",
+          "source_section": "Romans 8:7"
+        },
+        {
+          "id": "BW5Q16",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:7:\nBecause the _____ mind is enmity against God: for it is not _____ to the law of God, neither _____ can be.",
+          "answer": "carnal, subject, indeed",
+          "keywords": [
+            "carnal",
+            "subject",
+            "indeed"
+          ],
+          "explanation": "The full text is: Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.",
+          "source_section": "Romans 8:7"
+        },
+        {
+          "id": "BW5Q17",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.'",
+          "options": [
+            "A. Romans 7:17",
+            "B. Romans 7:19",
+            "C. Romans 8:18",
+            "D. Romans 7:18-22"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.' is found in Romans 7:18-22.",
+          "source_section": "Romans 7:18-22"
+        },
+        {
+          "id": "BW5Q18",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 7:18-22:\nFor I know that in me (that is, in my flesh,) dwelleth no good thing: for to _____ is present _____ me; but how to perform _____ which is good I find not.",
+          "answer": "will, with, that",
+          "keywords": [
+            "will",
+            "with",
+            "that"
+          ],
+          "explanation": "The full text is: For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.",
+          "source_section": "Romans 7:18-22"
+        },
+        {
+          "id": "BW5Q19",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they that are Christ\u2019s have crucified the flesh with the affections and lusts.'",
+          "options": [
+            "A. Galatians 5:23",
+            "B. Galatians 5:25",
+            "C. Galatians 5:24",
+            "D. Galatians 6:24"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And they that are Christ\u2019s have crucified the flesh with the affections and lusts.' is found in Galatians 5:24.",
+          "source_section": "Galatians 5:24"
+        },
+        {
+          "id": "BW5Q20",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:24:\nAnd _____ _____ are _____ have crucified the flesh with the affections and lusts.",
+          "answer": "they, that, Christ\u2019s",
+          "keywords": [
+            "they",
+            "that",
+            "Christ\u2019s"
+          ],
+          "explanation": "The full text is: And they that are Christ\u2019s have crucified the flesh with the affections and lusts.",
+          "source_section": "Galatians 5:24"
+        },
+        {
+          "id": "BW5Q21",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.'",
+          "options": [
+            "A. Galatians 5:17",
+            "B. Galatians 5:16",
+            "C. Galatians 5:18",
+            "D. Galatians 6:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.' is found in Galatians 5:17.",
+          "source_section": "Galatians 5:17"
+        },
+        {
+          "id": "BW5Q22",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:17:\nFor the flesh lusteth against the Spirit, and the _____ against the flesh: and these are _____ the one to the other: so that ye _____ do the things that ye would.",
+          "answer": "Spirit, contrary, cannot",
+          "keywords": [
+            "Spirit",
+            "contrary",
+            "cannot"
+          ],
+          "explanation": "The full text is: For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+          "source_section": "Galatians 5:17"
+        },
+        {
+          "id": "BW5Q23",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.'",
+          "options": [
+            "A. Deuteronomy 7:4",
+            "B. Deuteronomy 8:3",
+            "C. Deuteronomy 7:2",
+            "D. Deuteronomy 7:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.' is found in Deuteronomy 7:3.",
+          "source_section": "Deuteronomy 7:3"
+        },
+        {
+          "id": "BW5Q24",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 7:3:\nNeither shalt thou make marriages with _____; thy _____ thou shalt not give unto his son, nor his daughter shalt thou take _____ thy son.",
+          "answer": "them, daughter, unto",
+          "keywords": [
+            "them",
+            "daughter",
+            "unto"
+          ],
+          "explanation": "The full text is: Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son.",
+          "source_section": "Deuteronomy 7:3"
+        },
+        {
+          "id": "BW5Q25",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:'",
+          "options": [
+            "A. Ephesians 2:2-3",
+            "B. Ephesians 3:2",
+            "C. Ephesians 2:1",
+            "D. Ephesians 2:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:' is found in Ephesians 2:2-3.",
+          "source_section": "Ephesians 2:2-3"
+        },
+        {
+          "id": "BW5Q26",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 2:2-3:\nWherein in time past ye walked according to the course of this world, _____ to the prince of the _____ of the air, the _____ that now worketh in the children of disobedience:",
+          "answer": "according, power, spirit",
+          "keywords": [
+            "according",
+            "power",
+            "spirit"
+          ],
+          "explanation": "The full text is: Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:",
+          "source_section": "Ephesians 2:2-3"
+        },
+        {
+          "id": "BW5Q27",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But while men slept, his enemy came and sowed tares among the wheat, and went his way.'",
+          "options": [
+            "A. Matthew 14:25",
+            "B. Matthew 13:25",
+            "C. Matthew 13:26",
+            "D. Matthew 13:24"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But while men slept, his enemy came and sowed tares among the wheat, and went his way.' is found in Matthew 13:25.",
+          "source_section": "Matthew 13:25"
+        },
+        {
+          "id": "BW5Q28",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 13:25:\nBut _____ men _____, his enemy came and _____ tares among the wheat, and went his way.",
+          "answer": "while, slept, sowed",
+          "keywords": [
+            "while",
+            "slept",
+            "sowed"
+          ],
+          "explanation": "The full text is: But while men slept, his enemy came and sowed tares among the wheat, and went his way.",
+          "source_section": "Matthew 13:25"
+        },
+        {
+          "id": "BW5Q29",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:'",
+          "options": [
+            "A. 2 Corinthians 5:13",
+            "B. 2 Corinthians 5:15",
+            "C. 2 Corinthians 6:14",
+            "D. 2 Corinthians 5:14-15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:' is found in 2 Corinthians 5:14-15.",
+          "source_section": "2 Corinthians 5:14-15"
+        },
+        {
+          "id": "BW5Q30",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 5:14-15:\nFor the love of Christ constraineth us; because we _____ judge, that if one _____ for all, then _____ all dead:",
+          "answer": "thus, died, were",
+          "keywords": [
+            "thus",
+            "died",
+            "were"
+          ],
+          "explanation": "The full text is: For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:",
+          "source_section": "2 Corinthians 5:14-15"
+        },
+        {
+          "id": "BW5Q31",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If we live in the Spirit, let us also walk in the Spirit.'",
+          "options": [
+            "A. Galatians 5:24",
+            "B. Galatians 5:26",
+            "C. Galatians 6:25",
+            "D. Galatians 5:25"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'If we live in the Spirit, let us also walk in the Spirit.' is found in Galatians 5:25.",
+          "source_section": "Galatians 5:25"
+        },
+        {
+          "id": "BW5Q32",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:25:\nIf we _____ in the Spirit, let us also _____ in the _____.",
+          "answer": "live, walk, Spirit",
+          "keywords": [
+            "live",
+            "walk",
+            "Spirit"
+          ],
+          "explanation": "The full text is: If we live in the Spirit, let us also walk in the Spirit.",
+          "source_section": "Galatians 5:25"
+        },
+        {
+          "id": "BW5Q33",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.'",
+          "options": [
+            "A. 2 Corinthians 5:18",
+            "B. 2 Corinthians 6:17",
+            "C. 2 Corinthians 5:16",
+            "D. 2 Corinthians 5:17"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.' is found in 2 Corinthians 5:17.",
+          "source_section": "2 Corinthians 5:17"
+        },
+        {
+          "id": "BW5Q34",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 5:17:\nTherefore if any man be in _____, he is a new creature: old things are _____ away; behold, all things are _____ new.",
+          "answer": "Christ, passed, become",
+          "keywords": [
+            "Christ",
+            "passed",
+            "become"
+          ],
+          "explanation": "The full text is: Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+          "source_section": "2 Corinthians 5:17"
+        },
+        {
+          "id": "BW5Q35",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So then they that are in the flesh cannot please God.'",
+          "options": [
+            "A. Romans 8:8",
+            "B. Romans 8:7",
+            "C. Romans 8:9",
+            "D. Romans 9:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'So then they that are in the flesh cannot please God.' is found in Romans 8:8.",
+          "source_section": "Romans 8:8"
+        },
+        {
+          "id": "BW5Q36",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:8:\nSo then _____ that are in the _____ cannot _____ God.",
+          "answer": "they, flesh, please",
+          "keywords": [
+            "they",
+            "flesh",
+            "please"
+          ],
+          "explanation": "The full text is: So then they that are in the flesh cannot please God.",
+          "source_section": "Romans 8:8"
+        },
+        {
+          "id": "BW5Q37",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;'",
+          "options": [
+            "A. Exodus 35:15",
+            "B. Exodus 34:14",
+            "C. Exodus 34:15",
+            "D. Exodus 34:16"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;' is found in Exodus 34:15.",
+          "source_section": "Exodus 34:15"
+        },
+        {
+          "id": "BW5Q38",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 34:15:\nLest thou make a _____ with the inhabitants of the land, and they go a whoring after _____ _____, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;",
+          "answer": "covenant, their, gods",
+          "keywords": [
+            "covenant",
+            "their",
+            "gods"
+          ],
+          "explanation": "The full text is: Lest thou make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call thee, and thou eat of his sacrifice;",
+          "source_section": "Exodus 34:15"
+        },
+        {
+          "id": "BW5Q39",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.14.3 pleaseth\u2026: Heb. is right in mine eyes'",
+          "options": [
+            "A. Judges 15:3",
+            "B. Judges 14:4",
+            "C. Judges 14:3",
+            "D. Judges 14:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Then his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.14.3 pleaseth\u2026: Heb. is right in mine eyes' is found in Judges 14:3.",
+          "source_section": "Judges 14:3"
+        },
+        {
+          "id": "BW5Q40",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 14:3:\nThen his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And _____ _____ unto his father, Get her for me; for she pleaseth me _____ pleaseth\u2026: Heb. is right in mine eyes",
+          "answer": "Samson, said, well.14.3",
+          "keywords": [
+            "Samson",
+            "said",
+            "well.14.3"
+          ],
+          "explanation": "The full text is: Then his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.14.3 pleaseth\u2026: Heb. is right in mine eyes",
+          "source_section": "Judges 14:3"
+        },
+        {
+          "id": "BW5Q41",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.'",
+          "options": [
+            "A. 1 Kings 19:15",
+            "B. 1 Kings 19:14",
+            "C. 1 Kings 20:14",
+            "D. 1 Kings 19:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.' is found in 1 Kings 19:14.",
+          "source_section": "1 Kings 19:14"
+        },
+        {
+          "id": "BW5Q42",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 19:14:\nAnd he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the _____; and I, even I _____, am left; and _____ seek my life, to take it away.",
+          "answer": "sword, only, they",
+          "keywords": [
+            "sword",
+            "only",
+            "they"
+          ],
+          "explanation": "The full text is: And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+          "source_section": "1 Kings 19:14"
+        },
+        {
+          "id": "BW5Q43",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:'",
+          "options": [
+            "A. Luke 12:16-20",
+            "B. Luke 12:17",
+            "C. Luke 12:15",
+            "D. Luke 13:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:' is found in Luke 12:16-20.",
+          "source_section": "Luke 12:16-20"
+        },
+        {
+          "id": "BW5Q44",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 12:16-20:\nAnd he spake a parable unto _____, saying, The ground of a certain _____ man _____ forth plentifully:",
+          "answer": "them, rich, brought",
+          "keywords": [
+            "them",
+            "rich",
+            "brought"
+          ],
+          "explanation": "The full text is: And he spake a parable unto them, saying, The ground of a certain rich man brought forth plentifully:",
+          "source_section": "Luke 12:16-20"
+        },
+        {
+          "id": "BW5Q45",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.'",
+          "options": [
+            "A. Romans 7:17",
+            "B. Romans 7:18-19",
+            "C. Romans 7:19",
+            "D. Romans 8:18"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.' is found in Romans 7:18-19.",
+          "source_section": "Romans 7:18-19"
+        },
+        {
+          "id": "BW5Q46",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 7:18-19:\nFor I know that in me (that is, in my _____,) _____ no good thing: for to will is present with me; but how to perform _____ which is good I find not.",
+          "answer": "flesh, dwelleth, that",
+          "keywords": [
+            "flesh",
+            "dwelleth",
+            "that"
+          ],
+          "explanation": "The full text is: For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.",
+          "source_section": "Romans 7:18-19"
+        },
+        {
+          "id": "BW5Q47",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.'",
+          "options": [
+            "A. Romans 8:13",
+            "B. Romans 9:13",
+            "C. Romans 8:12",
+            "D. Romans 8:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.' is found in Romans 8:13.",
+          "source_section": "Romans 8:13"
+        },
+        {
+          "id": "BW5Q48",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:13:\nFor if ye live after the _____, ye shall die: but if ye through the Spirit do _____ the _____ of the body, ye shall live.",
+          "answer": "flesh, mortify, deeds",
+          "keywords": [
+            "flesh",
+            "mortify",
+            "deeds"
+          ],
+          "explanation": "The full text is: For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.",
+          "source_section": "Romans 8:13"
+        },
+        {
+          "id": "BW5Q49",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He must increase, but I must decrease.'",
+          "options": [
+            "A. John 3:30",
+            "B. John 3:29",
+            "C. John 4:30",
+            "D. John 3:31"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'He must increase, but I must decrease.' is found in John 3:30.",
+          "source_section": "John 3:30"
+        },
+        {
+          "id": "BW5Q50",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 3:30:\nHe _____ _____, but I must _____.",
+          "answer": "must, increase, decrease",
+          "keywords": [
+            "must",
+            "increase",
+            "decrease"
+          ],
+          "explanation": "The full text is: He must increase, but I must decrease.",
+          "source_section": "John 3:30"
+        },
+        {
+          "id": "BW5Q51",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:'",
+          "options": [
+            "A. Exodus 16:2-3",
+            "B. Exodus 16:1",
+            "C. Exodus 17:2",
+            "D. Exodus 16:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:' is found in Exodus 16:2-3.",
+          "source_section": "Exodus 16:2-3"
+        },
+        {
+          "id": "BW5Q52",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 16:2-3:\nAnd the _____ congregation of the children of _____ murmured _____ Moses and Aaron in the wilderness:",
+          "answer": "whole, Israel, against",
+          "keywords": [
+            "whole",
+            "Israel",
+            "against"
+          ],
+          "explanation": "The full text is: And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:",
+          "source_section": "Exodus 16:2-3"
+        },
+        {
+          "id": "BW5Q53",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.'",
+          "options": [
+            "A. Galatians 5:17",
+            "B. Galatians 5:16",
+            "C. Galatians 6:16",
+            "D. Galatians 5:15"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.' is found in Galatians 5:16.",
+          "source_section": "Galatians 5:16"
+        },
+        {
+          "id": "BW5Q54",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:16:\nThis I say then, Walk in the _____, and ye shall not _____ the _____ of the flesh.",
+          "answer": "Spirit, fulfil, lust",
+          "keywords": [
+            "Spirit",
+            "fulfil",
+            "lust"
+          ],
+          "explanation": "The full text is: This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+          "source_section": "Galatians 5:16"
+        },
+        {
+          "id": "BW5Q55",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.'",
+          "options": [
+            "A. Galatians 2:20",
+            "B. Galatians 3:20",
+            "C. Galatians 2:19",
+            "D. Galatians 2:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.' is found in Galatians 2:20.",
+          "source_section": "Galatians 2:20"
+        },
+        {
+          "id": "BW5Q56",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 2:20:\nI am crucified _____ Christ: _____ I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the _____ of the Son of God, who loved me, and gave himself for me.",
+          "answer": "with, nevertheless, faith",
+          "keywords": [
+            "with",
+            "nevertheless",
+            "faith"
+          ],
+          "explanation": "The full text is: I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+          "source_section": "Galatians 2:20"
+        },
+        {
+          "id": "BW5Q57",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.'",
+          "options": [
+            "A. Romans 8:5",
+            "B. Romans 7:6",
+            "C. Romans 7:4",
+            "D. Romans 7:5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.' is found in Romans 7:5.",
+          "source_section": "Romans 7:5"
+        },
+        {
+          "id": "BW5Q58",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 7:5:\nFor _____ we were in the flesh, the motions of sins, _____ _____ by the law, did work in our members to bring forth fruit unto death.",
+          "answer": "when, which, were",
+          "keywords": [
+            "when",
+            "which",
+            "were"
+          ],
+          "explanation": "The full text is: For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.",
+          "source_section": "Romans 7:5"
+        },
+        {
+          "id": "BW5Q59",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,'",
+          "options": [
+            "A. Mar 7:22",
+            "B. Mar 7:20",
+            "C. Mar 7:21-23",
+            "D. Mar 8:21"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,' is found in Mar 7:21-23.",
+          "source_section": "Mar 7:21-23"
+        },
+        {
+          "id": "BW5Q60",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mar 7:21-23:\nFor from _____, out of the _____ of men, proceed evil thoughts, adulteries, fornications, _____,",
+          "answer": "within, heart, murders",
+          "keywords": [
+            "within",
+            "heart",
+            "murders"
+          ],
+          "explanation": "The full text is: For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,",
+          "source_section": "Mar 7:21-23"
+        },
+        {
+          "id": "BW5Q61",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,'",
+          "options": [
+            "A. Galatians 5:23",
+            "B. Galatians 5:21",
+            "C. Galatians 5:22-23",
+            "D. Galatians 6:22"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,' is found in Galatians 5:22-23.",
+          "source_section": "Galatians 5:22-23"
+        },
+        {
+          "id": "BW5Q62",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:22-23:\nBut the fruit of the Spirit is _____, joy, peace, longsuffering, _____, _____, faith,",
+          "answer": "love, gentleness, goodness",
+          "keywords": [
+            "love",
+            "gentleness",
+            "goodness"
+          ],
+          "explanation": "The full text is: But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+          "source_section": "Galatians 5:22-23"
+        },
+        {
+          "id": "BW5Q63",
+          "week": 5,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?'",
+          "options": [
+            "A. Job 21:15",
+            "B. Job 22:15",
+            "C. Job 21:16",
+            "D. Job 21:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?' is found in Job 21:15.",
+          "source_section": "Job 21:15"
+        },
+        {
+          "id": "BW5Q64",
+          "week": 5,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 21:15:\n_____ is the Almighty, _____ we should serve him? and _____ profit should we have, if we pray unto him?",
+          "answer": "What, that, what",
+          "keywords": [
+            "What",
+            "that",
+            "what"
+          ],
+          "explanation": "The full text is: What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?",
+          "source_section": "Job 21:15"
+        }
+      ]
+    }
+  ]
+}
