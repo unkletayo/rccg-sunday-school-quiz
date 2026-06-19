@@ -599,7 +599,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loadQuiz(currentFile);
         } else {
             // Mastery: regenerate
-            const count = currentMode === 'memory' ? quizzes.length : 10;
+            const count = quizzes.length;
             const quizData = generateDynamicQuiz(currentMode, quizzes, count);
             startQuiz(quizData);
         }
