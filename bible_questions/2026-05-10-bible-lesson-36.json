@@ -1,0 +1,441 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 36,
+      "topic": "PARENTING STYLES (PART 2)",
+      "questions": [
+        {
+          "id": "BW36Q1",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.'",
+          "options": [
+            "A. Proverbs 29:17",
+            "B. Proverbs 29:18",
+            "C. Proverbs 29:16",
+            "D. Proverbs 30:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.' is found in Proverbs 29:17.",
+          "source_section": "Proverbs 29:17"
+        },
+        {
+          "id": "BW36Q2",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:17:\n_____ thy son, and he shall give thee rest; yea, he shall _____ delight unto thy _____.",
+          "answer": "Correct, give, soul",
+          "keywords": [
+            "Correct",
+            "give",
+            "soul"
+          ],
+          "explanation": "The full text is: Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.",
+          "source_section": "Proverbs 29:17"
+        },
+        {
+          "id": "BW36Q3",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.'",
+          "options": [
+            "A. Genesis 18:19",
+            "B. Genesis 19:19",
+            "C. Genesis 18:18",
+            "D. Genesis 18:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.' is found in Genesis 18:19.",
+          "source_section": "Genesis 18:19"
+        },
+        {
+          "id": "BW36Q4",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 18:19:\nFor I know him, _____ he will command his children and his household after him, and they shall keep the way of the _____, to do justice and judgment; that the LORD may bring upon Abraham that which he hath _____ of him.",
+          "answer": "that, LORD, spoken",
+          "keywords": [
+            "that",
+            "LORD",
+            "spoken"
+          ],
+          "explanation": "The full text is: For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him.",
+          "source_section": "Genesis 18:19"
+        },
+        {
+          "id": "BW36Q5",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Train up a child in the way he should go: and when he is old, he will not depart from it.22.6 Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way'",
+          "options": [
+            "A. Proverbs 23:6",
+            "B. Proverbs 22:5",
+            "C. Proverbs 22:6",
+            "D. Proverbs 22:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Train up a child in the way he should go: and when he is old, he will not depart from it.22.6 Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way' is found in Proverbs 22:6.",
+          "source_section": "Proverbs 22:6"
+        },
+        {
+          "id": "BW36Q6",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:6:\nTrain up a _____ in the way he should go: and _____ he is old, he will not depart from _____ Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way",
+          "answer": "child, when, it.22.6",
+          "keywords": [
+            "child",
+            "when",
+            "it.22.6"
+          ],
+          "explanation": "The full text is: Train up a child in the way he should go: and when he is old, he will not depart from it.22.6 Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way",
+          "source_section": "Proverbs 22:6"
+        },
+        {
+          "id": "BW36Q7",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh\u2019s house?'",
+          "options": [
+            "A. 1 Samuel 2:27-30",
+            "B. 1 Samuel 2:26",
+            "C. 1 Samuel 3:27",
+            "D. 1 Samuel 2:28"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh\u2019s house?' is found in 1 Samuel 2:27-30.",
+          "source_section": "1 Samuel 2:27-30"
+        },
+        {
+          "id": "BW36Q8",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 2:27-30:\n\u00b6 And there came a man of God unto Eli, and said _____ him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when _____ were in _____ in Pharaoh\u2019s house?",
+          "answer": "unto, they, Egypt",
+          "keywords": [
+            "unto",
+            "they",
+            "Egypt"
+          ],
+          "explanation": "The full text is: \u00b6 And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh\u2019s house?",
+          "source_section": "1 Samuel 2:27-30"
+        },
+        {
+          "id": "BW36Q9",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.'",
+          "options": [
+            "A. Proverbs 31:14",
+            "B. Proverbs 31:15",
+            "C. Proverbs 32:15",
+            "D. Proverbs 31:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.' is found in Proverbs 31:15.",
+          "source_section": "Proverbs 31:15"
+        },
+        {
+          "id": "BW36Q10",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 31:15:\nShe riseth _____ while it is yet _____, and giveth meat to her household, and a _____ to her maidens.",
+          "answer": "also, night, portion",
+          "keywords": [
+            "also",
+            "night",
+            "portion"
+          ],
+          "explanation": "The full text is: She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+          "source_section": "Proverbs 31:15"
+        },
+        {
+          "id": "BW36Q11",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.'",
+          "options": [
+            "A. 1 Timothy 5:7",
+            "B. 1 Timothy 5:9",
+            "C. 1 Timothy 6:8",
+            "D. 1 Timothy 5:8"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.' is found in 1 Timothy 5:8.",
+          "source_section": "1 Timothy 5:8"
+        },
+        {
+          "id": "BW36Q12",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 5:8:\nBut if any provide not for his own, and specially for those of his own _____, he _____ denied the faith, and is worse _____ an infidel.",
+          "answer": "house, hath, than",
+          "keywords": [
+            "house",
+            "hath",
+            "than"
+          ],
+          "explanation": "The full text is: But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+          "source_section": "1 Timothy 5:8"
+        },
+        {
+          "id": "BW36Q13",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.'",
+          "options": [
+            "A. Proverbs 24:13",
+            "B. Proverbs 23:12",
+            "C. Proverbs 23:13-14",
+            "D. Proverbs 23:14"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.' is found in Proverbs 23:13-14.",
+          "source_section": "Proverbs 23:13-14"
+        },
+        {
+          "id": "BW36Q14",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 23:13-14:\nWithhold not _____ from the child: for if _____ _____ him with the rod, he shall not die.",
+          "answer": "correction, thou, beatest",
+          "keywords": [
+            "correction",
+            "thou",
+            "beatest"
+          ],
+          "explanation": "The full text is: Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.",
+          "source_section": "Proverbs 23:13-14"
+        },
+        {
+          "id": "BW36Q15",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Chasten thy son while there is hope, and let not thy soul spare for his crying.19.18 for\u2026: or, to his destruction: or, to cause him to die'",
+          "options": [
+            "A. Proverbs 19:17",
+            "B. Proverbs 19:19",
+            "C. Proverbs 20:18",
+            "D. Proverbs 19:18"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Chasten thy son while there is hope, and let not thy soul spare for his crying.19.18 for\u2026: or, to his destruction: or, to cause him to die' is found in Proverbs 19:18.",
+          "source_section": "Proverbs 19:18"
+        },
+        {
+          "id": "BW36Q16",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 19:18:\nChasten thy son while there is hope, and let not thy _____ _____ for his crying.19.18 for\u2026: or, to his _____: or, to cause him to die",
+          "answer": "soul, spare, destruction",
+          "keywords": [
+            "soul",
+            "spare",
+            "destruction"
+          ],
+          "explanation": "The full text is: Chasten thy son while there is hope, and let not thy soul spare for his crying.19.18 for\u2026: or, to his destruction: or, to cause him to die",
+          "source_section": "Proverbs 19:18"
+        },
+        {
+          "id": "BW36Q17",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he brought up Hadassah, that is, Esther, his uncle\u2019s daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.2.7 brought\u2026: Heb. nourished2.7 fair\u2026: Heb. fair of form, and good of countenance'",
+          "options": [
+            "A. Another book 2:10",
+            "B. Another book 1:13",
+            "C. Esther 2:7, 10-11",
+            "D. Another book 5:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And he brought up Hadassah, that is, Esther, his uncle\u2019s daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.2.7 brought\u2026: Heb. nourished2.7 fair\u2026: Heb. fair of form, and good of countenance' is found in Esther 2:7, 10-11.",
+          "source_section": "Esther 2:7, 10-11"
+        },
+        {
+          "id": "BW36Q18",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 2:7, 10-11:\nAnd he brought up Hadassah, that is, _____, his uncle\u2019s daughter: for she had neither father nor mother, and the _____ was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own _____ brought\u2026: Heb. nourished2.7 fair\u2026: Heb. fair of form, and good of countenance",
+          "answer": "Esther, maid, daughter.2.7",
+          "keywords": [
+            "Esther",
+            "maid",
+            "daughter.2.7"
+          ],
+          "explanation": "The full text is: And he brought up Hadassah, that is, Esther, his uncle\u2019s daughter: for she had neither father nor mother, and the maid was fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.2.7 brought\u2026: Heb. nourished2.7 fair\u2026: Heb. fair of form, and good of countenance",
+          "source_section": "Esther 2:7, 10-11"
+        },
+        {
+          "id": "BW36Q19",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.'",
+          "options": [
+            "A. Ephesians 6:3",
+            "B. Ephesians 7:4",
+            "C. Ephesians 6:5",
+            "D. Ephesians 6:4"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.' is found in Ephesians 6:4.",
+          "source_section": "Ephesians 6:4"
+        },
+        {
+          "id": "BW36Q20",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 6:4:\nAnd, ye _____, provoke not your _____ to wrath: but bring them up in the _____ and admonition of the Lord.",
+          "answer": "fathers, children, nurture",
+          "keywords": [
+            "fathers",
+            "children",
+            "nurture"
+          ],
+          "explanation": "The full text is: And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.",
+          "source_section": "Ephesians 6:4"
+        },
+        {
+          "id": "BW36Q21",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.'",
+          "options": [
+            "A. Proverbs 14:24",
+            "B. Proverbs 13:24",
+            "C. Proverbs 13:23",
+            "D. Proverbs 13:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.' is found in Proverbs 13:24.",
+          "source_section": "Proverbs 13:24"
+        },
+        {
+          "id": "BW36Q22",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 13:24:\nHe that spareth his rod _____ his son: but he that loveth him _____ him _____.",
+          "answer": "hateth, chasteneth, betimes",
+          "keywords": [
+            "hateth",
+            "chasteneth",
+            "betimes"
+          ],
+          "explanation": "The full text is: He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
+          "source_section": "Proverbs 13:24"
+        },
+        {
+          "id": "BW36Q23",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.'",
+          "options": [
+            "A. Proverbs 31:15, 21",
+            "B. Another book 4:10",
+            "C. Another book 2:8",
+            "D. Another book 4:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.' is found in Proverbs 31:15, 21.",
+          "source_section": "Proverbs 31:15, 21"
+        },
+        {
+          "id": "BW36Q24",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 31:15, 21:\nShe riseth also while it is yet night, and _____ meat to her _____, and a portion to her _____.",
+          "answer": "giveth, household, maidens",
+          "keywords": [
+            "giveth",
+            "household",
+            "maidens"
+          ],
+          "explanation": "The full text is: She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.",
+          "source_section": "Proverbs 31:15, 21"
+        },
+        {
+          "id": "BW36Q25",
+          "week": 36,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.6.7 teach: Heb. whet, or, sharpen'",
+          "options": [
+            "A. Deuteronomy 6:6",
+            "B. Deuteronomy 6:8",
+            "C. Deuteronomy 6:7",
+            "D. Deuteronomy 7:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.6.7 teach: Heb. whet, or, sharpen' is found in Deuteronomy 6:7.",
+          "source_section": "Deuteronomy 6:7"
+        },
+        {
+          "id": "BW36Q26",
+          "week": 36,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 6:7:\nAnd thou shalt teach _____ diligently unto thy children, and shalt talk of them when thou sittest in _____ house, and when thou walkest by the way, and when _____ liest down, and when thou risest up.6.7 teach: Heb. whet, or, sharpen",
+          "answer": "them, thine, thou",
+          "keywords": [
+            "them",
+            "thine",
+            "thou"
+          ],
+          "explanation": "The full text is: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.6.7 teach: Heb. whet, or, sharpen",
+          "source_section": "Deuteronomy 6:7"
+        }
+      ]
+    }
+  ]
+}

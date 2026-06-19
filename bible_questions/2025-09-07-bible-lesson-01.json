@@ -1,0 +1,738 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:14Z",
+  "weeks": [
+    {
+      "week_number": 1,
+      "topic": "THEOS BASILEIA",
+      "questions": [
+        {
+          "id": "BW1Q1",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.'",
+          "options": [
+            "A. John 6:14",
+            "B. John 6:15",
+            "C. John 7:15",
+            "D. John 6:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.' is found in John 6:15.",
+          "source_section": "John 6:15"
+        },
+        {
+          "id": "BW1Q2",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 6:15:\n\u00b6 _____ _____ therefore perceived that _____ would come and take him by force, to make him a king, he departed again into a mountain himself alone.",
+          "answer": "When, Jesus, they",
+          "keywords": [
+            "When",
+            "Jesus",
+            "they"
+          ],
+          "explanation": "The full text is: \u00b6 When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.",
+          "source_section": "John 6:15"
+        },
+        {
+          "id": "BW1Q3",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.'",
+          "options": [
+            "A. Matthew 6:32",
+            "B. Matthew 7:33",
+            "C. Matthew 6:33",
+            "D. Matthew 6:34"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.' is found in Matthew 6:33.",
+          "source_section": "Matthew 6:33"
+        },
+        {
+          "id": "BW1Q4",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:33:\nBut _____ ye first the kingdom of God, and his righteousness; and all these _____ shall be _____ unto you.",
+          "answer": "seek, things, added",
+          "keywords": [
+            "seek",
+            "things",
+            "added"
+          ],
+          "explanation": "The full text is: But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+          "source_section": "Matthew 6:33"
+        },
+        {
+          "id": "BW1Q5",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.'",
+          "options": [
+            "A. Psalm 103:20",
+            "B. Psalm 104:19",
+            "C. Psalm 103:18",
+            "D. Psalm 103:19"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.' is found in Psalm 103:19.",
+          "source_section": "Psalm 103:19"
+        },
+        {
+          "id": "BW1Q6",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 103:19:\nThe _____ _____ _____ his throne in the heavens; and his kingdom ruleth over all.",
+          "answer": "LORD, hath, prepared",
+          "keywords": [
+            "LORD",
+            "hath",
+            "prepared"
+          ],
+          "explanation": "The full text is: The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all.",
+          "source_section": "Psalm 103:19"
+        },
+        {
+          "id": "BW1Q7",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.'",
+          "options": [
+            "A. Matthew 4:16",
+            "B. Matthew 5:17",
+            "C. Matthew 4:18",
+            "D. Matthew 4:17"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.' is found in Matthew 4:17.",
+          "source_section": "Matthew 4:17"
+        },
+        {
+          "id": "BW1Q8",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 4:17:\n\u00b6 From that time Jesus began to _____, and to say, _____: for the _____ of heaven is at hand.",
+          "answer": "preach, Repent, kingdom",
+          "keywords": [
+            "preach",
+            "Repent",
+            "kingdom"
+          ],
+          "explanation": "The full text is: \u00b6 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
+          "source_section": "Matthew 4:17"
+        },
+        {
+          "id": "BW1Q9",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible.'",
+          "options": [
+            "A. Deuteronomy 8:21",
+            "B. Deuteronomy 7:20",
+            "C. Deuteronomy 7:22",
+            "D. Deuteronomy 7:21"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible.' is found in Deuteronomy 7:21.",
+          "source_section": "Deuteronomy 7:21"
+        },
+        {
+          "id": "BW1Q10",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 7:21:\nThou shalt not be affrighted at _____: for the LORD thy God is _____ you, a mighty God and _____.",
+          "answer": "them, among, terrible",
+          "keywords": [
+            "them",
+            "among",
+            "terrible"
+          ],
+          "explanation": "The full text is: Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible.",
+          "source_section": "Deuteronomy 7:21"
+        },
+        {
+          "id": "BW1Q11",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.'",
+          "options": [
+            "A. Daniel 4:3",
+            "B. Daniel 4:2",
+            "C. Daniel 4:4",
+            "D. Daniel 5:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.' is found in Daniel 4:3.",
+          "source_section": "Daniel 4:3"
+        },
+        {
+          "id": "BW1Q12",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 4:3:\nHow great are his _____ and how mighty are his wonders! his _____ is an everlasting kingdom, and his dominion is _____ generation to generation.",
+          "answer": "signs!, kingdom, from",
+          "keywords": [
+            "signs!",
+            "kingdom",
+            "from"
+          ],
+          "explanation": "The full text is: How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.",
+          "source_section": "Daniel 4:3"
+        },
+        {
+          "id": "BW1Q13",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.'",
+          "options": [
+            "A. Romans 14:16",
+            "B. Romans 14:17",
+            "C. Romans 15:17",
+            "D. Romans 14:18"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.' is found in Romans 14:17.",
+          "source_section": "Romans 14:17"
+        },
+        {
+          "id": "BW1Q14",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 14:17:\nFor the kingdom of God is not _____ and drink; but righteousness, and peace, and joy in the _____ _____.",
+          "answer": "meat, Holy, Ghost",
+          "keywords": [
+            "meat",
+            "Holy",
+            "Ghost"
+          ],
+          "explanation": "The full text is: For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.",
+          "source_section": "Romans 14:17"
+        },
+        {
+          "id": "BW1Q15",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.'",
+          "options": [
+            "A. Revelation 20:3",
+            "B. Revelation 21:4",
+            "C. Revelation 20:4-6",
+            "D. Revelation 20:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.' is found in Revelation 20:4-6.",
+          "source_section": "Revelation 20:4-6"
+        },
+        {
+          "id": "BW1Q16",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 20:4-6:\nAnd I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of _____, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their _____, or in their _____; and they lived and reigned with Christ a thousand years.",
+          "answer": "Jesus, foreheads, hands",
+          "keywords": [
+            "Jesus",
+            "foreheads",
+            "hands"
+          ],
+          "explanation": "The full text is: And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.",
+          "source_section": "Revelation 20:4-6"
+        },
+        {
+          "id": "BW1Q17",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.'",
+          "options": [
+            "A. Luke 24:47",
+            "B. Luke 24:46",
+            "C. Luke 25:47",
+            "D. Luke 24:48"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.' is found in Luke 24:47.",
+          "source_section": "Luke 24:47"
+        },
+        {
+          "id": "BW1Q18",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 24:47:\nAnd _____ _____ and remission of sins should be preached in his name among all nations, beginning at _____.",
+          "answer": "that, repentance, Jerusalem",
+          "keywords": [
+            "that",
+            "repentance",
+            "Jerusalem"
+          ],
+          "explanation": "The full text is: And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.",
+          "source_section": "Luke 24:47"
+        },
+        {
+          "id": "BW1Q19",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.'",
+          "options": [
+            "A. Psalm 104:21",
+            "B. Psalm 103:20",
+            "C. Psalm 103:22",
+            "D. Psalm 103:21"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.' is found in Psalm 103:21.",
+          "source_section": "Psalm 103:21"
+        },
+        {
+          "id": "BW1Q20",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 103:21:\nBless ye the _____, all ye his hosts; ye ministers of his, _____ do his _____.",
+          "answer": "LORD, that, pleasure",
+          "keywords": [
+            "LORD",
+            "that",
+            "pleasure"
+          ],
+          "explanation": "The full text is: Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure.",
+          "source_section": "Psalm 103:21"
+        },
+        {
+          "id": "BW1Q21",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.'",
+          "options": [
+            "A. Matthew 19:24",
+            "B. Matthew 20:23",
+            "C. Matthew 19:23-24",
+            "D. Matthew 19:22"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.' is found in Matthew 19:23-24.",
+          "source_section": "Matthew 19:23-24"
+        },
+        {
+          "id": "BW1Q22",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 19:23-24:\n\u00b6 Then said Jesus unto his disciples, Verily I say unto you, _____ a rich man shall hardly _____ into the _____ of heaven.",
+          "answer": "That, enter, kingdom",
+          "keywords": [
+            "That",
+            "enter",
+            "kingdom"
+          ],
+          "explanation": "The full text is: \u00b6 Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.",
+          "source_section": "Matthew 19:23-24"
+        },
+        {
+          "id": "BW1Q23",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,'",
+          "options": [
+            "A. 1 Corinthians 6:10",
+            "B. 1 Corinthians 6:9-10",
+            "C. 1 Corinthians 7:9",
+            "D. 1 Corinthians 6:8"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,' is found in 1 Corinthians 6:9-10.",
+          "source_section": "1 Corinthians 6:9-10"
+        },
+        {
+          "id": "BW1Q24",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 6:9-10:\n_____ ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither _____, nor idolaters, nor _____, nor effeminate, nor abusers of themselves with mankind,",
+          "answer": "Know, fornicators, adulterers",
+          "keywords": [
+            "Know",
+            "fornicators",
+            "adulterers"
+          ],
+          "explanation": "The full text is: Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+          "source_section": "1 Corinthians 6:9-10"
+        },
+        {
+          "id": "BW1Q25",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thy kingdom come. Thy will be done in earth, as it is in heaven.'",
+          "options": [
+            "A. Matthew 6:11",
+            "B. Matthew 6:9",
+            "C. Matthew 6:10",
+            "D. Matthew 7:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Thy kingdom come. Thy will be done in earth, as it is in heaven.' is found in Matthew 6:10.",
+          "source_section": "Matthew 6:10"
+        },
+        {
+          "id": "BW1Q26",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:10:\nThy _____ _____. Thy will be _____ in earth, as it is in heaven.",
+          "answer": "kingdom, come, done",
+          "keywords": [
+            "kingdom",
+            "come",
+            "done"
+          ],
+          "explanation": "The full text is: Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+          "source_section": "Matthew 6:10"
+        },
+        {
+          "id": "BW1Q27",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said unto them, Go ye into all the world, and preach the gospel to every creature.'",
+          "options": [
+            "A. Mark 17:15",
+            "B. Mark 16:15-16",
+            "C. Mark 16:16",
+            "D. Mark 16:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And he said unto them, Go ye into all the world, and preach the gospel to every creature.' is found in Mark 16:15-16.",
+          "source_section": "Mark 16:15-16"
+        },
+        {
+          "id": "BW1Q28",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 16:15-16:\nAnd he _____ unto them, Go ye into all the _____, and preach the _____ to every creature.",
+          "answer": "said, world, gospel",
+          "keywords": [
+            "said",
+            "world",
+            "gospel"
+          ],
+          "explanation": "The full text is: And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+          "source_section": "Mark 16:15-16"
+        },
+        {
+          "id": "BW1Q29",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;'",
+          "options": [
+            "A. Acts 3:19",
+            "B. Acts 3:20",
+            "C. Acts 4:19",
+            "D. Acts 3:18"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;' is found in Acts 3:19.",
+          "source_section": "Acts 3:19"
+        },
+        {
+          "id": "BW1Q30",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 3:19:\n\u00b6 Repent ye therefore, and be converted, that your sins may be blotted out, when the _____ of refreshing _____ come from the presence of the _____;",
+          "answer": "times, shall, Lord",
+          "keywords": [
+            "times",
+            "shall",
+            "Lord"
+          ],
+          "explanation": "The full text is: \u00b6 Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the Lord;",
+          "source_section": "Acts 3:19"
+        },
+        {
+          "id": "BW1Q31",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the LORD most high is terrible; he is a great King over all the earth.'",
+          "options": [
+            "A. Psalm 47:2, 7-8",
+            "B. Another book 2:6",
+            "C. Another book 3:2",
+            "D. Another book 1:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For the LORD most high is terrible; he is a great King over all the earth.' is found in Psalm 47:2, 7-8.",
+          "source_section": "Psalm 47:2, 7-8"
+        },
+        {
+          "id": "BW1Q32",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 47:2, 7-8:\nFor the LORD most _____ is terrible; he is a great _____ _____ all the earth.",
+          "answer": "high, King, over",
+          "keywords": [
+            "high",
+            "King",
+            "over"
+          ],
+          "explanation": "The full text is: For the LORD most high is terrible; he is a great King over all the earth.",
+          "source_section": "Psalm 47:2, 7-8"
+        },
+        {
+          "id": "BW1Q33",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.3.13 shall\u2026: or, hath not been'",
+          "options": [
+            "A. 1 Kings 3:12",
+            "B. 1 Kings 3:13",
+            "C. 1 Kings 4:13",
+            "D. 1 Kings 3:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.3.13 shall\u2026: or, hath not been' is found in 1 Kings 3:13.",
+          "source_section": "1 Kings 3:13"
+        },
+        {
+          "id": "BW1Q34",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 3:13:\nAnd I have also given thee that which _____ hast not asked, both riches, and honour: so _____ there shall not be any among the kings like unto thee all thy days.3.13 shall\u2026: or, _____ not been",
+          "answer": "thou, that, hath",
+          "keywords": [
+            "thou",
+            "that",
+            "hath"
+          ],
+          "explanation": "The full text is: And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.3.13 shall\u2026: or, hath not been",
+          "source_section": "1 Kings 3:13"
+        },
+        {
+          "id": "BW1Q35",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.2.44 the days: Chaldee, their days2.44 the kingdom: Chaldee, the kingdom thereof'",
+          "options": [
+            "A. Daniel 3:44",
+            "B. Daniel 2:45",
+            "C. Daniel 2:43",
+            "D. Daniel 2:44"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.2.44 the days: Chaldee, their days2.44 the kingdom: Chaldee, the kingdom thereof' is found in Daniel 2:44.",
+          "source_section": "Daniel 2:44"
+        },
+        {
+          "id": "BW1Q36",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 2:44:\nAnd in the days of these kings shall the God of _____ set up a kingdom, which shall never be destroyed: and the kingdom _____ not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall _____ for ever.2.44 the days: Chaldee, their days2.44 the kingdom: Chaldee, the kingdom thereof",
+          "answer": "heaven, shall, stand",
+          "keywords": [
+            "heaven",
+            "shall",
+            "stand"
+          ],
+          "explanation": "The full text is: And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.2.44 the days: Chaldee, their days2.44 the kingdom: Chaldee, the kingdom thereof",
+          "source_section": "Daniel 2:44"
+        },
+        {
+          "id": "BW1Q37",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.'",
+          "options": [
+            "A. John 4:5",
+            "B. John 3:5-7",
+            "C. John 3:6",
+            "D. John 3:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.' is found in John 3:5-7.",
+          "source_section": "John 3:5-7"
+        },
+        {
+          "id": "BW1Q38",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 3:5-7:\n_____ answered, Verily, _____, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter _____ the kingdom of God.",
+          "answer": "Jesus, verily, into",
+          "keywords": [
+            "Jesus",
+            "verily",
+            "into"
+          ],
+          "explanation": "The full text is: Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.",
+          "source_section": "John 3:5-7"
+        },
+        {
+          "id": "BW1Q39",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.'",
+          "options": [
+            "A. John 19:36",
+            "B. John 18:36",
+            "C. John 18:37",
+            "D. John 18:35"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.' is found in John 18:36.",
+          "source_section": "John 18:36"
+        },
+        {
+          "id": "BW1Q40",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 18:36:\nJesus answered, My kingdom is not of this world: if my kingdom were of this _____, _____ would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from _____.",
+          "answer": "world, then, hence",
+          "keywords": [
+            "world",
+            "then",
+            "hence"
+          ],
+          "explanation": "The full text is: Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.",
+          "source_section": "John 18:36"
+        },
+        {
+          "id": "BW1Q41",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.'",
+          "options": [
+            "A. Matthew 5:5",
+            "B. Matthew 6:6",
+            "C. Matthew 5:6",
+            "D. Matthew 5:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Blessed are they which do hunger and thirst after righteousness: for they shall be filled.' is found in Matthew 5:6.",
+          "source_section": "Matthew 5:6"
+        },
+        {
+          "id": "BW1Q42",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:6:\n_____ are _____ which do hunger and thirst after righteousness: for they shall be _____.",
+          "answer": "Blessed, they, filled",
+          "keywords": [
+            "Blessed",
+            "they",
+            "filled"
+          ],
+          "explanation": "The full text is: Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+          "source_section": "Matthew 5:6"
+        },
+        {
+          "id": "BW1Q43",
+          "week": 1,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:'",
+          "options": [
+            "A. Luke 18:20",
+            "B. Luke 17:20-21",
+            "C. Luke 17:21",
+            "D. Luke 17:19"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:' is found in Luke 17:20-21.",
+          "source_section": "Luke 17:20-21"
+        },
+        {
+          "id": "BW1Q44",
+          "week": 1,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 17:20-21:\n\u00b6 And when he was demanded of the Pharisees, when the kingdom of God _____ come, he answered them and _____, The kingdom of God cometh not with _____:",
+          "answer": "should, said, observation",
+          "keywords": [
+            "should",
+            "said",
+            "observation"
+          ],
+          "explanation": "The full text is: \u00b6 And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:",
+          "source_section": "Luke 17:20-21"
+        }
+      ]
+    }
+  ]
+}

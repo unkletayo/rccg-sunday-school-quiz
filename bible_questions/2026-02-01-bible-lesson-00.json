@@ -1,0 +1,573 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "AGENTS OF TRANSFORMATION",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.'",
+          "options": [
+            "A. Proverbs 3:6",
+            "B. Proverbs 3:5-6",
+            "C. Proverbs 3:4",
+            "D. Proverbs 4:5"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.' is found in Proverbs 3:5-6.",
+          "source_section": "Proverbs 3:5-6"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 3:5-6:\n\u00b6 Trust in the _____ with all _____ heart; and lean not unto _____ own understanding.",
+          "answer": "LORD, thine, thine",
+          "keywords": [
+            "LORD",
+            "thine",
+            "thine"
+          ],
+          "explanation": "The full text is: \u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "source_section": "Proverbs 3:5-6"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.'",
+          "options": [
+            "A. Philippians 2:3",
+            "B. Philippians 2:4",
+            "C. Philippians 3:3",
+            "D. Philippians 2:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.' is found in Philippians 2:3.",
+          "source_section": "Philippians 2:3"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 2:3:\nLet _____ be done through _____ or vainglory; but in lowliness of mind let each esteem _____ better than themselves.",
+          "answer": "nothing, strife, other",
+          "keywords": [
+            "nothing",
+            "strife",
+            "other"
+          ],
+          "explanation": "The full text is: Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+          "source_section": "Philippians 2:3"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let all your things be done with charity.'",
+          "options": [
+            "A. 1 Corinthians 16:15",
+            "B. 1 Corinthians 16:14",
+            "C. 1 Corinthians 17:14",
+            "D. 1 Corinthians 16:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Let all your things be done with charity.' is found in 1 Corinthians 16:14.",
+          "source_section": "1 Corinthians 16:14"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 16:14:\nLet all _____ _____ be done with _____.",
+          "answer": "your, things, charity",
+          "keywords": [
+            "your",
+            "things",
+            "charity"
+          ],
+          "explanation": "The full text is: Let all your things be done with charity.",
+          "source_section": "1 Corinthians 16:14"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.'",
+          "options": [
+            "A. Romans 12:1",
+            "B. Romans 12:2",
+            "C. Romans 12:3",
+            "D. Romans 13:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.' is found in Romans 12:2.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:2:\nAnd be not conformed to this _____: but be ye _____ by the _____ of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+          "answer": "world, transformed, renewing",
+          "keywords": [
+            "world",
+            "transformed",
+            "renewing"
+          ],
+          "explanation": "The full text is: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.'",
+          "options": [
+            "A. Matthew 5:15",
+            "B. Matthew 5:17",
+            "C. Matthew 5:16",
+            "D. Matthew 6:16"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.' is found in Matthew 5:16.",
+          "source_section": "Matthew 5:16"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:16:\nLet your _____ so shine before men, that they may see your _____ works, and glorify your Father which is in _____.",
+          "answer": "light, good, heaven",
+          "keywords": [
+            "light",
+            "good",
+            "heaven"
+          ],
+          "explanation": "The full text is: Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+          "source_section": "Matthew 5:16"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I can do all things through Christ which strengtheneth me.'",
+          "options": [
+            "A. Philippians 4:14",
+            "B. Philippians 4:12",
+            "C. Philippians 5:13",
+            "D. Philippians 4:13"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'I can do all things through Christ which strengtheneth me.' is found in Philippians 4:13.",
+          "source_section": "Philippians 4:13"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 4:13:\nI can do all _____ through _____ _____ strengtheneth me.",
+          "answer": "things, Christ, which",
+          "keywords": [
+            "things",
+            "Christ",
+            "which"
+          ],
+          "explanation": "The full text is: I can do all things through Christ which strengtheneth me.",
+          "source_section": "Philippians 4:13"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The just man walketh in his integrity: his children are blessed after him.'",
+          "options": [
+            "A. Proverbs 21:7",
+            "B. Proverbs 20:8",
+            "C. Proverbs 20:7",
+            "D. Proverbs 20:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The just man walketh in his integrity: his children are blessed after him.' is found in Proverbs 20:7.",
+          "source_section": "Proverbs 20:7"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 20:7:\nThe just man _____ in his integrity: his children are _____ _____ him.",
+          "answer": "walketh, blessed, after",
+          "keywords": [
+            "walketh",
+            "blessed",
+            "after"
+          ],
+          "explanation": "The full text is: The just man walketh in his integrity: his children are blessed after him.",
+          "source_section": "Proverbs 20:7"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Continue in prayer, and watch in the same with thanksgiving;'",
+          "options": [
+            "A. Colossians 4:2",
+            "B. Colossians 4:1",
+            "C. Colossians 5:2",
+            "D. Colossians 4:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Continue in prayer, and watch in the same with thanksgiving;' is found in Colossians 4:2.",
+          "source_section": "Colossians 4:2"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 4:2:\nContinue in _____, and _____ in the _____ with thanksgiving;",
+          "answer": "prayer, watch, same",
+          "keywords": [
+            "prayer",
+            "watch",
+            "same"
+          ],
+          "explanation": "The full text is: Continue in prayer, and watch in the same with thanksgiving;",
+          "source_section": "Colossians 4:2"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.'",
+          "options": [
+            "A. 2 Timothy 3:14",
+            "B. 2 Timothy 3:16",
+            "C. 2 Timothy 3:15-17",
+            "D. 2 Timothy 4:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.' is found in 2 Timothy 3:15-17.",
+          "source_section": "2 Timothy 3:15-17"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 3:15-17:\nAnd that from a child thou _____ known the holy scriptures, which are able to make thee _____ unto salvation through faith which is in _____ Jesus.",
+          "answer": "hast, wise, Christ",
+          "keywords": [
+            "hast",
+            "wise",
+            "Christ"
+          ],
+          "explanation": "The full text is: And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.",
+          "source_section": "2 Timothy 3:15-17"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation'",
+          "options": [
+            "A. Jeremiah 29:10",
+            "B. Jeremiah 30:11",
+            "C. Jeremiah 29:12",
+            "D. Jeremiah 29:11"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation' is found in Jeremiah 29:11.",
+          "source_section": "Jeremiah 29:11"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 29:11:\nFor I know the _____ that I _____ toward you, saith the LORD, thoughts of peace, and not of evil, to give you an _____ end.29.11 expected\u2026: Heb. end and expectation",
+          "answer": "thoughts, think, expected",
+          "keywords": [
+            "thoughts",
+            "think",
+            "expected"
+          ],
+          "explanation": "The full text is: For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation",
+          "source_section": "Jeremiah 29:11"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.'",
+          "options": [
+            "A. Nehemiah 2:16",
+            "B. Nehemiah 3:17",
+            "C. Nehemiah 2:17-18",
+            "D. Nehemiah 2:18"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.' is found in Nehemiah 2:17-18.",
+          "source_section": "Nehemiah 2:17-18"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 2:17-18:\n\u00b6 Then _____ I unto them, Ye see the distress that we are in, how Jerusalem lieth _____, and the gates thereof are burned with fire: come, and let us _____ up the wall of Jerusalem, that we be no more a reproach.",
+          "answer": "said, waste, build",
+          "keywords": [
+            "said",
+            "waste",
+            "build"
+          ],
+          "explanation": "The full text is: \u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
+          "source_section": "Nehemiah 2:17-18"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.'",
+          "options": [
+            "A. Joshua 1:8",
+            "B. Joshua 1:10",
+            "C. Joshua 1:9",
+            "D. Joshua 2:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.' is found in Joshua 1:9.",
+          "source_section": "Joshua 1:9"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 1:9:\n_____ not I commanded thee? Be strong and of a good _____; be not afraid, neither be thou dismayed: for the LORD thy God is with thee _____ thou goest.",
+          "answer": "Have, courage, whithersoever",
+          "keywords": [
+            "Have",
+            "courage",
+            "whithersoever"
+          ],
+          "explanation": "The full text is: Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+          "source_section": "Joshua 1:9"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.'",
+          "options": [
+            "A. Romans 12:3",
+            "B. Romans 12:1-2",
+            "C. Romans 12:2",
+            "D. Romans 13:1"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.' is found in Romans 12:1-2.",
+          "source_section": "Romans 12:1-2"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:1-2:\nI beseech you therefore, _____, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is _____ _____ service.",
+          "answer": "brethren, your, reasonable",
+          "keywords": [
+            "brethren",
+            "your",
+            "reasonable"
+          ],
+          "explanation": "The full text is: I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+          "source_section": "Romans 12:1-2"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou therefore, my son, be strong in the grace that is in Christ Jesus.'",
+          "options": [
+            "A. 2 Timothy 3:1",
+            "B. 2 Timothy 2:3",
+            "C. 2 Timothy 2:1-2",
+            "D. 2 Timothy 2:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Thou therefore, my son, be strong in the grace that is in Christ Jesus.' is found in 2 Timothy 2:1-2.",
+          "source_section": "2 Timothy 2:1-2"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 2:1-2:\nThou therefore, my son, be strong in the grace _____ is in _____ _____.",
+          "answer": "that, Christ, Jesus",
+          "keywords": [
+            "that",
+            "Christ",
+            "Jesus"
+          ],
+          "explanation": "The full text is: Thou therefore, my son, be strong in the grace that is in Christ Jesus.",
+          "source_section": "2 Timothy 2:1-2"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.'",
+          "options": [
+            "A. James 1:4",
+            "B. James 2:5",
+            "C. James 1:6",
+            "D. James 1:5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.' is found in James 1:5.",
+          "source_section": "James 1:5"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:5:\nIf any of you lack wisdom, let him ask of God, _____ giveth to all men liberally, and _____ not; and it _____ be given him.",
+          "answer": "that, upbraideth, shall",
+          "keywords": [
+            "that",
+            "upbraideth",
+            "shall"
+          ],
+          "explanation": "The full text is: If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+          "source_section": "James 1:5"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Bear ye one another\u2019s burdens, and so fulfil the law of Christ.'",
+          "options": [
+            "A. Galatians 7:2",
+            "B. Galatians 6:2",
+            "C. Galatians 6:3",
+            "D. Galatians 6:1"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Bear ye one another\u2019s burdens, and so fulfil the law of Christ.' is found in Galatians 6:2.",
+          "source_section": "Galatians 6:2"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 6:2:\n_____ ye one _____ burdens, and so _____ the law of Christ.",
+          "answer": "Bear, another\u2019s, fulfil",
+          "keywords": [
+            "Bear",
+            "another\u2019s",
+            "fulfil"
+          ],
+          "explanation": "The full text is: Bear ye one another\u2019s burdens, and so fulfil the law of Christ.",
+          "source_section": "Galatians 6:2"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And let us not be weary in well doing: for in due season we shall reap, if we faint not.'",
+          "options": [
+            "A. Galatians 6:9",
+            "B. Galatians 6:8",
+            "C. Galatians 7:9",
+            "D. Galatians 6:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And let us not be weary in well doing: for in due season we shall reap, if we faint not.' is found in Galatians 6:9.",
+          "source_section": "Galatians 6:9"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 6:9:\nAnd let us not be _____ in _____ doing: for in due season we _____ reap, if we faint not.",
+          "answer": "weary, well, shall",
+          "keywords": [
+            "weary",
+            "well",
+            "shall"
+          ],
+          "explanation": "The full text is: And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+          "source_section": "Galatians 6:9"
+        }
+      ]
+    }
+  ]
+}

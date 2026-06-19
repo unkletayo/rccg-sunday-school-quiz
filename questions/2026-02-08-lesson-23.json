@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:26:00Z",
+  "weeks": [
+    {
+      "week_number": 23,
+      "topic": "CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
+      "memory_verse_reference": "Proverbs 29:2",
+      "questions": [
+        {
+          "id": "W23Q1",
+          "week": 23,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 23?",
+          "options": [
+            "A. AGENTS OF TRANSFORMATION",
+            "B. CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
+            "C. POLITICAL LEADERS IN THE BIBLE",
+            "D. CORRECTING WRONG PERCEPTIONS"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Three is CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W23Q2",
+          "week": 23,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 22?",
+          "options": [
+            "A. CHRISTIANS AND POLITICS",
+            "B. AGENTS OF TRANSFORMATION",
+            "C. RESOURCEFULNESS",
+            "D. EFFECTIVE PLANNING"
+          ],
+          "answer": "B",
+          "explanation": "Agents of Transformation was the topic for Week 22.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W23Q3",
+          "week": 23,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "When the righteous are in authority, the people ________; But when a wicked man rules, the people groan.",
+          "options": [
+            "A. prosper",
+            "B. rejoice",
+            "C. multiply",
+            "D. suffer"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Proverbs 29:2) says 'the people rejoice'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W23Q4",
+          "week": 23,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Proverbs 29:2",
+          "keywords": ["Proverbs", "29:2"],
+          "explanation": "The memory verse reference is Proverbs 29:2.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W23Q5",
+          "week": 23,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 23 in full (NKJV).",
+          "answer": "When the righteous are in authority, the people rejoice; But when a wicked man rules, the people groan.",
+          "keywords": ["righteous", "authority", "people", "rejoice", "wicked", "rules", "groan"],
+          "explanation": "Full text recall of Proverbs 29:2.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W23Q6",
+          "week": 23,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Proverbs 29:2), what happens when a wicked man rules?",
+          "options": [
+            "A. The people scatter",
+            "B. The people mourn",
+            "C. The people groan",
+            "D. The land is cursed"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'But when a wicked man rules, the people groan.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W23Q7",
+          "week": 23,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is the goal of the lesson regarding Christians and politics?",
+          "options": [
+            "A. To encourage Christians to be both heavenly-focused and earthly-relevant",
+            "B. To form a new Christian political party",
+            "C. To encourage Christians to boycott elections",
+            "D. To teach Christians how to manipulate votes"
+          ],
+          "answer": "A",
+          "explanation": "The introduction states: 'Our goal is to encourage Christians to be both heavenly-focused and earthly-relevant.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W23Q8",
+          "week": 23,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "CORRECTING WRONG PERCEPTIONS",
+          "keywords": ["CORRECTING", "WRONG", "PERCEPTIONS"],
+          "explanation": "Outline I is titled 'CORRECTING WRONG PERCEPTIONS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q9",
+          "week": 23,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Regarding the perception that 'Politics is dirty and corrupt', what is the right perspective given in the lesson?",
+          "options": [
+            "A. Politics is meant only for angels",
+            "B. Politics itself is not inherently dirty; it usually reflects the character of its participants",
+            "C. Christians should stay away to avoid being dirty",
+            "D. All human systems are perfectly clean"
+          ],
+          "answer": "B",
+          "explanation": "Point 1's Right Perspective says 'Politics itself is not inherently dirty; it usually reflects the character of its participants...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q10",
+          "week": 23,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that politics reflects the character of its participants (Right Perspective 1)?",
+          "options": [
+            "A. Titus 1:15",
+            "B. Revelation 5:10",
+            "C. Matthew 7:16-18",
+            "D. Ecclesiastes 10:5-7"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Titus 1:15)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q11",
+          "week": 23,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson states that expecting righteousness from the unrighteous is unrealistic.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 3's Right Perspective says 'It is unrealistic to expect righteousness from the unrighteous (Matthew 7:16-18).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q12",
+          "week": 23,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture affirms the importance of the involvement of 'the righteous' in governance?",
+          "options": [
+            "A. Proverbs 16:17",
+            "B. Matthew 5:14-16",
+            "C. Proverbs 29:2",
+            "D. Titus 1:15"
+          ],
+          "answer": "C",
+          "explanation": "Point 2's Right Perspective says '...contradicts the biblical mandate found in Proverbs 29:2, which affirms the importance of the involvement of ‘the righteous’ in governance.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q13",
+          "week": 23,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the assumption 'Politicians are naturally untrustworthy' contribute to, according to the lesson?",
+          "options": [
+            "A. Better political systems",
+            "B. Our irrelevance in shaping the affairs and conduct of our nation",
+            "C. More honest people running for office",
+            "D. Lower taxes"
+          ],
+          "answer": "B",
+          "explanation": "Point 4's Right Perspective says 'This mindset contributes to our irrelevance in shaping the affairs and conduct of our nation.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q14",
+          "week": 23,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "POLITICAL LEADERS IN THE BIBLE",
+          "keywords": ["POLITICAL", "LEADERS", "IN", "THE", "BIBLE"],
+          "explanation": "Outline II is titled 'POLITICAL LEADERS IN THE BIBLE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q15",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical character is described as a Prophet, leader, and lawgiver who led the Israelites out of Egypt?",
+          "options": [
+            "A. David",
+            "B. Moses",
+            "C. Nehemiah",
+            "D. Joseph"
+          ],
+          "answer": "B",
+          "explanation": "Point 1 lists 'Moses– A prophet, leader and lawgiver. He led the Israelites out of Egypt...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q16",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical character was a shepherd, warrior, and the second king of Israel?",
+          "options": [
+            "A. Saul",
+            "B. Solomon",
+            "C. David",
+            "D. Jeroboam"
+          ],
+          "answer": "C",
+          "explanation": "Point 2 lists 'David– A shepherd, warrior, and the second king of Israel...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q17",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who was the Judge, prophetess, and leader of Israel who exemplified boldness at a tumultuous time?",
+          "options": [
+            "A. Esther",
+            "B. Ruth",
+            "C. Deborah",
+            "D. Miriam"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 lists 'Deborah– A Judge, prophetess and leader of Israel.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q18",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who was the cupbearer to the king of Persia who later became a governor and led the rebuilding of Jerusalem's walls?",
+          "options": [
+            "A. Ezra",
+            "B. Zerubbabel",
+            "C. Daniel",
+            "D. Nehemiah"
+          ],
+          "answer": "D",
+          "explanation": "Point 4 lists 'Nehemiah– The cupbearer to the king of Persia who later became a governor...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q19",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical character was a Jewish queen of Persia who showed great courage advocating for her people?",
+          "options": [
+            "A. Esther",
+            "B. Vashti",
+            "C. Jezebel",
+            "D. Sarah"
+          ],
+          "answer": "A",
+          "explanation": "Point 5 lists 'Esther– A Jewish queen of Persia...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q20",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who was the high-ranking official in the Babylonian and Persian empires known for his ability to interpret dreams?",
+          "options": [
+            "A. Joseph",
+            "B. Daniel",
+            "C. Nehemiah",
+            "D. David"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 lists 'Daniel– A high-ranking official in the Babylonian and Persian empires...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q21",
+          "week": 23,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who rose to power in Egypt, served as a Prime Minister, interpreted dreams, and saved nations from famine?",
+          "options": [
+            "A. Moses",
+            "B. Jacob",
+            "C. Joseph",
+            "D. Joshua"
+          ],
+          "answer": "C",
+          "explanation": "Point 7 lists 'Joseph– An Israelite who rose to power in Egypt and served as a Prime Minister...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q22",
+          "week": 23,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, engaging in politics is not just a duty but a vital aspect of our witness and influence as followers of Christ.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states this.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W23Q23",
+          "week": 23,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Folly is set in great dignity, While the rich sit in a lowly place.'",
+          "verse_text": "Folly is set in great dignity, While the rich sit in a lowly place.",
+          "options": [
+            "A. Ecclesiastes 10:5",
+            "B. Ecclesiastes 10:6",
+            "C. Ecclesiastes 10:7",
+            "D. Proverbs 29:2"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 6 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W23Q24",
+          "week": 23,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Ecclesiastes 10:5), what is the evil seen under the sun?",
+          "options": [
+            "A. A disease that spreads rapidly",
+            "B. An error proceeding from the ruler",
+            "C. A famine in the land",
+            "D. An invasion by foreign armies"
+          ],
+          "answer": "B",
+          "explanation": "Verse 5 says 'There is an evil I have seen under the sun, As an error proceeding from the ruler'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W23Q25",
+          "week": 23,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Ecclesiastes 10:7, what unusual sight does the writer observe?",
+          "options": [
+            "A. Servants on horses, while princes walk on the ground like servants",
+            "B. Lions eating grass",
+            "C. Kings begging for bread",
+            "D. Rivers flowing backward"
+          ],
+          "answer": "A",
+          "explanation": "Verse 7 says 'I have seen servants on horses, While princes walk on the ground like servants.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W23Q26",
+          "week": 23,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that Christians should set an agenda for society?",
+          "options": [
+            "A. Proverbs 1:29",
+            "B. Matthew 5:14-16",
+            "C. Matthew 7:16-18",
+            "D. Titus 1:15"
+          ],
+          "answer": "B",
+          "explanation": "Point 4's Right Perspective says 'Christians should set an agenda for society, as instructed in Matthew 5:14-16.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q27",
+          "week": 23,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, allowing 'the wicked' to lead the righteous is both a potential error and danger.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 2's Right Perspective says 'Allowing ‘the wicked’ to lead the righteous is both a potential error and danger...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W23Q28",
+          "week": 23,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Many believe that Christians should not engage in political matters because it could jeopardise their spiritual journey.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction states 'Many believe that Christians should not engage in political matters, often concluding that involvement could jeopardise their spiritual journey.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W23Q29",
+          "week": 23,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is associated with Deborah in Outline II?",
+          "options": [
+            "A. 1 Samuel 16:11-13",
+            "B. Judges 4:4-15",
+            "C. Nehemiah 1:1-4",
+            "D. Esther 4:14"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 cites '(Judges 4:4-15)' for Deborah.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W23Q30",
+          "week": 23,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "We cannot afford to leave politics and leadership in the hands of those who do not ________ God.",
+          "options": [
+            "A. love",
+            "B. praise",
+            "C. fear",
+            "D. worship"
+          ],
+          "answer": "C",
+          "explanation": "Point 3's Right Perspective says 'We cannot afford to leave politics and leadership in the hands of those who do not fear God...'",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:23:00Z",
+  "weeks": [
+    {
+      "week_number": 20,
+      "topic": "RESOURCEFULNESS",
+      "memory_verse_reference": "Colossians 2:3",
+      "questions": [
+        {
+          "id": "W20Q1",
+          "week": 20,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 20?",
+          "options": [
+            "A. EFFECTIVE PLANNING",
+            "B. UNDERSTAND RESOURCEFULNESS",
+            "C. RESOURCEFULNESS",
+            "D. CULTIVATE RESOURCEFULNESS"
+          ],
+          "answer": "C",
+          "explanation": "The topic listed for Lesson Twenty is RESOURCEFULNESS.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W20Q2",
+          "week": 20,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 19?",
+          "options": [
+            "A. RESOURCEFULNESS",
+            "B. EFFECTIVE PLANNING",
+            "C. DESTINY DESTROYERS",
+            "D. STAY PURE"
+          ],
+          "answer": "B",
+          "explanation": "Effective Planning was the topic for Week 19.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W20Q3",
+          "week": 20,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "In whom are hidden all the treasures of ________ and knowledge.",
+          "options": [
+            "A. power",
+            "B. glory",
+            "C. wisdom",
+            "D. might"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Colossians 2:3) says 'treasures of wisdom and knowledge'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W20Q4",
+          "week": 20,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Colossians 2:3",
+          "keywords": ["Colossians", "2:3"],
+          "explanation": "The memory verse reference is Colossians 2:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W20Q5",
+          "week": 20,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 20 in full (NKJV).",
+          "answer": "In whom are hidden all the treasures of wisdom and knowledge.",
+          "keywords": ["hidden", "treasures", "wisdom", "knowledge"],
+          "explanation": "Full text recall of Colossians 2:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W20Q6",
+          "week": 20,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Colossians 2:3), what are hidden in Him?",
+          "options": [
+            "A. The secrets of the universe",
+            "B. All the treasures of wisdom and knowledge",
+            "C. The plans for the future",
+            "D. All the gold and silver"
+          ],
+          "answer": "B",
+          "explanation": "The verse explicitly states 'all the treasures of wisdom and knowledge.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W20Q7",
+          "week": 20,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How is 'resourcefulness' defined in the introduction of the lesson?",
+          "options": [
+            "A. The ability to borrow money quickly",
+            "B. The ability to deal creatively and effectively with challenges, using available resources",
+            "C. The ability to endure suffering without complaining",
+            "D. The skill of memorizing many facts"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Resourcefulness is the ability to deal creatively and effectively with challenges, finding innovative and practical solutions using the available resources.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W20Q8",
+          "week": 20,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show making wise use of what others would normally overlook?",
+          "options": [
+            "A. Numbers 13:30",
+            "B. 1 Samuel 17:49",
+            "C. Colossians 2:3",
+            "D. Mark 9:23"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'making wise use of what others would normally overlook... (1 Samuel 17:49).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W20Q9",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "UNDERSTAND RESOURCEFULNESS",
+          "keywords": ["UNDERSTAND", "RESOURCEFULNESS"],
+          "explanation": "Outline I is titled 'UNDERSTAND RESOURCEFULNESS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q10",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, resourcefulness requires what kind of mindset?",
+          "options": [
+            "A. A pessimistic mindset",
+            "B. A wealthy mindset",
+            "C. A problem-solving mindset",
+            "D. A relaxed mindset"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'Resourcefulness requires a problem-solving mindset.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q11",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, a resourceful person focuses on what is NOT available, rather than what is within reach.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'The focus of resourceful persons is how to make the most of what is within reach rather than what is not available.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q12",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these describes how resourceful persons think?",
+          "options": [
+            "A. They think strictly according to the rules",
+            "B. They think creatively, outside the box, and question the status quo",
+            "C. They copy what others have done",
+            "D. They think only about the past"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Like world-great innovators, they think outside the box, question the status quo...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q13",
+          "week": 20,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding staying committed to goals even when the path is rough as a quality of a resourceful person?",
+          "options": [
+            "A. Luke 18:1-5",
+            "B. Exodus 31:2-5",
+            "C. Jeremiah 18:3-4",
+            "D. Matthew 25:19-28"
+          ],
+          "answer": "A",
+          "explanation": "The text links this to '(Luke 18:1-5).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q14",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Being resourceful drives innovation, increases efficiency, and maintains a high level of productivity despite constraints.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'It drives innovation, increases efficiency... and maintains a high level of productivity despite constraints.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q15",
+          "week": 20,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to show making the most of what is within reach?",
+          "options": [
+            "A. Exodus 31:2-5; Jeremiah 18:3-4",
+            "B. Judges 15:14-16; Judges 3:31",
+            "C. Daniel 1:11",
+            "D. Nehemiah 4:11-18"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Judges 15:14-16; Judges 3:31)' for making the most of what is within reach.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q16",
+          "week": 20,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "CULTIVATE RESOURCEFULNESS",
+          "keywords": ["CULTIVATE", "RESOURCEFULNESS"],
+          "explanation": "Outline II is titled 'CULTIVATE RESOURCEFULNESS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q17",
+          "week": 20,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What kind of mindset should you develop to cultivate resourcefulness?",
+          "options": [
+            "A. A positive mindset, believing every problem has a solution",
+            "B. A defensive mindset",
+            "C. A realistic mindset that accepts defeat",
+            "D. A wealthy mindset"
+          ],
+          "answer": "A",
+          "explanation": "Point 1 states: 'Develop a positive mindset, and believe that every problem has a solution (Mark 9:23).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q18",
+          "week": 20,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, practicing adaptability by embracing change is a way to cultivate resourcefulness.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 3 explicitly says 'Practice adaptability by embracing change (Ruth 2:2, 17-18; 1 Corinthians 9:22).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q19",
+          "week": 20,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the lesson suggest you can 'Leverage what you have'?",
+          "options": [
+            "A. By hiding it from others",
+            "B. By taking stock of available resources and asking how to use them more effectively",
+            "C. By selling everything you own",
+            "D. By borrowing from the bank"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 says 'Leverage what you have by taking stock of your available resources and asking yourself how you can use them more effectively (Proverbs 31:16).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q20",
+          "week": 20,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the final and 'above all' instruction given in Outline II for cultivating resourcefulness?",
+          "options": [
+            "A. Save money",
+            "B. Go to school",
+            "C. Allow the Holy Spirit to help you",
+            "D. Get a good mentor"
+          ],
+          "answer": "C",
+          "explanation": "The text ends Outline II with 'Above all, allow the Holy Spirit to help you...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q21",
+          "week": 20,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support seeking knowledge and being open to new ideas?",
+          "options": [
+            "A. Mark 9:23",
+            "B. Proverbs 18:15",
+            "C. 1 Corinthians 9:22",
+            "D. Proverbs 31:16"
+          ],
+          "answer": "B",
+          "explanation": "Point 2 cites '(Proverbs 18:15)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q22",
+          "week": 20,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, being resourceful will help you make the most out of any situation.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states 'Being resourceful will help you to make the most out of any situation.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W20Q23",
+          "week": 20,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Then Caleb quieted the people before Moses, and said, “Let us go up at once and take possession, for we are well able to overcome it.”'",
+          "verse_text": "Then Caleb quieted the people before Moses, and said, “Let us go up at once and take possession, for we are well able to overcome it.”",
+          "options": [
+            "A. Numbers 13:27",
+            "B. Numbers 13:28",
+            "C. Numbers 13:30",
+            "D. Numbers 13:31"
+          ],
+          "answer": "C",
+          "explanation": "This is verse 30 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q24",
+          "week": 20,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Numbers 13:27), what did the men say the land truly flows with?",
+          "options": [
+            "A. Rivers of water",
+            "B. Gold and silver",
+            "C. Milk and honey",
+            "D. Oil and wine"
+          ],
+          "answer": "C",
+          "explanation": "Verse 27 says 'It truly flows with milk and honey...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q25",
+          "week": 20,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Numbers 13:28, how did the spies describe the cities in the land?",
+          "options": [
+            "A. Small and weak",
+            "B. Destroyed and abandoned",
+            "C. Fortified and very large",
+            "D. Open and unprotected"
+          ],
+          "answer": "C",
+          "explanation": "Verse 28 says 'the cities are fortified and very large...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q26",
+          "week": 20,
+          "category": "name_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which specific descendants did the spies say they saw in the land? (Numbers 13:28)",
+          "options": [
+            "A. Descendants of Anak",
+            "B. Descendants of Goliath",
+            "C. Descendants of Esau",
+            "D. Descendants of Ishmael"
+          ],
+          "answer": "A",
+          "explanation": "Verse 28 says 'moreover we saw the descendants of Anak there.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q27",
+          "week": 20,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Numbers 13:31, what did the men who had gone up with Caleb say?",
+          "options": [
+            "A. 'We can defeat them if we use strategy'",
+            "B. 'We should return to Egypt immediately'",
+            "C. 'We are not able to go up against the people, for they are stronger than we'",
+            "D. 'Let us wait for God to destroy them'"
+          ],
+          "answer": "C",
+          "explanation": "Verse 31 reads “We are not able to go up against the people, for they are stronger than we.”",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q28",
+          "week": 20,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Numbers 13:29, which group of people dwelled in the land of the South?",
+          "options": [
+            "A. The Amalekites",
+            "B. The Hittites",
+            "C. The Jebusites",
+            "D. The Canaanites"
+          ],
+          "answer": "A",
+          "explanation": "Verse 29 states: 'The Amalekites dwell in the land of the South...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q29",
+          "week": 20,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, staying persistent and keeping trying different strategies is a way to cultivate resourcefulness.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 says 'Stay persistent. Keep trying different strategies.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W20Q30",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Resourcefulness requires being ________ enough to adapt or adjust quickly to new conditions and challenges.",
+          "options": [
+            "A. stubborn",
+            "B. flexible",
+            "C. smart",
+            "D. strong"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'It entails being flexible enough to adapt or adjust quickly...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q31",
+          "week": 20,
+          "category": "introduction",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "In the introduction, resources are given examples as 'man, money, materials and ________'.",
+          "options": [
+            "A. minutes",
+            "B. machines",
+            "C. momentum",
+            "D. minds"
+          ],
+          "answer": "B",
+          "explanation": "The text lists resources 'such as man, money, materials and machines'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W20Q32",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that resourceful people think creatively, like world-great innovators?",
+          "options": [
+            "A. Exodus 31:2-5",
+            "B. Joshua 14:7-8",
+            "C. Numbers 13:30",
+            "D. Ruth 2:2"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Exodus 31:2-5; Jeremiah 18:3-4)' for thinking creatively.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q33",
+          "week": 20,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who demonstrated a resourceful and problem-solving mindset in the Bible Passage? (Numbers 13:30)",
+          "options": [
+            "A. Moses",
+            "B. The men who went up",
+            "C. Caleb",
+            "D. The Amalekites"
+          ],
+          "answer": "C",
+          "explanation": "Verse 30 says 'Then Caleb quieted the people before Moses, and said, “Let us go up at once and take possession...”'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W20Q34",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Being resourceful helps individuals grow by challenging the team to develop new skills and learn how to solve complex problems.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states this in Outline I: 'Being resourceful helps individuals to grow by challenging the team to develop new skills...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W20Q35",
+          "week": 20,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of these is NOT a result of being resourceful, according to the lesson?",
+          "options": [
+            "A. It enhances leadership",
+            "B. It drives innovation",
+            "C. It increases efficiency",
+            "D. It removes all constraints"
+          ],
+          "answer": "D",
+          "explanation": "The text says it 'maintains a high level of productivity despite constraints', not that it removes them.",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

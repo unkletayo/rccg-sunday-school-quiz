@@ -1,0 +1,626 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:05:00Z",
+  "weeks": [
+    {
+      "week_number": 2,
+      "topic": "THE DEITY OF JESUS PART 1",
+      "memory_verse_reference": "1 John 5:20",
+      "questions": [
+        {
+          "id": "W2Q1",
+          "week": 2,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 2?",
+          "options": [
+            "A. THEOS BASILEIA",
+            "B. THE DEITY OF JESUS PART 1",
+            "C. THE GODHEAD AND THE TRINITY",
+            "D. REASONS JESUS IS GOD"
+          ],
+          "answer": "B",
+          "explanation": "The topic provided for Week 2 is THE DEITY OF JESUS PART 1.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W2Q2",
+          "week": 2,
+          "category": "cross_week_topic",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 1?",
+          "options": [
+            "A. THE DEITY OF JESUS PART 1",
+            "B. THEOS BASILEIA",
+            "C. THE MEDIATORIAL KINGDOM",
+            "D. THE TRUE LIGHT"
+          ],
+          "answer": "B",
+          "explanation": "Theos Basileia was the topic for Week 1.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W2Q3",
+          "week": 2,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is the definition of 'polytheistic'?",
+          "options": [
+            "A. Belief in one true God",
+            "B. Belief in no gods",
+            "C. Belief in many gods",
+            "D. Belief that God is the universe"
+          ],
+          "answer": "C",
+          "explanation": "The introduction defines polytheistic religion as '(belief in many gods)'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W2Q4",
+          "week": 2,
+          "category": "greek_hebrew",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the term used to describe a 'god or goddess' or a being of divine status, quality, or nature?",
+          "answer": "Deity",
+          "keywords": ["Deity"],
+          "explanation": "The introduction defines a 'deity' as a god or goddess, or a being of divine status.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W2Q5",
+          "week": 2,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "People of other major religions commonly argue about the Deity of Jesus Christ, teaching that He was only a prophet, a good teacher, or a godly man.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction mentions this is a common argument among other major religions.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W2Q6",
+          "week": 2,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And we know that the Son of God has come and has given us an ___________, that we may know Him who is true...",
+          "options": [
+            "A. inheritance",
+            "B. instruction",
+            "C. understanding",
+            "D. unction"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (1 John 5:20) says 'has given us an understanding'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W2Q7",
+          "week": 2,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "fill_in_blank",
+          "question": "...and we are in Him who is true, in His Son Jesus Christ. This is the true God and ________ life.",
+          "options": [
+            "A. everlasting",
+            "B. eternal",
+            "C. abundant",
+            "D. infinite"
+          ],
+          "answer": "B",
+          "explanation": "The verse concludes: 'This is the true God and eternal life.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W2Q8",
+          "week": 2,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 John 5:20",
+          "keywords": ["1 John", "5:20"],
+          "explanation": "The memory verse reference is 1 John 5:20.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W2Q9",
+          "week": 2,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 2 in full (NKJV).",
+          "answer": "And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life.",
+          "keywords": ["know", "Son", "God", "understanding", "true", "eternal", "life"],
+          "explanation": "Full text recall of 1 John 5:20.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W2Q10",
+          "week": 2,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the primary truth affirmed about Jesus Christ at the end of the memory verse (1 John 5:20)?",
+          "options": [
+            "A. He is the Creator of all things",
+            "B. He is the Word made flesh",
+            "C. He is the true God and eternal life",
+            "D. He is the Redeemer of mankind"
+          ],
+          "answer": "C",
+          "explanation": "The verse explicitly ends with 'This is the true God and eternal life.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W2Q11",
+          "week": 2,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline in this lesson?",
+          "answer": "HIS DIVINITY",
+          "keywords": ["HIS", "DIVINITY"],
+          "explanation": "Outline I is titled 'HIS DIVINITY'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q12",
+          "week": 2,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, which Old Testament reference is used to show that Jesus is a member of the Godhead?",
+          "options": [
+            "A. Exodus 3:14",
+            "B. Genesis 1:26a",
+            "C. Isaiah 9:6",
+            "D. Daniel 4:3"
+          ],
+          "answer": "B",
+          "explanation": "Genesis 1:26a is cited directly after stating Jesus is a member of the Godhead.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q13",
+          "week": 2,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "true_false",
+          "question": "According to Colossians 2:9, the Bible clearly states that the Godhead resides in Jesus Christ spiritually, but not bodily.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'The Bible clearly states that the Godhead resides in Jesus Christ bodily (Colossians 2:9).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q14",
+          "week": 2,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Hebrews 1:8, who refers to Jesus as God?",
+          "options": [
+            "A. The angels",
+            "B. God the Father",
+            "C. The apostle Paul",
+            "D. The Holy Spirit"
+          ],
+          "answer": "B",
+          "explanation": "The lesson states: 'God the Father refers to Jesus as God (Hebrews 1:8).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q15",
+          "week": 2,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this prophetic announcement of Christ's deity as 'the mighty God' found in the Old Testament?",
+          "verse_text": "the mighty God",
+          "options": [
+            "A. Isaiah 7:14",
+            "B. Isaiah 9:6",
+            "C. Psalms 19:14",
+            "D. Exodus 3:14"
+          ],
+          "answer": "B",
+          "explanation": "Outline I cites Isaiah 9:6 for the prophecy of Christ as 'the mighty God'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q16",
+          "week": 2,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Jesus says in John 10:30, 'I and My Father are ________'.",
+          "options": [
+            "A. God",
+            "B. united",
+            "C. one",
+            "D. eternal"
+          ],
+          "answer": "C",
+          "explanation": "The quote from John 10:30 is 'I and My Father are one'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q17",
+          "week": 2,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Jesus announcing His identity as 'I AM' in John 8:58 is a direct application of the Old Testament name for God found where?",
+          "options": [
+            "A. Genesis 1:26",
+            "B. Exodus 3:14",
+            "C. Isaiah 9:6",
+            "D. Psalms 78:35"
+          ],
+          "answer": "B",
+          "explanation": "The lesson points out that 'I AM' is a direct application of Exodus 3:14.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q18",
+          "week": 2,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline I, Jesus rebuked people for worshipping Him in Matthew 2:11 and Luke 24:52.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The lesson explicitly states: 'He never rebukes people for worshipping Him.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q19",
+          "week": 2,
+          "category": "bible_verse_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "In John 20:28, what declaration did Thomas the disciple make to Jesus?",
+          "options": [
+            "A. 'You are the Christ, the Son of the living God.'",
+            "B. 'My Lord and my God.'",
+            "C. 'Teacher, we know you are from God.'",
+            "D. 'The Word became flesh.'"
+          ],
+          "answer": "B",
+          "explanation": "Thomas declared 'My Lord and my God.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q20",
+          "week": 2,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which apostle describes Jesus as '...the great God and our Saviour, Jesus Christ' in Titus 2:13?",
+          "options": [
+            "A. John",
+            "B. Peter",
+            "C. Paul",
+            "D. Thomas"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'The apostle Paul describes Him as... (Titus 2:13)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q21",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline in this lesson?",
+          "answer": "REASONS JESUS IS GOD",
+          "keywords": ["REASONS", "JESUS", "IS", "GOD"],
+          "explanation": "Outline II is titled 'REASONS JESUS IS GOD'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q22",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what provision only works if Jesus is God?",
+          "options": [
+            "A. The provision of the Holy Spirit",
+            "B. The provision of salvation",
+            "C. The provision of daily bread",
+            "D. The provision of healing"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'The provision of salvation only works if Jesus is God...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q23",
+          "week": 2,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Jesus is God incarnate, the eternal ________ and Omega.",
+          "options": [
+            "A. Beginning",
+            "B. First",
+            "C. Alpha",
+            "D. Creator"
+          ],
+          "answer": "C",
+          "explanation": "Citing Revelation 1:8, Jesus is called the 'eternal Alpha and Omega'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q24",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to Acts 5:31 and Luke 5:20-24, Jesus has the right to forgive sins, which is something only God can do.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The outline explicitly states that Jesus has the right to forgive sins, an action only God can perform.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q25",
+          "week": 2,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is the title 'judge the living and the dead' found in reference to Jesus in the lesson?",
+          "verse_text": "judge the living and the dead",
+          "options": [
+            "A. Revelation 22:11-12",
+            "B. 2 Timothy 4:1",
+            "C. Acts 4:12",
+            "D. Matthew 16:21"
+          ],
+          "answer": "B",
+          "explanation": "The lesson attributes this phrase to 2 Timothy 4:1.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q26",
+          "week": 2,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "According to the lesson, what is the formal name of God in the Old Testament?",
+          "answer": "Jehovah",
+          "keywords": ["Jehovah"],
+          "explanation": "The text refers to Jehovah as '(the formal name of God)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q27",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which title belonging uniquely to Jehovah in the Old Testament is used for Jesus in the New Testament (Titus 2:13-14; Rev 5:9)?",
+          "options": [
+            "A. The Creator",
+            "B. The Redeemer",
+            "C. The King of Kings",
+            "D. The Almighty"
+          ],
+          "answer": "B",
+          "explanation": "The lesson specifically uses the example of 'Redeemer' (Psalms 19:14; 78:35).",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q28",
+          "week": 2,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What does the name 'Emmanuel' mean according to Matthew 1:23?",
+          "options": [
+            "A. God will save us",
+            "B. God is our rock",
+            "C. God with us",
+            "D. The Mighty God"
+          ],
+          "answer": "C",
+          "explanation": "The lesson defines Emmanuel as 'God with us'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q29",
+          "week": 2,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to John 1:3 and Colossians 1:16-17, what specific action accomplished only by God is credited to Jesus?",
+          "options": [
+            "A. He created and sustains the universe",
+            "B. He parted the Red Sea",
+            "C. He spoke from the burning bush",
+            "D. He brought the flood upon the earth"
+          ],
+          "answer": "A",
+          "explanation": "The text explicitly mentions 'He created and sustains the universe'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q30",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Which divine attribute, representing God being present everywhere, is credited to Jesus in Matthew 18:20 and 28:20?",
+          "answer": "Omnipresence",
+          "keywords": ["Omnipresence"],
+          "explanation": "The lesson lists Omnipresence and cites those verses.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q31",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which attribute representing all-knowing capability is assigned to Jesus with the reference Matthew 16:21?",
+          "options": [
+            "A. Omnipresence",
+            "B. Omnipotence",
+            "C. Omniscience",
+            "D. Eternally"
+          ],
+          "answer": "C",
+          "explanation": "Matthew 16:21 is cited for Omniscience.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q32",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which attribute representing all-powerful capability is assigned to Jesus with the reference Luke 7:13-15?",
+          "options": [
+            "A. Omnipresence",
+            "B. Omnipotence",
+            "C. Omniscience",
+            "D. Eternally"
+          ],
+          "answer": "B",
+          "explanation": "Luke 7:13-15 is cited for Omnipotence.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q33",
+          "week": 2,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What does the conclusion command Christians to do regarding the deity of Jesus?",
+          "options": [
+            "A. Believe it silently and keep it to themselves",
+            "B. Debate it with people of other religions constantly",
+            "C. Believe in it, and boldly proclaim and defend it scripturally",
+            "D. Study it until they can understand all mysteries"
+          ],
+          "answer": "C",
+          "explanation": "The conclusion says 'Christians should not only believe in the deity of Jesus but must be bold to proclaim and defend it scripturally.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W2Q34",
+          "week": 2,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'All things were made through Him, and without Him nothing was made that was made.'",
+          "verse_text": "All things were made through Him, and without Him nothing was made that was made.",
+          "options": [
+            "A. John 1:3",
+            "B. Genesis 1:26",
+            "C. Colossians 1:16",
+            "D. Hebrews 1:8"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 3 of the main Bible Passage, John 1:1-5.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W2Q35",
+          "week": 2,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the Bible Passage, the light shines in the darkness, and the darkness comprehended it.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "John 1:5 says 'and the darkness did not comprehend it.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W2Q36",
+          "week": 2,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of ________ and truth.",
+          "options": [
+            "A. love",
+            "B. power",
+            "C. grace",
+            "D. mercy"
+          ],
+          "answer": "C",
+          "explanation": "John 1:14 says 'full of grace and truth'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W2Q37",
+          "week": 2,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 2 Peter 1:1, how did Peter describe Jesus?",
+          "options": [
+            "A. the great God and our Saviour",
+            "B. the Son of the living God",
+            "C. of God and our Saviour Jesus Christ",
+            "D. the Lord of lords"
+          ],
+          "answer": "C",
+          "explanation": "The text notes that Peter says '...of God and our Saviour Jesus Christ'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q38",
+          "week": 2,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The right to forgive sins, which Jesus exercised in Luke 5:20-24, was shared by the apostles.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The outline states that forgiving sins 'is something only God can do'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W2Q39",
+          "week": 2,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "What phrase did Jesus use in John 8:58 to directly apply the Old Testament name of God to Himself?",
+          "answer": "I AM",
+          "keywords": ["I", "AM"],
+          "explanation": "The lesson quotes 'before Abraham was, I AM' as the direct application.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W2Q40",
+          "week": 2,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction and Matthew 16:13-16, what does the Bible tell us about Jesus in contrast to other religions?",
+          "options": [
+            "A. He was merely a good teacher",
+            "B. He was the final prophet",
+            "C. He was infinitely more than a prophet, good teacher, or godly man combined",
+            "D. He was a symbol of divine nature"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states 'the Bible tells us that Jesus was infinitely more than the three combined'.",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

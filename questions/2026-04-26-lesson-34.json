@@ -1,0 +1,479 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:36:00Z",
+  "weeks": [
+    {
+      "week_number": 34,
+      "topic": "SOCIAL MEDIA ROMANCE",
+      "memory_verse_reference": "Proverbs 18:22",
+      "questions": [
+        {
+          "id": "W34Q1",
+          "week": 34,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 34?",
+          "options": [
+            "A. THE DANGERS",
+            "B. SOCIAL MEDIA ROMANCE",
+            "C. DEFINE YOUR RELATIONSHIP",
+            "D. THE POSSIBILITIES"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Thirty-Four is SOCIAL MEDIA ROMANCE.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W34Q2",
+          "week": 34,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 33?",
+          "options": [
+            "A. LIVE HEALTHY",
+            "B. SOCIAL MEDIA ROMANCE",
+            "C. DEFINE YOUR RELATIONSHIP",
+            "D. SELF-WORTH"
+          ],
+          "answer": "C",
+          "explanation": "Define Your Relationship was the topic for Week 33.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W34Q3",
+          "week": 34,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "He who finds a wife finds a good thing, And obtains ________ from the LORD.",
+          "options": [
+            "A. grace",
+            "B. favour",
+            "C. peace",
+            "D. wealth"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Proverbs 18:22) says 'And obtains favour from the LORD.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W34Q4",
+          "week": 34,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Proverbs 18:22",
+          "keywords": ["Proverbs", "18:22"],
+          "explanation": "The memory verse reference is Proverbs 18:22.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W34Q5",
+          "week": 34,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 34 in full (NKJV).",
+          "answer": "He who finds a wife finds a good thing, And obtains favour from the LORD.",
+          "keywords": ["finds", "wife", "good", "thing", "obtains", "favour", "LORD"],
+          "explanation": "Full text recall of Proverbs 18:22.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W34Q6",
+          "week": 34,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Proverbs 18:22), he who finds a wife finds what?",
+          "options": [
+            "A. A beautiful friend",
+            "B. A heavy burden",
+            "C. A good thing",
+            "D. A companion"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'He who finds a wife finds a good thing...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W34Q7",
+          "week": 34,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the introduction, meeting someone online who becomes a significant part of your life is not possible in today's digital age.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states 'meeting someone online who becomes a significant part of your life is not only possible but has become increasingly common.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W34Q8",
+          "week": 34,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the introduction suggest you should approach online interactions and potential relationships?",
+          "options": [
+            "A. With suspicion and anger",
+            "B. With wisdom and godly intention",
+            "C. By avoiding them entirely",
+            "D. By trusting everyone you meet"
+          ],
+          "answer": "B",
+          "explanation": "The text concludes 'it is essential to understand how to approach such opportunities with wisdom and godly intention.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W34Q9",
+          "week": 34,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "THE POSSIBILITIES",
+          "keywords": ["THE", "POSSIBILITIES"],
+          "explanation": "Outline I is titled 'THE POSSIBILITIES'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W34Q10",
+          "week": 34,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what should you do to practice openness with discernment?",
+          "options": [
+            "A. Verify claims and maintain honesty",
+            "B. Accept everyone's request",
+            "C. Share all your personal information",
+            "D. Ignore any red flags"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Practice Openness with Discernment: Stay open to possibilities while seeking God’s wisdom to see beyond appearances. Verify claims and maintain honesty (James 1:5).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W34Q11",
+          "week": 34,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does Outline I say about building trust in an online relationship?",
+          "options": [
+            "A. It happens instantly",
+            "B. Avoid rushed commitments or emotional decisions",
+            "C. Only trust if they send you money",
+            "D. You don't need trust if you chat daily"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Take time to understand each other’s character and intentions, avoiding rushed commitments or emotional decisions...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W34Q12",
+          "week": 34,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding seeking trusted counsel to ensure the relationship agrees with your values and God's plan?",
+          "options": [
+            "A. Amos 3:3",
+            "B. Proverbs 20:18",
+            "C. James 1:5",
+            "D. Proverbs 3:5-6"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Proverbs 20:18)' next to Seek Trusted Counsel.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W34Q13",
+          "week": 34,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, you should involve mentors and trusted counsellors who can provide insight into the relationship.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I states 'Seek Trusted Counsel: Involve mentors and trusted counsellors who can provide insight...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W34Q14",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE DANGERS",
+          "keywords": ["THE", "DANGERS"],
+          "explanation": "Outline II is titled 'THE DANGERS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q15",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what danger is described as 'mistaking online interactions for real-world connections'?",
+          "options": [
+            "A. Emotional Entanglement",
+            "B. False Intimacy",
+            "C. Lack of Accountability",
+            "D. Deception"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'False Intimacy: Social media can create a false sense of closeness, making it easy to mistake online interactions for real-world connections.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q16",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is considered a 'Security Risk' when dealing with social media romance?",
+          "options": [
+            "A. Having too many friends",
+            "B. Sharing personal information leading to identity theft or stalking",
+            "C. Praying with someone online",
+            "D. Forgetting your password"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 says 'Security Risks: Sharing personal information online exposes you to risks such as identity theft, stalking or exploitation.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q17",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, people often present a false version of themselves online, hiding their true nature or intentions.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 on Deception says 'People often present a false version of themselves online, hiding their true nature or intentions.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q18",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is a major problem with 'Lack of Accountability' in private online relationships?",
+          "options": [
+            "A. You have to pay extra internet fees",
+            "B. Hidden motives or harmful behaviour can easily go unnoticed without friends or family",
+            "C. Your account might get deleted",
+            "D. You can't post photos"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 says 'Without the involvement of trusted friends or family, it can be easy for hidden motives or harmful behaviour to go unnoticed...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q19",
+          "week": 34,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding deception and the heart being deceitful?",
+          "options": [
+            "A. Proverbs 4:23",
+            "B. Jeremiah 17:9; 1 John 4:1a",
+            "C. Proverbs 15:22",
+            "D. 1 Corinthians 15:33"
+          ],
+          "answer": "B",
+          "explanation": "Point 5 on Deception cites '(Jeremiah 17:9; 1 John 4:1a)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q20",
+          "week": 34,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, when God is at the centre of your decisions, what can you trust Him to do?",
+          "options": [
+            "A. Give you wealth",
+            "B. Lead you into relationships that agree with His purpose and bring lasting joy",
+            "C. Tell you the person's password",
+            "D. End the relationship"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion says 'you can trust Him to lead you into relationships that agree with His purpose and bring you lasting joy.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W34Q21",
+          "week": 34,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'For this is the will of God, your sanctification: that you should abstain from sexual immorality'",
+          "verse_text": "For this is the will of God, your sanctification: that you should abstain from sexual immorality",
+          "options": [
+            "A. 1 Thessalonians 4:3",
+            "B. 1 Thessalonians 4:4",
+            "C. 1 Thessalonians 4:5",
+            "D. 1 Thessalonians 4:6"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 3 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W34Q22",
+          "week": 34,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (1 Thessalonians 4:4), how should each of you know how to possess his own vessel?",
+          "options": [
+            "A. In wealth and honor",
+            "B. In sanctification and honor",
+            "C. In pride and joy",
+            "D. In strength and might"
+          ],
+          "answer": "B",
+          "explanation": "Verse 4 says 'that each of you should know how to possess his own vessel in sanctification and honor...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W34Q23",
+          "week": 34,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Thessalonians 4:5, we should not act in passion of lust like who?",
+          "options": [
+            "A. The Jews",
+            "B. The Romans",
+            "C. The Gentiles who do not know God",
+            "D. The Pharisees"
+          ],
+          "answer": "C",
+          "explanation": "Verse 5 says 'not in passion of lust, like the Gentiles who do not know God...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W34Q24",
+          "week": 34,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Thessalonians 4:6, why should no one take advantage of and defraud his brother in this matter?",
+          "options": [
+            "A. Because the church will punish him",
+            "B. Because the Lord is the avenger of all such",
+            "C. Because society will judge him",
+            "D. Because it is illegal"
+          ],
+          "answer": "B",
+          "explanation": "Verse 6 says 'because the Lord is the avenger of all such, as we also forewarned you and testified.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W34Q25",
+          "week": 34,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Thessalonians 4:7, God did not call us to uncleanness, but to what?",
+          "options": [
+            "A. Righteousness",
+            "B. Peace",
+            "C. Holiness",
+            "D. Prosperity"
+          ],
+          "answer": "C",
+          "explanation": "Verse 7 says 'For God did not call us to uncleanness, but in holiness.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W34Q26",
+          "week": 34,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding praying for direction and building the relationship on God's principles?",
+          "options": [
+            "A. Proverbs 3:5-6",
+            "B. Amos 3:3",
+            "C. James 1:5",
+            "D. 1 Corinthians 13:4"
+          ],
+          "answer": "A",
+          "explanation": "Outline I cites '(Proverbs 3:5-6)' under 'Prioritise God's Guidance'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W34Q27",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Balancing online interactions with real-life connections, accountability, and careful discernment can help protect you from online relationship dangers.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II concludes 'Balancing online interactions with real-life connections, accountability, and careful discernment can help protect you from these dangers.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q28",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "True intimacy requires time, ________ interaction, and understanding, which social media cannot fully provide.",
+          "options": [
+            "A. phone call",
+            "B. face-to-face",
+            "C. video chat",
+            "D. text message"
+          ],
+          "answer": "B",
+          "explanation": "Outline II says 'True intimacy requires time, face-to-face interaction, and understanding...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q29",
+          "week": 34,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to warn about strong emotional attachments based on limited knowledge creating unhealthy dependencies?",
+          "options": [
+            "A. Proverbs 4:23",
+            "B. Proverbs 15:22",
+            "C. Proverbs 22:3",
+            "D. Jeremiah 17:9"
+          ],
+          "answer": "A",
+          "explanation": "Outline II cites '(Proverbs 4:23)' under Emotional Entanglement.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W34Q30",
+          "week": 34,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, oneness in purpose is vital for a thriving relationship.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I states 'Oneness in purpose is vital for a thriving relationship (Amos 3:3).'",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

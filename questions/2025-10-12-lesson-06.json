@@ -1,0 +1,560 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:11:00Z",
+  "weeks": [
+    {
+      "week_number": 6,
+      "topic": "KNOW YOURSELF",
+      "memory_verse_reference": "1 Peter 2:9",
+      "questions": [
+        {
+          "id": "W6Q1",
+          "week": 6,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 6?",
+          "options": [
+            "A. MY ENEMY: “THE FLESH”",
+            "B. KNOW YOURSELF",
+            "C. THE MANUFACTURER’S MANUAL",
+            "D. THE PLACE OF KNOWLEDGE"
+          ],
+          "answer": "B",
+          "explanation": "The topic provided for Lesson Six is KNOW YOURSELF.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W6Q2",
+          "week": 6,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 5?",
+          "options": [
+            "A. MY ENEMY: “THE FLESH”",
+            "B. KNOW YOURSELF",
+            "C. HODEGEO PNEUMA",
+            "D. THE DEITY OF JESUS (PART 2)"
+          ],
+          "answer": "A",
+          "explanation": "My Enemy: 'The Flesh' was the topic for Week 5.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W6Q3",
+          "week": 6,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "But you are a chosen generation, a royal ________, a holy nation, His own special people...",
+          "options": [
+            "A. priesthood",
+            "B. family",
+            "C. kingdom",
+            "D. heritage"
+          ],
+          "answer": "A",
+          "explanation": "The memory verse (1 Peter 2:9) says 'a royal priesthood'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W6Q4",
+          "week": 6,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "fill_in_blank",
+          "question": "...that you may proclaim the praises of Him who called you out of ________ into His marvellous light.",
+          "options": [
+            "A. sin",
+            "B. ignorance",
+            "C. darkness",
+            "D. Egypt"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'who called you out of darkness into His marvellous light.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W6Q5",
+          "week": 6,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 Peter 2:9",
+          "keywords": ["1 Peter", "2:9"],
+          "explanation": "The memory verse is 1 Peter 2:9.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W6Q6",
+          "week": 6,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 6 in full (NKJV).",
+          "answer": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvellous light.",
+          "keywords": ["chosen", "generation", "royal", "priesthood", "holy", "nation", "special", "people", "proclaim", "praises", "darkness", "marvellous", "light"],
+          "explanation": "Full text recall of 1 Peter 2:9.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W6Q7",
+          "week": 6,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse, what is the purpose of being a chosen generation and royal priesthood?",
+          "options": [
+            "A. To rule over the nations",
+            "B. To judge the world",
+            "C. To proclaim the praises of Him who called you",
+            "D. To become wealthy and prosperous"
+          ],
+          "answer": "C",
+          "explanation": "The verse states 'that you may proclaim the praises of Him who called you out of darkness'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W6Q8",
+          "week": 6,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is the result of some people being ignorant of who they are?",
+          "options": [
+            "A. They lived happy but simple lives",
+            "B. They missed opportunities and failed woefully",
+            "C. They became overly proud",
+            "D. They sought help from false gods"
+          ],
+          "answer": "B",
+          "explanation": "The intro states: 'Some people have missed opportunities and failed woefully because they were ignorant of who they are.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W6Q9",
+          "week": 6,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "According to the introduction, to know yourself is to have adequate knowledge of your personality and the ________ you wield as God’s child.",
+          "answer": "power",
+          "keywords": ["power"],
+          "explanation": "The text says 'and the power you wield as God’s child'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W6Q10",
+          "week": 6,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which Bible reference is given in the introduction to support the idea that we are royalty created to shine as a light out of darkness?",
+          "options": [
+            "A. Ephesians 1:18-19",
+            "B. 1 Peter 2:9",
+            "C. Revelation 5:10",
+            "D. Genesis 1:26-27"
+          ],
+          "answer": "C",
+          "explanation": "The text cites '(Revelation 5:10)' right after 'knowing full well that you are royalty created to shine as a light out of darkness'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W6Q11",
+          "week": 6,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the exact heading for Outline I?",
+          "answer": "THE MANUFACTURER’S MANUAL",
+          "keywords": ["THE", "MANUFACTURER", "MANUAL"],
+          "explanation": "Outline I is titled 'THE MANUFACTURER’S MANUAL'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q12",
+          "week": 6,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, who is our manufacturer and what is His manual?",
+          "options": [
+            "A. Our parents; the traditions of men",
+            "B. The Holy Spirit; our conscience",
+            "C. God; the Bible",
+            "D. Society; the law of the land"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'God is our creator and His manual is His word (the Bible.)'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q13",
+          "week": 6,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are given to support the idea that we must grow our word base by constantly feeding on God’s word?",
+          "options": [
+            "A. Psalm 1:1-2; 2 Timothy 2:15",
+            "B. Psalm 119:11; James 1:23-25",
+            "C. Jeremiah 15:16; Proverbs 4:20-22",
+            "D. Ephesians 1:18-19; Revelation 5:10"
+          ],
+          "answer": "A",
+          "explanation": "The lesson links feeding on God's word to '(Psalm 1:1-2; 2 Timothy 2:15)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q14",
+          "week": 6,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are given to support obeying God's word beyond face value?",
+          "options": [
+            "A. Psalm 1:1-2; 2 Timothy 2:15",
+            "B. Psalm 119:11; James 1:23-25",
+            "C. Jeremiah 15:16; Proverbs 4:20-22",
+            "D. Genesis 1:26-27; Jeremiah 1:5"
+          ],
+          "answer": "B",
+          "explanation": "The text associates obeying beyond face value with '(Psalm 119:11; James 1:23-25)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q15",
+          "week": 6,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The more of the Bible we read, the more life we get and the healthier, stronger, and more joyful we become (Jeremiah 15:16; Proverbs 4:20-22).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly makes this claim based on those verses.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q16",
+          "week": 6,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, whom did God ordain as a prophet before birth because He knew him before he was formed?",
+          "options": [
+            "A. David",
+            "B. Samuel",
+            "C. Jeremiah",
+            "D. Saul"
+          ],
+          "answer": "C",
+          "explanation": "The lesson notes: 'God told Jeremiah that He knew him before he was formed... ordained him a prophet (Jeremiah 1:5)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q17",
+          "week": 6,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What demands that we know God intimately to discern the reason we were created and see how to fulfil our reason for existence (John 15:5)?",
+          "options": [
+            "A. The Law",
+            "B. Wisdom",
+            "C. Prophecy",
+            "D. Diligence"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Wisdom thus demands that we know God intimately...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q18",
+          "week": 6,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the exact heading for Outline II?",
+          "answer": "THE PLACE OF KNOWLEDGE",
+          "keywords": ["THE", "PLACE", "KNOWLEDGE"],
+          "explanation": "Outline II is titled 'THE PLACE OF KNOWLEDGE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q19",
+          "week": 6,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "How does the lesson define 'knowledge' in Outline II?",
+          "answer": "Knowledge is information. It is facts gathered about something or someone",
+          "keywords": ["information", "facts", "gathered"],
+          "explanation": "The text defines it as 'Knowledge is information. It is facts gathered about something or someone'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q20",
+          "week": 6,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to support the concept that knowledge is facts gathered about something or someone?",
+          "options": [
+            "A. 1 Samuel 30:11-17; Proverbs 13:16",
+            "B. Luke 10:19; Philippians 3:7-14",
+            "C. 2 Timothy 4:6-7",
+            "D. 1 Corinthians 9:22; Judges 16:20"
+          ],
+          "answer": "A",
+          "explanation": "The lesson lists '(1 Samuel 30:11-17; Proverbs 13:16)' for this point.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q21",
+          "week": 6,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "To know yourself is to have the understanding of your make-up, goals, aspirations, and authority in Christ.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "This is a direct statement from Outline II.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q22",
+          "week": 6,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson citing 2 Timothy 4:6-7, why is it easy to get to where you are going?",
+          "options": [
+            "A. Because God fights for you",
+            "B. When you are familiar with the way",
+            "C. If you have the right friends",
+            "D. Because angels guide you"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'It is easy to get to where you are going when you are familiar with the way (2 Timothy. 4:6-7).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q23",
+          "week": 6,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which Bible character's intentionality and determination for success is highlighted in Esther 4:16?",
+          "options": [
+            "A. Ruth",
+            "B. Esther",
+            "C. Sarah",
+            "D. Mary"
+          ],
+          "answer": "B",
+          "explanation": "Esther 4:16 is cited to show intentionality about success.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q24",
+          "week": 6,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what tool can be of help to understand your emotions, desires, and ability?",
+          "options": [
+            "A. A prayer journal",
+            "B. A personality trait test",
+            "C. A fasting schedule",
+            "D. A daily horoscope"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'A personality trait test will also be of help.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q25",
+          "week": 6,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "The lesson cites 1 Corinthians 9:22 and Judges 16:20 as examples of understanding what?",
+          "options": [
+            "A. Financial management",
+            "B. Spiritual warfare",
+            "C. Emotions, desires, and ability",
+            "D. Church administration"
+          ],
+          "answer": "C",
+          "explanation": "These verses are cited immediately after 'What you understand about your emotions, desires, ability, etc. is also important'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q26",
+          "week": 6,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "When you know yourself, you know your strong areas and it is easier to work on your weaknesses and turn them into strengths.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "This is a direct quote from the lesson.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W6Q27",
+          "week": 6,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "To go far in life, you need a good ________ of who you are.",
+          "options": [
+            "A. record",
+            "B. understanding",
+            "C. image",
+            "D. estimation"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion says 'To go far in life, you need a good understanding of who you are.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W6Q28",
+          "week": 6,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (1 Samuel 17:32-37), who was the young servant confident that he could fight the Philistine?",
+          "options": [
+            "A. Saul",
+            "B. David",
+            "C. Jonathan",
+            "D. Goliath"
+          ],
+          "answer": "B",
+          "explanation": "The text reads 'Then David said to Saul... your servant will go and fight with this Philistine.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W6Q29",
+          "week": 6,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage, who doubted David’s ability to fight because he was just a youth while the opponent was a man of war?",
+          "options": [
+            "A. Samuel",
+            "B. Jesse",
+            "C. Eliab",
+            "D. Saul"
+          ],
+          "answer": "D",
+          "explanation": "The passage says 'And Saul said to David, “You are not able to go against this Philistine...' (1 Sam 17:33).",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W6Q30",
+          "week": 6,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Your servant has killed both lion and bear; and this uncircumcised Philistine will be like one of them...'",
+          "verse_text": "Your servant has killed both lion and bear; and this uncircumcised Philistine will be like one of them...",
+          "options": [
+            "A. 1 Samuel 17:36",
+            "B. 1 Samuel 17:32",
+            "C. Judges 16:20",
+            "D. 1 Peter 2:9"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 36 of the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W6Q31",
+          "week": 6,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage, why was David so confident he would defeat the Philistine?",
+          "options": [
+            "A. Because he had a better sword",
+            "B. Because the Lord who delivered him from the lion and bear would deliver him from the Philistine",
+            "C. Because he had been training with the army",
+            "D. Because the Philistine was old and weak"
+          ],
+          "answer": "B",
+          "explanation": "David said 'The Lord, who delivered me from the paw of the lion and from the paw of the bear, He will deliver me...' (1 Sam 17:37).",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W6Q32",
+          "week": 6,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And Saul said to David, 'Go, and the ________ be with you!'",
+          "options": [
+            "A. King",
+            "B. angels",
+            "C. Lord",
+            "D. victory"
+          ],
+          "answer": "C",
+          "explanation": "1 Samuel 17:37 concludes with Saul saying 'Go, and the Lord be with you!'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W6Q33",
+          "week": 6,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Genesis 1:26-27 referenced in Outline I, God has every tiny detail about you.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'He has every tiny detail about you (Genesis 1:26-27).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W6Q34",
+          "week": 6,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Then David said to Saul, “Let no man’s heart fail because of him; your servant will go and fight with this Philistine.”'",
+          "verse_text": "Then David said to Saul, “Let no man’s heart fail because of him; your servant will go and fight with this Philistine.”",
+          "options": [
+            "A. 1 Samuel 17:32",
+            "B. 1 Samuel 17:34",
+            "C. 1 Samuel 30:11",
+            "D. Proverbs 13:16"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 32, the very first verse of the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W6Q35",
+          "week": 6,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited alongside Luke 10:19 to back up having the understanding of your goals, aspirations, and authority in Christ?",
+          "options": [
+            "A. 2 Timothy 4:6-7",
+            "B. Philippians 3:7-14",
+            "C. Esther 4:16",
+            "D. 1 Corinthians 9:22"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Luke 10:19; Philippians 3:7-14)' for this point.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

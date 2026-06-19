@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:33:00Z",
+  "weeks": [
+    {
+      "week_number": 31,
+      "topic": "SELF-WORTH",
+      "memory_verse_reference": "Psalm 139:14",
+      "questions": [
+        {
+          "id": "W31Q1",
+          "week": 31,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 31?",
+          "options": [
+            "A. OVERCOME NEGATIVE SELF-PERCEPTION",
+            "B. CRISIS MANAGEMENT",
+            "C. UNDERSTAND SELF-WORTH",
+            "D. SELF-WORTH"
+          ],
+          "answer": "D",
+          "explanation": "The topic explicitly listed for Lesson Thirty-One is SELF-WORTH.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W31Q2",
+          "week": 31,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 30?",
+          "options": [
+            "A. CRISIS MANAGEMENT",
+            "B. COPING WITH LOSS",
+            "C. SELF-WORTH",
+            "D. LOVE YOURSELF"
+          ],
+          "answer": "A",
+          "explanation": "Crisis Management was the topic for Week 30.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W31Q3",
+          "week": 31,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "I will praise You, for I am fearfully and ________ made.",
+          "options": [
+            "A. beautifully",
+            "B. wonderfully",
+            "C. perfectly",
+            "D. carefully"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Psalm 139:14) says 'for I am fearfully and wonderfully made.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W31Q4",
+          "week": 31,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Psalm 139:14",
+          "keywords": ["Psalm", "139:14"],
+          "explanation": "The memory verse reference is Psalm 139:14.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W31Q5",
+          "week": 31,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 31 in full (NKJV).",
+          "answer": "I will praise You, for I am fearfully and wonderfully made. Marvelous are Your works, And that my soul knows very well.",
+          "keywords": ["praise", "fearfully", "wonderfully", "Marvelous", "works", "soul", "knows"],
+          "explanation": "Full text recall of Psalm 139:14.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W31Q6",
+          "week": 31,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Psalm 139:14), what does the psalmist's soul know very well?",
+          "options": [
+            "A. That the earth is round",
+            "B. That Marvelous are God's works",
+            "C. That enemies are plotting",
+            "D. That tomorrow is not promised"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'Marvelous are Your works, And that my soul knows very well.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W31Q7",
+          "week": 31,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is self-worth?",
+          "options": [
+            "A. The amount of money in your bank account",
+            "B. The core beliefs you have about your values",
+            "C. How many friends you have",
+            "D. Your level of education"
+          ],
+          "answer": "B",
+          "explanation": "The introduction states 'Self-worth connotes the core beliefs you have about your values.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W31Q8",
+          "week": 31,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, self-worth is usually temporary and changes every day.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states 'Self-worth is relatively stable or permanent such that it becomes an enduring determinant of several decisions later in life.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W31Q9",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "UNDERSTAND SELF-WORTH",
+          "keywords": ["UNDERSTAND", "SELF-WORTH", "SELF", "WORTH"],
+          "explanation": "Outline I is titled 'UNDERSTAND SELF-WORTH'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q10",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what are the three major components of self-worth?",
+          "options": [
+            "A. Self-discipline, self-control, and self-denial",
+            "B. Self-awareness, self-acceptance, and self-love",
+            "C. Self-confidence, self-esteem, and self-righteousness",
+            "D. Self-pity, self-doubt, and self-centeredness"
+          ],
+          "answer": "B",
+          "explanation": "The text lists 'self-awareness, self-acceptance and self-love'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q11",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which component of self-worth involves understanding that making mistakes and experiencing setbacks is part of life and being human?",
+          "options": [
+            "A. Self-awareness",
+            "B. Self-acceptance",
+            "C. Self-love",
+            "D. Self-reliance"
+          ],
+          "answer": "B",
+          "explanation": "Under Self-acceptance, the text says 'We understand that making mistakes, experiencing setbacks... is part of life and being human.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q12",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which component refers to the ability to recognise our emotional triggers, habits, strengths, and weaknesses?",
+          "options": [
+            "A. Self-acceptance",
+            "B. Self-love",
+            "C. Self-awareness",
+            "D. Self-confidence"
+          ],
+          "answer": "C",
+          "explanation": "Under Self-awareness, the text says 'Self-awareness refers to the ability to recognise our emotional triggers and habits. It also involves identifying strengths and weaknesses.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q13",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding self-acceptance removing anxiety and making us feel confident?",
+          "options": [
+            "A. Philippians 4:6; Matthew 6:27",
+            "B. Genesis 1:26-27",
+            "C. Judges 11:9",
+            "D. Genesis 3:7-9"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'This removes anxiety and can make us feel confident and secure (Philippians 4:6; Matthew 6:27).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q14",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "OVERCOME NEGATIVE SELF-PERCEPTION",
+          "keywords": ["OVERCOME", "NEGATIVE", "SELF-PERCEPTION", "SELF", "PERCEPTION"],
+          "explanation": "Outline II is titled 'OVERCOME NEGATIVE SELF-PERCEPTION'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q15",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, where does negative self-perception often begin?",
+          "options": [
+            "A. In childhood",
+            "B. In the mind",
+            "C. In school",
+            "D. At the workplace"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'Negative self-perception often begins in the mind (Proverbs 4:23, 2 Corinthians 10:5).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q16",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the lesson say breeds discontent and insecurity?",
+          "options": [
+            "A. Not having enough money",
+            "B. Comparing yourself to others",
+            "C. Working too much",
+            "D. Spending time alone"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Avoid comparing yourself to others, as comparison breeds discontent and insecurity (2 Corinthians 10:12).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q17",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, we should live our lives relying on human opinion or approval.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states 'Do not live your life relying on human opinion or approval because our worth is based on God’s approval...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q18",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How is God's power made perfect in us, according to the lesson?",
+          "options": [
+            "A. In our strengths",
+            "B. In our weaknesses",
+            "C. In our wealth",
+            "D. In our success"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Accept God’s grace, knowing that His power is made perfect in your weaknesses (2 Corinthians 12:9).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q19",
+          "week": 31,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support having an attitude of gratitude to shift focus away from negative thoughts?",
+          "options": [
+            "A. Philippians 3:13-14",
+            "B. Proverbs 18:21",
+            "C. 1 Thessalonians 5:18",
+            "D. 2 Corinthians 12:9"
+          ],
+          "answer": "C",
+          "explanation": "The text cites '(1 Thessalonians 5:18)' next to the attitude of gratitude.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q20",
+          "week": 31,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, what is essential for living a confident and fulfilled life in Christ?",
+          "options": [
+            "A. Being wealthy",
+            "B. Understanding self-worth",
+            "C. Having many friends",
+            "D. Being a pastor"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion states 'Understanding self-worth is essential for living a confident and fulfilled life in Christ.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W31Q21",
+          "week": 31,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'And Saul said to David, “You are not able to go against this Philistine to fight with him; for you are a youth, and he a man of war from his youth.”'",
+          "verse_text": "And Saul said to David, “You are not able to go against this Philistine to fight with him; for you are a youth, and he a man of war from his youth.”",
+          "options": [
+            "A. 1 Samuel 17:33",
+            "B. 1 Samuel 17:34",
+            "C. 1 Samuel 17:35",
+            "D. 1 Samuel 17:36"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 33 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W31Q22",
+          "week": 31,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (1 Samuel 17:33), why did Saul say David could not fight the Philistine?",
+          "options": [
+            "A. Because David was sick",
+            "B. Because David was a youth, and the Philistine a man of war from his youth",
+            "C. Because David had no armor",
+            "D. Because David was a shepherd"
+          ],
+          "answer": "B",
+          "explanation": "Verse 33 says '...for you are a youth, and he a man of war from his youth.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W31Q23",
+          "week": 31,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In 1 Samuel 17:34, what did David say he used to keep for his father?",
+          "options": [
+            "A. His father's horses",
+            "B. His father's gold",
+            "C. His father's sheep",
+            "D. His father's cows"
+          ],
+          "answer": "C",
+          "explanation": "Verse 34 says 'Your servant used to keep his father’s sheep...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W31Q24",
+          "week": 31,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Samuel 17:35, what did David do when the lion or bear arose against him?",
+          "options": [
+            "A. He ran away",
+            "B. He called for help",
+            "C. He caught it by its beard, and struck and killed it",
+            "D. He hid in a cave"
+          ],
+          "answer": "C",
+          "explanation": "Verse 35 says 'and when it arose against me, I caught it by its beard, and struck and killed it.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W31Q25",
+          "week": 31,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In 1 Samuel 17:36, David said the Philistine will be like one of the lion or bear because the Philistine had done what?",
+          "options": [
+            "A. Stolen a lamb",
+            "B. Defied the armies of the living God",
+            "C. Killed Israelites",
+            "D. Blasphemed the king"
+          ],
+          "answer": "B",
+          "explanation": "Verse 36 says 'seeing he has defied the armies of the living God.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W31Q26",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that God values each of us deeply and considers us precious?",
+          "options": [
+            "A. Genesis 1:26-27",
+            "B. Isaiah 43:4; John 3:16",
+            "C. Philippians 4:6",
+            "D. Job 1:20-22"
+          ],
+          "answer": "B",
+          "explanation": "Outline I says 'God values each of us deeply and considers us precious (Isaiah 43:4; John 3:16).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q27",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Self-love pushes us to deliberately make an effort at eating healthy, taking good care of ourselves, and letting go of toxic relationships.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "This is exactly what is described under the 'Self-love' component in Outline I.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W31Q28",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Speak words of life and affirmation over yourself, aligning your speech with God's ________.",
+          "options": [
+            "A. truth",
+            "B. law",
+            "C. power",
+            "D. angels"
+          ],
+          "answer": "A",
+          "explanation": "Outline II says 'aligning your speech with God’s truth (Proverbs 18:21).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q29",
+          "week": 31,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding letting go of past mistakes and embracing the new identity you have in Christ?",
+          "options": [
+            "A. Proverbs 18:21",
+            "B. Philippians 3:13-14",
+            "C. 1 Thessalonians 2:4",
+            "D. John 8:32"
+          ],
+          "answer": "B",
+          "explanation": "Outline II cites '(Philippians 3:13-14)' for letting go of past mistakes.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W31Q30",
+          "week": 31,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Our value comes from knowing that God created us in His image and likeness.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I begins with 'Our value comes from knowing that God created us in His image and likeness (Genesis 1:26-27).'",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

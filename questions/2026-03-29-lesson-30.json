@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:32:00Z",
+  "weeks": [
+    {
+      "week_number": 30,
+      "topic": "CRISIS MANAGEMENT",
+      "memory_verse_reference": "Psalm 46:1",
+      "questions": [
+        {
+          "id": "W30Q1",
+          "week": 30,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 30?",
+          "options": [
+            "A. COPING WITH LOSS",
+            "B. HOW TO MANAGE CRISIS",
+            "C. FORMS OF CRISIS",
+            "D. CRISIS MANAGEMENT"
+          ],
+          "answer": "D",
+          "explanation": "The topic explicitly listed for Lesson Thirty is CRISIS MANAGEMENT.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W30Q2",
+          "week": 30,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 29?",
+          "options": [
+            "A. LOVE YOURSELF",
+            "B. COPING WITH LOSS",
+            "C. GET RICH QUICK SYNDROME",
+            "D. CRISIS MANAGEMENT"
+          ],
+          "answer": "B",
+          "explanation": "Coping with Loss was the topic for Week 29.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W30Q3",
+          "week": 30,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "God is our refuge and ________, A very present help in trouble.",
+          "options": [
+            "A. fortress",
+            "B. shield",
+            "C. strength",
+            "D. tower"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Psalm 46:1) says 'God is our refuge and strength...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W30Q4",
+          "week": 30,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Psalm 46:1",
+          "keywords": ["Psalm", "46:1"],
+          "explanation": "The memory verse reference is Psalm 46:1.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W30Q5",
+          "week": 30,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 30 in full (NKJV).",
+          "answer": "God is our refuge and strength, A very present help in trouble.",
+          "keywords": ["God", "refuge", "strength", "present", "help", "trouble"],
+          "explanation": "Full text recall of Psalm 46:1.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W30Q6",
+          "week": 30,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Psalm 46:1), what is God to us in times of trouble?",
+          "options": [
+            "A. A distant observer",
+            "B. A very present help",
+            "C. A final judge",
+            "D. A harsh master"
+          ],
+          "answer": "B",
+          "explanation": "The verse says God is 'A very present help in trouble.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W30Q7",
+          "week": 30,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is a crisis?",
+          "options": [
+            "A. A rare blessing",
+            "B. A time of great joy",
+            "C. An inevitable negative event that leads to a dangerous or unstable situation",
+            "D. An opportunity to make money easily"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states 'A crisis is an inevitable negative event that leads to a dangerous or unstable situation (Job 14:1).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W30Q8",
+          "week": 30,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, being born again is a guarantee of a jolly ride on our journey of faith with no crises.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states 'For a child of God, being born again is no guarantee of a jolly ride on our journey of faith.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W30Q9",
+          "week": 30,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "FORMS OF CRISIS",
+          "keywords": ["FORMS", "OF", "CRISIS"],
+          "explanation": "Outline I is titled 'FORMS OF CRISIS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q10",
+          "week": 30,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, which of the following is considered a 'Spiritual Crisis'?",
+          "options": [
+            "A. Physical illness",
+            "B. An experience that challenges one's faith or sense of purpose",
+            "C. Loss of a job",
+            "D. Disagreements from divergent opinions"
+          ],
+          "answer": "B",
+          "explanation": "Point 1 describes Spiritual Crisis as 'an experience that challenges one’s faith or sense of purpose and a time when one seeks deeper understanding...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q11",
+          "week": 30,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What form of crisis may come from physical illness or the death of a loved one?",
+          "options": [
+            "A. Family crisis",
+            "B. Social crisis",
+            "C. Financial crisis",
+            "D. Health crisis"
+          ],
+          "answer": "D",
+          "explanation": "Point 2 says 'Health crisis: This may come in the form of physical illness or death of a loved one...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q12",
+          "week": 30,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding financial crisis (severe financial distress)?",
+          "options": [
+            "A. Mark 5:25-26; 2 Kings 4:1",
+            "B. Ephesians 4:14",
+            "C. Matthew 27:17; Exodus 32:1",
+            "D. 1 Samuel 2:22-30"
+          ],
+          "answer": "A",
+          "explanation": "Point 3 cites '(Mark 5:25-26; 2 Kings 4:1)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q13",
+          "week": 30,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What type of crisis arises from divergent opinions and conflicts of interest while relating with one another in society?",
+          "options": [
+            "A. Family crisis",
+            "B. Social crisis",
+            "C. Health crisis",
+            "D. Spiritual crisis"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 describes 'Social crisis: Disagreements are bound to arise from divergent opinions and sometimes conflict of interest while relating with one another in society...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q14",
+          "week": 30,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "HOW TO MANAGE CRISIS",
+          "keywords": ["HOW", "TO", "MANAGE", "CRISIS"],
+          "explanation": "Outline II is titled 'HOW TO MANAGE CRISIS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q15",
+          "week": 30,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what is wise to do regarding foreseeable crises?",
+          "options": [
+            "A. Ignore them",
+            "B. Prevent them",
+            "C. Celebrate them",
+            "D. Blame others"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'It is wise to prevent foreseeable crisis (Proverbs 27:12).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q16",
+          "week": 30,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "When an unforeseen crisis occurs, the lesson advises to immediately attempt to solve it without first defining its nature or causes.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says '...it is important to seek to properly understand the crisis by defining its nature, causes and implications... before attempting to solve it.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q17",
+          "week": 30,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, every crisis is an opportunity to prove yourself as a what?",
+          "options": [
+            "A. Victim",
+            "B. Solution provider",
+            "C. Bystander",
+            "D. Critic"
+          ],
+          "answer": "B",
+          "explanation": "The text says '...every crisis is an opportunity to prove yourself as a solution provider (Genesis 41:32-41).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q18",
+          "week": 30,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding praying and communicating problems and solutions to elicit contributions (like Queen Esther did)?",
+          "options": [
+            "A. Nehemiah 1:1-4",
+            "B. Esther 4:13-17",
+            "C. Matthew 5:14-16",
+            "D. 2 Kings 2:19-21"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Esther 4:13-17)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q19",
+          "week": 30,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, believers should ensure the safety and wellbeing of all concerned in a crisis and that God is glorified.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states this.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W30Q20",
+          "week": 30,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'So we built the wall, and the entire wall was joined together up to half its height, for the people had a mind to work.'",
+          "verse_text": "So we built the wall, and the entire wall was joined together up to half its height, for the people had a mind to work.",
+          "options": [
+            "A. Nehemiah 4:6",
+            "B. Nehemiah 4:7",
+            "C. Nehemiah 4:8",
+            "D. Nehemiah 4:9"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 6 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W30Q21",
+          "week": 30,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Nehemiah 4:7), what was the reaction of Sanballat and Tobiah when they heard the walls were being restored?",
+          "options": [
+            "A. They were happy",
+            "B. They offered to help",
+            "C. They became very angry",
+            "D. They fled the city"
+          ],
+          "answer": "C",
+          "explanation": "Verse 7 says '...they became very angry.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W30Q22",
+          "week": 30,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Nehemiah 4:8, what did the enemies conspire to do?",
+          "options": [
+            "A. Pay the builders to stop",
+            "B. Come and attack Jerusalem and create confusion",
+            "C. Burn the city gates secretly",
+            "D. Steal the building materials"
+          ],
+          "answer": "B",
+          "explanation": "Verse 8 says 'and all of them conspired together to come and attack Jerusalem and create confusion.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W30Q23",
+          "week": 30,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Nehemiah 4:9, how did Nehemiah and the people respond to the threat?",
+          "options": [
+            "A. They abandoned the wall",
+            "B. They made their prayer to God and set a watch day and night",
+            "C. They paid the enemies a tribute",
+            "D. They surrendered"
+          ],
+          "answer": "B",
+          "explanation": "Verse 9 says 'Nevertheless we made our prayer to our God, and because of them we set a watch against them day and night.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W30Q24",
+          "week": 30,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Nehemiah 4:17, how did those who built on the wall and carried burdens equip themselves?",
+          "options": [
+            "A. With two swords each",
+            "B. With only shields",
+            "C. With one hand they worked at construction, and with the other held a weapon",
+            "D. They hired mercenaries to guard them"
+          ],
+          "answer": "C",
+          "explanation": "Verse 17 says '...so that with one hand they worked at construction, and with the other held a weapon.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W30Q25",
+          "week": 30,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Nehemiah 4:18, where did every one of the builders have his sword?",
+          "options": [
+            "A. Girded at his side",
+            "B. In a scabbard on his back",
+            "C. Laying on the ground nearby",
+            "D. Hidden under his cloak"
+          ],
+          "answer": "A",
+          "explanation": "Verse 18 says 'Every one of the builders had his sword girded at his side as he built.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W30Q26",
+          "week": 30,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that for believers, it is not every crisis that is negative?",
+          "options": [
+            "A. Romans 8:28",
+            "B. Job 10:18",
+            "C. Genesis 41:29-31",
+            "D. Exodus 14:10"
+          ],
+          "answer": "A",
+          "explanation": "Outline I says 'For believers, it is not every crisis that is negative (Romans 8:28).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q27",
+          "week": 30,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Domestic violence, wayward children, and infidelity are given as examples of Family crisis.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 lists 'divorce, infidelity, wayward children, domestic violence, etc.' under Family crisis.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W30Q28",
+          "week": 30,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, after taking action during a crisis, what should you do next?",
+          "options": [
+            "A. Forget about it",
+            "B. Take a vacation",
+            "C. Monitor and review the progress on the actions taken",
+            "D. Complain about the stress"
+          ],
+          "answer": "C",
+          "explanation": "Outline II concludes with 'Monitor and review the progress on the actions taken (Nehemiah 4:19-23).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q29",
+          "week": 30,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding being willing to declare your God-inspired convictions during a crisis?",
+          "options": [
+            "A. Nehemiah 1:1-4; 2:1-5",
+            "B. Matthew 5:14-16",
+            "C. Genesis 41:32-41",
+            "D. 2 Kings 2:19-21"
+          ],
+          "answer": "A",
+          "explanation": "Outline II cites '(Nehemiah 1:1-4; 2:1-5)' for declaring convictions.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W30Q30",
+          "week": 30,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "How we respond to these crises matters as it is a clear reflection of how deeply we trust ________ and have faith in His word.",
+          "options": [
+            "A. ourselves",
+            "B. our leaders",
+            "C. God",
+            "D. the government"
+          ],
+          "answer": "C",
+          "explanation": "The introduction says '...it is a clear reflection of how deeply we trust God and have faith in His word.'",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

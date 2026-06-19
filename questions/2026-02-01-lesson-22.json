@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:25:00Z",
+  "weeks": [
+    {
+      "week_number": 22,
+      "topic": "AGENTS OF TRANSFORMATION",
+      "memory_verse_reference": "Romans 12:2",
+      "questions": [
+        {
+          "id": "W22Q1",
+          "week": 22,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 22?",
+          "options": [
+            "A. TIME MANAGEMENT",
+            "B. THE QUALITIES",
+            "C. AGENTS OF TRANSFORMATION",
+            "D. HOW TO BE ONE"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Two is AGENTS OF TRANSFORMATION.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W22Q2",
+          "week": 22,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 21?",
+          "options": [
+            "A. TIME MANAGEMENT",
+            "B. RESOURCEFULNESS",
+            "C. EFFECTIVE PLANNING",
+            "D. AGENTS OF TRANSFORMATION"
+          ],
+          "answer": "A",
+          "explanation": "Time Management was the topic for Week 21.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W22Q3",
+          "week": 22,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "And do not be conformed to this world, but be ________ by the renewing of your mind...",
+          "options": [
+            "A. changed",
+            "B. separated",
+            "C. transformed",
+            "D. elevated"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Romans 12:2) says 'but be transformed by the renewing of your mind'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W22Q4",
+          "week": 22,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Romans 12:2",
+          "keywords": ["Romans", "12:2"],
+          "explanation": "The memory verse reference is Romans 12:2.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W22Q5",
+          "week": 22,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 22 in full (NKJV).",
+          "answer": "And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
+          "keywords": ["conformed", "world", "transformed", "renewing", "mind", "prove", "acceptable", "perfect", "will", "God"],
+          "explanation": "Full text recall of Romans 12:2.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W22Q6",
+          "week": 22,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Romans 12:2), what is the purpose of being transformed by the renewing of your mind?",
+          "options": [
+            "A. That you may become wealthy",
+            "B. That you may prove what is that good and acceptable and perfect will of God",
+            "C. That you may judge the world",
+            "D. That you may escape persecution"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'that you may prove what is that good and acceptable and perfect will of God.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W22Q7",
+          "week": 22,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the lesson define 'Agents of transformation'?",
+          "options": [
+            "A. People who enforce the law in churches",
+            "B. Men and women who change things from the way they used to be for the betterment of all",
+            "C. Politicians running for public office",
+            "D. Teachers who discipline students"
+          ],
+          "answer": "B",
+          "explanation": "The intro says 'Agents of transformation are men and women who change things from the way they used to be for the betterment of all.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W22Q8",
+          "week": 22,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, agents of transformation see a possibility for a new 'normal' and can motivate others to work towards that goal.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly says 'They are people who see a possibility for a new ‘normal’ and can motivate others to work together towards the achievement of that goal...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W22Q9",
+          "week": 22,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "THE QUALITIES",
+          "keywords": ["THE", "QUALITIES"],
+          "explanation": "Outline I is titled 'THE QUALITIES'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q10",
+          "week": 22,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which quality enables agents of transformation to see possibilities where others see limits?",
+          "options": [
+            "A. Compassion",
+            "B. Integrity",
+            "C. Visionary Leadership",
+            "D. Humility"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 is 'Visionary Leadership: They see possibilities where others see limits...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q11",
+          "week": 22,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what promotes unity and collaboration by making them lowly enough to embrace ideas from others?",
+          "options": [
+            "A. Humility",
+            "B. Boldness",
+            "C. Wisdom",
+            "D. Perseverance"
+          ],
+          "answer": "A",
+          "explanation": "Point 4 is 'Humility: They are lowly enough to embrace ideas from others. This promotes unity and collaboration...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q12",
+          "week": 22,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the quality of 'Integrity' that helps build credibility and ensures trust?",
+          "options": [
+            "A. Joshua 1:9",
+            "B. Philippians 2:3",
+            "C. Proverbs 20:7",
+            "D. Proverbs 29:18a"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 cites '(Proverbs 20:7)' for Integrity.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q13",
+          "week": 22,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, boldness is empowered by faith in God and courage, enabling agents to challenge the status quo.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 says 'Boldness: Faith in God and courage enable bold actions, empowering them to challenge the status quo (Joshua 1:9).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q14",
+          "week": 22,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is associated with 'Wisdom and Adaptability', discerning the times and adjusting approach?",
+          "options": [
+            "A. James 1:5",
+            "B. Galatians 6:2",
+            "C. Philippians 4:13",
+            "D. Galatians 6:9"
+          ],
+          "answer": "A",
+          "explanation": "Point 6 cites '(James 1:5)' for Wisdom and Adaptability.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q15",
+          "week": 22,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What quality allows an agent of transformation to overcome resistance to change by being patient?",
+          "options": [
+            "A. Compassion",
+            "B. Humility",
+            "C. Perseverance",
+            "D. Boldness"
+          ],
+          "answer": "C",
+          "explanation": "Point 7 is 'Perseverance: They persevere through challenges... and are patient to overcome any resistance to change...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W22Q16",
+          "week": 22,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "HOW TO BE ONE",
+          "keywords": ["HOW", "TO", "BE", "ONE"],
+          "explanation": "Outline II is titled 'HOW TO BE ONE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W22Q17",
+          "week": 22,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, how does transformation begin?",
+          "options": [
+            "A. By protesting against the government",
+            "B. With a personal relationship with God and submission to His plan (Surrender)",
+            "C. By donating money to charity",
+            "D. By reading many leadership books"
+          ],
+          "answer": "B",
+          "explanation": "Point 1 says 'Surrender: Transformation begins with a personal relationship with God and submission to His plan.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W22Q18",
+          "week": 22,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is stated as a way to ensure the change is sustained and expanded to new areas?",
+          "options": [
+            "A. Pass new laws",
+            "B. Disciple (raising others)",
+            "C. Pray only",
+            "D. Punish those who resist"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 says 'Disciple: Raising others ensures the change is sustained and expanded to new areas...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W22Q19",
+          "week": 22,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding 'Service', living a life that reflects the change you wish to see?",
+          "options": [
+            "A. Matthew 5:16",
+            "B. 1 Corinthians 16:14",
+            "C. 2 Timothy 2:1-2",
+            "D. Colossians 4:2"
+          ],
+          "answer": "A",
+          "explanation": "Point 4 cites '(Matthew 5:16)' for Service.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W22Q20",
+          "week": 22,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, studying and applying God's word equips you with faith, wisdom, counsel, and authority to navigate uncertainties.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 3 explicitly states: 'God’s Word: Studying and applying God’s word equips you with faith, wisdom, counsel, and authority to navigate uncertainties...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W22Q21",
+          "week": 22,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, what kind of change can you inspire as an agent of transformation?",
+          "options": [
+            "A. Rapid, political change",
+            "B. Profound, God-honouring change",
+            "C. Gradual, insignificant change",
+            "D. Temporary, emotional change"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion says 'you can inspire profound, God-honouring change, wherever you find yourself.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W22Q22",
+          "week": 22,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Shadrach, Meshach, and Abed-Nego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter.”'",
+          "verse_text": "Shadrach, Meshach, and Abed-Nego answered and said to the king, “O Nebuchadnezzar, we have no need to answer you in this matter.”",
+          "options": [
+            "A. Daniel 3:16",
+            "B. Daniel 3:17",
+            "C. Daniel 3:18",
+            "D. Daniel 3:19"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 16 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q23",
+          "week": 22,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Daniel 3:17, what did the three Hebrew men declare their God is able to do?",
+          "options": [
+            "A. Destroy the king's army",
+            "B. Deliver them from the burning fiery furnace and from the king's hand",
+            "C. Turn the fire into water",
+            "D. Make them kings in Babylon"
+          ],
+          "answer": "B",
+          "explanation": "Verse 17 says 'our God whom we serve is able to deliver us from the burning fiery furnace, and He will deliver us from your hand, O king.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q24",
+          "week": 22,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Daniel 3:18, what did they say they would do if God did NOT deliver them?",
+          "options": [
+            "A. They would eventually worship the gold image",
+            "B. They would curse God",
+            "C. They still would not serve the king's gods nor worship the gold image",
+            "D. They would fight the guards"
+          ],
+          "answer": "C",
+          "explanation": "Verse 18 says 'But if not, let it be known to you... we do not serve your gods, nor will we worship the gold image...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q25",
+          "week": 22,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Daniel 3:19, how many times more did Nebuchadnezzar command the furnace to be heated?",
+          "options": [
+            "A. Three times",
+            "B. Five times",
+            "C. Seven times",
+            "D. Ten times"
+          ],
+          "answer": "C",
+          "explanation": "Verse 19 says 'commanded that they heat the furnace seven times more than it was usually heated.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q26",
+          "week": 22,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Daniel 3:20, who did the king command to bind Shadrach, Meshach, and Abed-Nego?",
+          "options": [
+            "A. The high priests",
+            "B. Certain mighty men of valor who were in his army",
+            "C. His own sons",
+            "D. The magicians and astrologers"
+          ],
+          "answer": "B",
+          "explanation": "Verse 20 says 'And he commanded certain mighty men of valor who were in his army...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q27",
+          "week": 22,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "In Daniel 3:28, after they were delivered, what did Nebuchadnezzar say the men yielded?",
+          "options": [
+            "A. Their wealth",
+            "B. Their bodies",
+            "C. Their swords",
+            "D. Their pride"
+          ],
+          "answer": "B",
+          "explanation": "Verse 28 says 'and yielded their bodies, that they should not serve nor worship any god except their own God!'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q28",
+          "week": 22,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Daniel 3:29, what would happen to anyone who speaks anything amiss against the God of Shadrach, Meshach, and Abed-Nego?",
+          "options": [
+            "A. They would be banished",
+            "B. They would pay a heavy fine",
+            "C. They shall be cut in pieces, and their houses made an ash heap",
+            "D. They would be thrown in the lions' den"
+          ],
+          "answer": "C",
+          "explanation": "Verse 29 says 'shall be cut in pieces, and their houses shall be made an ash heap...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W22Q29",
+          "week": 22,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Prayer connects your efforts with God's will and invites His intervention in the process of transformation.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 7 explicitly states: 'Prayer connects your efforts with God’s will and invites His intervention in the process (Colossians 4:2).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W22Q30",
+          "week": 22,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding 'Vision'—asking God to reveal His idea for the specific area of change you are called to lead?",
+          "options": [
+            "A. Proverbs 3:5-6",
+            "B. Romans 12:1-2",
+            "C. Jeremiah 29:11",
+            "D. Colossians 4:2"
+          ],
+          "answer": "C",
+          "explanation": "Point 2 cites '(Jeremiah 29:11)' for Vision.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

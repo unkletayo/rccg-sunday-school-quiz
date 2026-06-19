@@ -1,0 +1,551 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:07:00Z",
+  "weeks": [
+    {
+      "week_number": 3,
+      "topic": "THE DEITY OF JESUS (PART 2)",
+      "memory_verse_reference": "John 10:38",
+      "questions": [
+        {
+          "id": "W3Q1",
+          "week": 3,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 3?",
+          "options": [
+            "A. THE DEITY OF JESUS PART 1",
+            "B. THE MIRACLES HE PERFORMED",
+            "C. THE DEITY OF JESUS (PART 2)",
+            "D. THE WAY, THE TRUTH, AND THE LIFE"
+          ],
+          "answer": "C",
+          "explanation": "The specific topic given for Lesson Three is THE DEITY OF JESUS (PART 2).",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W3Q2",
+          "week": 3,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 2?",
+          "options": [
+            "A. THE DEITY OF JESUS PART 1",
+            "B. THEOS BASILEIA",
+            "C. THE WAY, THE TRUTH, AND THE LIFE",
+            "D. REASONS JESUS IS GOD"
+          ],
+          "answer": "A",
+          "explanation": "The Deity of Jesus Part 1 was the topic for Week 2.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W3Q3",
+          "week": 3,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "But if I do, though you do not believe Me, believe the works, that you may know and believe that the ________ is in Me, and I in Him.",
+          "options": [
+            "A. Spirit",
+            "B. Father",
+            "C. Word",
+            "D. Power"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (John 10:38) says '...believe that the Father is in Me, and I in Him.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W3Q4",
+          "week": 3,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "In which book, chapter, and verse is the memory verse for this week found? (Use format: Book Chapter:Verse)",
+          "answer": "John 10:38",
+          "keywords": ["John", "10:38"],
+          "explanation": "The memory verse is explicitly cited as John 10:38.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W3Q5",
+          "week": 3,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 3 in full (NKJV).",
+          "answer": "But if I do, though you do not believe Me, believe the works, that you may know and believe that the Father is in Me, and I in Him.",
+          "keywords": ["believe", "works", "know", "Father", "in", "Me", "Him"],
+          "explanation": "Full text recall for John 10:38.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W3Q6",
+          "week": 3,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does Jesus tell His listeners to believe, even if they do not initially believe Him, so that they may know the Father is in Him?",
+          "options": [
+            "A. The law",
+            "B. The prophets",
+            "C. The works",
+            "D. The traditions"
+          ],
+          "answer": "C",
+          "explanation": "He says 'believe the works, that you may know and believe that the Father is in Me'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W3Q7",
+          "week": 3,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me.'",
+          "verse_text": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me.",
+          "options": [
+            "A. John 1:1-5",
+            "B. John 14:6",
+            "C. John 10:38",
+            "D. Philippians 2:6"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 6 of the main Bible Passage, John 14:6-11.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W3Q8",
+          "week": 3,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (John 14:8), which disciple said to Jesus, 'Lord, show us the Father, and it is sufficient for us'?",
+          "options": [
+            "A. Peter",
+            "B. John",
+            "C. Philip",
+            "D. Thomas"
+          ],
+          "answer": "C",
+          "explanation": "The text reads 'Philip said to Him, “Lord, show us the Father...' (John 14:8).",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W3Q9",
+          "week": 3,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "In the Bible Passage (John 14:10), Jesus stated that the words He speaks, He speaks entirely on His own authority.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "He said 'The words that I speak to you I do not speak on My own authority...' (John 14:10).",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W3Q10",
+          "week": 3,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The introduction states that it is easy for all people to accept the fact that Jesus is God because the evidence is undeniable.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The introduction says 'While it may be difficult for some people to believe or accept the fact that Jesus is God, the evidence cannot be denied.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W3Q11",
+          "week": 3,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which Bible reference is used in the introduction to state that Jesus was in the form of God and equal with God?",
+          "options": [
+            "A. John 1:1",
+            "B. Philippians 2:6",
+            "C. Acts 10:41",
+            "D. Exodus 14:21-23"
+          ],
+          "answer": "B",
+          "explanation": "The introduction cites '(Philippians 2:6)'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W3Q12",
+          "week": 3,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline in this lesson?",
+          "answer": "THE MIRACLES HE PERFORMED",
+          "keywords": ["THE", "MIRACLES", "HE", "PERFORMED"],
+          "explanation": "Outline I is titled 'THE MIRACLES HE PERFORMED'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q13",
+          "week": 3,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the definition provided in Outline I, what does a miracle involve?",
+          "options": [
+            "A. A purely scientific phenomenon",
+            "B. The direct and powerful action of God transcending ordinary laws of nature",
+            "C. A magic trick performed to deceive the masses",
+            "D. A natural event with good timing"
+          ],
+          "answer": "B",
+          "explanation": "The text states it 'involves the direct and powerful action of God, transcending the ordinary laws of nature'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q14",
+          "week": 3,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which Old Testament references are used to demonstrate that miracles show God's involvement in human history?",
+          "options": [
+            "A. Psalm 119:142 and Matthew 5:17",
+            "B. Exodus 3:14 and Isaiah 9:6",
+            "C. Exodus 14:21-23 and Joshua 10:12-14",
+            "D. Genesis 1:26a and Daniel 4:3"
+          ],
+          "answer": "C",
+          "explanation": "The text cites '(Exodus 14:21-23; Joshua 10:12-14)' regarding demonstrating His involvement in human history.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q15",
+          "week": 3,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to Outline I, why were many miracles performed by Jesus?",
+          "options": [
+            "A. To become famous",
+            "B. To prove that He is God",
+            "C. To earn money",
+            "D. To entertain the crowds"
+          ],
+          "answer": "B",
+          "explanation": "The lesson states: 'Many miracles were performed by Jesus as proof that He is God.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q16",
+          "week": 3,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of the following references is cited for Jesus walking on water?",
+          "options": [
+            "A. John 2:7-9",
+            "B. John 6:11-13",
+            "C. Matthew 14:25",
+            "D. Mark 1:40-42"
+          ],
+          "answer": "C",
+          "explanation": "The text cites '(Matthew 14:25)' for walking on water.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q17",
+          "week": 3,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which miracle is associated with the reference John 2:7-9 in the lesson?",
+          "options": [
+            "A. Multiplying a meal",
+            "B. Healing the blind",
+            "C. Turning water to wine",
+            "D. Raising people from the dead"
+          ],
+          "answer": "C",
+          "explanation": "The lesson lists 'turned water to wine (John 2:7-9)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q18",
+          "week": 3,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "true_false",
+          "question": "The references John 11:43-44 and Luke 7:13-15 are used in the lesson to support the fact that Jesus healed the sick.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Those verses are used to support that He 'raised people from the dead', not healed the sick.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q19",
+          "week": 3,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson claims that no other religion can claim the resurrection of its founders.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I explicitly states: 'No other religion can claim the resurrection of its founders.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q20",
+          "week": 3,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline in this lesson?",
+          "answer": "THE WAY, THE TRUTH, AND THE LIFE",
+          "keywords": ["THE", "WAY", "TRUTH", "LIFE"],
+          "explanation": "Outline II is titled 'THE WAY, THE TRUTH, AND THE LIFE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q21",
+          "week": 3,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What part of speech did Jesus use to distinguish Himself as 'the Way, the Truth, and the Life'?",
+          "options": [
+            "A. An adjective",
+            "B. An adverb",
+            "C. The definite article",
+            "D. The indefinite article"
+          ],
+          "answer": "C",
+          "explanation": "The lesson states: 'Jesus used the definite article to distinguish Himself...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q22",
+          "week": 3,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "According to Outline II, a 'way' is defined as what?",
+          "answer": "a route leading somewhere",
+          "keywords": ["route", "leading", "somewhere"],
+          "explanation": "The text defines: 'A way is a route leading somewhere.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q23",
+          "week": 3,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to prove that there is no other path to Heaven except Jesus?",
+          "options": [
+            "A. John 14:1-3; Acts 4:12",
+            "B. Psalm 119:142; John 8:32",
+            "C. Matthew 5:17; John 1:1",
+            "D. John 3:15-16; John 10:28"
+          ],
+          "answer": "A",
+          "explanation": "The text states 'There is no other path to Heaven except Jesus (John 14:1-3; Acts 4:12).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q24",
+          "week": 3,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Jesus, as the incarnate Word of God (John 1:1), is described as the source of all truth in which reference?",
+          "options": [
+            "A. Psalm 119:142",
+            "B. John 8:32",
+            "C. John 14:19",
+            "D. Matthew 5:17"
+          ],
+          "answer": "B",
+          "explanation": "The lesson says 'is the source of all truth (John 8:32).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q25",
+          "week": 3,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "According to Psalm 119:142, truth represents the ________ of God.",
+          "options": [
+            "A. grace",
+            "B. word",
+            "C. law",
+            "D. love"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'truth represents the law of God'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q26",
+          "week": 3,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "During which event did Jesus remind His followers of the basic points of the law and give new commands, equating Himself with God?",
+          "options": [
+            "A. The Last Supper",
+            "B. The Sermon on the Mount",
+            "C. The Olivet Discourse",
+            "D. The Feeding of the 5,000"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'during the sermon on the mount, He reminded them of the basic points...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q27",
+          "week": 3,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Matthew 5:17, Jesus said He came to destroy the demands of the law and the prophets.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The lesson states 'Jesus said He came to fulfil the demands of the law and the prophets'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q28",
+          "week": 3,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Jesus spoke of His authority over life being the source of life in which of the following pairs of verses?",
+          "options": [
+            "A. John 10:10b; 14:19",
+            "B. John 14:1-3; Acts 4:12",
+            "C. John 10:17-18; John 8:32",
+            "D. Matthew 28:5-7; Acts 10:41"
+          ],
+          "answer": "A",
+          "explanation": "The outline cites '(John 10:10b; 14:19)' directly after 'Jesus spoke of His authority over life being the source of life'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q29",
+          "week": 3,
+          "category": "bible_verse_meaning",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Jesus laid down His life for His '________', and then took it back again (John 10:17-18).",
+          "options": [
+            "A. disciples",
+            "B. friends",
+            "C. sheep",
+            "D. children"
+          ],
+          "answer": "C",
+          "explanation": "The lesson states: 'He laid down His life for His ‘sheep,’ and then took it back again'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q30",
+          "week": 3,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to show that Jesus brought true deliverance from a life of bondage to sin and death to a life of victory?",
+          "options": [
+            "A. John 3:15-16; 10:28",
+            "B. Psalm 119:142; John 8:32",
+            "C. Exodus 14:21-23; Joshua 10:12-14",
+            "D. Matthew 5:21-22"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(John 3:15-16; 10:28)' for this point.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q31",
+          "week": 3,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion of the lesson states that there is still much controversy over whether Jesus Christ is God.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The conclusion states: 'There is no controversy, Jesus Christ is God.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W3Q32",
+          "week": 3,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? '“If you had known Me, you would have known My Father also; and from now on you know Him and have seen Him.”'",
+          "verse_text": "“If you had known Me, you would have known My Father also; and from now on you know Him and have seen Him.”",
+          "options": [
+            "A. John 10:38",
+            "B. John 14:7",
+            "C. Philippians 2:6",
+            "D. Matthew 14:25"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 7 from the main Bible Passage, John 14:6-11.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W3Q33",
+          "week": 3,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is NOT one of the miracles of Jesus listed in the lesson?",
+          "options": [
+            "A. Walked on water",
+            "B. Turned water to wine",
+            "C. Multiplied a meal",
+            "D. Parted the Red Sea"
+          ],
+          "answer": "D",
+          "explanation": "Parting the Red Sea (Exodus 14) is cited as a general miracle of God, but not listed under 'miracles were performed by Jesus'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W3Q34",
+          "week": 3,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "true_false",
+          "question": "By reminding His followers of the basic points of the law and giving new commands, Jesus was equating Himself with God as the authoritative standard of righteousness.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The lesson explicitly says 'thereby equating Himself with God as the authoritative standard of righteousness.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W3Q35",
+          "week": 3,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Believe Me that I am in the Father and the Father in Me, or else believe Me for the sake of the works themselves.'",
+          "verse_text": "Believe Me that I am in the Father and the Father in Me, or else believe Me for the sake of the works themselves.",
+          "options": [
+            "A. John 10:38",
+            "B. John 14:11",
+            "C. John 1:1",
+            "D. John 14:6"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 11 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        }
+      ]
+    }
+  ]
+}

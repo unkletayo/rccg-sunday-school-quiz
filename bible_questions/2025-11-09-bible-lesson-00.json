@@ -1,0 +1,1200 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "SPIRITUAL MATURITY",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'My son, hear the instruction of thy father, and forsake not the law of thy mother:'",
+          "options": [
+            "A. Proverbs 2:8",
+            "B. Proverbs 1:7",
+            "C. Proverbs 1:8",
+            "D. Proverbs 1:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'My son, hear the instruction of thy father, and forsake not the law of thy mother:' is found in Proverbs 1:8.",
+          "source_section": "Proverbs 1:8"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 1:8:\nMy son, _____ the _____ of thy father, and _____ not the law of thy mother:",
+          "answer": "hear, instruction, forsake",
+          "keywords": [
+            "hear",
+            "instruction",
+            "forsake"
+          ],
+          "explanation": "The full text is: My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+          "source_section": "Proverbs 1:8"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.'",
+          "options": [
+            "A. 2 Corinthians 4:17",
+            "B. 2 Corinthians 4:18",
+            "C. 2 Corinthians 5:18",
+            "D. 2 Corinthians 4:19"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.' is found in 2 Corinthians 4:18.",
+          "source_section": "2 Corinthians 4:18"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 4:18:\nWhile we _____ not at the things which are seen, but at the _____ which are not seen: for the _____ which are seen are temporal; but the things which are not seen are eternal.",
+          "answer": "look, things, things",
+          "keywords": [
+            "look",
+            "things",
+            "things"
+          ],
+          "explanation": "The full text is: While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+          "source_section": "2 Corinthians 4:18"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.'",
+          "options": [
+            "A. Proverbs 16:31",
+            "B. Proverbs 16:33",
+            "C. Proverbs 17:32",
+            "D. Proverbs 16:32"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.' is found in Proverbs 16:32.",
+          "source_section": "Proverbs 16:32"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 16:32:\nHe that is slow to _____ is better than the mighty; and he _____ ruleth his spirit than he _____ taketh a city.",
+          "answer": "anger, that, that",
+          "keywords": [
+            "anger",
+            "that",
+            "that"
+          ],
+          "explanation": "The full text is: He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.",
+          "source_section": "Proverbs 16:32"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.'",
+          "options": [
+            "A. James 1:25",
+            "B. James 1:26",
+            "C. James 1:24",
+            "D. James 2:25"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.' is found in James 1:25.",
+          "source_section": "James 1:25"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:25:\nBut whoso looketh into the perfect law of liberty, and continueth _____, he _____ not a forgetful hearer, but a _____ of the work, this man shall be blessed in his deed.",
+          "answer": "therein, being, doer",
+          "keywords": [
+            "therein",
+            "being",
+            "doer"
+          ],
+          "explanation": "The full text is: But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed.",
+          "source_section": "James 1:25"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,'",
+          "options": [
+            "A. Galatians 5:22",
+            "B. Galatians 5:23",
+            "C. Galatians 6:22",
+            "D. Galatians 5:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,' is found in Galatians 5:22.",
+          "source_section": "Galatians 5:22"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:22:\nBut the fruit of the Spirit is _____, joy, _____, longsuffering, gentleness, goodness, _____,",
+          "answer": "love, peace, faith",
+          "keywords": [
+            "love",
+            "peace",
+            "faith"
+          ],
+          "explanation": "The full text is: But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+          "source_section": "Galatians 5:22"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.13.15 maintain: Heb. prove, or, argue'",
+          "options": [
+            "A. Job 13:16",
+            "B. Job 13:15",
+            "C. Job 14:15",
+            "D. Job 13:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.13.15 maintain: Heb. prove, or, argue' is found in Job 13:15.",
+          "source_section": "Job 13:15"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 13:15:\nThough he slay me, yet will I trust in him: but I will _____ mine own _____ _____ him.13.15 maintain: Heb. prove, or, argue",
+          "answer": "maintain, ways, before",
+          "keywords": [
+            "maintain",
+            "ways",
+            "before"
+          ],
+          "explanation": "The full text is: Though he slay me, yet will I trust in him: but I will maintain mine own ways before him.13.15 maintain: Heb. prove, or, argue",
+          "source_section": "Job 13:15"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;'",
+          "options": [
+            "A. 2 Timothy 4:4",
+            "B. 2 Timothy 5:3",
+            "C. 2 Timothy 4:2",
+            "D. 2 Timothy 4:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;' is found in 2 Timothy 4:3.",
+          "source_section": "2 Timothy 4:3"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 4:3:\nFor the time will come _____ they will not endure _____ doctrine; but after their own lusts shall they heap to themselves _____, having itching ears;",
+          "answer": "when, sound, teachers",
+          "keywords": [
+            "when",
+            "sound",
+            "teachers"
+          ],
+          "explanation": "The full text is: For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;",
+          "source_section": "2 Timothy 4:3"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'It is an honour for a man to cease from strife: but every fool will be meddling.'",
+          "options": [
+            "A. Proverbs 20:4",
+            "B. Proverbs 20:3",
+            "C. Proverbs 21:3",
+            "D. Proverbs 20:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'It is an honour for a man to cease from strife: but every fool will be meddling.' is found in Proverbs 20:3.",
+          "source_section": "Proverbs 20:3"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 20:3:\nIt is an honour for a man to cease _____ _____: but every fool _____ be meddling.",
+          "answer": "from, strife, will",
+          "keywords": [
+            "from",
+            "strife",
+            "will"
+          ],
+          "explanation": "The full text is: It is an honour for a man to cease from strife: but every fool will be meddling.",
+          "source_section": "Proverbs 20:3"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'There is that speaketh like the piercings of a sword: but the tongue of the wise is health.'",
+          "options": [
+            "A. Proverbs 13:18",
+            "B. Proverbs 12:17",
+            "C. Proverbs 12:19",
+            "D. Proverbs 12:18"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'There is that speaketh like the piercings of a sword: but the tongue of the wise is health.' is found in Proverbs 12:18.",
+          "source_section": "Proverbs 12:18"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 12:18:\nThere is that _____ _____ the piercings of a sword: but the tongue of the _____ is health.",
+          "answer": "speaketh, like, wise",
+          "keywords": [
+            "speaketh",
+            "like",
+            "wise"
+          ],
+          "explanation": "The full text is: There is that speaketh like the piercings of a sword: but the tongue of the wise is health.",
+          "source_section": "Proverbs 12:18"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.'",
+          "options": [
+            "A. 1 John 2:16",
+            "B. 1 John 3:15",
+            "C. 1 John 2:15-17",
+            "D. 1 John 2:14"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.' is found in 1 John 2:15-17.",
+          "source_section": "1 John 2:15-17"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 John 2:15-17:\nLove not the world, _____ the things that are in the world. If any man _____ the _____, the love of the Father is not in him.",
+          "answer": "neither, love, world",
+          "keywords": [
+            "neither",
+            "love",
+            "world"
+          ],
+          "explanation": "The full text is: Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+          "source_section": "1 John 2:15-17"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.'",
+          "options": [
+            "A. Colossians 3:13",
+            "B. Colossians 4:13",
+            "C. Colossians 3:12",
+            "D. Colossians 3:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.' is found in Colossians 3:13.",
+          "source_section": "Colossians 3:13"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 3:13:\n_____ one _____, and _____ one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+          "answer": "Forbearing, another, forgiving",
+          "keywords": [
+            "Forbearing",
+            "another",
+            "forgiving"
+          ],
+          "explanation": "The full text is: Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+          "source_section": "Colossians 3:13"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The just man walketh in his integrity: his children are blessed after him.'",
+          "options": [
+            "A. Proverbs 20:6",
+            "B. Proverbs 20:7",
+            "C. Proverbs 20:8",
+            "D. Proverbs 21:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The just man walketh in his integrity: his children are blessed after him.' is found in Proverbs 20:7.",
+          "source_section": "Proverbs 20:7"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 20:7:\nThe just man _____ in his integrity: his _____ are _____ after him.",
+          "answer": "walketh, children, blessed",
+          "keywords": [
+            "walketh",
+            "children",
+            "blessed"
+          ],
+          "explanation": "The full text is: The just man walketh in his integrity: his children are blessed after him.",
+          "source_section": "Proverbs 20:7"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.'",
+          "options": [
+            "A. Proverbs 17:14",
+            "B. Proverbs 18:14",
+            "C. Proverbs 17:15",
+            "D. Proverbs 17:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.' is found in Proverbs 17:14.",
+          "source_section": "Proverbs 17:14"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 17:14:\nThe beginning of strife is as _____ one letteth out water: therefore leave off contention, before it be _____ _____.",
+          "answer": "when, meddled, with",
+          "keywords": [
+            "when",
+            "meddled",
+            "with"
+          ],
+          "explanation": "The full text is: The beginning of strife is as when one letteth out water: therefore leave off contention, before it be meddled with.",
+          "source_section": "Proverbs 17:14"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.'",
+          "options": [
+            "A. Acts 17:12",
+            "B. Acts 17:11",
+            "C. Acts 17:10",
+            "D. Acts 18:11"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.' is found in Acts 17:11.",
+          "source_section": "Acts 17:11"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 17:11:\nThese were more noble than those in _____, in that _____ received the word with all readiness of mind, and searched the _____ daily, whether those things were so.",
+          "answer": "Thessalonica, they, scriptures",
+          "keywords": [
+            "Thessalonica",
+            "they",
+            "scriptures"
+          ],
+          "explanation": "The full text is: These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.",
+          "source_section": "Acts 17:11"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And that ye put on the new man, which after God is created in righteousness and true holiness.'",
+          "options": [
+            "A. Ephesians 5:24",
+            "B. Ephesians 4:24",
+            "C. Ephesians 4:23",
+            "D. Ephesians 4:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And that ye put on the new man, which after God is created in righteousness and true holiness.' is found in Ephesians 4:24.",
+          "source_section": "Ephesians 4:24"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:24:\nAnd _____ ye put on the new man, which _____ God is created in _____ and true holiness.",
+          "answer": "that, after, righteousness",
+          "keywords": [
+            "that",
+            "after",
+            "righteousness"
+          ],
+          "explanation": "The full text is: And that ye put on the new man, which after God is created in righteousness and true holiness.",
+          "source_section": "Ephesians 4:24"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'God forbid that I should justify you: till I die I will not remove mine integrity from me.'",
+          "options": [
+            "A. Job 27:5",
+            "B. Job 28:5",
+            "C. Job 27:4",
+            "D. Job 27:6"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'God forbid that I should justify you: till I die I will not remove mine integrity from me.' is found in Job 27:5.",
+          "source_section": "Job 27:5"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 27:5:\nGod forbid that I _____ _____ you: till I die I will not remove mine integrity _____ me.",
+          "answer": "should, justify, from",
+          "keywords": [
+            "should",
+            "justify",
+            "from"
+          ],
+          "explanation": "The full text is: God forbid that I should justify you: till I die I will not remove mine integrity from me.",
+          "source_section": "Job 27:5"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;'",
+          "options": [
+            "A. Philippians 3:10",
+            "B. Philippians 3:11",
+            "C. Philippians 3:9",
+            "D. Philippians 4:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;' is found in Philippians 3:10.",
+          "source_section": "Philippians 3:10"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 3:10:\n_____ I may know him, and the _____ of his _____, and the fellowship of his sufferings, being made conformable unto his death;",
+          "answer": "That, power, resurrection",
+          "keywords": [
+            "That",
+            "power",
+            "resurrection"
+          ],
+          "explanation": "The full text is: That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;",
+          "source_section": "Philippians 3:10"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?'",
+          "options": [
+            "A. 1 Corinthians 4:3",
+            "B. 1 Corinthians 3:3",
+            "C. 1 Corinthians 3:4",
+            "D. 1 Corinthians 3:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?' is found in 1 Corinthians 3:3.",
+          "source_section": "1 Corinthians 3:3"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 3:3:\nFor ye are yet _____: for whereas there is among you envying, and strife, and divisions, are ye not _____, and _____ as men?",
+          "answer": "carnal, carnal, walk",
+          "keywords": [
+            "carnal",
+            "carnal",
+            "walk"
+          ],
+          "explanation": "The full text is: For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?",
+          "source_section": "1 Corinthians 3:3"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.'",
+          "options": [
+            "A. John 8:7",
+            "B. John 8:6",
+            "C. John 9:7",
+            "D. John 8:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.' is found in John 8:7.",
+          "source_section": "John 8:7"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 8:7:\nSo when they continued asking him, he lifted up himself, and _____ unto them, He _____ is without sin among you, let him _____ cast a stone at her.",
+          "answer": "said, that, first",
+          "keywords": [
+            "said",
+            "that",
+            "first"
+          ],
+          "explanation": "The full text is: So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.",
+          "source_section": "John 8:7"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let no man seek his own, but every man another\u2019s wealth.'",
+          "options": [
+            "A. 1 Corinthians 11:24",
+            "B. 1 Corinthians 10:24",
+            "C. 1 Corinthians 10:23",
+            "D. 1 Corinthians 10:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Let no man seek his own, but every man another\u2019s wealth.' is found in 1 Corinthians 10:24.",
+          "source_section": "1 Corinthians 10:24"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 10:24:\nLet no man seek his own, but _____ man _____ _____.",
+          "answer": "every, another\u2019s, wealth",
+          "keywords": [
+            "every",
+            "another\u2019s",
+            "wealth"
+          ],
+          "explanation": "The full text is: Let no man seek his own, but every man another\u2019s wealth.",
+          "source_section": "1 Corinthians 10:24"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.'",
+          "options": [
+            "A. 1 Corinthians 10:9",
+            "B. 1 Corinthians 10:11",
+            "C. 1 Corinthians 11:10",
+            "D. 1 Corinthians 10:10"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.' is found in 1 Corinthians 10:10.",
+          "source_section": "1 Corinthians 10:10"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 10:10:\n_____ _____ ye, as some of _____ also murmured, and were destroyed of the destroyer.",
+          "answer": "Neither, murmur, them",
+          "keywords": [
+            "Neither",
+            "murmur",
+            "them"
+          ],
+          "explanation": "The full text is: Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.",
+          "source_section": "1 Corinthians 10:10"
+        },
+        {
+          "id": "BW0Q43",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For all seek their own, not the things which are Jesus Christ\u2019s.'",
+          "options": [
+            "A. Philippians 2:22",
+            "B. Philippians 3:21",
+            "C. Philippians 2:20",
+            "D. Philippians 2:21"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For all seek their own, not the things which are Jesus Christ\u2019s.' is found in Philippians 2:21.",
+          "source_section": "Philippians 2:21"
+        },
+        {
+          "id": "BW0Q44",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 2:21:\nFor all _____ their own, not the _____ which are Jesus _____.",
+          "answer": "seek, things, Christ\u2019s",
+          "keywords": [
+            "seek",
+            "things",
+            "Christ\u2019s"
+          ],
+          "explanation": "The full text is: For all seek their own, not the things which are Jesus Christ\u2019s.",
+          "source_section": "Philippians 2:21"
+        },
+        {
+          "id": "BW0Q45",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.'",
+          "options": [
+            "A. Another book 4:3",
+            "B. Another book 2:10",
+            "C. Romans 8:4, 14",
+            "D. Another book 1:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.' is found in Romans 8:4, 14.",
+          "source_section": "Romans 8:4, 14"
+        },
+        {
+          "id": "BW0Q46",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:4, 14:\nThat the righteousness of the law _____ be _____ in us, who walk not after the flesh, but _____ the Spirit.",
+          "answer": "might, fulfilled, after",
+          "keywords": [
+            "might",
+            "fulfilled",
+            "after"
+          ],
+          "explanation": "The full text is: That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+          "source_section": "Romans 8:4, 14"
+        },
+        {
+          "id": "BW0Q47",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.19.11 discretion: or, prudence'",
+          "options": [
+            "A. Proverbs 19:10",
+            "B. Proverbs 19:12",
+            "C. Proverbs 19:11",
+            "D. Proverbs 20:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.19.11 discretion: or, prudence' is found in Proverbs 19:11.",
+          "source_section": "Proverbs 19:11"
+        },
+        {
+          "id": "BW0Q48",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 19:11:\nThe discretion of a man deferreth his anger; and it is his _____ to pass over a _____ discretion: or, _____",
+          "answer": "glory, transgression.19.11, prudence",
+          "keywords": [
+            "glory",
+            "transgression.19.11",
+            "prudence"
+          ],
+          "explanation": "The full text is: The discretion of a man deferreth his anger; and it is his glory to pass over a transgression.19.11 discretion: or, prudence",
+          "source_section": "Proverbs 19:11"
+        },
+        {
+          "id": "BW0Q49",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.'",
+          "options": [
+            "A. James 4:7",
+            "B. James 5:6",
+            "C. James 4:5",
+            "D. James 4:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.' is found in James 4:6.",
+          "source_section": "James 4:6"
+        },
+        {
+          "id": "BW0Q50",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 4:6:\nBut he giveth more _____. Wherefore he saith, God resisteth the proud, but giveth _____ unto the _____.",
+          "answer": "grace, grace, humble",
+          "keywords": [
+            "grace",
+            "grace",
+            "humble"
+          ],
+          "explanation": "The full text is: But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.",
+          "source_section": "James 4:6"
+        },
+        {
+          "id": "BW0Q51",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.'",
+          "options": [
+            "A. James 3:14-16",
+            "B. James 3:15",
+            "C. James 3:13",
+            "D. James 4:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.' is found in James 3:14-16.",
+          "source_section": "James 3:14-16"
+        },
+        {
+          "id": "BW0Q52",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 3:14-16:\nBut if ye have _____ _____ and strife in your _____, glory not, and lie not against the truth.",
+          "answer": "bitter, envying, hearts",
+          "keywords": [
+            "bitter",
+            "envying",
+            "hearts"
+          ],
+          "explanation": "The full text is: But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.",
+          "source_section": "James 3:14-16"
+        },
+        {
+          "id": "BW0Q53",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.'",
+          "options": [
+            "A. Ephesians 3:10",
+            "B. Ephesians 2:11",
+            "C. Ephesians 2:10",
+            "D. Ephesians 2:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.' is found in Ephesians 2:10.",
+          "source_section": "Ephesians 2:10"
+        },
+        {
+          "id": "BW0Q54",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 2:10:\nFor we are his workmanship, _____ in Christ Jesus unto _____ works, which God hath before ordained that we _____ walk in them.",
+          "answer": "created, good, should",
+          "keywords": [
+            "created",
+            "good",
+            "should"
+          ],
+          "explanation": "The full text is: For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+          "source_section": "Ephesians 2:10"
+        },
+        {
+          "id": "BW0Q55",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,'",
+          "options": [
+            "A. 2 Timothy 3:3",
+            "B. 2 Timothy 3:1",
+            "C. 2 Timothy 4:2",
+            "D. 2 Timothy 3:2"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,' is found in 2 Timothy 3:2.",
+          "source_section": "2 Timothy 3:2"
+        },
+        {
+          "id": "BW0Q56",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 3:2:\nFor men shall be lovers of their own _____, covetous, _____, proud, blasphemers, disobedient to _____, unthankful, unholy,",
+          "answer": "selves, boasters, parents",
+          "keywords": [
+            "selves",
+            "boasters",
+            "parents"
+          ],
+          "explanation": "The full text is: For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,",
+          "source_section": "2 Timothy 3:2"
+        },
+        {
+          "id": "BW0Q57",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.'",
+          "options": [
+            "A. 2 Timothy 2:15",
+            "B. 2 Timothy 3:15",
+            "C. 2 Timothy 2:14",
+            "D. 2 Timothy 2:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.' is found in 2 Timothy 2:15.",
+          "source_section": "2 Timothy 2:15"
+        },
+        {
+          "id": "BW0Q58",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 2:15:\nStudy to shew _____ approved _____ God, a workman that needeth not to be ashamed, rightly dividing the word of _____.",
+          "answer": "thyself, unto, truth",
+          "keywords": [
+            "thyself",
+            "unto",
+            "truth"
+          ],
+          "explanation": "The full text is: Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+          "source_section": "2 Timothy 2:15"
+        },
+        {
+          "id": "BW0Q59",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.'",
+          "options": [
+            "A. 2 Corinthians 3:19",
+            "B. 2 Corinthians 3:17",
+            "C. 2 Corinthians 4:18",
+            "D. 2 Corinthians 3:18"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.' is found in 2 Corinthians 3:18.",
+          "source_section": "2 Corinthians 3:18"
+        },
+        {
+          "id": "BW0Q60",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 3:18:\nBut we all, with open face beholding as in a glass the glory of the Lord, are _____ into the _____ _____ from glory to glory, even as by the Spirit of the Lord.",
+          "answer": "changed, same, image",
+          "keywords": [
+            "changed",
+            "same",
+            "image"
+          ],
+          "explanation": "The full text is: But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.",
+          "source_section": "2 Corinthians 3:18"
+        },
+        {
+          "id": "BW0Q61",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He hath put down the mighty from their seats, and exalted them of low degree.'",
+          "options": [
+            "A. Luke 1:51",
+            "B. Luke 2:52",
+            "C. Luke 1:53",
+            "D. Luke 1:52"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'He hath put down the mighty from their seats, and exalted them of low degree.' is found in Luke 1:52.",
+          "source_section": "Luke 1:52"
+        },
+        {
+          "id": "BW0Q62",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 1:52:\nHe hath put down the _____ _____ their seats, and exalted them of low _____.",
+          "answer": "mighty, from, degree",
+          "keywords": [
+            "mighty",
+            "from",
+            "degree"
+          ],
+          "explanation": "The full text is: He hath put down the mighty from their seats, and exalted them of low degree.",
+          "source_section": "Luke 1:52"
+        },
+        {
+          "id": "BW0Q63",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:'",
+          "options": [
+            "A. Ephesians 4:13",
+            "B. Ephesians 4:14",
+            "C. Ephesians 5:13",
+            "D. Ephesians 4:12"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:' is found in Ephesians 4:13.",
+          "source_section": "Ephesians 4:13"
+        },
+        {
+          "id": "BW0Q64",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:13:\n_____ we all _____ in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, _____ the measure of the stature of the fulness of Christ:",
+          "answer": "Till, come, unto",
+          "keywords": [
+            "Till",
+            "come",
+            "unto"
+          ],
+          "explanation": "The full text is: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:",
+          "source_section": "Ephesians 4:13"
+        },
+        {
+          "id": "BW0Q65",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:'",
+          "options": [
+            "A. James 1:19",
+            "B. James 1:20",
+            "C. James 1:18",
+            "D. James 2:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:' is found in James 1:19.",
+          "source_section": "James 1:19"
+        },
+        {
+          "id": "BW0Q66",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:19:\n_____, my beloved brethren, let every man be swift to _____, slow to speak, slow to _____:",
+          "answer": "Wherefore, hear, wrath",
+          "keywords": [
+            "Wherefore",
+            "hear",
+            "wrath"
+          ],
+          "explanation": "The full text is: Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+          "source_section": "James 1:19"
+        },
+        {
+          "id": "BW0Q67",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'By humility and the fear of the LORD are riches, and honour, and life.22.4 By\u2026: or, The reward of humility, etc'",
+          "options": [
+            "A. Proverbs 22:5",
+            "B. Proverbs 22:3",
+            "C. Proverbs 23:4",
+            "D. Proverbs 22:4"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'By humility and the fear of the LORD are riches, and honour, and life.22.4 By\u2026: or, The reward of humility, etc' is found in Proverbs 22:4.",
+          "source_section": "Proverbs 22:4"
+        },
+        {
+          "id": "BW0Q68",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:4:\nBy humility and the _____ of the LORD are riches, and honour, and _____ By\u2026: or, The reward of _____, etc",
+          "answer": "fear, life.22.4, humility",
+          "keywords": [
+            "fear",
+            "life.22.4",
+            "humility"
+          ],
+          "explanation": "The full text is: By humility and the fear of the LORD are riches, and honour, and life.22.4 By\u2026: or, The reward of humility, etc",
+          "source_section": "Proverbs 22:4"
+        },
+        {
+          "id": "BW0Q69",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the manifestation of the Spirit is given to every man to profit withal.'",
+          "options": [
+            "A. 1 Corinthians 13:7",
+            "B. 1 Corinthians 12:6",
+            "C. 1 Corinthians 12:7",
+            "D. 1 Corinthians 12:8"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But the manifestation of the Spirit is given to every man to profit withal.' is found in 1 Corinthians 12:7.",
+          "source_section": "1 Corinthians 12:7"
+        },
+        {
+          "id": "BW0Q70",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 12:7:\nBut the _____ of the Spirit is _____ to every man to profit _____.",
+          "answer": "manifestation, given, withal",
+          "keywords": [
+            "manifestation",
+            "given",
+            "withal"
+          ],
+          "explanation": "The full text is: But the manifestation of the Spirit is given to every man to profit withal.",
+          "source_section": "1 Corinthians 12:7"
+        },
+        {
+          "id": "BW0Q71",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Judge not, that ye be not judged.'",
+          "options": [
+            "A. Matthew 7:1",
+            "B. Matthew 7:2",
+            "C. Matthew 8:1",
+            "D. Matthew 7:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Judge not, that ye be not judged.' is found in Matthew 7:1.",
+          "source_section": "Matthew 7:1"
+        },
+        {
+          "id": "BW0Q72",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 7:1:\n_____ not, _____ ye be not _____.",
+          "answer": "Judge, that, judged",
+          "keywords": [
+            "Judge",
+            "that",
+            "judged"
+          ],
+          "explanation": "The full text is: Judge not, that ye be not judged.",
+          "source_section": "Matthew 7:1"
+        }
+      ]
+    }
+  ]
+}

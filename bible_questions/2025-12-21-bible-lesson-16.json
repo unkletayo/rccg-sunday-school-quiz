@@ -1,0 +1,804 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 16,
+      "topic": "DESTINY DESTROYERS",
+      "questions": [
+        {
+          "id": "BW16Q1",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.4.6 destroyed: Heb. cut off'",
+          "options": [
+            "A. Hosea 4:6",
+            "B. Hosea 4:7",
+            "C. Hosea 5:6",
+            "D. Hosea 4:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.4.6 destroyed: Heb. cut off' is found in Hosea 4:6.",
+          "source_section": "Hosea 4:6"
+        },
+        {
+          "id": "BW16Q2",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hosea 4:6:\n\u00b6 My people are destroyed for lack of knowledge: because thou hast _____ knowledge, I will also reject thee, _____ thou shalt be no priest to me: _____ thou hast forgotten the law of thy God, I will also forget thy children.4.6 destroyed: Heb. cut off",
+          "answer": "rejected, that, seeing",
+          "keywords": [
+            "rejected",
+            "that",
+            "seeing"
+          ],
+          "explanation": "The full text is: \u00b6 My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.4.6 destroyed: Heb. cut off",
+          "source_section": "Hosea 4:6"
+        },
+        {
+          "id": "BW16Q3",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;11.1 together\u2026: or, beside'",
+          "options": [
+            "A. 1 Kings 11:2",
+            "B. 1 Kings 12:1",
+            "C. 1 Kings 11:3",
+            "D. 1 Kings 11:1-6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;11.1 together\u2026: or, beside' is found in 1 Kings 11:1-6.",
+          "source_section": "1 Kings 11:1-6"
+        },
+        {
+          "id": "BW16Q4",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 11:1-6:\nBut _____ Solomon loved many _____ women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;11.1 _____: or, beside",
+          "answer": "king, strange, together\u2026",
+          "keywords": [
+            "king",
+            "strange",
+            "together\u2026"
+          ],
+          "explanation": "The full text is: But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;11.1 together\u2026: or, beside",
+          "source_section": "1 Kings 11:1-6"
+        },
+        {
+          "id": "BW16Q5",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The hand of the diligent shall bear rule: but the slothful shall be under tribute.12.24 slothful: or, deceitful'",
+          "options": [
+            "A. Proverbs 13:24",
+            "B. Proverbs 12:24",
+            "C. Proverbs 12:23",
+            "D. Proverbs 12:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The hand of the diligent shall bear rule: but the slothful shall be under tribute.12.24 slothful: or, deceitful' is found in Proverbs 12:24.",
+          "source_section": "Proverbs 12:24"
+        },
+        {
+          "id": "BW16Q6",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 12:24:\nThe _____ of the diligent shall bear _____: but the slothful shall be under tribute.12.24 slothful: or, _____",
+          "answer": "hand, rule, deceitful",
+          "keywords": [
+            "hand",
+            "rule",
+            "deceitful"
+          ],
+          "explanation": "The full text is: The hand of the diligent shall bear rule: but the slothful shall be under tribute.12.24 slothful: or, deceitful",
+          "source_section": "Proverbs 12:24"
+        },
+        {
+          "id": "BW16Q7",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And ye shall know the truth, and the truth shall make you free.'",
+          "options": [
+            "A. John 8:33",
+            "B. John 9:32",
+            "C. John 8:32",
+            "D. John 8:31"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And ye shall know the truth, and the truth shall make you free.' is found in John 8:32.",
+          "source_section": "John 8:32"
+        },
+        {
+          "id": "BW16Q8",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 8:32:\nAnd ye shall know the _____, and the truth _____ make you _____.",
+          "answer": "truth, shall, free",
+          "keywords": [
+            "truth",
+            "shall",
+            "free"
+          ],
+          "explanation": "The full text is: And ye shall know the truth, and the truth shall make you free.",
+          "source_section": "John 8:32"
+        },
+        {
+          "id": "BW16Q9",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation'",
+          "options": [
+            "A. Jeremiah 30:11",
+            "B. Jeremiah 29:11",
+            "C. Jeremiah 29:10",
+            "D. Jeremiah 29:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation' is found in Jeremiah 29:11.",
+          "source_section": "Jeremiah 29:11"
+        },
+        {
+          "id": "BW16Q10",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 29:11:\nFor I _____ the _____ that I think toward you, saith the LORD, _____ of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation",
+          "answer": "know, thoughts, thoughts",
+          "keywords": [
+            "know",
+            "thoughts",
+            "thoughts"
+          ],
+          "explanation": "The full text is: For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation",
+          "source_section": "Jeremiah 29:11"
+        },
+        {
+          "id": "BW16Q11",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.'",
+          "options": [
+            "A. 2 Timothy 4:11",
+            "B. 2 Timothy 4:10",
+            "C. 2 Timothy 4:9",
+            "D. 2 Timothy 5:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.' is found in 2 Timothy 4:10.",
+          "source_section": "2 Timothy 4:10"
+        },
+        {
+          "id": "BW16Q12",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 4:10:\nFor Demas hath forsaken me, _____ loved this present world, and is departed unto Thessalonica; Crescens to _____, Titus unto _____.",
+          "answer": "having, Galatia, Dalmatia",
+          "keywords": [
+            "having",
+            "Galatia",
+            "Dalmatia"
+          ],
+          "explanation": "The full text is: For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia.",
+          "source_section": "2 Timothy 4:10"
+        },
+        {
+          "id": "BW16Q13",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.'",
+          "options": [
+            "A. Ecclesiastes 2:9",
+            "B. Ecclesiastes 2:11",
+            "C. Ecclesiastes 2:10-11",
+            "D. Ecclesiastes 3:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.' is found in Ecclesiastes 2:10-11.",
+          "source_section": "Ecclesiastes 2:10-11"
+        },
+        {
+          "id": "BW16Q14",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 2:10-11:\nAnd whatsoever mine eyes _____ I kept not _____ them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my _____ of all my labour.",
+          "answer": "desired, from, portion",
+          "keywords": [
+            "desired",
+            "from",
+            "portion"
+          ],
+          "explanation": "The full text is: And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+          "source_section": "Ecclesiastes 2:10-11"
+        },
+        {
+          "id": "BW16Q15",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.'",
+          "options": [
+            "A. Romans 8:29",
+            "B. Romans 8:27",
+            "C. Romans 9:28",
+            "D. Romans 8:28-32"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.' is found in Romans 8:28-32.",
+          "source_section": "Romans 8:28-32"
+        },
+        {
+          "id": "BW16Q16",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:28-32:\nAnd we know that all things work _____ for good to them that _____ God, to them who are the called according to his _____.",
+          "answer": "together, love, purpose",
+          "keywords": [
+            "together",
+            "love",
+            "purpose"
+          ],
+          "explanation": "The full text is: And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+          "source_section": "Romans 8:28-32"
+        },
+        {
+          "id": "BW16Q17",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The LORD is my shepherd; I shall not want.'",
+          "options": [
+            "A. Psalm 23:1",
+            "B. Psalm 23:2",
+            "C. Psalm 24:1",
+            "D. Psalm 23:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The LORD is my shepherd; I shall not want.' is found in Psalm 23:1.",
+          "source_section": "Psalm 23:1"
+        },
+        {
+          "id": "BW16Q18",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 23:1:\nThe LORD is my _____; I _____ not _____.",
+          "answer": "shepherd, shall, want",
+          "keywords": [
+            "shepherd",
+            "shall",
+            "want"
+          ],
+          "explanation": "The full text is: The LORD is my shepherd; I shall not want.",
+          "source_section": "Psalm 23:1"
+        },
+        {
+          "id": "BW16Q19",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.'",
+          "options": [
+            "A. James 4:7",
+            "B. James 5:6",
+            "C. James 4:5",
+            "D. James 4:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.' is found in James 4:6.",
+          "source_section": "James 4:6"
+        },
+        {
+          "id": "BW16Q20",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 4:6:\nBut he _____ more _____. Wherefore he saith, God resisteth the proud, but giveth grace _____ the humble.",
+          "answer": "giveth, grace, unto",
+          "keywords": [
+            "giveth",
+            "grace",
+            "unto"
+          ],
+          "explanation": "The full text is: But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.",
+          "source_section": "James 4:6"
+        },
+        {
+          "id": "BW16Q21",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Vanity of vanities, saith the preacher; all is vanity.'",
+          "options": [
+            "A. Ecclesiastes 12:7",
+            "B. Ecclesiastes 13:8",
+            "C. Ecclesiastes 12:8",
+            "D. Ecclesiastes 12:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Vanity of vanities, saith the preacher; all is vanity.' is found in Ecclesiastes 12:8.",
+          "source_section": "Ecclesiastes 12:8"
+        },
+        {
+          "id": "BW16Q22",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 12:8:\n\u00b6 Vanity of _____, saith the _____; all is _____.",
+          "answer": "vanities, preacher, vanity",
+          "keywords": [
+            "vanities",
+            "preacher",
+            "vanity"
+          ],
+          "explanation": "The full text is: \u00b6 Vanity of vanities, saith the preacher; all is vanity.",
+          "source_section": "Ecclesiastes 12:8"
+        },
+        {
+          "id": "BW16Q23",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,'",
+          "options": [
+            "A. Matthew 27:3-5",
+            "B. Matthew 28:3",
+            "C. Matthew 27:4",
+            "D. Matthew 27:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,' is found in Matthew 27:3-5.",
+          "source_section": "Matthew 27:3-5"
+        },
+        {
+          "id": "BW16Q24",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 27:3-5:\n\u00b6 _____ Judas, which had betrayed him, when he saw _____ he was condemned, repented himself, and brought again the thirty pieces of silver to the _____ priests and elders,",
+          "answer": "Then, that, chief",
+          "keywords": [
+            "Then",
+            "that",
+            "chief"
+          ],
+          "explanation": "The full text is: \u00b6 Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,",
+          "source_section": "Matthew 27:3-5"
+        },
+        {
+          "id": "BW16Q25",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In my Father\u2019s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.'",
+          "options": [
+            "A. John 14:2-3",
+            "B. John 14:1",
+            "C. John 14:3",
+            "D. John 15:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'In my Father\u2019s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.' is found in John 14:2-3.",
+          "source_section": "John 14:2-3"
+        },
+        {
+          "id": "BW16Q26",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:2-3:\nIn my Father\u2019s house are _____ _____: if it were not so, I would have told you. I go to _____ a place for you.",
+          "answer": "many, mansions, prepare",
+          "keywords": [
+            "many",
+            "mansions",
+            "prepare"
+          ],
+          "explanation": "The full text is: In my Father\u2019s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.",
+          "source_section": "John 14:2-3"
+        },
+        {
+          "id": "BW16Q27",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'An angry man stirreth up strife, and a furious man aboundeth in transgression.'",
+          "options": [
+            "A. Proverbs 29:22",
+            "B. Proverbs 30:22",
+            "C. Proverbs 29:21",
+            "D. Proverbs 29:23"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'An angry man stirreth up strife, and a furious man aboundeth in transgression.' is found in Proverbs 29:22.",
+          "source_section": "Proverbs 29:22"
+        },
+        {
+          "id": "BW16Q28",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:22:\nAn angry man stirreth up _____, and a _____ man _____ in transgression.",
+          "answer": "strife, furious, aboundeth",
+          "keywords": [
+            "strife",
+            "furious",
+            "aboundeth"
+          ],
+          "explanation": "The full text is: An angry man stirreth up strife, and a furious man aboundeth in transgression.",
+          "source_section": "Proverbs 29:22"
+        },
+        {
+          "id": "BW16Q29",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:'",
+          "options": [
+            "A. 1 Timothy 2:19",
+            "B. 1 Timothy 1:19",
+            "C. 1 Timothy 1:18",
+            "D. 1 Timothy 1:20"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:' is found in 1 Timothy 1:19.",
+          "source_section": "1 Timothy 1:19"
+        },
+        {
+          "id": "BW16Q30",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 1:19:\nHolding faith, and a good _____; which some _____ put _____ concerning faith have made shipwreck:",
+          "answer": "conscience, having, away",
+          "keywords": [
+            "conscience",
+            "having",
+            "away"
+          ],
+          "explanation": "The full text is: Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+          "source_section": "1 Timothy 1:19"
+        },
+        {
+          "id": "BW16Q31",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But while men slept, his enemy came and sowed tares among the wheat, and went his way.'",
+          "options": [
+            "A. Matthew 13:25",
+            "B. Matthew 13:26",
+            "C. Matthew 14:25",
+            "D. Matthew 13:24"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But while men slept, his enemy came and sowed tares among the wheat, and went his way.' is found in Matthew 13:25.",
+          "source_section": "Matthew 13:25"
+        },
+        {
+          "id": "BW16Q32",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 13:25:\nBut _____ men slept, his enemy came and sowed tares among the _____, and _____ his way.",
+          "answer": "while, wheat, went",
+          "keywords": [
+            "while",
+            "wheat",
+            "went"
+          ],
+          "explanation": "The full text is: But while men slept, his enemy came and sowed tares among the wheat, and went his way.",
+          "source_section": "Matthew 13:25"
+        },
+        {
+          "id": "BW16Q33",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:'",
+          "options": [
+            "A. Genesis 49:3-4",
+            "B. Genesis 49:2",
+            "C. Genesis 49:4",
+            "D. Genesis 50:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:' is found in Genesis 49:3-4.",
+          "source_section": "Genesis 49:3-4"
+        },
+        {
+          "id": "BW16Q34",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 49:3-4:\n\u00b6 Reuben, thou art my firstborn, my might, and the beginning of my _____, the excellency of dignity, and the _____ of _____:",
+          "answer": "strength, excellency, power",
+          "keywords": [
+            "strength",
+            "excellency",
+            "power"
+          ],
+          "explanation": "The full text is: \u00b6 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
+          "source_section": "Genesis 49:3-4"
+        },
+        {
+          "id": "BW16Q35",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.'",
+          "options": [
+            "A. Joshua 7:25",
+            "B. Joshua 7:24-25",
+            "C. Joshua 8:24",
+            "D. Joshua 7:23"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.' is found in Joshua 7:24-25.",
+          "source_section": "Joshua 7:24-25"
+        },
+        {
+          "id": "BW16Q36",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 7:24-25:\nAnd Joshua, and all Israel with him, took Achan the son of Zerah, and the _____, and the garment, and the wedge of gold, and his sons, and his _____, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them _____ the valley of Achor.",
+          "answer": "silver, daughters, unto",
+          "keywords": [
+            "silver",
+            "daughters",
+            "unto"
+          ],
+          "explanation": "The full text is: And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.",
+          "source_section": "Joshua 7:24-25"
+        },
+        {
+          "id": "BW16Q37",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.'",
+          "options": [
+            "A. Judges 16:6-18",
+            "B. Judges 16:7",
+            "C. Judges 17:6",
+            "D. Judges 16:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.' is found in Judges 16:6-18.",
+          "source_section": "Judges 16:6-18"
+        },
+        {
+          "id": "BW16Q38",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 16:6-18:\n\u00b6 And Delilah said to Samson, Tell me, I pray _____, wherein thy great _____ lieth, and wherewith thou _____ be bound to afflict thee.",
+          "answer": "thee, strength, mightest",
+          "keywords": [
+            "thee",
+            "strength",
+            "mightest"
+          ],
+          "explanation": "The full text is: \u00b6 And Delilah said to Samson, Tell me, I pray thee, wherein thy great strength lieth, and wherewith thou mightest be bound to afflict thee.",
+          "source_section": "Judges 16:6-18"
+        },
+        {
+          "id": "BW16Q39",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.'",
+          "options": [
+            "A. 1 Corinthians 3:9",
+            "B. 1 Corinthians 2:10",
+            "C. 1 Corinthians 2:8",
+            "D. 1 Corinthians 2:9"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.' is found in 1 Corinthians 2:9.",
+          "source_section": "1 Corinthians 2:9"
+        },
+        {
+          "id": "BW16Q40",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 2:9:\nBut as it is _____, Eye hath not seen, nor ear heard, neither have _____ into the heart of man, the things which God hath prepared for _____ that love him.",
+          "answer": "written, entered, them",
+          "keywords": [
+            "written",
+            "entered",
+            "them"
+          ],
+          "explanation": "The full text is: But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+          "source_section": "1 Corinthians 2:9"
+        },
+        {
+          "id": "BW16Q41",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.'",
+          "options": [
+            "A. 1 John 4:4",
+            "B. 1 John 3:4",
+            "C. 1 John 3:3",
+            "D. 1 John 3:5"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.' is found in 1 John 3:4.",
+          "source_section": "1 John 3:4"
+        },
+        {
+          "id": "BW16Q42",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 John 3:4:\nWhosoever _____ sin _____ also the law: for sin is the _____ of the law.",
+          "answer": "committeth, transgresseth, transgression",
+          "keywords": [
+            "committeth",
+            "transgresseth",
+            "transgression"
+          ],
+          "explanation": "The full text is: Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.",
+          "source_section": "1 John 3:4"
+        },
+        {
+          "id": "BW16Q43",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.'",
+          "options": [
+            "A. Hebrews 11:5",
+            "B. Hebrews 11:7",
+            "C. Hebrews 11:6",
+            "D. Hebrews 12:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.' is found in Hebrews 11:6.",
+          "source_section": "Hebrews 11:6"
+        },
+        {
+          "id": "BW16Q44",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 11:6:\nBut without faith it is _____ to please him: for he _____ cometh to God must believe _____ he is, and that he is a rewarder of them that diligently seek him.",
+          "answer": "impossible, that, that",
+          "keywords": [
+            "impossible",
+            "that",
+            "that"
+          ],
+          "explanation": "The full text is: But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+          "source_section": "Hebrews 11:6"
+        },
+        {
+          "id": "BW16Q45",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.'",
+          "options": [
+            "A. 2 Kings 5:20-27",
+            "B. 2 Kings 6:20",
+            "C. 2 Kings 5:21",
+            "D. 2 Kings 5:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.' is found in 2 Kings 5:20-27.",
+          "source_section": "2 Kings 5:20-27"
+        },
+        {
+          "id": "BW16Q46",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 5:20-27:\n\u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared _____ this _____, in not receiving at his hands that which he brought: but, as the LORD liveth, I _____ run after him, and take somewhat of him.",
+          "answer": "Naaman, Syrian, will",
+          "keywords": [
+            "Naaman",
+            "Syrian",
+            "will"
+          ],
+          "explanation": "The full text is: \u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.",
+          "source_section": "2 Kings 5:20-27"
+        },
+        {
+          "id": "BW16Q47",
+          "week": 16,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.1.5 ordained: Heb. gave'",
+          "options": [
+            "A. Jeremiah 1:5",
+            "B. Jeremiah 1:6",
+            "C. Jeremiah 2:5",
+            "D. Jeremiah 1:4"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.1.5 ordained: Heb. gave' is found in Jeremiah 1:5.",
+          "source_section": "Jeremiah 1:5"
+        },
+        {
+          "id": "BW16Q48",
+          "week": 16,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 1:5:\nBefore I formed thee in the belly I knew thee; and _____ thou camest forth out of the womb I sanctified thee, and I _____ thee a prophet _____ the nations.1.5 ordained: Heb. gave",
+          "answer": "before, ordained, unto",
+          "keywords": [
+            "before",
+            "ordained",
+            "unto"
+          ],
+          "explanation": "The full text is: Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.1.5 ordained: Heb. gave",
+          "source_section": "Jeremiah 1:5"
+        }
+      ]
+    }
+  ]
+}

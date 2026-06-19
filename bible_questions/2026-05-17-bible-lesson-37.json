@@ -1,0 +1,474 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 37,
+      "topic": "CHRISTIANITY AND HOMOSEXUALITY (Part 1)",
+      "questions": [
+        {
+          "id": "BW37Q1",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou shalt not lie with mankind, as with womankind: it is abomination.'",
+          "options": [
+            "A. Leviticus 19:22",
+            "B. Leviticus 18:22",
+            "C. Leviticus 18:21",
+            "D. Leviticus 18:23"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Thou shalt not lie with mankind, as with womankind: it is abomination.' is found in Leviticus 18:22.",
+          "source_section": "Leviticus 18:22"
+        },
+        {
+          "id": "BW37Q2",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Leviticus 18:22:\n_____ shalt not lie with _____, as with womankind: it is _____.",
+          "answer": "Thou, mankind, abomination",
+          "keywords": [
+            "Thou",
+            "mankind",
+            "abomination"
+          ],
+          "explanation": "The full text is: Thou shalt not lie with mankind, as with womankind: it is abomination.",
+          "source_section": "Leviticus 18:22"
+        },
+        {
+          "id": "BW37Q3",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:'",
+          "options": [
+            "A. Romans 1:27",
+            "B. Romans 1:25",
+            "C. Romans 1:26-28",
+            "D. Romans 2:26"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:' is found in Romans 1:26-28.",
+          "source_section": "Romans 1:26-28"
+        },
+        {
+          "id": "BW37Q4",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 1:26-28:\nFor this cause God gave _____ up unto vile affections: for even their women did _____ the natural use into _____ which is against nature:",
+          "answer": "them, change, that",
+          "keywords": [
+            "them",
+            "change",
+            "that"
+          ],
+          "explanation": "The full text is: For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:",
+          "source_section": "Romans 1:26-28"
+        },
+        {
+          "id": "BW37Q5",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.'",
+          "options": [
+            "A. Romans 1:21, 26-28",
+            "B. Another book 5:14",
+            "C. Another book 1:18",
+            "D. Another book 3:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.' is found in Romans 1:21, 26-28.",
+          "source_section": "Romans 1:21, 26-28"
+        },
+        {
+          "id": "BW37Q6",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 1:21, 26-28:\nBecause that, when they knew God, they glorified him not as God, _____ were thankful; but became _____ in their imaginations, and their foolish heart was _____.",
+          "answer": "neither, vain, darkened",
+          "keywords": [
+            "neither",
+            "vain",
+            "darkened"
+          ],
+          "explanation": "The full text is: Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.",
+          "source_section": "Romans 1:21, 26-28"
+        },
+        {
+          "id": "BW37Q7",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Abstain from all appearance of evil.'",
+          "options": [
+            "A. 1 Thessalonians 5:21",
+            "B. 1 Thessalonians 5:23",
+            "C. 1 Thessalonians 5:22",
+            "D. 1 Thessalonians 6:22"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Abstain from all appearance of evil.' is found in 1 Thessalonians 5:22.",
+          "source_section": "1 Thessalonians 5:22"
+        },
+        {
+          "id": "BW37Q8",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 5:22:\n_____ from all _____ of _____.",
+          "answer": "Abstain, appearance, evil",
+          "keywords": [
+            "Abstain",
+            "appearance",
+            "evil"
+          ],
+          "explanation": "The full text is: Abstain from all appearance of evil.",
+          "source_section": "1 Thessalonians 5:22"
+        },
+        {
+          "id": "BW37Q9",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.'",
+          "options": [
+            "A. 1 Corinthians 6:18",
+            "B. 1 Corinthians 7:18",
+            "C. 1 Corinthians 6:17",
+            "D. 1 Corinthians 6:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.' is found in 1 Corinthians 6:18.",
+          "source_section": "1 Corinthians 6:18"
+        },
+        {
+          "id": "BW37Q10",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 6:18:\nFlee fornication. Every sin that a man doeth is without the body; but he that committeth _____ _____ _____ his own body.",
+          "answer": "fornication, sinneth, against",
+          "keywords": [
+            "fornication",
+            "sinneth",
+            "against"
+          ],
+          "explanation": "The full text is: Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.",
+          "source_section": "1 Corinthians 6:18"
+        },
+        {
+          "id": "BW37Q11",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.2.20 gave: Heb. called'",
+          "options": [
+            "A. Genesis 3:20",
+            "B. Genesis 2:19",
+            "C. Genesis 2:20-25",
+            "D. Genesis 2:21"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.2.20 gave: Heb. called' is found in Genesis 2:20-25.",
+          "source_section": "Genesis 2:20-25"
+        },
+        {
+          "id": "BW37Q12",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 2:20-25:\nAnd Adam gave names to all _____, and to the fowl of the air, and to every beast of the field; but for Adam _____ was not found an help _____ for him.2.20 gave: Heb. called",
+          "answer": "cattle, there, meet",
+          "keywords": [
+            "cattle",
+            "there",
+            "meet"
+          ],
+          "explanation": "The full text is: And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.2.20 gave: Heb. called",
+          "source_section": "Genesis 2:20-25"
+        },
+        {
+          "id": "BW37Q13",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them.'",
+          "options": [
+            "A. Leviticus 21:13",
+            "B. Leviticus 20:14",
+            "C. Leviticus 20:12",
+            "D. Leviticus 20:13"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them.' is found in Leviticus 20:13.",
+          "source_section": "Leviticus 20:13"
+        },
+        {
+          "id": "BW37Q14",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Leviticus 20:13:\nIf a man also lie with mankind, as he lieth with a woman, _____ of them _____ committed an _____: they shall surely be put to death; their blood shall be upon them.",
+          "answer": "both, have, abomination",
+          "keywords": [
+            "both",
+            "have",
+            "abomination"
+          ],
+          "explanation": "The full text is: If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them.",
+          "source_section": "Leviticus 20:13"
+        },
+        {
+          "id": "BW37Q15",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:'",
+          "options": [
+            "A. Genesis 20:4",
+            "B. Genesis 19:5",
+            "C. Genesis 19:3",
+            "D. Genesis 19:4-5"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:' is found in Genesis 19:4-5.",
+          "source_section": "Genesis 19:4-5"
+        },
+        {
+          "id": "BW37Q16",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 19:4-5:\n\u00b6 But before they lay down, the men of the city, _____ the men of Sodom, compassed the house round, _____ old and young, all the people from every _____:",
+          "answer": "even, both, quarter",
+          "keywords": [
+            "even",
+            "both",
+            "quarter"
+          ],
+          "explanation": "The full text is: \u00b6 But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:",
+          "source_section": "Genesis 19:4-5"
+        },
+        {
+          "id": "BW37Q17",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;'",
+          "options": [
+            "A. Romans 1:29",
+            "B. Romans 1:28",
+            "C. Romans 1:27",
+            "D. Romans 2:28"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;' is found in Romans 1:28.",
+          "source_section": "Romans 1:28"
+        },
+        {
+          "id": "BW37Q18",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 1:28:\nAnd even as they did not _____ to retain God in _____ knowledge, God gave them over to a reprobate mind, to do those things which are not _____;",
+          "answer": "like, their, convenient",
+          "keywords": [
+            "like",
+            "their",
+            "convenient"
+          ],
+          "explanation": "The full text is: And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;",
+          "source_section": "Romans 1:28"
+        },
+        {
+          "id": "BW37Q19",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God\u2019s.'",
+          "options": [
+            "A. 1 Corinthians 6:20",
+            "B. 1 Corinthians 6:19",
+            "C. 1 Corinthians 6:21",
+            "D. 1 Corinthians 7:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God\u2019s.' is found in 1 Corinthians 6:20.",
+          "source_section": "1 Corinthians 6:20"
+        },
+        {
+          "id": "BW37Q20",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 6:20:\nFor ye are bought with a _____: therefore glorify God in your _____, and in your spirit, _____ are God\u2019s.",
+          "answer": "price, body, which",
+          "keywords": [
+            "price",
+            "body",
+            "which"
+          ],
+          "explanation": "The full text is: For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God\u2019s.",
+          "source_section": "1 Corinthians 6:20"
+        },
+        {
+          "id": "BW37Q21",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,'",
+          "options": [
+            "A. 1 Corinthians 7:9",
+            "B. 1 Corinthians 6:9-10",
+            "C. 1 Corinthians 6:10",
+            "D. 1 Corinthians 6:8"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,' is found in 1 Corinthians 6:9-10.",
+          "source_section": "1 Corinthians 6:9-10"
+        },
+        {
+          "id": "BW37Q22",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 6:9-10:\n_____ ye not that the unrighteous shall not inherit the kingdom of _____ Be not deceived: neither fornicators, nor _____, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+          "answer": "Know, God?, idolaters",
+          "keywords": [
+            "Know",
+            "God?",
+            "idolaters"
+          ],
+          "explanation": "The full text is: Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,",
+          "source_section": "1 Corinthians 6:9-10"
+        },
+        {
+          "id": "BW37Q23",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That every one of you should know how to possess his vessel in sanctification and honour;'",
+          "options": [
+            "A. 1 Thessalonians 4:5",
+            "B. 1 Thessalonians 5:4",
+            "C. 1 Thessalonians 4:4",
+            "D. 1 Thessalonians 4:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'That every one of you should know how to possess his vessel in sanctification and honour;' is found in 1 Thessalonians 4:4.",
+          "source_section": "1 Thessalonians 4:4"
+        },
+        {
+          "id": "BW37Q24",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 4:4:\nThat _____ one of you should _____ how to possess his vessel in sanctification and _____;",
+          "answer": "every, know, honour",
+          "keywords": [
+            "every",
+            "know",
+            "honour"
+          ],
+          "explanation": "The full text is: That every one of you should know how to possess his vessel in sanctification and honour;",
+          "source_section": "1 Thessalonians 4:4"
+        },
+        {
+          "id": "BW37Q25",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:'",
+          "options": [
+            "A. Romans 1:26-27",
+            "B. Romans 1:25",
+            "C. Romans 2:26",
+            "D. Romans 1:27"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:' is found in Romans 1:26-27.",
+          "source_section": "Romans 1:26-27"
+        },
+        {
+          "id": "BW37Q26",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 1:26-27:\nFor this cause God _____ them up unto vile affections: for even their _____ did change the natural use _____ that which is against nature:",
+          "answer": "gave, women, into",
+          "keywords": [
+            "gave",
+            "women",
+            "into"
+          ],
+          "explanation": "The full text is: For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:",
+          "source_section": "Romans 1:26-27"
+        },
+        {
+          "id": "BW37Q27",
+          "week": 37,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Lay hands suddenly on no man, neither be partaker of other men\u2019s sins: keep thyself pure.'",
+          "options": [
+            "A. 1 Timothy 5:22",
+            "B. 1 Timothy 6:22",
+            "C. 1 Timothy 5:21",
+            "D. 1 Timothy 5:23"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Lay hands suddenly on no man, neither be partaker of other men\u2019s sins: keep thyself pure.' is found in 1 Timothy 5:22.",
+          "source_section": "1 Timothy 5:22"
+        },
+        {
+          "id": "BW37Q28",
+          "week": 37,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 5:22:\nLay hands _____ on no man, _____ be partaker of other _____ sins: keep thyself pure.",
+          "answer": "suddenly, neither, men\u2019s",
+          "keywords": [
+            "suddenly",
+            "neither",
+            "men\u2019s"
+          ],
+          "explanation": "The full text is: Lay hands suddenly on no man, neither be partaker of other men\u2019s sins: keep thyself pure.",
+          "source_section": "1 Timothy 5:22"
+        }
+      ]
+    }
+  ]
+}

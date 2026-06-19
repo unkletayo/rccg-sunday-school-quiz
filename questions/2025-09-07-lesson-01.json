@@ -1,0 +1,630 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-15T22:50:00Z",
+  "weeks": [
+    {
+      "week_number": 1,
+      "topic": "THEOS BASILEIA",
+      "memory_verse_reference": "Matthew 6:33",
+      "questions": [
+        {
+          "id": "W1Q1",
+          "week": 1,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 1?",
+          "options": [
+            "A. THE GLORY OF GOD",
+            "B. THEOS BASILEIA",
+            "C. THE MEDIATORIAL KINGDOM",
+            "D. SPIRITUAL WARFARE"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly provided for Lesson One is THEOS BASILEIA.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W1Q2",
+          "week": 1,
+          "category": "greek_hebrew",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "What is the Greek word for 'God' used in the lesson title?",
+          "answer": "Theos",
+          "keywords": ["Theos"],
+          "explanation": "The introduction states that the Greek word 'Theos' means God.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W1Q3",
+          "week": 1,
+          "category": "greek_hebrew",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How is the Greek word 'Basileia' translated according to the lesson?",
+          "options": [
+            "A. Power, might, and dominion",
+            "B. Kingdom, realm, rule and royalty",
+            "C. Salvation, grace, and peace",
+            "D. Eternal life and righteousness"
+          ],
+          "answer": "B",
+          "explanation": "The lesson introduces 'Basileia' as translating to kingdom, realm, rule and royalty.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W1Q4",
+          "week": 1,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What does the full term 'Theos Basileia' refer to?",
+          "options": [
+            "A. The Kingdom of God",
+            "B. The Spirit of God",
+            "C. The Grace of God",
+            "D. The Word of God"
+          ],
+          "answer": "A",
+          "explanation": "Theos Basileia refers directly to the Kingdom of God.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W1Q5",
+          "week": 1,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The concept of the kingdom of God is generally considered to be the central theme of the teaching of Jesus.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction states this concept is generally considered the central theme of Jesus' teaching.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W1Q6",
+          "week": 1,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Matthew 19:23-24 referenced in the lesson, the Kingdom of God is also known as what?",
+          "options": [
+            "A. The kingdom of heaven",
+            "B. The kingdom of light",
+            "C. The kingdom of peace",
+            "D. The kingdom of eternity"
+          ],
+          "answer": "A",
+          "explanation": "The lesson explicitly notes that the kingdom is also known as the kingdom of heaven.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W1Q7",
+          "week": 1,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "But seek first the kingdom of God and His ___________, and all these things shall be added to you.",
+          "options": [
+            "A. glory",
+            "B. power",
+            "C. righteousness",
+            "D. majesty"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse is Matthew 6:33 which says 'and His righteousness'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W1Q8",
+          "week": 1,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "In which book, chapter, and verse is the memory verse for this week found? (Use format: Book Chapter:Verse)",
+          "answer": "Matthew 6:33",
+          "keywords": ["Matthew", "6:33"],
+          "explanation": "The memory verse reference is Matthew 6:33.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W1Q9",
+          "week": 1,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 1 in full (NKJV).",
+          "answer": "But seek first the kingdom of God and His righteousness, and all these things shall be added to you.",
+          "keywords": ["seek", "first", "kingdom", "God", "righteousness", "added"],
+          "explanation": "Full text recall of Matthew 6:33.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W1Q10",
+          "week": 1,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the primary command given in this week's memory verse?",
+          "options": [
+            "A. To pray without ceasing",
+            "B. To seek first the kingdom of God and His righteousness",
+            "C. To love the Lord with all your heart",
+            "D. To bless the Lord before all the assembly"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse commands believers to seek the kingdom of God first.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W1Q11",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "What is the exact heading for Outline I in this lesson?",
+          "answer": "ASPECTS OF THE KINGDOM OF GOD",
+          "keywords": ["ASPECTS", "KINGDOM", "GOD"],
+          "explanation": "The first main teaching outline is headed 'ASPECTS OF THE KINGDOM OF GOD'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q12",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "How many aspects of God's kingdom are listed in Outline I?",
+          "options": [
+            "A. Two",
+            "B. Three",
+            "C. Four",
+            "D. Five"
+          ],
+          "answer": "B",
+          "explanation": "The lesson lists three aspects: Universal, Mediatorial, and Spiritual.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q13",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which aspect of God's kingdom is defined as God's eternal sovereign rule over all that exists?",
+          "options": [
+            "A. Mediatorial Kingdom",
+            "B. Spiritual Kingdom",
+            "C. Universal Kingdom",
+            "D. Eternal Kingdom"
+          ],
+          "answer": "C",
+          "explanation": "The Universal Kingdom is described as God's eternal sovereign rule over the entire universe.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q14",
+          "week": 1,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Daniel 4:3 is used in the lesson to support the concept of the Spiritual Kingdom.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Daniel 4:3 is used to support the Universal Kingdom, not the Spiritual Kingdom.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q15",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "In the Mediatorial Kingdom, who does God use to speak on His behalf?",
+          "options": [
+            "A. Only the angels",
+            "B. Divinely chosen human representatives",
+            "C. The Holy Spirit directly",
+            "D. The universal church"
+          ],
+          "answer": "B",
+          "explanation": "The text states God uses divinely chosen human representatives to speak on His behalf.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q16",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Outline I, the Mediatorial Kingdom will end with what major event?",
+          "options": [
+            "A. The rapture of the church",
+            "B. The great tribulation",
+            "C. The thousand-year (millennial) reign of Christ upon the earth",
+            "D. The new heaven and new earth"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'The Mediatorial Kingdom will end with the thousand-year (millennial) reign of Christ upon the earth'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q17",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the concluding link between human history and the eternal kingdom according to Revelation 21-22 mentioned in the lesson?",
+          "options": [
+            "A. The Universal Kingdom",
+            "B. The Mediatorial Kingdom's end in the millennial reign",
+            "C. The Spiritual Kingdom",
+            "D. The day of Pentecost"
+          ],
+          "answer": "B",
+          "explanation": "The millennial reign ending the Mediatorial Kingdom is the concluding link to the eternal kingdom.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q18",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "Which kingdom is described as an invisible kingdom that exists in the hearts of believers?",
+          "options": [
+            "A. Universal Kingdom",
+            "B. Spiritual Kingdom",
+            "C. Mediatorial Kingdom",
+            "D. Physical Kingdom"
+          ],
+          "answer": "B",
+          "explanation": "The Spiritual Kingdom is an invisible kingdom in the hearts of believers.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q19",
+          "week": 1,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "In John 18:36, Jesus said His kingdom was indeed of this physical world.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'Jesus said His kingdom was not of this world (John 18:36)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q20",
+          "week": 1,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Matthew 4:17 referenced in Outline I, what did Jesus preach is necessary to be a part of the kingdom of God?",
+          "options": [
+            "A. Giving alms",
+            "B. Keeping the Sabbath",
+            "C. Repentance",
+            "D. Offering sacrifices"
+          ],
+          "answer": "C",
+          "explanation": "He preached that repentance is necessary to be a part of the kingdom of God.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q21",
+          "week": 1,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (1 Chronicles 29:10-12), who is the character that blessed the Lord before all the assembly?",
+          "options": [
+            "A. Solomon",
+            "B. David",
+            "C. Moses",
+            "D. Samuel"
+          ],
+          "answer": "B",
+          "explanation": "The passage says 'Therefore David blessed the Lord before all the assembly'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W1Q22",
+          "week": 1,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Yours, O Lord, is the greatness, The power and the glory, The victory and the majesty; For all that is in heaven and in earth is Yours...'",
+          "verse_text": "Yours, O Lord, is the greatness, The power and the glory, The victory and the majesty; For all that is in heaven and in earth is Yours...",
+          "options": [
+            "A. Matthew 6:33",
+            "B. Psalm 47:2",
+            "C. 1 Chronicles 29:11",
+            "D. Daniel 4:3"
+          ],
+          "answer": "C",
+          "explanation": "This is part of the main Bible passage for the week, 1 Chronicles 29:11.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W1Q23",
+          "week": 1,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the exact heading for Outline II in this lesson?",
+          "answer": "SEEKING THE KINGDOM OF GOD",
+          "keywords": ["SEEKING", "KINGDOM", "GOD"],
+          "explanation": "Outline II is titled 'SEEKING THE KINGDOM OF GOD'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W1Q24",
+          "week": 1,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In what famous teaching does Jesus admonish His audience to first seek the Kingdom of God?",
+          "options": [
+            "A. The Olivet Discourse",
+            "B. The Upper Room Discourse",
+            "C. The Sermon on the Mount",
+            "D. The Parable of the Sower"
+          ],
+          "answer": "C",
+          "explanation": "The text specifies: 'In His Sermon on the Mount, Jesus admonishes His audience...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W1Q25",
+          "week": 1,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, seeking the kingdom of God means to hunger and thirst for the rule and reign of God with whom being in charge?",
+          "options": [
+            "A. The Church",
+            "B. Jesus",
+            "C. The Apostles",
+            "D. The Pastors"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'with Jesus being in charge'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W1Q26",
+          "week": 1,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What does the lesson state is the MAIN benefit of the kingdom (supported by Acts 3:19)?",
+          "options": [
+            "A. Physical healing",
+            "B. Financial prosperity",
+            "C. The forgiveness of sins",
+            "D. Earthly power"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'The main benefit of the kingdom is the forgiveness of sins (Acts 3:19).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W1Q27",
+          "week": 1,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "The kingdom of God is not rules and regulations but righteousness and peace and joy in the ________.",
+          "options": [
+            "A. Lord Jesus",
+            "B. Holy Spirit",
+            "C. Kingdom",
+            "D. Heaven"
+          ],
+          "answer": "B",
+          "explanation": "Quoting Romans 14:17, it is 'righteousness and peace and joy in the Holy Spirit'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W1Q28",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "fill_in_blank",
+          "question": "The kingdom of God can be equated with the sphere of salvation that must be entered into by being ________.",
+          "options": [
+            "A. baptized in water",
+            "B. born again",
+            "C. filled with power",
+            "D. circumcised"
+          ],
+          "answer": "B",
+          "explanation": "The text says it must be entered into by being born again (John 3:5-7).",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q29",
+          "week": 1,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "true_false",
+          "question": "According to the lesson, 1 Corinthians 6:9-10 is used to explain the Universal Kingdom.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "1 Corinthians 6:9-10 is referenced in the section on the Spiritual Kingdom, regarding entering the sphere of salvation.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q30",
+          "week": 1,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Both riches and honor come from You, And You reign over all. In Your hand is power and might...'",
+          "verse_text": "Both riches and honor come from You, And You reign over all. In Your hand is power and might...",
+          "options": [
+            "A. 1 Chronicles 29:10",
+            "B. 1 Chronicles 29:11",
+            "C. 1 Chronicles 29:12",
+            "D. Psalm 47:7"
+          ],
+          "answer": "C",
+          "explanation": "This is verse 12 of the main Bible passage 1 Chronicles 29:10-12.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W1Q31",
+          "week": 1,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which set of scriptures does the lesson use to prove that the Spiritual kingdom exists in the hearts of believers?",
+          "options": [
+            "A. Luke 17:20-21",
+            "B. Daniel 4:3",
+            "C. Psalm 47:2",
+            "D. Acts 3:19"
+          ],
+          "answer": "A",
+          "explanation": "The lesson says 'exists in the hearts of believers in Christ Jesus (Luke 17:20-21)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q32",
+          "week": 1,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "Which Bible reference is given in the Conclusion to support witnessing to others that the kingdom is open to all?",
+          "answer": "Mark 16:15-16",
+          "keywords": ["Mark", "16:15-16"],
+          "explanation": "The conclusion cites Mark 16:15-16.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W1Q33",
+          "week": 1,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "In the Universal Kingdom, God shares His absolute sovereignty with the angels (Psalm 47:2).",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The lesson explicitly states 'God rules in absolute sovereignty over all His creation'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q34",
+          "week": 1,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Seeking the kingdom of God requires us to do what regarding His will?",
+          "options": [
+            "A. Memorize it completely",
+            "B. Submit totally and obey it",
+            "C. Teach it to others only",
+            "D. Debate it with unbelievers"
+          ],
+          "answer": "B",
+          "explanation": "Outline II says 'We must also be willing to submit totally and obey His will'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W1Q35",
+          "week": 1,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which reference is associated with the statement that the Spiritual kingdom is 'the fulfilment on earth of God’s will'?",
+          "options": [
+            "A. John 3:5-7",
+            "B. Romans 14:17",
+            "C. Matthew 6:10",
+            "D. Acts 3:19"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'or the fulfilment on earth of God’s will (Matthew 6:10).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q36",
+          "week": 1,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The concept of the kingdom of God takes on only one single meaning across all passages of Scripture.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The introduction states it takes on 'various shades of meaning in different passages'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W1Q37",
+          "week": 1,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to the lesson, the millennial reign of Christ will last for a thousand years. Which scripture is cited to back this up?",
+          "options": [
+            "A. Revelation 20:4-6",
+            "B. Revelation 21-22",
+            "C. Daniel 4:3",
+            "D. Matthew 19:23-24"
+          ],
+          "answer": "A",
+          "explanation": "The millennial reign is supported by Revelation 20:4-6.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W1Q38",
+          "week": 1,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "Who is the kingdom of God open to, according to the conclusion?",
+          "options": [
+            "A. Only the Israelites",
+            "B. All who will surrender their lives to Jesus",
+            "C. Only those who have never sinned",
+            "D. Only the early apostles"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion states the kingdom is open 'to all who will surrender their lives to Jesus'.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W1Q39",
+          "week": 1,
+          "category": "cross_week_topic",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What is the topic of Week 1?",
+          "options": [
+            "A. THE NEW CREATION",
+            "B. THEOS BASILEIA",
+            "C. BAPTISM OF THE HOLY SPIRIT",
+            "D. SPIRITUAL GIFTS"
+          ],
+          "answer": "B",
+          "explanation": "The topic of Week 1 is THEOS BASILEIA. (Note: other options will be populated with actual topics in a full multi-week run).",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W1Q40",
+          "week": 1,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "In the Universal Kingdom, God rules in absolute sovereignty over what?",
+          "answer": "All His creation",
+          "keywords": ["all", "His", "creation"],
+          "explanation": "The lesson says 'God rules in absolute sovereignty over all His creation'.",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

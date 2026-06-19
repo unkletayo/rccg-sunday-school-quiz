@@ -1,0 +1,507 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "CHRISTIANS AND POLITICS: BE INVOLVED",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.'",
+          "options": [
+            "A. Daniel 6:4",
+            "B. Daniel 6:3",
+            "C. Daniel 6:5",
+            "D. Daniel 7:4"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.' is found in Daniel 6:4.",
+          "source_section": "Daniel 6:4"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 6:4:\n\u00b6 Then the presidents and princes _____ to find occasion against Daniel concerning the kingdom; but they could find none occasion nor _____; forasmuch as he was faithful, neither was there any _____ or fault found in him.",
+          "answer": "sought, fault, error",
+          "keywords": [
+            "sought",
+            "fault",
+            "error"
+          ],
+          "explanation": "The full text is: \u00b6 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.",
+          "source_section": "Daniel 6:4"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.'",
+          "options": [
+            "A. Proverbs 18:16",
+            "B. Proverbs 19:15",
+            "C. Proverbs 18:14",
+            "D. Proverbs 18:15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.' is found in Proverbs 18:15.",
+          "source_section": "Proverbs 18:15"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:15:\nThe _____ of the _____ _____ knowledge; and the ear of the wise seeketh knowledge.",
+          "answer": "heart, prudent, getteth",
+          "keywords": [
+            "heart",
+            "prudent",
+            "getteth"
+          ],
+          "explanation": "The full text is: The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+          "source_section": "Proverbs 18:15"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And let us consider one another to provoke unto love and to good works:'",
+          "options": [
+            "A. Hebrews 11:24",
+            "B. Hebrews 10:24",
+            "C. Hebrews 10:23",
+            "D. Hebrews 10:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And let us consider one another to provoke unto love and to good works:' is found in Hebrews 10:24.",
+          "source_section": "Hebrews 10:24"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 10:24:\nAnd let us _____ one another to provoke _____ love and to _____ works:",
+          "answer": "consider, unto, good",
+          "keywords": [
+            "consider",
+            "unto",
+            "good"
+          ],
+          "explanation": "The full text is: And let us consider one another to provoke unto love and to good works:",
+          "source_section": "Hebrews 10:24"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.'",
+          "options": [
+            "A. Philippians 5:8",
+            "B. Philippians 4:7",
+            "C. Philippians 4:8",
+            "D. Philippians 4:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.' is found in Philippians 4:8.",
+          "source_section": "Philippians 4:8"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 4:8:\nFinally, brethren, whatsoever _____ are _____, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever _____ are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+          "answer": "things, true, things",
+          "keywords": [
+            "things",
+            "true",
+            "things"
+          ],
+          "explanation": "The full text is: Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+          "source_section": "Philippians 4:8"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.'",
+          "options": [
+            "A. 1 Peter 5:10",
+            "B. 1 Peter 4:10",
+            "C. 1 Peter 4:11",
+            "D. 1 Peter 4:9"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.' is found in 1 Peter 4:10.",
+          "source_section": "1 Peter 4:10"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Peter 4:10:\nAs every man hath received the gift, even so minister the _____ one to another, as good _____ of the manifold _____ of God.",
+          "answer": "same, stewards, grace",
+          "keywords": [
+            "same",
+            "stewards",
+            "grace"
+          ],
+          "explanation": "The full text is: As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.",
+          "source_section": "1 Peter 4:10"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;'",
+          "options": [
+            "A. Another book 3:17",
+            "B. Galatians 4:1, 7",
+            "C. Another book 5:1",
+            "D. Another book 1:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;' is found in Galatians 4:1, 7.",
+          "source_section": "Galatians 4:1, 7"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 4:1, 7:\nNow I say, That the _____, as long as he is a child, differeth nothing from a _____, _____ he be lord of all;",
+          "answer": "heir, servant, though",
+          "keywords": [
+            "heir",
+            "servant",
+            "though"
+          ],
+          "explanation": "The full text is: Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+          "source_section": "Galatians 4:1, 7"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;5.11 father: or, grandfather'",
+          "options": [
+            "A. Daniel 5:11",
+            "B. Daniel 5:12",
+            "C. Daniel 5:10",
+            "D. Daniel 6:11"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;5.11 father: or, grandfather' is found in Daniel 5:11.",
+          "source_section": "Daniel 5:11"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 5:11:\nThere is a man in thy kingdom, in _____ is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, _____ the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy _____, made master of the magicians, astrologers, Chaldeans, and soothsayers;5.11 father: or, grandfather",
+          "answer": "whom, like, father",
+          "keywords": [
+            "whom",
+            "like",
+            "father"
+          ],
+          "explanation": "The full text is: There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;5.11 father: or, grandfather",
+          "source_section": "Daniel 5:11"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?6.8 walk\u2026: Heb. humble thyself to walk'",
+          "options": [
+            "A. Micah 6:8",
+            "B. Micah 7:8",
+            "C. Micah 6:7",
+            "D. Micah 6:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?6.8 walk\u2026: Heb. humble thyself to walk' is found in Micah 6:8.",
+          "source_section": "Micah 6:8"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Micah 6:8:\nHe hath _____ thee, O man, what is _____; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?6.8 walk\u2026: Heb. _____ thyself to walk",
+          "answer": "shewed, good, humble",
+          "keywords": [
+            "shewed",
+            "good",
+            "humble"
+          ],
+          "explanation": "The full text is: He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?6.8 walk\u2026: Heb. humble thyself to walk",
+          "source_section": "Micah 6:8"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.1.17 relieve: or, righten'",
+          "options": [
+            "A. Isaiah 2:17",
+            "B. Isaiah 1:18",
+            "C. Isaiah 1:16",
+            "D. Isaiah 1:17"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.1.17 relieve: or, righten' is found in Isaiah 1:17.",
+          "source_section": "Isaiah 1:17"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 1:17:\nLearn to do well; seek _____, _____ the oppressed, _____ the fatherless, plead for the widow.1.17 relieve: or, righten",
+          "answer": "judgment, relieve, judge",
+          "keywords": [
+            "judgment",
+            "relieve",
+            "judge"
+          ],
+          "explanation": "The full text is: Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.1.17 relieve: or, righten",
+          "source_section": "Isaiah 1:17"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.'",
+          "options": [
+            "A. Proverbs 18:25",
+            "B. Proverbs 19:24",
+            "C. Proverbs 18:24",
+            "D. Proverbs 18:23"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.' is found in Proverbs 18:24.",
+          "source_section": "Proverbs 18:24"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:24:\nA man _____ hath friends _____ shew himself friendly: and there is a friend _____ sticketh closer than a brother.",
+          "answer": "that, must, that",
+          "keywords": [
+            "that",
+            "must",
+            "that"
+          ],
+          "explanation": "The full text is: A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother.",
+          "source_section": "Proverbs 18:24"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.'",
+          "options": [
+            "A. Matthew 5:13",
+            "B. Matthew 5:14",
+            "C. Matthew 5:12",
+            "D. Matthew 6:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.' is found in Matthew 5:13.",
+          "source_section": "Matthew 5:13"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:13:\n\u00b6 Ye are the salt of the earth: but if the salt _____ lost his savour, _____ shall it be salted? it is _____ good for nothing, but to be cast out, and to be trodden under foot of men.",
+          "answer": "have, wherewith, thenceforth",
+          "keywords": [
+            "have",
+            "wherewith",
+            "thenceforth"
+          ],
+          "explanation": "The full text is: \u00b6 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+          "source_section": "Matthew 5:13"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.'",
+          "options": [
+            "A. James 1:6",
+            "B. James 1:5",
+            "C. James 2:5",
+            "D. James 1:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.' is found in James 1:5.",
+          "source_section": "James 1:5"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:5:\nIf any of you lack _____, let him ask of God, _____ giveth to all men liberally, and upbraideth not; and it _____ be given him.",
+          "answer": "wisdom, that, shall",
+          "keywords": [
+            "wisdom",
+            "that",
+            "shall"
+          ],
+          "explanation": "The full text is: If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+          "source_section": "James 1:5"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;'",
+          "options": [
+            "A. 2 Peter 1:6",
+            "B. 2 Peter 2:5",
+            "C. 2 Peter 1:4",
+            "D. 2 Peter 1:5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;' is found in 2 Peter 1:5.",
+          "source_section": "2 Peter 1:5"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Peter 1:5:\nAnd _____ _____, giving all _____, add to your faith virtue; and to virtue knowledge;",
+          "answer": "beside, this, diligence",
+          "keywords": [
+            "beside",
+            "this",
+            "diligence"
+          ],
+          "explanation": "The full text is: And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
+          "source_section": "2 Peter 1:5"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.'",
+          "options": [
+            "A. Romans 13:3",
+            "B. Romans 13:1",
+            "C. Romans 14:1",
+            "D. Romans 13:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.' is found in Romans 13:1.",
+          "source_section": "Romans 13:1"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 13:1:\nLet every _____ be subject unto the _____ powers. For _____ is no power but of God: the powers that be are ordained of God.",
+          "answer": "soul, higher, there",
+          "keywords": [
+            "soul",
+            "higher",
+            "there"
+          ],
+          "explanation": "The full text is: Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.",
+          "source_section": "Romans 13:1"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.'",
+          "options": [
+            "A. Proverbs 4:5",
+            "B. Proverbs 3:6",
+            "C. Proverbs 3:4",
+            "D. Proverbs 3:5"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.' is found in Proverbs 3:5.",
+          "source_section": "Proverbs 3:5"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 3:5:\n\u00b6 Trust in the LORD _____ all _____ heart; and lean not unto _____ own understanding.",
+          "answer": "with, thine, thine",
+          "keywords": [
+            "with",
+            "thine",
+            "thine"
+          ],
+          "explanation": "The full text is: \u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "source_section": "Proverbs 3:5"
+        }
+      ]
+    }
+  ]
+}

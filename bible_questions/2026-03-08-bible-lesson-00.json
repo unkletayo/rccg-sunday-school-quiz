@@ -1,0 +1,705 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "GET RICH QUICK SYNDROME",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.2.22 rooted: or, plucked up'",
+          "options": [
+            "A. Proverbs 2:21",
+            "B. Proverbs 2:22",
+            "C. Proverbs 3:22",
+            "D. Proverbs 2:23"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.2.22 rooted: or, plucked up' is found in Proverbs 2:22.",
+          "source_section": "Proverbs 2:22"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 2:22:\nBut the wicked shall be cut off from the earth, and the transgressors _____ be _____ out of _____ rooted: or, plucked up",
+          "answer": "shall, rooted, it.2.22",
+          "keywords": [
+            "shall",
+            "rooted",
+            "it.2.22"
+          ],
+          "explanation": "The full text is: But the wicked shall be cut off from the earth, and the transgressors shall be rooted out of it.2.22 rooted: or, plucked up",
+          "source_section": "Proverbs 2:22"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day.'",
+          "options": [
+            "A. Deuteronomy 8:18",
+            "B. Deuteronomy 9:18",
+            "C. Deuteronomy 8:19",
+            "D. Deuteronomy 8:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day.' is found in Deuteronomy 8:18.",
+          "source_section": "Deuteronomy 8:18"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 8:18:\nBut thou shalt remember the LORD thy God: for it is he that _____ thee power to get wealth, _____ he may establish his covenant which he _____ unto thy fathers, as it is this day.",
+          "answer": "giveth, that, sware",
+          "keywords": [
+            "giveth",
+            "that",
+            "sware"
+          ],
+          "explanation": "The full text is: But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day.",
+          "source_section": "Deuteronomy 8:18"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 My son, if sinners entice thee, consent thou not.'",
+          "options": [
+            "A. Proverbs 1:10",
+            "B. Proverbs 1:9",
+            "C. Proverbs 2:10",
+            "D. Proverbs 1:11"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 My son, if sinners entice thee, consent thou not.' is found in Proverbs 1:10.",
+          "source_section": "Proverbs 1:10"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 1:10:\n\u00b6 My son, if sinners _____ _____, _____ thou not.",
+          "answer": "entice, thee, consent",
+          "keywords": [
+            "entice",
+            "thee",
+            "consent"
+          ],
+          "explanation": "The full text is: \u00b6 My son, if sinners entice thee, consent thou not.",
+          "source_section": "Proverbs 1:10"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.17.11 sitteth\u2026: or, gathereth young which she hath not brought forth'",
+          "options": [
+            "A. Jeremiah 17:12",
+            "B. Jeremiah 17:10",
+            "C. Jeremiah 17:11",
+            "D. Jeremiah 18:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.17.11 sitteth\u2026: or, gathereth young which she hath not brought forth' is found in Jeremiah 17:11.",
+          "source_section": "Jeremiah 17:11"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 17:11:\nAs the partridge _____ on eggs, and hatcheth them not; so he that getteth riches, and not by right, _____ leave them in the midst of his days, and at his end shall be a fool.17.11 sitteth\u2026: or, gathereth young which she hath not brought _____",
+          "answer": "sitteth, shall, forth",
+          "keywords": [
+            "sitteth",
+            "shall",
+            "forth"
+          ],
+          "explanation": "The full text is: As the partridge sitteth on eggs, and hatcheth them not; so he that getteth riches, and not by right, shall leave them in the midst of his days, and at his end shall be a fool.17.11 sitteth\u2026: or, gathereth young which she hath not brought forth",
+          "source_section": "Jeremiah 17:11"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Moreover the profit of the earth is for all: the king himself is served by the field.'",
+          "options": [
+            "A. Ecclesiastes 5:9",
+            "B. Ecclesiastes 6:9",
+            "C. Ecclesiastes 5:8",
+            "D. Ecclesiastes 5:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Moreover the profit of the earth is for all: the king himself is served by the field.' is found in Ecclesiastes 5:9.",
+          "source_section": "Ecclesiastes 5:9"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 5:9:\n\u00b6 Moreover the profit of the earth is for all: the _____ _____ is served by the _____.",
+          "answer": "king, himself, field",
+          "keywords": [
+            "king",
+            "himself",
+            "field"
+          ],
+          "explanation": "The full text is: \u00b6 Moreover the profit of the earth is for all: the king himself is served by the field.",
+          "source_section": "Ecclesiastes 5:9"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.'",
+          "options": [
+            "A. Isaiah 48:17",
+            "B. Isaiah 48:18",
+            "C. Isaiah 49:17",
+            "D. Isaiah 48:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.' is found in Isaiah 48:17.",
+          "source_section": "Isaiah 48:17"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 48:17:\nThus saith the LORD, thy _____, the Holy One of _____; I am the LORD thy God which teacheth _____ to profit, which leadeth thee by the way that thou shouldest go.",
+          "answer": "Redeemer, Israel, thee",
+          "keywords": [
+            "Redeemer",
+            "Israel",
+            "thee"
+          ],
+          "explanation": "The full text is: Thus saith the LORD, thy Redeemer, the Holy One of Israel; I am the LORD thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go.",
+          "source_section": "Isaiah 48:17"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.'",
+          "options": [
+            "A. 1 Timothy 6:10",
+            "B. 1 Timothy 7:10",
+            "C. 1 Timothy 6:11",
+            "D. 1 Timothy 6:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.' is found in 1 Timothy 6:10.",
+          "source_section": "1 Timothy 6:10"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 6:10:\nFor the love of _____ is the root of all evil: which while some coveted after, _____ have erred from the faith, and pierced themselves _____ with many sorrows.",
+          "answer": "money, they, through",
+          "keywords": [
+            "money",
+            "they",
+            "through"
+          ],
+          "explanation": "The full text is: For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+          "source_section": "1 Timothy 6:10"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.22.29 mean\u2026: Heb. obscure men'",
+          "options": [
+            "A. Proverbs 22:30",
+            "B. Proverbs 22:29",
+            "C. Proverbs 22:28",
+            "D. Proverbs 23:29"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.22.29 mean\u2026: Heb. obscure men' is found in Proverbs 22:29.",
+          "source_section": "Proverbs 22:29"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:29:\nSeest thou a man diligent in his _____ he shall stand before kings; he _____ not stand before mean men.22.29 mean\u2026: Heb. _____ men",
+          "answer": "business?, shall, obscure",
+          "keywords": [
+            "business?",
+            "shall",
+            "obscure"
+          ],
+          "explanation": "The full text is: Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.22.29 mean\u2026: Heb. obscure men",
+          "source_section": "Proverbs 22:29"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I was envious at the foolish, when I saw the prosperity of the wicked.'",
+          "options": [
+            "A. Psalm 73:2",
+            "B. Psalm 73:3",
+            "C. Psalm 74:3",
+            "D. Psalm 73:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For I was envious at the foolish, when I saw the prosperity of the wicked.' is found in Psalm 73:3.",
+          "source_section": "Psalm 73:3"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 73:3:\nFor I was _____ at the foolish, _____ I saw the prosperity of the _____.",
+          "answer": "envious, when, wicked",
+          "keywords": [
+            "envious",
+            "when",
+            "wicked"
+          ],
+          "explanation": "The full text is: For I was envious at the foolish, when I saw the prosperity of the wicked.",
+          "source_section": "Psalm 73:3"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Labour not to be rich: cease from thine own wisdom.'",
+          "options": [
+            "A. Proverbs 23:4-5",
+            "B. Proverbs 23:5",
+            "C. Proverbs 24:4",
+            "D. Proverbs 23:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Labour not to be rich: cease from thine own wisdom.' is found in Proverbs 23:4-5.",
+          "source_section": "Proverbs 23:4-5"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 23:4-5:\nLabour not to be _____: _____ _____ thine own wisdom.",
+          "answer": "rich, cease, from",
+          "keywords": [
+            "rich",
+            "cease",
+            "from"
+          ],
+          "explanation": "The full text is: Labour not to be rich: cease from thine own wisdom.",
+          "source_section": "Proverbs 23:4-5"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they lay wait for their own blood; they lurk privily for their own lives.'",
+          "options": [
+            "A. Proverbs 1:19",
+            "B. Proverbs 1:18-19",
+            "C. Proverbs 1:17",
+            "D. Proverbs 2:18"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And they lay wait for their own blood; they lurk privily for their own lives.' is found in Proverbs 1:18-19.",
+          "source_section": "Proverbs 1:18-19"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 1:18-19:\nAnd _____ lay _____ for their own _____; they lurk privily for their own lives.",
+          "answer": "they, wait, blood",
+          "keywords": [
+            "they",
+            "wait",
+            "blood"
+          ],
+          "explanation": "The full text is: And they lay wait for their own blood; they lurk privily for their own lives.",
+          "source_section": "Proverbs 1:18-19"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.1.20 moving: or, creeping1.20 life: Heb. soul1.20 fowl\u2026: Heb. let fowl fly1.20 open\u2026: Heb. face of the firmament of heaven'",
+          "options": [
+            "A. Genesis 1:20-22, 24-25",
+            "B. Another book 5:13",
+            "C. Another book 1:2",
+            "D. Another book 5:18"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.1.20 moving: or, creeping1.20 life: Heb. soul1.20 fowl\u2026: Heb. let fowl fly1.20 open\u2026: Heb. face of the firmament of heaven' is found in Genesis 1:20-22, 24-25.",
+          "source_section": "Genesis 1:20-22, 24-25"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 1:20-22, 24-25:\nAnd God said, Let the waters _____ forth abundantly the moving creature that hath life, and fowl _____ may fly above the earth in the open firmament of heaven.1.20 moving: or, creeping1.20 life: Heb. soul1.20 fowl\u2026: Heb. let fowl fly1.20 open\u2026: Heb. face of the firmament of _____",
+          "answer": "bring, that, heaven",
+          "keywords": [
+            "bring",
+            "that",
+            "heaven"
+          ],
+          "explanation": "The full text is: And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.1.20 moving: or, creeping1.20 life: Heb. soul1.20 fowl\u2026: Heb. let fowl fly1.20 open\u2026: Heb. face of the firmament of heaven",
+          "source_section": "Genesis 1:20-22, 24-25"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.13.11 by labour: Heb. with the hand'",
+          "options": [
+            "A. Proverbs 13:10",
+            "B. Proverbs 13:11",
+            "C. Proverbs 14:11",
+            "D. Proverbs 13:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.13.11 by labour: Heb. with the hand' is found in Proverbs 13:11.",
+          "source_section": "Proverbs 13:11"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 13:11:\nWealth _____ by _____ _____ be diminished: but he that gathereth by labour shall increase.13.11 by labour: Heb. with the hand",
+          "answer": "gotten, vanity, shall",
+          "keywords": [
+            "gotten",
+            "vanity",
+            "shall"
+          ],
+          "explanation": "The full text is: Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.13.11 by labour: Heb. with the hand",
+          "source_section": "Proverbs 13:11"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.28.20 innocent: or, unpunished'",
+          "options": [
+            "A. Proverbs 28:21",
+            "B. Proverbs 29:20",
+            "C. Proverbs 28:19",
+            "D. Proverbs 28:20"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.28.20 innocent: or, unpunished' is found in Proverbs 28:20.",
+          "source_section": "Proverbs 28:20"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 28:20:\nA faithful man shall _____ _____ blessings: but he that maketh haste to be rich shall not be innocent.28.20 innocent: or, _____",
+          "answer": "abound, with, unpunished",
+          "keywords": [
+            "abound",
+            "with",
+            "unpunished"
+          ],
+          "explanation": "The full text is: A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.28.20 innocent: or, unpunished",
+          "source_section": "Proverbs 28:20"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But godliness with contentment is great gain.'",
+          "options": [
+            "A. 1 Timothy 7:6",
+            "B. 1 Timothy 6:5",
+            "C. 1 Timothy 6:7",
+            "D. 1 Timothy 6:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But godliness with contentment is great gain.' is found in 1 Timothy 6:6.",
+          "source_section": "1 Timothy 6:6"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 6:6:\nBut _____ with contentment is _____ _____.",
+          "answer": "godliness, great, gain",
+          "keywords": [
+            "godliness",
+            "great",
+            "gain"
+          ],
+          "explanation": "The full text is: But godliness with contentment is great gain.",
+          "source_section": "1 Timothy 6:6"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.7.12 defence: Heb. shadow'",
+          "options": [
+            "A. Ecclesiastes 7:11",
+            "B. Ecclesiastes 8:12",
+            "C. Ecclesiastes 7:12",
+            "D. Ecclesiastes 7:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.7.12 defence: Heb. shadow' is found in Ecclesiastes 7:12.",
+          "source_section": "Ecclesiastes 7:12"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 7:12:\nFor wisdom is a defence, and money is a _____: but the excellency of knowledge is, that wisdom _____ life to them that have it.7.12 _____: Heb. shadow",
+          "answer": "defence, giveth, defence",
+          "keywords": [
+            "defence",
+            "giveth",
+            "defence"
+          ],
+          "explanation": "The full text is: For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.7.12 defence: Heb. shadow",
+          "source_section": "Ecclesiastes 7:12"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.'",
+          "options": [
+            "A. Proverbs 21:6-8",
+            "B. Proverbs 21:5",
+            "C. Proverbs 22:6",
+            "D. Proverbs 21:7"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.' is found in Proverbs 21:6-8.",
+          "source_section": "Proverbs 21:6-8"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 21:6-8:\nThe getting of treasures by a lying tongue is a vanity tossed to and fro of _____ _____ _____ death.",
+          "answer": "them, that, seek",
+          "keywords": [
+            "them",
+            "that",
+            "seek"
+          ],
+          "explanation": "The full text is: The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death.",
+          "source_section": "Proverbs 21:6-8"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.'",
+          "options": [
+            "A. Proverbs 12:10",
+            "B. Proverbs 12:11",
+            "C. Proverbs 13:11",
+            "D. Proverbs 12:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.' is found in Proverbs 12:11.",
+          "source_section": "Proverbs 12:11"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 12:11:\nHe that tilleth his land shall be satisfied with _____: but he that _____ _____ persons is void of understanding.",
+          "answer": "bread, followeth, vain",
+          "keywords": [
+            "bread",
+            "followeth",
+            "vain"
+          ],
+          "explanation": "The full text is: He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.",
+          "source_section": "Proverbs 12:11"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when he came to himself, he said, How many hired servants of my father\u2019s have bread enough and to spare, and I perish with hunger!'",
+          "options": [
+            "A. Luke 15:17-19",
+            "B. Luke 15:16",
+            "C. Luke 15:18",
+            "D. Luke 16:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And when he came to himself, he said, How many hired servants of my father\u2019s have bread enough and to spare, and I perish with hunger!' is found in Luke 15:17-19.",
+          "source_section": "Luke 15:17-19"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 15:17-19:\nAnd when he _____ to himself, he said, How many hired servants of my father\u2019s have bread enough and to _____, and I perish with _____",
+          "answer": "came, spare, hunger!",
+          "keywords": [
+            "came",
+            "spare",
+            "hunger!"
+          ],
+          "explanation": "The full text is: And when he came to himself, he said, How many hired servants of my father\u2019s have bread enough and to spare, and I perish with hunger!",
+          "source_section": "Luke 15:17-19"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.'",
+          "options": [
+            "A. Hebrews 13:5",
+            "B. Hebrews 13:6",
+            "C. Hebrews 13:4",
+            "D. Hebrews 14:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.' is found in Hebrews 13:5.",
+          "source_section": "Hebrews 13:5"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 13:5:\nLet your conversation be without covetousness; and be content with such things as ye have: for he hath _____, I _____ never leave thee, nor _____ thee.",
+          "answer": "said, will, forsake",
+          "keywords": [
+            "said",
+            "will",
+            "forsake"
+          ],
+          "explanation": "The full text is: Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+          "source_section": "Hebrews 13:5"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.21.17 pleasure: or, sport'",
+          "options": [
+            "A. Proverbs 22:17",
+            "B. Proverbs 21:17",
+            "C. Proverbs 21:18",
+            "D. Proverbs 21:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.21.17 pleasure: or, sport' is found in Proverbs 21:17.",
+          "source_section": "Proverbs 21:17"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 21:17:\nHe that _____ pleasure shall be a poor man: he that _____ _____ and oil shall not be rich.21.17 pleasure: or, sport",
+          "answer": "loveth, loveth, wine",
+          "keywords": [
+            "loveth",
+            "loveth",
+            "wine"
+          ],
+          "explanation": "The full text is: He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich.21.17 pleasure: or, sport",
+          "source_section": "Proverbs 21:17"
+        }
+      ]
+    }
+  ]
+}

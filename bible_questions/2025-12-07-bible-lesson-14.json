@@ -1,0 +1,441 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 14,
+      "topic": "PEER PRESSURE",
+      "questions": [
+        {
+          "id": "BW14Q1",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be not deceived: evil communications corrupt good manners.'",
+          "options": [
+            "A. 1 Corinthians 16:33",
+            "B. 1 Corinthians 15:32",
+            "C. 1 Corinthians 15:34",
+            "D. 1 Corinthians 15:33"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Be not deceived: evil communications corrupt good manners.' is found in 1 Corinthians 15:33.",
+          "source_section": "1 Corinthians 15:33"
+        },
+        {
+          "id": "BW14Q2",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 15:33:\nBe not deceived: _____ communications _____ good _____.",
+          "answer": "evil, corrupt, manners",
+          "keywords": [
+            "evil",
+            "corrupt",
+            "manners"
+          ],
+          "explanation": "The full text is: Be not deceived: evil communications corrupt good manners.",
+          "source_section": "1 Corinthians 15:33"
+        },
+        {
+          "id": "BW14Q3",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 My son, if sinners entice thee, consent thou not.'",
+          "options": [
+            "A. Proverbs 1:11",
+            "B. Proverbs 1:10-14",
+            "C. Proverbs 2:10",
+            "D. Proverbs 1:9"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 My son, if sinners entice thee, consent thou not.' is found in Proverbs 1:10-14.",
+          "source_section": "Proverbs 1:10-14"
+        },
+        {
+          "id": "BW14Q4",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 1:10-14:\n\u00b6 My son, if sinners _____ thee, _____ _____ not.",
+          "answer": "entice, consent, thou",
+          "keywords": [
+            "entice",
+            "consent",
+            "thou"
+          ],
+          "explanation": "The full text is: \u00b6 My son, if sinners entice thee, consent thou not.",
+          "source_section": "Proverbs 1:10-14"
+        },
+        {
+          "id": "BW14Q5",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.'",
+          "options": [
+            "A. James 5:12",
+            "B. James 6:12",
+            "C. James 5:11",
+            "D. James 5:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.' is found in James 5:12.",
+          "source_section": "James 5:12"
+        },
+        {
+          "id": "BW14Q6",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 5:12:\nBut above all things, my brethren, swear not, _____ by heaven, neither by the _____, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into _____.",
+          "answer": "neither, earth, condemnation",
+          "keywords": [
+            "neither",
+            "earth",
+            "condemnation"
+          ],
+          "explanation": "The full text is: But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and your nay, nay; lest ye fall into condemnation.",
+          "source_section": "James 5:12"
+        },
+        {
+          "id": "BW14Q7",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.'",
+          "options": [
+            "A. Romans 13:2",
+            "B. Romans 12:3",
+            "C. Romans 12:2",
+            "D. Romans 12:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.' is found in Romans 12:2.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW14Q8",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:2:\nAnd be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove _____ is that good, and _____, and perfect, _____ of God.",
+          "answer": "what, acceptable, will",
+          "keywords": [
+            "what",
+            "acceptable",
+            "will"
+          ],
+          "explanation": "The full text is: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW14Q9",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.'",
+          "options": [
+            "A. 1 Timothy 6:11",
+            "B. 1 Timothy 7:10",
+            "C. 1 Timothy 6:10",
+            "D. 1 Timothy 6:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.' is found in 1 Timothy 6:10.",
+          "source_section": "1 Timothy 6:10"
+        },
+        {
+          "id": "BW14Q10",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Timothy 6:10:\nFor the _____ of money is the root of all evil: which while some _____ after, they have erred _____ the faith, and pierced themselves through with many sorrows.",
+          "answer": "love, coveted, from",
+          "keywords": [
+            "love",
+            "coveted",
+            "from"
+          ],
+          "explanation": "The full text is: For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+          "source_section": "1 Timothy 6:10"
+        },
+        {
+          "id": "BW14Q11",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.'",
+          "options": [
+            "A. Isaiah 30:21",
+            "B. Isaiah 30:22",
+            "C. Isaiah 31:21",
+            "D. Isaiah 30:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.' is found in Isaiah 30:21.",
+          "source_section": "Isaiah 30:21"
+        },
+        {
+          "id": "BW14Q12",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 30:21:\nAnd thine ears shall hear a _____ behind _____, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the _____.",
+          "answer": "word, thee, left",
+          "keywords": [
+            "word",
+            "thee",
+            "left"
+          ],
+          "explanation": "The full text is: And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.",
+          "source_section": "Isaiah 30:21"
+        },
+        {
+          "id": "BW14Q13",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Where no counsel is, the people fall: but in the multitude of counsellors there is safety.'",
+          "options": [
+            "A. Proverbs 11:14",
+            "B. Proverbs 11:15",
+            "C. Proverbs 11:13",
+            "D. Proverbs 12:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Where no counsel is, the people fall: but in the multitude of counsellors there is safety.' is found in Proverbs 11:14.",
+          "source_section": "Proverbs 11:14"
+        },
+        {
+          "id": "BW14Q14",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 11:14:\nWhere no _____ is, the _____ fall: but in the multitude of counsellors there is _____.",
+          "answer": "counsel, people, safety",
+          "keywords": [
+            "counsel",
+            "people",
+            "safety"
+          ],
+          "explanation": "The full text is: Where no counsel is, the people fall: but in the multitude of counsellors there is safety.",
+          "source_section": "Proverbs 11:14"
+        },
+        {
+          "id": "BW14Q15",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?'",
+          "options": [
+            "A. Genesis 39:8",
+            "B. Genesis 39:9-13",
+            "C. Genesis 39:10",
+            "D. Genesis 40:9"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?' is found in Genesis 39:9-13.",
+          "source_section": "Genesis 39:9-13"
+        },
+        {
+          "id": "BW14Q16",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 39:9-13:\nThere is none greater in this house than I; neither hath he kept back any thing from me but _____, because thou art his wife: how _____ can I do this _____ wickedness, and sin against God?",
+          "answer": "thee, then, great",
+          "keywords": [
+            "thee",
+            "then",
+            "great"
+          ],
+          "explanation": "The full text is: There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?",
+          "source_section": "Genesis 39:9-13"
+        },
+        {
+          "id": "BW14Q17",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.'",
+          "options": [
+            "A. 2 Chronicles 19:1",
+            "B. 2 Chronicles 18:1-18",
+            "C. 2 Chronicles 18:3",
+            "D. 2 Chronicles 18:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.' is found in 2 Chronicles 18:1-18.",
+          "source_section": "2 Chronicles 18:1-18"
+        },
+        {
+          "id": "BW14Q18",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Chronicles 18:1-18:\nNow Jehoshaphat had _____ and honour in abundance, and _____ affinity with _____.",
+          "answer": "riches, joined, Ahab",
+          "keywords": [
+            "riches",
+            "joined",
+            "Ahab"
+          ],
+          "explanation": "The full text is: Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.",
+          "source_section": "2 Chronicles 18:1-18"
+        },
+        {
+          "id": "BW14Q19",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the sons of the prophets that were at Beth-el came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know it; hold ye your peace.'",
+          "options": [
+            "A. 2 Kings 2:2",
+            "B. 2 Kings 2:3",
+            "C. 2 Kings 3:3",
+            "D. 2 Kings 2:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And the sons of the prophets that were at Beth-el came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know it; hold ye your peace.' is found in 2 Kings 2:3.",
+          "source_section": "2 Kings 2:3"
+        },
+        {
+          "id": "BW14Q20",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 2:3:\nAnd the sons of the prophets that were at _____ came forth to Elisha, and said _____ him, Knowest thou that the LORD _____ take away thy master from thy head to day? And he said, Yea, I know it; hold ye your peace.",
+          "answer": "Beth-el, unto, will",
+          "keywords": [
+            "Beth-el",
+            "unto",
+            "will"
+          ],
+          "explanation": "The full text is: And the sons of the prophets that were at Beth-el came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know it; hold ye your peace.",
+          "source_section": "2 Kings 2:3"
+        },
+        {
+          "id": "BW14Q21",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.13.20 destroyed: Heb. broken'",
+          "options": [
+            "A. Proverbs 13:21",
+            "B. Proverbs 13:20",
+            "C. Proverbs 13:19",
+            "D. Proverbs 14:20"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.13.20 destroyed: Heb. broken' is found in Proverbs 13:20.",
+          "source_section": "Proverbs 13:20"
+        },
+        {
+          "id": "BW14Q22",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 13:20:\nHe that walketh with wise men shall be wise: but a _____ of fools shall be _____ _____: Heb. broken",
+          "answer": "companion, destroyed.13.20, destroyed",
+          "keywords": [
+            "companion",
+            "destroyed.13.20",
+            "destroyed"
+          ],
+          "explanation": "The full text is: He that walketh with wise men shall be wise: but a companion of fools shall be destroyed.13.20 destroyed: Heb. broken",
+          "source_section": "Proverbs 13:20"
+        },
+        {
+          "id": "BW14Q23",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,'",
+          "options": [
+            "A. 2 Chronicles 10:4",
+            "B. 2 Chronicles 11:3",
+            "C. 2 Chronicles 10:2",
+            "D. 2 Chronicles 10:3-11"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,' is found in 2 Chronicles 10:3-11.",
+          "source_section": "2 Chronicles 10:3-11"
+        },
+        {
+          "id": "BW14Q24",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Chronicles 10:3-11:\nAnd they _____ and _____ him. So Jeroboam and all Israel _____ and spake to Rehoboam, saying,",
+          "answer": "sent, called, came",
+          "keywords": [
+            "sent",
+            "called",
+            "came"
+          ],
+          "explanation": "The full text is: And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,",
+          "source_section": "2 Chronicles 10:3-11"
+        },
+        {
+          "id": "BW14Q25",
+          "week": 14,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.'",
+          "options": [
+            "A. 2 Peter 3:19",
+            "B. 2 Peter 4:18",
+            "C. 2 Peter 3:18",
+            "D. 2 Peter 3:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.' is found in 2 Peter 3:18.",
+          "source_section": "2 Peter 3:18"
+        },
+        {
+          "id": "BW14Q26",
+          "week": 14,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Peter 3:18:\nBut grow in grace, and in the _____ of our Lord and Saviour Jesus Christ. To him be _____ _____ now and for ever. Amen.",
+          "answer": "knowledge, glory, both",
+          "keywords": [
+            "knowledge",
+            "glory",
+            "both"
+          ],
+          "explanation": "The full text is: But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.",
+          "source_section": "2 Peter 3:18"
+        }
+      ]
+    }
+  ]
+}

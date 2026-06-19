@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:28:00Z",
+  "weeks": [
+    {
+      "week_number": 25,
+      "topic": "STRENGTH IN QUIETNESS",
+      "memory_verse_reference": "James 3:2",
+      "questions": [
+        {
+          "id": "W25Q1",
+          "week": 25,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 25?",
+          "options": [
+            "A. THE FOOL'S MOUTH",
+            "B. BEING SLOW TO SPEAK",
+            "C. STRENGTH IN QUIETNESS",
+            "D. TIME MANAGEMENT"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Five is STRENGTH IN QUIETNESS.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W25Q2",
+          "week": 25,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 24?",
+          "options": [
+            "A. CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
+            "B. CHRISTIANS AND POLITICS: BE INVOLVED",
+            "C. STRENGTH IN QUIETNESS",
+            "D. EFFECTIVE PLANNING"
+          ],
+          "answer": "B",
+          "explanation": "Christians and Politics: Be Involved was the topic for Week 24.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W25Q3",
+          "week": 25,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "If anyone does not stumble in word, he is a perfect man, able also to bridle the whole ________.",
+          "options": [
+            "A. earth",
+            "B. house",
+            "C. body",
+            "D. spirit"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (James 3:2) says 'able also to bridle the whole body.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W25Q4",
+          "week": 25,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "James 3:2",
+          "keywords": ["James", "3:2"],
+          "explanation": "The memory verse reference is James 3:2.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W25Q5",
+          "week": 25,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 25 in full (NKJV).",
+          "answer": "For we all stumble in many things. If anyone does not stumble in word, he is a perfect man, able also to bridle the whole body.",
+          "keywords": ["stumble", "word", "perfect", "man", "bridle", "whole", "body"],
+          "explanation": "Full text recall of James 3:2.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W25Q6",
+          "week": 25,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (James 3:2), what does a person prove by not stumbling in word?",
+          "options": [
+            "A. He is a prophet",
+            "B. He is a perfect man, able to bridle the whole body",
+            "C. He is wealthy",
+            "D. He is above the law"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'If anyone does not stumble in word, he is a perfect man, able also to bridle the whole body.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W25Q7",
+          "week": 25,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the introduction say about being in a rush to speak?",
+          "options": [
+            "A. It is a sign of intelligence",
+            "B. It is a sign of weakness and foolishness",
+            "C. It shows you have authority",
+            "D. It is necessary in business"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'Therefore, being in a rush to speak always is a sign of weakness and foolishness (James 1:19).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W25Q8",
+          "week": 25,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that words are powerful and can make or mar?",
+          "options": [
+            "A. Proverbs 6:2",
+            "B. James 1:19",
+            "C. Ecclesiastes 10:12",
+            "D. Proverbs 18:7"
+          ],
+          "answer": "A",
+          "explanation": "The introduction says 'Words are powerful and can make or mar (Proverbs 6:2).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W25Q9",
+          "week": 25,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "THE FOOL'S MOUTH",
+          "keywords": ["THE", "FOOL'S", "MOUTH"],
+          "explanation": "Outline I is titled 'THE FOOL’S MOUTH'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q10",
+          "week": 25,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Proverbs 18:7, what is a fool's mouth to him?",
+          "options": [
+            "A. His glory",
+            "B. His wealth",
+            "C. His destruction and a trap to his soul",
+            "D. His instrument of worship"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'According to Proverbs 18:7, a fool’s mouth is his destruction and his rash words are a trap to his soul.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q11",
+          "week": 25,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "A fool utters his entire mind and hates accountability.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point in Outline I says 'A fool utters his entire mind (Proverbs 29:11) and hates accountability.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q12",
+          "week": 25,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that a fool's mouth is used to engage in ceaseless and unprofitable arguments?",
+          "options": [
+            "A. Proverbs 18:6",
+            "B. Proverbs 19:1",
+            "C. Ecclesiastes 10:12",
+            "D. Proverbs 20:3"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'A fool’s mouth is used to engage in ceaseless and unprofitable arguments (Proverbs 18:6)...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q13",
+          "week": 25,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Why is a fool not trusted, according to Outline I?",
+          "options": [
+            "A. Because he is always late",
+            "B. Because he lies all the time",
+            "C. Because of irregularity in speech",
+            "D. Because he steals from others"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'A fool is not trusted because of irregularity in speech (Proverbs 19:1).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q14",
+          "week": 25,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for a fool arguing, expressing frustrations openly, and thus cannot cease from strife?",
+          "options": [
+            "A. Proverbs 29:11",
+            "B. Proverbs 20:3",
+            "C. Proverbs 17:28",
+            "D. Ecclesiastes 10:12"
+          ],
+          "answer": "B",
+          "explanation": "The text ends Outline I with 'A fool argues and expresses frustrations openly and thus cannot cease from strife (Proverbs 20:3).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q15",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "BEING SLOW TO SPEAK AND ITS BENEFITS",
+          "keywords": ["BEING", "SLOW", "TO", "SPEAK", "AND", "ITS", "BENEFITS"],
+          "explanation": "Outline II is titled 'BEING SLOW TO SPEAK AND ITS BENEFITS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q16",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, being slow to speak is often a sign of weakness.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Outline II explicitly states 'Being slow to speak is never a sign of weakness.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q17",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following is NOT listed as a step to be slow to speak?",
+          "options": [
+            "A. Think before talking",
+            "B. Let our words be gracious",
+            "C. Speak with wisdom",
+            "D. Ignore what others are saying"
+          ],
+          "answer": "D",
+          "explanation": "Point 6 says 'Talk less... and listen actively and attentively to others', not ignore them.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q18",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What should we ask the Lord to do for our mouth according to Psalm 141:3?",
+          "options": [
+            "A. Set a guard at it",
+            "B. Fill it with laughter",
+            "C. Give it eloquent speech",
+            "D. Make it loud"
+          ],
+          "answer": "A",
+          "explanation": "Point 7 says 'Ask the Lord to set a guard at your mouth (Psalm 141:3; James 3:2).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q19",
+          "week": 25,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that we should avoid being rash with words and decisions?",
+          "options": [
+            "A. Proverbs 15:1; Acts 19:36",
+            "B. Colossians 4:6",
+            "C. Proverbs 25:11",
+            "D. Psalm 37:30"
+          ],
+          "answer": "A",
+          "explanation": "Point 4 cites '(Proverbs 15:1; Acts 19:36)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q20",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, if we 'bridle' our tongues, what will we command?",
+          "options": [
+            "A. Armies",
+            "B. Attention and respect",
+            "C. High salaries",
+            "D. The elements"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'If we ‘bridle’ our tongues, we will command attention and respect (Proverbs 12:14).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q21",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "By being slow to speak, we will avoid needless arguments, troubles, battles and keep safe.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'We will avoid needless arguments, troubles, battles and keep safe (Proverbs 13:3; 21:23).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q22",
+          "week": 25,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "According to the conclusion, relationships grow by listening actively and speaking ________.",
+          "options": [
+            "A. loudly",
+            "B. persuasively",
+            "C. slowly",
+            "D. frequently"
+          ],
+          "answer": "C",
+          "explanation": "The conclusion states: 'Relationships grow by listening actively and speaking slowly.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W25Q23",
+          "week": 25,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'In the multitude of words sin is not lacking, But he who restrains his lips is wise.'",
+          "verse_text": "In the multitude of words sin is not lacking, But he who restrains his lips is wise.",
+          "options": [
+            "A. Proverbs 10:19",
+            "B. Proverbs 10:20",
+            "C. Proverbs 10:21",
+            "D. Proverbs 18:7"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 19 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W25Q24",
+          "week": 25,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Proverbs 10:19), what is NOT lacking in the multitude of words?",
+          "options": [
+            "A. Wisdom",
+            "B. Knowledge",
+            "C. Sin",
+            "D. Understanding"
+          ],
+          "answer": "C",
+          "explanation": "Verse 19 says 'In the multitude of words sin is not lacking...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W25Q25",
+          "week": 25,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Proverbs 10:20, what is the tongue of the righteous compared to?",
+          "options": [
+            "A. A sharp two-edged sword",
+            "B. Choice silver",
+            "C. Pure gold",
+            "D. A tree of life"
+          ],
+          "answer": "B",
+          "explanation": "Verse 20 says 'The tongue of the righteous is choice silver...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W25Q26",
+          "week": 25,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Proverbs 10:20, what is the heart of the wicked worth?",
+          "options": [
+            "A. Very little",
+            "B. Nothing at all",
+            "C. Less than dust",
+            "D. It is full of evil"
+          ],
+          "answer": "A",
+          "explanation": "Verse 20 says 'The heart of the wicked is worth little.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W25Q27",
+          "week": 25,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Proverbs 10:21, the lips of the righteous feed many, but what happens to fools?",
+          "options": [
+            "A. They are hungry",
+            "B. They die for lack of wisdom",
+            "C. They fall into traps",
+            "D. They talk too much"
+          ],
+          "answer": "B",
+          "explanation": "Verse 21 says 'But fools die for lack of wisdom.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W25Q28",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that being slow to speak depicts understanding?",
+          "options": [
+            "A. Proverbs 10:13; 17:28b",
+            "B. Titus 2:8; Proverbs 15:23",
+            "C. Psalm 37:30",
+            "D. Job 29:9-10"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Also, it depicts understanding (Proverbs 10:13; 17:28b)...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W25Q29",
+          "week": 25,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The talk of a fool will destroy him because he does not take to instruction and rejects responsibilities.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I says 'The talk of a fool will destroy him because he does not take to instruction and rejects responsibilities (Ecclesiastes 10:12).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W25Q30",
+          "week": 25,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that if we bridle our tongues, our words will be sound and seasoned?",
+          "options": [
+            "A. Titus 2:8; Proverbs 15:23",
+            "B. Proverbs 12:14",
+            "C. Proverbs 13:3; 21:23",
+            "D. Proverbs 17:27; 15:2"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Our words will be sound and seasoned (Titus 2:8; Proverbs 15:23).'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

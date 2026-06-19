@@ -1,0 +1,559 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:12:00Z",
+  "weeks": [
+    {
+      "week_number": 7,
+      "topic": "FORGIVENESS",
+      "memory_verse_reference": "Colossians 1:17",
+      "questions": [
+        {
+          "id": "W7Q1",
+          "week": 7,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 7?",
+          "options": [
+            "A. KNOW YOURSELF",
+            "B. FORGIVENESS",
+            "C. ACHIEVING TRUE FORGIVENESS",
+            "D. MY ENEMY: “THE FLESH”"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Seven is FORGIVENESS.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W7Q2",
+          "week": 7,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 6?",
+          "options": [
+            "A. MY ENEMY: “THE FLESH”",
+            "B. KNOW YOURSELF",
+            "C. FORGIVENESS",
+            "D. THE DEITY OF JESUS (PART 2)"
+          ],
+          "answer": "B",
+          "explanation": "Know Yourself was the topic for Week 6.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W7Q3",
+          "week": 7,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And He is before all things, and in Him all things ________.",
+          "options": [
+            "A. consist",
+            "B. remain",
+            "C. are created",
+            "D. are forgiven"
+          ],
+          "answer": "A",
+          "explanation": "The memory verse (Colossians 1:17) says 'and in Him all things consist.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W7Q4",
+          "week": 7,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Colossians 1:17",
+          "keywords": ["Colossians", "1:17"],
+          "explanation": "The memory verse is explicitly listed as Colossians 1:17.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W7Q5",
+          "week": 7,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 7 in full (NKJV).",
+          "answer": "And He is before all things, and in Him all things consist.",
+          "keywords": ["before", "all", "things", "Him", "consist"],
+          "explanation": "Full text recall for Colossians 1:17.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W7Q6",
+          "week": 7,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What two facts does the memory verse (Colossians 1:17) declare about 'Him'?",
+          "options": [
+            "A. He is the Creator and the Redeemer",
+            "B. He is before all things, and in Him all things consist",
+            "C. He forgives sins and heals diseases",
+            "D. He is the Alpha and Omega"
+          ],
+          "answer": "B",
+          "explanation": "The verse explicitly states 'He is before all things, and in Him all things consist.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W7Q7",
+          "week": 7,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is forgiveness?",
+          "options": [
+            "A. Forgetting that an offense ever happened",
+            "B. An intentional decision to put aside feelings of resentment, anger, and revenge",
+            "C. Punishing the offender so you can feel better",
+            "D. Waiting until you get to heaven to let things go"
+          ],
+          "answer": "B",
+          "explanation": "The introduction defines it as 'an intentional decision to put aside feelings of resentment, anger, and revenge...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W7Q8",
+          "week": 7,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited in the introduction to warn that those who refuse to forgive men will not be forgiven by God?",
+          "options": [
+            "A. Matthew 6:14-15",
+            "B. Colossians 1:17",
+            "C. Genesis 50:17-20",
+            "D. Hebrews 12:14-15"
+          ],
+          "answer": "A",
+          "explanation": "The text points to '(Matthew 6:14-15)' for this principle.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W7Q9",
+          "week": 7,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline in this lesson?",
+          "answer": "REASONS CHRISTIANS SHOULD FORGIVE",
+          "keywords": ["REASONS", "CHRISTIANS", "SHOULD", "FORGIVE"],
+          "explanation": "Outline I is titled 'REASONS CHRISTIANS SHOULD FORGIVE'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q10",
+          "week": 7,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what is one of the fundamental obligations of a Christian? (Supported by Hebrews 12:14-15)",
+          "options": [
+            "A. To tithe regularly",
+            "B. To follow peace with all men",
+            "C. To fast twice a week",
+            "D. To evangelize daily"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'One of the fundamental obligations of a Christian is to follow peace with all men (Hebrews 12:14-15).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q11",
+          "week": 7,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to show that as Christians, we should not only forgive but we should heal?",
+          "options": [
+            "A. Genesis 45:1-15; 50:15-21",
+            "B. Mark 11:25; Ephesians 4:32",
+            "C. Matthew 18:32-35",
+            "D. Hebrews 12:14-15"
+          ],
+          "answer": "A",
+          "explanation": "The lesson links this to '(Genesis 45:1-15; 50:15-21)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q12",
+          "week": 7,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline I, forgiveness is merely a suggestion for Christians, not a command.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'It is a command (Mark 11:25; Ephesians 4:32).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q13",
+          "week": 7,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Why is it important to forgive based on Matthew 5:14 and 16, as explained in Outline I?",
+          "options": [
+            "A. Because we are the light of the world and a living example that others follow",
+            "B. Because God will give us wealth",
+            "C. Because our enemies will fear us",
+            "D. Because we will avoid hell"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'We are the light of the world. We are a living example that others follow and watch consistently'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q14",
+          "week": 7,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that God is angry with us when we refuse to forgive?",
+          "options": [
+            "A. Matthew 6:14",
+            "B. Matthew 18:32-35",
+            "C. Mark 11:25",
+            "D. Ephesians 4:32"
+          ],
+          "answer": "B",
+          "explanation": "The text explicitly links 'God is angry with us when we refuse to forgive' to '(Matthew 18:32-35).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q15",
+          "week": 7,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Lack of forgiveness hinders ________ (Mark 11:25).",
+          "options": [
+            "A. wealth",
+            "B. joy",
+            "C. prayers",
+            "D. salvation"
+          ],
+          "answer": "C",
+          "explanation": "The lesson lists: 'iv. Lack of forgiveness hinders prayers (Mark 11:25).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W7Q16",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline in this lesson?",
+          "answer": "ACHIEVING TRUE FORGIVENESS",
+          "keywords": ["ACHIEVING", "TRUE", "FORGIVENESS"],
+          "explanation": "Outline II is titled 'ACHIEVING TRUE FORGIVENESS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q17",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, forgiveness can help prevent which of the following?",
+          "options": [
+            "A. Poverty and sickness",
+            "B. Depression, anxiety, high blood pressure and hostility",
+            "C. Spiritual attacks",
+            "D. Bad dreams"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Forgiveness can help prevent depression, anxiety, high blood pressure and hostility (Romans 12:18).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q18",
+          "week": 7,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are used to show that forgiveness boosts self-esteem and brings peace of mind?",
+          "options": [
+            "A. Psalm 32:1-5; Hebrews 12:15b",
+            "B. Romans 12:18; Mark 11:25",
+            "C. Genesis 50:17-20; Colossians 3:13",
+            "D. Acts 24:16; Matthew 18:32-35"
+          ],
+          "answer": "A",
+          "explanation": "The text links this directly to '(Psalm 32:1-5; Hebrews 12:15b).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q19",
+          "week": 7,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the acronym for the 5-step model adopted in the lesson to achieve forgiveness?",
+          "answer": "REACH",
+          "keywords": ["REACH"],
+          "explanation": "The lesson says 'we can adopt the programme known as the REACH model.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q20",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the 'R' in the REACH model stand for?",
+          "options": [
+            "A. Repent",
+            "B. Restore",
+            "C. Recall",
+            "D. Release"
+          ],
+          "answer": "C",
+          "explanation": "The acronym REACH stands for Recall, Empathise, Altruistic Gift, Commit and Hold.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q21",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the REACH model, what does 'Recall' involve?",
+          "options": [
+            "A. Being objective in understanding clearly the wrong done, without wallowing in self-pity",
+            "B. Remembering every bad thing the person ever did to you",
+            "C. Forgetting the wrong completely as if it never happened",
+            "D. Telling everyone what the person did"
+          ],
+          "answer": "A",
+          "explanation": "The text states: 'Recall: To achieve forgiveness, be objective in understanding clearly the wrong done. It is not to wallow in self-pity or to hold a grudge...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q22",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "In the REACH model, 'Empathise' means seeing from the offender's point of view and downplaying the wrong that was done.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly says 'without downplaying the wrong that was done'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q23",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the 'A' in the REACH model stand for?",
+          "options": [
+            "A. Accept apology",
+            "B. Altruistic gift",
+            "C. Allow time",
+            "D. Abandon anger"
+          ],
+          "answer": "B",
+          "explanation": "The 'A' stands for Altruistic gift.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q24",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What happens during the 'Altruistic gift' stage of the REACH model?",
+          "options": [
+            "A. The offended gives a physical gift to the offender",
+            "B. The offended remembers his shortcomings and realizes forgiveness is a gift we all need",
+            "C. The offender pays restitution",
+            "D. The church offers a gift to reconcile the two parties"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'the offended can remember his shortcomings and how he was forgiven. He then realises that forgiveness is a gift we all need...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q25",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does 'Commit' mean in the REACH model?",
+          "options": [
+            "A. Committing the person into God's hands for judgement",
+            "B. Making public one's decision to forgive with an accountability partner",
+            "C. Committing to never speak to the person again",
+            "D. Forgetting the event"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'To commit is to make public (share) one’s decision to forgive with an accountability partner...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q26",
+          "week": 7,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which apostle wrote publicly about his commitment to have a clear conscience at all times (Acts 24:16), as cited in the 'Commit' stage?",
+          "options": [
+            "A. Peter",
+            "B. John",
+            "C. Paul",
+            "D. James"
+          ],
+          "answer": "C",
+          "explanation": "The text reads: 'Apostle Paul wrote publicly about his commitment... (Acts 24:16).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q27",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "In the 'Hold' stage of the REACH model, when the feeling of hurt arises, you must remind yourself that you have forgiven and ultimately, you want the ________ of the offender.",
+          "options": [
+            "A. salvation",
+            "B. good",
+            "C. destruction",
+            "D. repentance"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'remind yourself that you have forgiven and ultimately, you want the good of the offender'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q28",
+          "week": 7,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion of the lesson states that true forgiveness is cheap and easy.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The conclusion explicitly states: 'True forgiveness may not come cheap, but its benefits outweigh the pain.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W7Q29",
+          "week": 7,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Then his brothers also went and fell down before his face, and they said, “Behold, we are your servants.”'",
+          "verse_text": "Then his brothers also went and fell down before his face, and they said, “Behold, we are your servants.”",
+          "options": [
+            "A. Genesis 45:15",
+            "B. Genesis 50:18",
+            "C. Matthew 18:32",
+            "D. Mark 11:25"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 18 from the main Bible Passage, Genesis 50:17-20.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W7Q30",
+          "week": 7,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (Genesis 50:17-20), who was weeping when his brothers begged him for forgiveness?",
+          "options": [
+            "A. Jacob",
+            "B. Benjamin",
+            "C. Joseph",
+            "D. Reuben"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'And Joseph wept when they spoke to him.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W7Q31",
+          "week": 7,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage, how did Joseph respond to his brothers when they fell down as his servants?",
+          "options": [
+            "A. He threw them in prison",
+            "B. He said 'Do not be afraid, for am I in the place of God?'",
+            "C. He demanded they pay him back",
+            "D. He refused to speak to them"
+          ],
+          "answer": "B",
+          "explanation": "Genesis 50:19 reads: 'Joseph said to them, “Do not be afraid, for am I in the place of God?'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W7Q32",
+          "week": 7,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Joseph told his brothers: 'But as for you, you meant evil against me; but God meant it for ________, in order to bring it about as it is this day, to save many people alive.'",
+          "options": [
+            "A. blessing",
+            "B. good",
+            "C. His glory",
+            "D. justice"
+          ],
+          "answer": "B",
+          "explanation": "Genesis 50:20 says 'but God meant it for good'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W7Q33",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that we all need forgiveness as an 'altruistic gift'?",
+          "options": [
+            "A. Colossians 3:13",
+            "B. Genesis 50:20",
+            "C. Mark 11:25",
+            "D. Hebrews 12:15b"
+          ],
+          "answer": "A",
+          "explanation": "The 'Altruistic gift' section explicitly cites '(Colossians 3:13)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W7Q34",
+          "week": 7,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the introduction, some believers say they will only be able to forgive when they get to heaven.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction states: 'Some believers even say it is when they get to heaven before they can forgive.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W7Q35",
+          "week": 7,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "true_false",
+          "question": "The 'Hold' stage of the REACH model acknowledges that memories of the painful event will never reoccur once you have truly forgiven.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states: 'This is tough because memories of the event will often reoccur.'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

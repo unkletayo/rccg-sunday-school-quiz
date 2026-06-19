@@ -1,0 +1,755 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 9,
+      "topic": "PROPHECY",
+      "questions": [
+        {
+          "id": "BW9Q1",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.'",
+          "options": [
+            "A. Revelation 19:10",
+            "B. Revelation 20:10",
+            "C. Revelation 19:9",
+            "D. Revelation 19:11"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.' is found in Revelation 19:10.",
+          "source_section": "Revelation 19:10"
+        },
+        {
+          "id": "BW9Q2",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 19:10:\nAnd I fell at his feet to worship him. And he said _____ me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the _____ of _____.",
+          "answer": "unto, spirit, prophecy",
+          "keywords": [
+            "unto",
+            "spirit",
+            "prophecy"
+          ],
+          "explanation": "The full text is: And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.",
+          "source_section": "Revelation 19:10"
+        },
+        {
+          "id": "BW9Q3",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.'",
+          "options": [
+            "A. Nehemiah 8:9",
+            "B. Nehemiah 8:8-10",
+            "C. Nehemiah 9:8",
+            "D. Nehemiah 8:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.' is found in Nehemiah 8:8-10.",
+          "source_section": "Nehemiah 8:8-10"
+        },
+        {
+          "id": "BW9Q4",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 8:8-10:\nSo they read in the book in the law of God distinctly, and _____ the _____, and _____ them to understand the reading.",
+          "answer": "gave, sense, caused",
+          "keywords": [
+            "gave",
+            "sense",
+            "caused"
+          ],
+          "explanation": "The full text is: So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.",
+          "source_section": "Nehemiah 8:8-10"
+        },
+        {
+          "id": "BW9Q5",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.7.14 shall call: or, thou, O virgin, shalt call'",
+          "options": [
+            "A. Isaiah 7:14",
+            "B. Isaiah 7:13",
+            "C. Isaiah 7:15",
+            "D. Isaiah 8:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.7.14 shall call: or, thou, O virgin, shalt call' is found in Isaiah 7:14.",
+          "source_section": "Isaiah 7:14"
+        },
+        {
+          "id": "BW9Q6",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 7:14:\nTherefore the Lord himself shall _____ you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name _____ shall call: or, thou, O virgin, shalt _____",
+          "answer": "give, Immanuel.7.14, call",
+          "keywords": [
+            "give",
+            "Immanuel.7.14",
+            "call"
+          ],
+          "explanation": "The full text is: Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.7.14 shall call: or, thou, O virgin, shalt call",
+          "source_section": "Isaiah 7:14"
+        },
+        {
+          "id": "BW9Q7",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Despise not prophesyings.'",
+          "options": [
+            "A. 1 Thessalonians 5:20-21",
+            "B. 1 Thessalonians 6:20",
+            "C. 1 Thessalonians 5:21",
+            "D. 1 Thessalonians 5:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Despise not prophesyings.' is found in 1 Thessalonians 5:20-21.",
+          "source_section": "1 Thessalonians 5:20-21"
+        },
+        {
+          "id": "BW9Q8",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.'",
+          "options": [
+            "A. 1 Corinthians 14:3",
+            "B. 1 Corinthians 14:2",
+            "C. 1 Corinthians 14:1-5",
+            "D. 1 Corinthians 15:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.' is found in 1 Corinthians 14:1-5.",
+          "source_section": "1 Corinthians 14:1-5"
+        },
+        {
+          "id": "BW9Q9",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 14:1-5:\nFollow _____ _____, and desire spiritual gifts, but rather _____ ye may prophesy.",
+          "answer": "after, charity, that",
+          "keywords": [
+            "after",
+            "charity",
+            "that"
+          ],
+          "explanation": "The full text is: Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.",
+          "source_section": "1 Corinthians 14:1-5"
+        },
+        {
+          "id": "BW9Q10",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.6.8 camp: or, encamping'",
+          "options": [
+            "A. 2 Kings 6:8-12",
+            "B. 2 Kings 6:7",
+            "C. 2 Kings 7:8",
+            "D. 2 Kings 6:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.6.8 camp: or, encamping' is found in 2 Kings 6:8-12.",
+          "source_section": "2 Kings 6:8-12"
+        },
+        {
+          "id": "BW9Q11",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 6:8-12:\n\u00b6 Then the king of Syria warred _____ Israel, and took counsel with his servants, _____, In such and such a _____ shall be my camp.6.8 camp: or, encamping",
+          "answer": "against, saying, place",
+          "keywords": [
+            "against",
+            "saying",
+            "place"
+          ],
+          "explanation": "The full text is: \u00b6 Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place shall be my camp.6.8 camp: or, encamping",
+          "source_section": "2 Kings 6:8-12"
+        },
+        {
+          "id": "BW9Q12",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.'",
+          "options": [
+            "A. 2 Peter 1:21",
+            "B. 2 Peter 2:21",
+            "C. 2 Peter 1:22",
+            "D. 2 Peter 1:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.' is found in 2 Peter 1:21.",
+          "source_section": "2 Peter 1:21"
+        },
+        {
+          "id": "BW9Q13",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Peter 1:21:\nFor the prophecy _____ not in old time by the will of man: but holy men of God spake as _____ were moved by the _____ Ghost.",
+          "answer": "came, they, Holy",
+          "keywords": [
+            "came",
+            "they",
+            "Holy"
+          ],
+          "explanation": "The full text is: For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.",
+          "source_section": "2 Peter 1:21"
+        },
+        {
+          "id": "BW9Q14",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.'",
+          "options": [
+            "A. 1 Corinthians 14:5",
+            "B. 1 Corinthians 14:4",
+            "C. 1 Corinthians 15:4",
+            "D. 1 Corinthians 14:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.' is found in 1 Corinthians 14:4.",
+          "source_section": "1 Corinthians 14:4"
+        },
+        {
+          "id": "BW9Q15",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 14:4:\nHe that speaketh in an _____ _____ edifieth himself; but he _____ prophesieth edifieth the church.",
+          "answer": "unknown, tongue, that",
+          "keywords": [
+            "unknown",
+            "tongue",
+            "that"
+          ],
+          "explanation": "The full text is: He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.",
+          "source_section": "1 Corinthians 14:4"
+        },
+        {
+          "id": "BW9Q16",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:'",
+          "options": [
+            "A. Acts 16:15",
+            "B. Acts 16:17",
+            "C. Acts 17:16",
+            "D. Acts 16:16-19"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:' is found in Acts 16:16-19.",
+          "source_section": "Acts 16:16-19"
+        },
+        {
+          "id": "BW9Q17",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 16:16-19:\n\u00b6 And it _____ to pass, as we went to prayer, a certain damsel possessed _____ a spirit of divination met us, which brought her masters much gain by _____:",
+          "answer": "came, with, soothsaying",
+          "keywords": [
+            "came",
+            "with",
+            "soothsaying"
+          ],
+          "explanation": "The full text is: \u00b6 And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:",
+          "source_section": "Acts 16:16-19"
+        },
+        {
+          "id": "BW9Q18",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.'",
+          "options": [
+            "A. 2 Kings 4:1-7",
+            "B. 2 Kings 5:1",
+            "C. 2 Kings 4:2",
+            "D. 2 Kings 4:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.' is found in 2 Kings 4:1-7.",
+          "source_section": "2 Kings 4:1-7"
+        },
+        {
+          "id": "BW9Q19",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 4:1-7:\nNow there cried a certain _____ of the wives of the sons of the prophets unto _____, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be _____.",
+          "answer": "woman, Elisha, bondmen",
+          "keywords": [
+            "woman",
+            "Elisha",
+            "bondmen"
+          ],
+          "explanation": "The full text is: Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.",
+          "source_section": "2 Kings 4:1-7"
+        },
+        {
+          "id": "BW9Q20",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.'",
+          "options": [
+            "A. Job 32:8",
+            "B. Job 32:7",
+            "C. Job 32:9",
+            "D. Job 33:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.' is found in Job 32:8.",
+          "source_section": "Job 32:8"
+        },
+        {
+          "id": "BW9Q21",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 32:8:\nBut _____ is a spirit in man: and the inspiration of the Almighty _____ them _____.",
+          "answer": "there, giveth, understanding",
+          "keywords": [
+            "there",
+            "giveth",
+            "understanding"
+          ],
+          "explanation": "The full text is: But there is a spirit in man: and the inspiration of the Almighty giveth them understanding.",
+          "source_section": "Job 32:8"
+        },
+        {
+          "id": "BW9Q22",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.'",
+          "options": [
+            "A. Amos 4:7",
+            "B. Amos 3:6",
+            "C. Amos 3:7",
+            "D. Amos 3:8"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.' is found in Amos 3:7.",
+          "source_section": "Amos 3:7"
+        },
+        {
+          "id": "BW9Q23",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Amos 3:7:\n_____ the Lord GOD _____ do nothing, but he revealeth his _____ unto his servants the prophets.",
+          "answer": "Surely, will, secret",
+          "keywords": [
+            "Surely",
+            "will",
+            "secret"
+          ],
+          "explanation": "The full text is: Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.",
+          "source_section": "Amos 3:7"
+        },
+        {
+          "id": "BW9Q24",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:'",
+          "options": [
+            "A. Acts 3:17",
+            "B. Acts 2:17",
+            "C. Acts 2:18",
+            "D. Acts 2:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:' is found in Acts 2:17.",
+          "source_section": "Acts 2:17"
+        },
+        {
+          "id": "BW9Q25",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 2:17:\nAnd it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and _____ daughters shall _____, and your young men shall see visions, and your old men _____ dream dreams:",
+          "answer": "your, prophesy, shall",
+          "keywords": [
+            "your",
+            "prophesy",
+            "shall"
+          ],
+          "explanation": "The full text is: And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:",
+          "source_section": "Acts 2:17"
+        },
+        {
+          "id": "BW9Q26",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.'",
+          "options": [
+            "A. 1 Kings 17:13-16",
+            "B. 1 Kings 17:12",
+            "C. 1 Kings 18:13",
+            "D. 1 Kings 17:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.' is found in 1 Kings 17:13-16.",
+          "source_section": "1 Kings 17:13-16"
+        },
+        {
+          "id": "BW9Q27",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 17:13-16:\nAnd Elijah said unto her, Fear not; go and do as thou _____ said: but _____ me _____ a little cake first, and bring it unto me, and after make for thee and for thy son.",
+          "answer": "hast, make, thereof",
+          "keywords": [
+            "hast",
+            "make",
+            "thereof"
+          ],
+          "explanation": "The full text is: And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.",
+          "source_section": "1 Kings 17:13-16"
+        },
+        {
+          "id": "BW9Q28",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.'",
+          "options": [
+            "A. 2 Kings 6:20",
+            "B. 2 Kings 5:21",
+            "C. 2 Kings 5:19",
+            "D. 2 Kings 5:20-26"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.' is found in 2 Kings 5:20-26.",
+          "source_section": "2 Kings 5:20-26"
+        },
+        {
+          "id": "BW9Q29",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 5:20-26:\n\u00b6 But Gehazi, the servant of Elisha the man of God, said, _____, my _____ hath spared Naaman this Syrian, in not _____ at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.",
+          "answer": "Behold, master, receiving",
+          "keywords": [
+            "Behold",
+            "master",
+            "receiving"
+          ],
+          "explanation": "The full text is: \u00b6 But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him.",
+          "source_section": "2 Kings 5:20-26"
+        },
+        {
+          "id": "BW9Q30",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,'",
+          "options": [
+            "A. Ezekiel 38:1",
+            "B. Ezekiel 37:2",
+            "C. Ezekiel 37:1-14",
+            "D. Ezekiel 37:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,' is found in Ezekiel 37:1-14.",
+          "source_section": "Ezekiel 37:1-14"
+        },
+        {
+          "id": "BW9Q31",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ezekiel 37:1-14:\nThe _____ of the LORD was _____ me, and _____ me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,",
+          "answer": "hand, upon, carried",
+          "keywords": [
+            "hand",
+            "upon",
+            "carried"
+          ],
+          "explanation": "The full text is: The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,",
+          "source_section": "Ezekiel 37:1-14"
+        },
+        {
+          "id": "BW9Q32",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD\u2019s hand double for all her sins.40.2 comfortably: Heb. to the heart40.2 warfare: or, appointed time'",
+          "options": [
+            "A. Isaiah 40:1",
+            "B. Isaiah 40:2",
+            "C. Isaiah 41:2",
+            "D. Isaiah 40:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD\u2019s hand double for all her sins.40.2 comfortably: Heb. to the heart40.2 warfare: or, appointed time' is found in Isaiah 40:2.",
+          "source_section": "Isaiah 40:2"
+        },
+        {
+          "id": "BW9Q33",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 40:2:\n_____ ye comfortably to Jerusalem, and cry unto her, _____ her warfare is accomplished, that her iniquity is pardoned: for she hath _____ of the LORD\u2019s hand double for all her sins.40.2 comfortably: Heb. to the heart40.2 warfare: or, appointed time",
+          "answer": "Speak, that, received",
+          "keywords": [
+            "Speak",
+            "that",
+            "received"
+          ],
+          "explanation": "The full text is: Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD\u2019s hand double for all her sins.40.2 comfortably: Heb. to the heart40.2 warfare: or, appointed time",
+          "source_section": "Isaiah 40:2"
+        },
+        {
+          "id": "BW9Q34",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:'",
+          "options": [
+            "A. Ephesians 4:11",
+            "B. Ephesians 5:12",
+            "C. Ephesians 4:13",
+            "D. Ephesians 4:12"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:' is found in Ephesians 4:12.",
+          "source_section": "Ephesians 4:12"
+        },
+        {
+          "id": "BW9Q35",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:12:\nFor the perfecting of the saints, for the _____ of the _____, for the edifying of the body of _____:",
+          "answer": "work, ministry, Christ",
+          "keywords": [
+            "work",
+            "ministry",
+            "Christ"
+          ],
+          "explanation": "The full text is: For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+          "source_section": "Ephesians 4:12"
+        },
+        {
+          "id": "BW9Q36",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But he that prophesieth speaketh unto men to edification, and exhortation, and comfort.'",
+          "options": [
+            "A. 1 Corinthians 14:4",
+            "B. 1 Corinthians 15:3",
+            "C. 1 Corinthians 14:3",
+            "D. 1 Corinthians 14:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But he that prophesieth speaketh unto men to edification, and exhortation, and comfort.' is found in 1 Corinthians 14:3.",
+          "source_section": "1 Corinthians 14:3"
+        },
+        {
+          "id": "BW9Q37",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 14:3:\nBut he that prophesieth speaketh _____ men to _____, and exhortation, and _____.",
+          "answer": "unto, edification, comfort",
+          "keywords": [
+            "unto",
+            "edification",
+            "comfort"
+          ],
+          "explanation": "The full text is: But he that prophesieth speaketh unto men to edification, and exhortation, and comfort.",
+          "source_section": "1 Corinthians 14:3"
+        },
+        {
+          "id": "BW9Q38",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.'",
+          "options": [
+            "A. 1 Corinthians 15:1",
+            "B. 1 Corinthians 14:3",
+            "C. 1 Corinthians 14:1",
+            "D. 1 Corinthians 14:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.' is found in 1 Corinthians 14:1.",
+          "source_section": "1 Corinthians 14:1"
+        },
+        {
+          "id": "BW9Q39",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 14:1:\nFollow _____ charity, and desire spiritual gifts, but rather _____ ye may _____.",
+          "answer": "after, that, prophesy",
+          "keywords": [
+            "after",
+            "that",
+            "prophesy"
+          ],
+          "explanation": "The full text is: Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.",
+          "source_section": "1 Corinthians 14:1"
+        },
+        {
+          "id": "BW9Q40",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,'",
+          "options": [
+            "A. Hebrews 1:2",
+            "B. Hebrews 2:1",
+            "C. Hebrews 1:3",
+            "D. Hebrews 1:1-3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,' is found in Hebrews 1:1-3.",
+          "source_section": "Hebrews 1:1-3"
+        },
+        {
+          "id": "BW9Q41",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 1:1-3:\nGod, who at _____ _____ and in divers _____ spake in time past unto the fathers by the prophets,",
+          "answer": "sundry, times, manners",
+          "keywords": [
+            "sundry",
+            "times",
+            "manners"
+          ],
+          "explanation": "The full text is: God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+          "source_section": "Hebrews 1:1-3"
+        },
+        {
+          "id": "BW9Q42",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.'",
+          "options": [
+            "A. Numbers 13:6",
+            "B. Numbers 12:7",
+            "C. Numbers 12:6",
+            "D. Numbers 12:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.' is found in Numbers 12:6.",
+          "source_section": "Numbers 12:6"
+        },
+        {
+          "id": "BW9Q43",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Numbers 12:6:\nAnd he said, _____ now my words: If there be a _____ among you, I the _____ will make myself known unto him in a vision, and will speak unto him in a dream.",
+          "answer": "Hear, prophet, LORD",
+          "keywords": [
+            "Hear",
+            "prophet",
+            "LORD"
+          ],
+          "explanation": "The full text is: And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.",
+          "source_section": "Numbers 12:6"
+        },
+        {
+          "id": "BW9Q44",
+          "week": 9,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And there was a great famine in Samaria: and, behold, they besieged it, until an ass\u2019s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove\u2019s dung for five pieces of silver.'",
+          "options": [
+            "A. 2 Kings 7:25",
+            "B. 2 Kings 6:26",
+            "C. 2 Kings 6:24",
+            "D. 2 Kings 6:25"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And there was a great famine in Samaria: and, behold, they besieged it, until an ass\u2019s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove\u2019s dung for five pieces of silver.' is found in 2 Kings 6:25.",
+          "source_section": "2 Kings 6:25"
+        },
+        {
+          "id": "BW9Q45",
+          "week": 9,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 6:25:\nAnd there was a great famine in Samaria: and, behold, they besieged it, until an ass\u2019s head was sold for fourscore pieces of silver, and the _____ part of a cab of dove\u2019s _____ for five _____ of silver.",
+          "answer": "fourth, dung, pieces",
+          "keywords": [
+            "fourth",
+            "dung",
+            "pieces"
+          ],
+          "explanation": "The full text is: And there was a great famine in Samaria: and, behold, they besieged it, until an ass\u2019s head was sold for fourscore pieces of silver, and the fourth part of a cab of dove\u2019s dung for five pieces of silver.",
+          "source_section": "2 Kings 6:25"
+        }
+      ]
+    }
+  ]
+}

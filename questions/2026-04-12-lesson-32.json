@@ -1,0 +1,479 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:34:00Z",
+  "weeks": [
+    {
+      "week_number": 32,
+      "topic": "LIVE HEALTHY",
+      "memory_verse_reference": "1 Timothy 4:8",
+      "questions": [
+        {
+          "id": "W32Q1",
+          "week": 32,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 32?",
+          "options": [
+            "A. THE IMPORTANCE",
+            "B. THE TIPS",
+            "C. LIVE HEALTHY",
+            "D. SELF-WORTH"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Thirty-Two is LIVE HEALTHY.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W32Q2",
+          "week": 32,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 31?",
+          "options": [
+            "A. LIVE HEALTHY",
+            "B. CRISIS MANAGEMENT",
+            "C. SELF-WORTH",
+            "D. COPING WITH LOSS"
+          ],
+          "answer": "C",
+          "explanation": "Self-Worth was the topic for Week 31.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W32Q3",
+          "week": 32,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "For bodily exercise profiteth little: but ________ is profitable unto all things...",
+          "options": [
+            "A. godliness",
+            "B. fasting",
+            "C. praying",
+            "D. wisdom"
+          ],
+          "answer": "A",
+          "explanation": "The memory verse (1 Timothy 4:8) says 'but godliness is profitable unto all things...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W32Q4",
+          "week": 32,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 Timothy 4:8",
+          "keywords": ["1 Timothy", "4:8"],
+          "explanation": "The memory verse reference is 1 Timothy 4:8.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W32Q5",
+          "week": 32,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 32 in full (KJV/NKJV).",
+          "answer": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+          "keywords": ["bodily", "exercise", "profiteth", "little", "godliness", "profitable", "things", "promise", "life", "now", "come"],
+          "explanation": "Full text recall of 1 Timothy 4:8.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W32Q6",
+          "week": 32,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (1 Timothy 4:8), godliness has the promise of the life that now is, and of what else?",
+          "options": [
+            "A. Riches and honor",
+            "B. That which is to come",
+            "C. Long life on earth",
+            "D. Health and wealth"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'having promise of the life that now is, and of that which is to come.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W32Q7",
+          "week": 32,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the introduction, we should pay serious attention to career and family but it is okay to neglect our health.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The introduction explicitly states 'we should not neglect our health (Acts 27:34; 1 Timothy 5:23).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W32Q8",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "THE IMPORTANCE",
+          "keywords": ["THE", "IMPORTANCE"],
+          "explanation": "Outline I is titled 'THE IMPORTANCE'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q9",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, why is it our responsibility to prioritise our health?",
+          "options": [
+            "A. Because medical bills are high",
+            "B. Because our bodies are God's temple and the containers that enable us to fulfill God's purpose",
+            "C. So we can look better than others",
+            "D. To avoid dying young"
+          ],
+          "answer": "B",
+          "explanation": "The text says '...because our bodies are God’s temple (1 Corinthians 6:19) and the containers that enable us to exist and interact with the physical world without which we would be unable to fulfil God’s purpose...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q10",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is listed as a reason why it is important to take care of our bodies?",
+          "options": [
+            "A. Good health makes us wealthy immediately",
+            "B. It increases our self-worth",
+            "C. It guarantees a life without problems",
+            "D. It removes the need for prayer"
+          ],
+          "answer": "B",
+          "explanation": "Point 5 in Outline I says 'Living healthy increases our self-worth (Daniel 1:12-15).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q11",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, good health is more expensive than ill-health.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Point 6 says 'It is less expensive than ill-health (Mark 5:25-26).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q12",
+          "week": 32,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that good health is God's will for us?",
+          "options": [
+            "A. Mark 5:18-20",
+            "B. Acts 3:8-10",
+            "C. Jeremiah 30:17",
+            "D. Proverbs 31:17"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 cites '(Jeremiah 30:17)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q13",
+          "week": 32,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that it is impossible to serve God without good health?",
+          "options": [
+            "A. Philippians 2:25-28",
+            "B. Mark 5:18-20",
+            "C. Daniel 1:12-15",
+            "D. Romans 12:1"
+          ],
+          "answer": "B",
+          "explanation": "Point 2 cites '(Mark 5:18-20)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q14",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE TIPS",
+          "keywords": ["THE", "TIPS"],
+          "explanation": "Outline II is titled 'THE TIPS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q15",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does Outline II say we must minimize the intake of?",
+          "options": [
+            "A. Water and fruit juice",
+            "B. Sugar and processed food",
+            "C. Meat and fish",
+            "D. Vegetables and whole grains"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'Practically, we must minimise the intake of sugar and processed food.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q16",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, negative thoughts and mind-sets can be detrimental to our health.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'It is important to renew our minds because negative thoughts and mind-sets can be detrimental to our health (Romans 12:2).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q17",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Why does the lesson suggest spending time outdoors and reducing screen time?",
+          "options": [
+            "A. To save electricity",
+            "B. To meet new people",
+            "C. To prevent eye problems and brain malfunction",
+            "D. To avoid doing chores"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Spend time outdoors and reduce screen time to prevent eye problems and brain malfunction.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q18",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What happens when you steer clear of alcoholic/strong drinks, according to the lesson?",
+          "options": [
+            "A. You save money",
+            "B. You avoid damaging the organs and the image of the victims",
+            "C. You lose weight fast",
+            "D. You become a pastor"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Steer clear of alcoholic/strong drinks: it damages the organs and the image of the victims (Proverbs 20:1; 31:6).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q19",
+          "week": 32,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding regular exercise aiding blood circulation?",
+          "options": [
+            "A. 1 Timothy 4:8a",
+            "B. Romans 12:2",
+            "C. Genesis 1:29",
+            "D. Proverbs 4:20-22"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Engage in regular exercise to aid blood circulation in the body (1Timothy. 4:8a).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q20",
+          "week": 32,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, what we eat or drink is our first medicine.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states 'What we eat or drink is our first medicine.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W32Q21",
+          "week": 32,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Please test your servants for ten days, and let them give us vegetables to eat and water to drink.'",
+          "verse_text": "Please test your servants for ten days, and let them give us vegetables to eat and water to drink.",
+          "options": [
+            "A. Daniel 1:12",
+            "B. Daniel 1:13",
+            "C. Daniel 1:14",
+            "D. Daniel 1:15"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 12 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W32Q22",
+          "week": 32,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Daniel 1:13), what did Daniel ask to be examined after the ten days?",
+          "options": [
+            "A. Their physical strength in battle",
+            "B. Their knowledge of books",
+            "C. Their appearance and the appearance of those who ate the king's delicacies",
+            "D. Their ability to interpret dreams"
+          ],
+          "answer": "C",
+          "explanation": "Verse 13 says 'Then let our appearance be examined before you, and the appearance of the young men who eat the portion of the king’s delicacies...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W32Q23",
+          "week": 32,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Daniel 1:15, at the end of ten days, how did Daniel and his friends appear compared to the young men who ate the king's delicacies?",
+          "options": [
+            "A. Paler and thinner",
+            "B. Exactly the same",
+            "C. Better and fatter in flesh",
+            "D. Weak and sick"
+          ],
+          "answer": "C",
+          "explanation": "Verse 15 says '...their features appeared better and fatter in flesh than all the young men...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W32Q24",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "First and foremost, we need to involve ________ in our desire to be healthy.",
+          "options": [
+            "A. doctors",
+            "B. God",
+            "C. family",
+            "D. exercise"
+          ],
+          "answer": "B",
+          "explanation": "Outline II begins 'First and foremost, we need to involve God in our desire to be healthy.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q25",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that good health increases our productivity?",
+          "options": [
+            "A. Acts 3:8-10",
+            "B. Proverbs 31:17",
+            "C. Mark 5:25-26",
+            "D. Philippians 2:25-28"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 cites '(Proverbs 31:17)' for increasing productivity.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q26",
+          "week": 32,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Sitting for long periods at a stretch is detrimental to our health, so we must ensure that we walk more.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II states 'We must ensure that we walk more than sit in a position for long periods at a stretch as this is detrimental to our health.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q27",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited to remind us that our bodies are God's temple?",
+          "options": [
+            "A. Genesis 2:7",
+            "B. 1 Corinthians 6:19",
+            "C. Romans 12:1",
+            "D. Jeremiah 30:17"
+          ],
+          "answer": "B",
+          "explanation": "Outline I cites '(1 Corinthians 6:19)' for bodies being God's temple.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q28",
+          "week": 32,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding being mindful of what you consume?",
+          "options": [
+            "A. Proverbs 20:1; 31:6",
+            "B. Romans 12:2",
+            "C. Proverbs 23:1-3, 20-21; 1 Corinthians 10:31",
+            "D. Genesis 1:29; Daniel 1:8"
+          ],
+          "answer": "C",
+          "explanation": "Outline II cites '(Proverbs 23:1-3, 20-21; 1 Corinthians 10:31)' next to 'Be mindful of what you consume'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W32Q29",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "It is our responsibility and our offering of gratitude to God to prioritise our health because our bodies are the ________ that enable us to exist and interact with the physical world.",
+          "options": [
+            "A. vehicles",
+            "B. containers",
+            "C. houses",
+            "D. tools"
+          ],
+          "answer": "B",
+          "explanation": "Outline I says 'and the containers that enable us to exist and interact with the physical world...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W32Q30",
+          "week": 32,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is a reason listed in Outline I for taking care of our bodies?",
+          "options": [
+            "A. It brings glory to God",
+            "B. It guarantees a wealthy life",
+            "C. It prevents all accidents",
+            "D. It makes us smarter than others"
+          ],
+          "answer": "A",
+          "explanation": "Point 3 in Outline I says 'Good health brings glory to God (Acts 3:8-10).'",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

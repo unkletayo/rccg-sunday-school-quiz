@@ -1,0 +1,540 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 19,
+      "topic": "EFFECTIVE PLANNING",
+      "questions": [
+        {
+          "id": "BW19Q1",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:'",
+          "options": [
+            "A. James 4:14",
+            "B. James 4:12",
+            "C. James 5:13",
+            "D. James 4:13-15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:' is found in James 4:13-15.",
+          "source_section": "James 4:13-15"
+        },
+        {
+          "id": "BW19Q2",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 4:13-15:\nGo to now, ye that say, To day or to morrow we will go _____ _____ a _____, and continue there a year, and buy and sell, and get gain:",
+          "answer": "into, such, city",
+          "keywords": [
+            "into",
+            "such",
+            "city"
+          ],
+          "explanation": "The full text is: Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:",
+          "source_section": "James 4:13-15"
+        },
+        {
+          "id": "BW19Q3",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.'",
+          "options": [
+            "A. Habakkuk 2:1",
+            "B. Habakkuk 3:2",
+            "C. Habakkuk 2:2-3",
+            "D. Habakkuk 2:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.' is found in Habakkuk 2:2-3.",
+          "source_section": "Habakkuk 2:2-3"
+        },
+        {
+          "id": "BW19Q4",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Habakkuk 2:2-3:\nAnd the LORD _____ me, and said, _____ the vision, and make it plain _____ tables, that he may run that readeth it.",
+          "answer": "answered, Write, upon",
+          "keywords": [
+            "answered",
+            "Write",
+            "upon"
+          ],
+          "explanation": "The full text is: And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
+          "source_section": "Habakkuk 2:2-3"
+        },
+        {
+          "id": "BW19Q5",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.'",
+          "options": [
+            "A. Proverbs 3:4",
+            "B. Proverbs 3:6",
+            "C. Proverbs 4:5",
+            "D. Proverbs 3:5-6"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.' is found in Proverbs 3:5-6.",
+          "source_section": "Proverbs 3:5-6"
+        },
+        {
+          "id": "BW19Q6",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 3:5-6:\n\u00b6 _____ in the LORD with all thine heart; and lean not _____ _____ own understanding.",
+          "answer": "Trust, unto, thine",
+          "keywords": [
+            "Trust",
+            "unto",
+            "thine"
+          ],
+          "explanation": "The full text is: \u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "source_section": "Proverbs 3:5-6"
+        },
+        {
+          "id": "BW19Q7",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.'",
+          "options": [
+            "A. Matthew 26:21",
+            "B. Matthew 25:20",
+            "C. Matthew 25:21",
+            "D. Matthew 25:22"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.' is found in Matthew 25:21.",
+          "source_section": "Matthew 25:21"
+        },
+        {
+          "id": "BW19Q8",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 25:21:\nHis lord _____ unto him, Well _____, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: _____ thou into the joy of thy lord.",
+          "answer": "said, done, enter",
+          "keywords": [
+            "said",
+            "done",
+            "enter"
+          ],
+          "explanation": "The full text is: His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+          "source_section": "Matthew 25:21"
+        },
+        {
+          "id": "BW19Q9",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To every thing there is a season, and a time to every purpose under the heaven:'",
+          "options": [
+            "A. Ecclesiastes 4:1",
+            "B. Ecclesiastes 3:3",
+            "C. Ecclesiastes 3:1",
+            "D. Ecclesiastes 3:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'To every thing there is a season, and a time to every purpose under the heaven:' is found in Ecclesiastes 3:1.",
+          "source_section": "Ecclesiastes 3:1"
+        },
+        {
+          "id": "BW19Q10",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 3:1:\nTo every thing _____ is a season, and a time to every _____ _____ the heaven:",
+          "answer": "there, purpose, under",
+          "keywords": [
+            "there",
+            "purpose",
+            "under"
+          ],
+          "explanation": "The full text is: To every thing there is a season, and a time to every purpose under the heaven:",
+          "source_section": "Ecclesiastes 3:1"
+        },
+        {
+          "id": "BW19Q11",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jesus answering saith unto them, Have faith in God.'",
+          "options": [
+            "A. Mark 11:22-24",
+            "B. Mark 12:22",
+            "C. Mark 11:23",
+            "D. Mark 11:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Jesus answering saith unto them, Have faith in God.' is found in Mark 11:22-24.",
+          "source_section": "Mark 11:22-24"
+        },
+        {
+          "id": "BW19Q12",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 11:22-24:\nAnd Jesus answering _____ unto them, _____ _____ in God.",
+          "answer": "saith, Have, faith",
+          "keywords": [
+            "saith",
+            "Have",
+            "faith"
+          ],
+          "explanation": "The full text is: And Jesus answering saith unto them, Have faith in God.",
+          "source_section": "Mark 11:22-24"
+        },
+        {
+          "id": "BW19Q13",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.'",
+          "options": [
+            "A. Matthew 6:34",
+            "B. Matthew 6:32",
+            "C. Matthew 6:33",
+            "D. Matthew 7:33"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.' is found in Matthew 6:33.",
+          "source_section": "Matthew 6:33"
+        },
+        {
+          "id": "BW19Q14",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:33:\nBut seek ye first the kingdom of God, and his _____; and all _____ things _____ be added unto you.",
+          "answer": "righteousness, these, shall",
+          "keywords": [
+            "righteousness",
+            "these",
+            "shall"
+          ],
+          "explanation": "The full text is: But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+          "source_section": "Matthew 6:33"
+        },
+        {
+          "id": "BW19Q15",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.'",
+          "options": [
+            "A. Proverbs 21:5",
+            "B. Proverbs 21:6",
+            "C. Proverbs 21:4",
+            "D. Proverbs 22:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.' is found in Proverbs 21:5.",
+          "source_section": "Proverbs 21:5"
+        },
+        {
+          "id": "BW19Q16",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 21:5:\nThe thoughts of the diligent tend only to _____; but of _____ one that is hasty _____ to want.",
+          "answer": "plenteousness, every, only",
+          "keywords": [
+            "plenteousness",
+            "every",
+            "only"
+          ],
+          "explanation": "The full text is: The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want.",
+          "source_section": "Proverbs 21:5"
+        },
+        {
+          "id": "BW19Q17",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A man\u2019s heart deviseth his way: but the LORD directeth his steps.'",
+          "options": [
+            "A. Proverbs 16:8",
+            "B. Proverbs 17:9",
+            "C. Proverbs 16:9",
+            "D. Proverbs 16:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'A man\u2019s heart deviseth his way: but the LORD directeth his steps.' is found in Proverbs 16:9.",
+          "source_section": "Proverbs 16:9"
+        },
+        {
+          "id": "BW19Q18",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 16:9:\nA man\u2019s heart _____ his way: but the _____ directeth his _____.",
+          "answer": "deviseth, LORD, steps",
+          "keywords": [
+            "deviseth",
+            "LORD",
+            "steps"
+          ],
+          "explanation": "The full text is: A man\u2019s heart deviseth his way: but the LORD directeth his steps.",
+          "source_section": "Proverbs 16:9"
+        },
+        {
+          "id": "BW19Q19",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Where there is no vision, the people perish: but he that keepeth the law, happy is he.29.18 perish: or, is made naked'",
+          "options": [
+            "A. Proverbs 29:18",
+            "B. Proverbs 30:18",
+            "C. Proverbs 29:19",
+            "D. Proverbs 29:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Where there is no vision, the people perish: but he that keepeth the law, happy is he.29.18 perish: or, is made naked' is found in Proverbs 29:18.",
+          "source_section": "Proverbs 29:18"
+        },
+        {
+          "id": "BW19Q20",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:18:\n_____ there is no vision, the _____ perish: but he that keepeth the law, happy is _____ perish: or, is made naked",
+          "answer": "Where, people, he.29.18",
+          "keywords": [
+            "Where",
+            "people",
+            "he.29.18"
+          ],
+          "explanation": "The full text is: Where there is no vision, the people perish: but he that keepeth the law, happy is he.29.18 perish: or, is made naked",
+          "source_section": "Proverbs 29:18"
+        },
+        {
+          "id": "BW19Q21",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.'",
+          "options": [
+            "A. 1 Samuel 15:22-23",
+            "B. 1 Samuel 15:23",
+            "C. 1 Samuel 16:22",
+            "D. 1 Samuel 15:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.' is found in 1 Samuel 15:22-23.",
+          "source_section": "1 Samuel 15:22-23"
+        },
+        {
+          "id": "BW19Q22",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 15:22-23:\nAnd Samuel said, Hath the LORD as great _____ in burnt offerings and sacrifices, as in obeying the voice of the LORD? _____, to obey is better than sacrifice, and to _____ than the fat of rams.",
+          "answer": "delight, Behold, hearken",
+          "keywords": [
+            "delight",
+            "Behold",
+            "hearken"
+          ],
+          "explanation": "The full text is: And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
+          "source_section": "1 Samuel 15:22-23"
+        },
+        {
+          "id": "BW19Q23",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?'",
+          "options": [
+            "A. Proverbs 6:10",
+            "B. Proverbs 7:9",
+            "C. Proverbs 6:9-11",
+            "D. Proverbs 6:8"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?' is found in Proverbs 6:9-11.",
+          "source_section": "Proverbs 6:9-11"
+        },
+        {
+          "id": "BW19Q24",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 6:9-11:\nHow _____ wilt thou sleep, O _____ when _____ thou arise out of thy sleep?",
+          "answer": "long, sluggard?, wilt",
+          "keywords": [
+            "long",
+            "sluggard?",
+            "wilt"
+          ],
+          "explanation": "The full text is: How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?",
+          "source_section": "Proverbs 6:9-11"
+        },
+        {
+          "id": "BW19Q25",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.'",
+          "options": [
+            "A. Exodus 18:14",
+            "B. Exodus 18:12",
+            "C. Exodus 18:13-23",
+            "D. Exodus 19:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.' is found in Exodus 18:13-23.",
+          "source_section": "Exodus 18:13-23"
+        },
+        {
+          "id": "BW19Q26",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 18:13-23:\n\u00b6 And it came to pass on the morrow, that Moses sat to judge the _____: and the people stood by _____ from the morning _____ the evening.",
+          "answer": "people, Moses, unto",
+          "keywords": [
+            "people",
+            "Moses",
+            "unto"
+          ],
+          "explanation": "The full text is: \u00b6 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.",
+          "source_section": "Exodus 18:13-23"
+        },
+        {
+          "id": "BW19Q27",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Through wisdom is an house builded; and by understanding it is established:'",
+          "options": [
+            "A. Proverbs 24:4",
+            "B. Proverbs 25:3",
+            "C. Proverbs 24:3-4",
+            "D. Proverbs 24:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Through wisdom is an house builded; and by understanding it is established:' is found in Proverbs 24:3-4.",
+          "source_section": "Proverbs 24:3-4"
+        },
+        {
+          "id": "BW19Q28",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 24:3-4:\nThrough wisdom is an _____ builded; and by _____ it is _____:",
+          "answer": "house, understanding, established",
+          "keywords": [
+            "house",
+            "understanding",
+            "established"
+          ],
+          "explanation": "The full text is: Through wisdom is an house builded; and by understanding it is established:",
+          "source_section": "Proverbs 24:3-4"
+        },
+        {
+          "id": "BW19Q29",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I have fought a good fight, I have finished my course, I have kept the faith:'",
+          "options": [
+            "A. 2 Timothy 4:6",
+            "B. 2 Timothy 4:8",
+            "C. 2 Timothy 4:7",
+            "D. 2 Timothy 5:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'I have fought a good fight, I have finished my course, I have kept the faith:' is found in 2 Timothy 4:7.",
+          "source_section": "2 Timothy 4:7"
+        },
+        {
+          "id": "BW19Q30",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 4:7:\nI have fought a _____ fight, I have _____ my course, I have _____ the faith:",
+          "answer": "good, finished, kept",
+          "keywords": [
+            "good",
+            "finished",
+            "kept"
+          ],
+          "explanation": "The full text is: I have fought a good fight, I have finished my course, I have kept the faith:",
+          "source_section": "2 Timothy 4:7"
+        },
+        {
+          "id": "BW19Q31",
+          "week": 19,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?'",
+          "options": [
+            "A. Luke 14:27",
+            "B. Luke 15:28",
+            "C. Luke 14:28-30",
+            "D. Luke 14:29"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?' is found in Luke 14:28-30.",
+          "source_section": "Luke 14:28-30"
+        },
+        {
+          "id": "BW19Q32",
+          "week": 19,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 14:28-30:\nFor which of you, intending to build a tower, sitteth not _____ _____, and counteth the cost, _____ he have sufficient to finish it?",
+          "answer": "down, first, whether",
+          "keywords": [
+            "down",
+            "first",
+            "whether"
+          ],
+          "explanation": "The full text is: For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?",
+          "source_section": "Luke 14:28-30"
+        }
+      ]
+    }
+  ]
+}

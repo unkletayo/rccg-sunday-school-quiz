@@ -1,0 +1,474 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:27:00Z",
+  "weeks": [
+    {
+      "week_number": 24,
+      "topic": "CHRISTIANS AND POLITICS: BE INVOLVED",
+      "memory_verse_reference": "Daniel 5:11",
+      "questions": [
+        {
+          "id": "W24Q1",
+          "week": 24,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 24?",
+          "options": [
+            "A. BIBLICAL BASIS",
+            "B. PRACTICAL STEPS FOR ENGAGEMENT",
+            "C. CHRISTIANS AND POLITICS: BE INVOLVED",
+            "D. AGENTS OF TRANSFORMATION"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Four is CHRISTIANS AND POLITICS: BE INVOLVED.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W24Q2",
+          "week": 24,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 23?",
+          "options": [
+            "A. CHRISTIANS AND POLITICS: BE INVOLVED",
+            "B. CHRISTIANS AND POLITICS: CHANGING THE NARRATIVES",
+            "C. TIME MANAGEMENT",
+            "D. EFFECTIVE PLANNING"
+          ],
+          "answer": "B",
+          "explanation": "Christians and Politics: Changing the Narratives was the topic for Week 23.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W24Q3",
+          "week": 24,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "There is a man in your kingdom in whom is the Spirit of the Holy God. And in the days of your father, light and understanding and ________, like the ________ of the gods, were found in him...",
+          "options": [
+            "A. power",
+            "B. grace",
+            "C. wisdom",
+            "D. truth"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Daniel 5:11) says 'wisdom, like the wisdom of the gods'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W24Q4",
+          "week": 24,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Daniel 5:11",
+          "keywords": ["Daniel", "5:11"],
+          "explanation": "The memory verse reference is Daniel 5:11.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W24Q5",
+          "week": 24,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 24 in full (NKJV).",
+          "answer": "There is a man in your kingdom in whom is the Spirit of the Holy God. And in the days of your father, light and understanding and wisdom, like the wisdom of the gods, were found in him; and King Nebuchadnezzar your father—your father the king—made him chief of the magicians, astrologers, Chaldeans, and soothsayers.",
+          "keywords": ["kingdom", "Spirit", "Holy", "God", "light", "understanding", "wisdom", "gods", "Nebuchadnezzar", "father", "king", "chief", "magicians", "astrologers", "Chaldeans", "soothsayers"],
+          "explanation": "Full text recall of Daniel 5:11.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W24Q6",
+          "week": 24,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Daniel 5:11), what position did King Nebuchadnezzar give this man?",
+          "options": [
+            "A. King of Babylon",
+            "B. Chief of the magicians, astrologers, Chaldeans, and soothsayers",
+            "C. Commander of the army",
+            "D. High Priest of the temple"
+          ],
+          "answer": "B",
+          "explanation": "The verse states 'made him chief of the magicians, astrologers, Chaldeans, and soothsayers.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W24Q7",
+          "week": 24,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The introduction of this lesson states that we will explore approaches to engage in political and community involvement.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'In this lesson, we will explore approaches to engage in political and community involvement.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W24Q8",
+          "week": 24,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "BIBLICAL BASIS",
+          "keywords": ["BIBLICAL", "BASIS"],
+          "explanation": "Outline I is titled 'BIBLICAL BASIS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W24Q9",
+          "week": 24,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, Christians should no longer allow the secular society to dictate our roles or use us to fulfill their what?",
+          "options": [
+            "A. Prophecies",
+            "B. Desires",
+            "C. Agenda",
+            "D. Commands"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'As Christians, we must no longer allow the secular society to dictate our roles or use us to fulfil their agenda...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W24Q10",
+          "week": 24,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that believers are called to be 'salt and light' in all areas of life, including politics?",
+          "options": [
+            "A. Matthew 5:13–16",
+            "B. Galatians 4:1, 7",
+            "C. Romans 13:1",
+            "D. Micah 6:8"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Matthew 5:13–16)' for this point.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W24Q11",
+          "week": 24,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, one of our responsibilities as citizens is to disobey authority whenever we disagree with them.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'All authority comes from God and one of our responsibilities as citizens is to obey authority (Romans 13:1).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W24Q12",
+          "week": 24,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding the mandate to seek justice, love mercy, and walk humbly with God?",
+          "options": [
+            "A. 2 Peter 1:5–10",
+            "B. Micah 6:8",
+            "C. Romans 13:1",
+            "D. Matthew 5:13-16"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Micah 6:8)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W24Q13",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "PRACTICAL STEPS FOR ENGAGEMENT",
+          "keywords": ["PRACTICAL", "STEPS", "FOR", "ENGAGEMENT"],
+          "explanation": "Outline II is titled 'PRACTICAL STEPS FOR ENGAGEMENT'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q14",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the very first practical step suggested for political engagement?",
+          "options": [
+            "A. Educate Yourself",
+            "B. Join a Political Party",
+            "C. Pray for Guidance",
+            "D. Register to Vote"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 is 'Pray for Guidance – Before diving into political engagement...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q15",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, joining a political party that reflects your Christian values can provide a platform for advocating policies that resonate with your beliefs.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 says 'This affiliation will amplify your voice and provide a platform for advocating policies that resonate with your beliefs.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q16",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the lesson suggest you can 'Engage in Your Community' as a start?",
+          "options": [
+            "A. By running for President",
+            "B. By starting small, attending town hall meetings, and volunteering for local initiatives",
+            "C. By protesting against all local leaders",
+            "D. By moving to a different city"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 says 'Start small by getting involved in local issues. Attend town hall meetings, engage with community leaders, and volunteer...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q17",
+          "week": 24,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the step of 'Advocate for Justice'?",
+          "options": [
+            "A. Proverbs 18:24",
+            "B. Isaiah 1:17",
+            "C. Hebrews 10:24",
+            "D. 1 Peter 4:10"
+          ],
+          "answer": "B",
+          "explanation": "Point 7 cites '(Isaiah 1:17)' for advocating for justice.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q18",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Politics is relational. You should build connections with fellow believers and ________ with others who share your vision for a just society.",
+          "options": [
+            "A. argue",
+            "B. compete",
+            "C. collaborate",
+            "D. compromise"
+          ],
+          "answer": "C",
+          "explanation": "Point 8 says 'collaborate with others who share your vision for a just society...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q19",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the lesson suggest regarding 'Mentor Other Believers'?",
+          "options": [
+            "A. Tell them to stay out of politics",
+            "B. Inspire fellow Christians to engage in politics and share your journey",
+            "C. Force them to vote for your candidate",
+            "D. Ask them for money"
+          ],
+          "answer": "B",
+          "explanation": "Point 9 says 'Inspire fellow Christians to engage in politics. Share your journey...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q20",
+          "week": 24,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, we should remain steadfast in faith while actively participating in the political sphere.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion says 'actively participate in the political sphere and remain steadfast in faith.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W24Q21",
+          "week": 24,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Ye are the light of the world. A city that is set on an hill cannot be hid.'",
+          "verse_text": "Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "options": [
+            "A. Matthew 5:13",
+            "B. Matthew 5:14",
+            "C. Matthew 5:15",
+            "D. Matthew 5:16"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 14 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W24Q22",
+          "week": 24,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Matthew 5:13), what happens if the salt loses its savour?",
+          "options": [
+            "A. It becomes sugar",
+            "B. It is good for nothing but to be cast out and trodden under foot",
+            "C. It is used to preserve meat",
+            "D. It evaporates into the air"
+          ],
+          "answer": "B",
+          "explanation": "Verse 13 says 'it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W24Q23",
+          "week": 24,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Matthew 5:15, where do men put a lighted candle so it gives light unto all in the house?",
+          "options": [
+            "A. Under a bushel",
+            "B. Under a bed",
+            "C. On a candlestick",
+            "D. Behind a door"
+          ],
+          "answer": "C",
+          "explanation": "Verse 15 says 'Neither do men light a candle, and put it under a bushel, but on a candlestick...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W24Q24",
+          "week": 24,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Matthew 5:16, why should you let your light so shine before men?",
+          "options": [
+            "A. So they will praise you",
+            "B. So they may see your good works and glorify your Father which is in heaven",
+            "C. So they will give you their wealth",
+            "D. So they will be blinded by it"
+          ],
+          "answer": "B",
+          "explanation": "Verse 16 says 'that they may see your good works, and glorify your Father which is in heaven.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W24Q25",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the step 'Educate Yourself'?",
+          "options": [
+            "A. Proverbs 3:5–6",
+            "B. Proverbs 18:15",
+            "C. Daniel 6:4–11",
+            "D. Hebrews 10:24"
+          ],
+          "answer": "B",
+          "explanation": "Point 2 cites '(Proverbs 18:15)' for educating yourself.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q26",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, what is one of the most fundamental ways to get involved in politics?",
+          "options": [
+            "A. Donating money to a candidate",
+            "B. Register to vote or/and be voted for",
+            "C. Writing a book on politics",
+            "D. Organizing a boycott"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 explicitly states: 'Register to Vote or/and be Voted for – One of the most fundamental ways to get involved is to exercise your right to vote.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q27",
+          "week": 24,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support staying true to biblical values even in the face of opposition or challenges?",
+          "options": [
+            "A. 1 Peter 4:10",
+            "B. Daniel 6:4–11; Philippians 4:8",
+            "C. Proverbs 18:24; 27:17",
+            "D. Isaiah 1:17"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 cites '(Daniel 6:4–11; Philippians 4:8)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q28",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Advocating for policies that reflect God's heart for justice can involve participating in peaceful demonstrations.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 7 says 'This could involve writing letters... participating in peaceful demonstrations...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W24Q29",
+          "week": 24,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson commands believers to project their relevance in the world and ensure biblical values guide their actions.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I says 'Instead, we should actively project our relevance in the world, as we ensure biblical values and principles guide our actions...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W24Q30",
+          "week": 24,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support building connections with fellow believers and collaborating?",
+          "options": [
+            "A. Hebrews 10:24",
+            "B. Proverbs 18:24; 27:17",
+            "C. 1 Peter 4:10",
+            "D. James 1:5"
+          ],
+          "answer": "B",
+          "explanation": "Point 8 cites '(Proverbs 18:24; 27:17)'.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

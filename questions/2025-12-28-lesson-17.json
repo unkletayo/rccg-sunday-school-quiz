@@ -1,0 +1,564 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:21:00Z",
+  "weeks": [
+    {
+      "week_number": 17,
+      "topic": "STAY PURE",
+      "memory_verse_reference": "1 Thessalonians 4:3",
+      "questions": [
+        {
+          "id": "W17Q1",
+          "week": 17,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 17?",
+          "options": [
+            "A. OUR ROLES",
+            "B. DESTINY DESTROYERS",
+            "C. STAY PURE",
+            "D. BENEFITS OF SEXUAL PURITY"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Seventeen is STAY PURE.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W17Q2",
+          "week": 17,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 16?",
+          "options": [
+            "A. DESTINY DESTROYERS",
+            "B. STAY PURE",
+            "C. UNTOWARD FREEDOM",
+            "D. PEER PRESSURE"
+          ],
+          "answer": "A",
+          "explanation": "Destiny Destroyers was the topic for Week 16.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W17Q3",
+          "week": 17,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "For this is the will of God, your sanctification: that you should abstain from ________.",
+          "options": [
+            "A. worldly pleasures",
+            "B. sexual immorality",
+            "C. idolatry",
+            "D. evil thoughts"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (1 Thessalonians 4:3) says 'abstain from sexual immorality'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W17Q4",
+          "week": 17,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 Thessalonians 4:3",
+          "keywords": ["1 Thessalonians", "4:3"],
+          "explanation": "The memory verse reference is 1 Thessalonians 4:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W17Q5",
+          "week": 17,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 17 in full (NKJV).",
+          "answer": "For this is the will of God, your sanctification: that you should abstain from sexual immorality.",
+          "keywords": ["will", "God", "sanctification", "abstain", "sexual", "immorality"],
+          "explanation": "Full text recall of 1 Thessalonians 4:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W17Q6",
+          "week": 17,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (1 Thessalonians 4:3), what is the will of God regarding your sanctification?",
+          "options": [
+            "A. That you should fast twice a week",
+            "B. That you should abstain from sexual immorality",
+            "C. That you should give all you have to the poor",
+            "D. That you should pray without ceasing"
+          ],
+          "answer": "B",
+          "explanation": "The verse states explicitly: 'that you should abstain from sexual immorality.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W17Q7",
+          "week": 17,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "How is 'purity' defined in the introduction?",
+          "options": [
+            "A. A state of being uncontaminated",
+            "B. A state of perfect health",
+            "C. Having no physical flaws",
+            "D. Never speaking angrily"
+          ],
+          "answer": "A",
+          "explanation": "The text states: 'Purity is a state of being uncontaminated.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W17Q8",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to the introduction, which scripture says the 'marriage bed' must be undefiled because God will judge those who stray sexually?",
+          "options": [
+            "A. Proverbs 4:23",
+            "B. Hebrews 13:4",
+            "C. Matthew 5:8",
+            "D. 1 Peter 2:11"
+          ],
+          "answer": "B",
+          "explanation": "The text explicitly says 'Hebrews 13:4 says the “marriage bed” must be undefiled...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W17Q9",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "OUR ROLES",
+          "keywords": ["OUR", "ROLES"],
+          "explanation": "Outline I is titled 'OUR ROLES'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q10",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, why must we consciously work on our thoughts to stay pure sexually?",
+          "options": [
+            "A. Because our friends can read our minds",
+            "B. Because our lives are shaped by them",
+            "C. Because God will physically strike us",
+            "D. Because we might talk in our sleep"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'there is a need to consciously work on our thoughts because our lives are shaped by them.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q11",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that 'As gatekeepers, we must guard our hearts'?",
+          "options": [
+            "A. Proverbs 4:23",
+            "B. Psalm 119:101",
+            "C. Matthew 5:28",
+            "D. Luke 11:34"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'As gatekeepers, we must guard our hearts (Proverbs 4:23)...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q12",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, since the eyes are gates to the mind, what must they be trained to do?",
+          "options": [
+            "A. Look away from all human beings",
+            "B. Focus on what is pure and edifying",
+            "C. Read only the Bible",
+            "D. Close whenever walking past strangers"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'the eyes... must be trained to focus on what is pure and edifying...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q13",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding the rule that 'our lips must not kiss strangers'?",
+          "options": [
+            "A. Psalm 24:4a",
+            "B. Proverbs 22:14",
+            "C. 1 Corinthians 15:33",
+            "D. Romans 12:2"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'our lips must not kiss “strangers” (Proverbs 22:14).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q14",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson advises staying away from toxic friends because they will be negative influences on us.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'We also need to stay off toxic friends (1 Corinthians 15:33) who will be negative influences on us.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q15",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to support renewing our minds with God's word?",
+          "options": [
+            "A. Psalm 119:9; Romans 12:2",
+            "B. Matthew 5:8; 1 Peter 2:11",
+            "C. Psalm 24:4a; Psalm 119:101",
+            "D. Proverbs 4:23; Luke 11:34"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Psalm 119:9; Romans 12:2)' for renewing our minds.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q16",
+          "week": 17,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "BENEFITS OF SEXUAL PURITY",
+          "keywords": ["BENEFITS", "OF", "SEXUAL", "PURITY"],
+          "explanation": "Outline II is titled 'BENEFITS OF SEXUAL PURITY'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q17",
+          "week": 17,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following is NOT listed as a benefit of sexual purity in Outline II?",
+          "options": [
+            "A. Freedom from the yoke of bondage",
+            "B. Peace with God and with oneself",
+            "C. Immediate financial prosperity",
+            "D. Being audacious with honour and confidence"
+          ],
+          "answer": "C",
+          "explanation": "Financial prosperity is not listed. The others are (no bondage, peace, audacious/confidence).",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q18",
+          "week": 17,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, sexual sin is equated with slavery.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states: 'sexual sin is slavery (Proverbs 6:26; Galatians 5:1).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q19",
+          "week": 17,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which two biblical figures are listed as examples of victims because of their lack of sexual purity?",
+          "options": [
+            "A. David and Solomon",
+            "B. Reuben and Amnon",
+            "C. Joseph and Judah",
+            "D. Achan and Gehazi"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'They are not victims like Reuben and Amnon (Genesis 49:3-4; 2 Samuel 13:32).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q20",
+          "week": 17,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who is listed as a biblical figure that made the choice to stay sexually pure and was elevated in Egypt?",
+          "options": [
+            "A. Moses",
+            "B. Jacob",
+            "C. Joseph",
+            "D. Daniel"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Joseph made this choice and he was elevated in Egypt (Genesis 41:40-41).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q21",
+          "week": 17,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, what happens to the heart of those who are free from sexual sin?",
+          "options": [
+            "A. The heart becomes hardened",
+            "B. The heart is not racing because of guilt and secret sin",
+            "C. The heart becomes weak",
+            "D. The heart turns to stone"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'the heart is not racing because of guilt and secret sin (Psalm 51:3; Isaiah 48:22).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q22",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which prophet discloses that those who bear the vessels of the Lord must be pure?",
+          "options": [
+            "A. Jeremiah",
+            "B. Ezekiel",
+            "C. Isaiah",
+            "D. Daniel"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'The prophet Isaiah discloses that those who bear the vessels of the Lord must be pure (Isaiah 52:11).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q23",
+          "week": 17,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the final instruction given in the conclusion of the lesson?",
+          "options": [
+            "A. Repent from all your sins immediately",
+            "B. Make the right choice to be sexually pure",
+            "C. Avoid all members of the opposite sex",
+            "D. Pray without ceasing"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion explicitly states: 'Make the right choice to be sexually pure.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W17Q24",
+          "week": 17,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Finally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more...'",
+          "verse_text": "Finally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more...",
+          "options": [
+            "A. 1 Thessalonians 4:1",
+            "B. 1 Thessalonians 4:3",
+            "C. 1 Thessalonians 4:5",
+            "D. Romans 12:2"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 1 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W17Q25",
+          "week": 17,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (1 Thessalonians 4:4), what should each of you know how to do?",
+          "options": [
+            "A. How to preach the gospel",
+            "B. How to possess his own vessel in sanctification and honor",
+            "C. How to heal the sick",
+            "D. How to cast out demons"
+          ],
+          "answer": "B",
+          "explanation": "Verse 4 reads 'that each of you should know how to possess his own vessel in sanctification and honor'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W17Q26",
+          "week": 17,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In 1 Thessalonians 4:5, what group of people is mentioned as 'who do not know God' and act 'in passion of lust'?",
+          "options": [
+            "A. The Jews",
+            "B. The Romans",
+            "C. The Gentiles",
+            "D. The Pharisees"
+          ],
+          "answer": "C",
+          "explanation": "Verse 5 says 'not in passion of lust, like the Gentiles who do not know God'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W17Q27",
+          "week": 17,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to 1 Thessalonians 4:2, the brethren already knew the commandments that were given to them through the Lord Jesus.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Verse 2 explicitly states: 'for you know what commandments we gave you through the Lord Jesus.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W17Q28",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Our hands must be kept clean and not allowed to touch what is ________ or immoral.",
+          "options": [
+            "A. unclean",
+            "B. obscene",
+            "C. evil",
+            "D. forbidden"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'touch what is obscene or immoral (Psalm 24:4a).' ",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q29",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What happens if we listen to erotic words, songs, etc., according to the lesson's section on the ears?",
+          "options": [
+            "A. It can trigger anger",
+            "B. It can trigger sexual pollution",
+            "C. It will make us wealthy",
+            "D. It gives us a headache"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'because listening to erotic words, songs, etc. can trigger sexual pollution.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q30",
+          "week": 17,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Staying pure sexually helps our relationship with God because sexual sin breaks our association with God.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'It helps our relationship with God; sexual sin breaks our association with God...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q31",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that those who are sexually pure are audacious?",
+          "options": [
+            "A. Proverbs 28:1",
+            "B. Proverbs 6:26",
+            "C. Esther 2:2",
+            "D. Isaiah 52:11"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Those who are sexually pure are audacious (Proverbs 28:1).' ",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q32",
+          "week": 17,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for the rule that 'our feet must be guided to go only to the places that honour God'?",
+          "options": [
+            "A. Psalm 119:101",
+            "B. Proverbs 4:23",
+            "C. Matthew 5:28",
+            "D. Psalm 24:4a"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(Psalm 119:101)' right after the instruction about feet.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q33",
+          "week": 17,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "To stay pure, there is no need to ask God for help as long as you discipline your mind.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The lesson ends Outline I with 'It is also necessary to ask God to help us.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W17Q34",
+          "week": 17,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that sexual purity is honourable?",
+          "options": [
+            "A. Esther 2:2",
+            "B. Proverbs 28:1",
+            "C. Hebrews 13:4",
+            "D. Genesis 41:40-41"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'It is honourable (Esther 2:2).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W17Q35",
+          "week": 17,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is the 'marriage bed'?",
+          "options": [
+            "A. It must be undefiled",
+            "B. It is a place of rest",
+            "C. It is the altar of the church",
+            "D. It is purely physical"
+          ],
+          "answer": "A",
+          "explanation": "The intro says 'Hebrews 13:4 says the “marriage bed” must be undefiled...'",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

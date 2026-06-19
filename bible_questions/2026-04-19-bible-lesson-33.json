@@ -1,0 +1,606 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 33,
+      "topic": "DEFINE YOUR RELATIONSHIP",
+      "questions": [
+        {
+          "id": "BW33Q1",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.'",
+          "options": [
+            "A. Genesis 29:20-28",
+            "B. Genesis 30:20",
+            "C. Genesis 29:21",
+            "D. Genesis 29:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.' is found in Genesis 29:20-28.",
+          "source_section": "Genesis 29:20-28"
+        },
+        {
+          "id": "BW33Q2",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 29:20-28:\nAnd Jacob _____ seven years for _____; and they seemed _____ him but a few days, for the love he had to her.",
+          "answer": "served, Rachel, unto",
+          "keywords": [
+            "served",
+            "Rachel",
+            "unto"
+          ],
+          "explanation": "The full text is: And Jacob served seven years for Rachel; and they seemed unto him but a few days, for the love he had to her.",
+          "source_section": "Genesis 29:20-28"
+        },
+        {
+          "id": "BW33Q3",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.'",
+          "options": [
+            "A. Proverbs 24:7",
+            "B. Proverbs 23:6",
+            "C. Proverbs 23:8",
+            "D. Proverbs 23:7"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.' is found in Proverbs 23:7.",
+          "source_section": "Proverbs 23:7"
+        },
+        {
+          "id": "BW33Q4",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 23:7:\nFor as he _____ in his heart, so is he: Eat and _____, _____ he to thee; but his heart is not with thee.",
+          "answer": "thinketh, drink, saith",
+          "keywords": [
+            "thinketh",
+            "drink",
+            "saith"
+          ],
+          "explanation": "The full text is: For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+          "source_section": "Proverbs 23:7"
+        },
+        {
+          "id": "BW33Q5",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master\u2019s brother\u2019s daughter unto his son.'",
+          "options": [
+            "A. Genesis 24:48-58",
+            "B. Genesis 24:47",
+            "C. Genesis 24:49",
+            "D. Genesis 25:48"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master\u2019s brother\u2019s daughter unto his son.' is found in Genesis 24:48-58.",
+          "source_section": "Genesis 24:48-58"
+        },
+        {
+          "id": "BW33Q6",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 24:48-58:\nAnd I bowed down my _____, and worshipped the LORD, and blessed the _____ God of my master Abraham, which had led me in the right way to _____ my master\u2019s brother\u2019s daughter unto his son.",
+          "answer": "head, LORD, take",
+          "keywords": [
+            "head",
+            "LORD",
+            "take"
+          ],
+          "explanation": "The full text is: And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master\u2019s brother\u2019s daughter unto his son.",
+          "source_section": "Genesis 24:48-58"
+        },
+        {
+          "id": "BW33Q7",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Can two walk together, except they be agreed?'",
+          "options": [
+            "A. Amos 3:2",
+            "B. Amos 4:3",
+            "C. Amos 3:3",
+            "D. Amos 3:4"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Can two walk together, except they be agreed?' is found in Amos 3:3.",
+          "source_section": "Amos 3:3"
+        },
+        {
+          "id": "BW33Q8",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Amos 3:3:\nCan two _____ together, _____ they be _____",
+          "answer": "walk, except, agreed?",
+          "keywords": [
+            "walk",
+            "except",
+            "agreed?"
+          ],
+          "explanation": "The full text is: Can two walk together, except they be agreed?",
+          "source_section": "Amos 3:3"
+        },
+        {
+          "id": "BW33Q9",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.'",
+          "options": [
+            "A. Genesis 35:1",
+            "B. Genesis 34:3",
+            "C. Genesis 34:1-31",
+            "D. Genesis 34:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.' is found in Genesis 34:1-31.",
+          "source_section": "Genesis 34:1-31"
+        },
+        {
+          "id": "BW33Q10",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 34:1-31:\nAnd Dinah the daughter of Leah, which she _____ unto Jacob, went out to see the _____ of the _____.",
+          "answer": "bare, daughters, land",
+          "keywords": [
+            "bare",
+            "daughters",
+            "land"
+          ],
+          "explanation": "The full text is: And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.",
+          "source_section": "Genesis 34:1-31"
+        },
+        {
+          "id": "BW33Q11",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.'",
+          "options": [
+            "A. Genesis 24:12-1",
+            "B. Genesis 25:12",
+            "C. Genesis 24:11",
+            "D. Genesis 24:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.' is found in Genesis 24:12-1.",
+          "source_section": "Genesis 24:12-1"
+        },
+        {
+          "id": "BW33Q12",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 24:12-1:\nAnd he _____, O LORD God of my master Abraham, I pray thee, send me _____ speed this day, and shew kindness unto my _____ Abraham.",
+          "answer": "said, good, master",
+          "keywords": [
+            "said",
+            "good",
+            "master"
+          ],
+          "explanation": "The full text is: And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.",
+          "source_section": "Genesis 24:12-1"
+        },
+        {
+          "id": "BW33Q13",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?'",
+          "options": [
+            "A. Genesis 30:15",
+            "B. Genesis 29:14",
+            "C. Genesis 29:15-20",
+            "D. Genesis 29:16"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?' is found in Genesis 29:15-20.",
+          "source_section": "Genesis 29:15-20"
+        },
+        {
+          "id": "BW33Q14",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 29:15-20:\n\u00b6 And _____ said _____ Jacob, Because thou art my brother, shouldest thou therefore serve me for _____ tell me, what shall thy wages be?",
+          "answer": "Laban, unto, nought?",
+          "keywords": [
+            "Laban",
+            "unto",
+            "nought?"
+          ],
+          "explanation": "The full text is: \u00b6 And Laban said unto Jacob, Because thou art my brother, shouldest thou therefore serve me for nought? tell me, what shall thy wages be?",
+          "source_section": "Genesis 29:15-20"
+        },
+        {
+          "id": "BW33Q15",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Behold, Rebekah is before thee, take her, and go, and let her be thy master\u2019s son\u2019s wife, as the LORD hath spoken.'",
+          "options": [
+            "A. Genesis 24:51",
+            "B. Genesis 24:52",
+            "C. Genesis 25:51",
+            "D. Genesis 24:50"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Behold, Rebekah is before thee, take her, and go, and let her be thy master\u2019s son\u2019s wife, as the LORD hath spoken.' is found in Genesis 24:51.",
+          "source_section": "Genesis 24:51"
+        },
+        {
+          "id": "BW33Q16",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 24:51:\n_____, _____ is before thee, take her, and go, and let her be thy _____ son\u2019s wife, as the LORD hath spoken.",
+          "answer": "Behold, Rebekah, master\u2019s",
+          "keywords": [
+            "Behold",
+            "Rebekah",
+            "master\u2019s"
+          ],
+          "explanation": "The full text is: Behold, Rebekah is before thee, take her, and go, and let her be thy master\u2019s son\u2019s wife, as the LORD hath spoken.",
+          "source_section": "Genesis 24:51"
+        },
+        {
+          "id": "BW33Q17",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.'",
+          "options": [
+            "A. Ruth 2:8",
+            "B. Ruth 2:6",
+            "C. Ruth 2:7-12",
+            "D. Ruth 3:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.' is found in Ruth 2:7-12.",
+          "source_section": "Ruth 2:7-12"
+        },
+        {
+          "id": "BW33Q18",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ruth 2:7-12:\nAnd she said, I pray you, let me glean and gather after the reapers among the sheaves: so she _____, and _____ continued even from the morning until now, that she tarried a little in the _____.",
+          "answer": "came, hath, house",
+          "keywords": [
+            "came",
+            "hath",
+            "house"
+          ],
+          "explanation": "The full text is: And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.",
+          "source_section": "Ruth 2:7-12"
+        },
+        {
+          "id": "BW33Q19",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.'",
+          "options": [
+            "A. 1 John 4:18",
+            "B. 1 John 4:19",
+            "C. 1 John 5:18",
+            "D. 1 John 4:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.' is found in 1 John 4:18.",
+          "source_section": "1 John 4:18"
+        },
+        {
+          "id": "BW33Q20",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 John 4:18:\n_____ is no fear in love; but perfect love casteth out fear: _____ fear hath torment. He that feareth is not made _____ in love.",
+          "answer": "There, because, perfect",
+          "keywords": [
+            "There",
+            "because",
+            "perfect"
+          ],
+          "explanation": "The full text is: There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.",
+          "source_section": "1 John 4:18"
+        },
+        {
+          "id": "BW33Q21",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.'",
+          "options": [
+            "A. Hebrews 13:4",
+            "B. Hebrews 13:3",
+            "C. Hebrews 13:5",
+            "D. Hebrews 14:4"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.' is found in Hebrews 13:4.",
+          "source_section": "Hebrews 13:4"
+        },
+        {
+          "id": "BW33Q22",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 13:4:\nMarriage is _____ in all, and the bed _____: but _____ and adulterers God will judge.",
+          "answer": "honourable, undefiled, whoremongers",
+          "keywords": [
+            "honourable",
+            "undefiled",
+            "whoremongers"
+          ],
+          "explanation": "The full text is: Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.",
+          "source_section": "Hebrews 13:4"
+        },
+        {
+          "id": "BW33Q23",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Where there is no vision, the people perish: but he that keepeth the law, happy is he.29.18 perish: or, is made naked'",
+          "options": [
+            "A. Proverbs 30:18",
+            "B. Proverbs 29:19",
+            "C. Proverbs 29:18",
+            "D. Proverbs 29:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Where there is no vision, the people perish: but he that keepeth the law, happy is he.29.18 perish: or, is made naked' is found in Proverbs 29:18.",
+          "source_section": "Proverbs 29:18"
+        },
+        {
+          "id": "BW33Q24",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:18:\nWhere there is no vision, the people perish: but he that _____ the law, happy is _____ perish: or, is _____ naked",
+          "answer": "keepeth, he.29.18, made",
+          "keywords": [
+            "keepeth",
+            "he.29.18",
+            "made"
+          ],
+          "explanation": "The full text is: Where there is no vision, the people perish: but he that keepeth the law, happy is he.29.18 perish: or, is made naked",
+          "source_section": "Proverbs 29:18"
+        },
+        {
+          "id": "BW33Q25",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I.'",
+          "options": [
+            "A. Ruth 3:12-13",
+            "B. Ruth 4:12",
+            "C. Ruth 3:11",
+            "D. Ruth 3:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I.' is found in Ruth 3:12-13.",
+          "source_section": "Ruth 3:12-13"
+        },
+        {
+          "id": "BW33Q26",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ruth 3:12-13:\nAnd now it is true that I am thy near _____: _____ there is a _____ nearer than I.",
+          "answer": "kinsman, howbeit, kinsman",
+          "keywords": [
+            "kinsman",
+            "howbeit",
+            "kinsman"
+          ],
+          "explanation": "The full text is: And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I.",
+          "source_section": "Ruth 3:12-13"
+        },
+        {
+          "id": "BW33Q27",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let all things be done decently and in order.'",
+          "options": [
+            "A. 1 Corinthians 14:41",
+            "B. 1 Corinthians 15:40",
+            "C. 1 Corinthians 14:39",
+            "D. 1 Corinthians 14:40"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Let all things be done decently and in order.' is found in 1 Corinthians 14:40.",
+          "source_section": "1 Corinthians 14:40"
+        },
+        {
+          "id": "BW33Q28",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 14:40:\nLet all things be _____ _____ and in _____.",
+          "answer": "done, decently, order",
+          "keywords": [
+            "done",
+            "decently",
+            "order"
+          ],
+          "explanation": "The full text is: Let all things be done decently and in order.",
+          "source_section": "1 Corinthians 14:40"
+        },
+        {
+          "id": "BW33Q29",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'As snow in summer, and as rain in harvest, so honour is not seemly for a fool.'",
+          "options": [
+            "A. Proverbs 27:1",
+            "B. Proverbs 26:1",
+            "C. Proverbs 26:2",
+            "D. Proverbs 26:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'As snow in summer, and as rain in harvest, so honour is not seemly for a fool.' is found in Proverbs 26:1.",
+          "source_section": "Proverbs 26:1"
+        },
+        {
+          "id": "BW33Q30",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 26:1:\nAs _____ in summer, and as _____ in harvest, so honour is not seemly for a _____.",
+          "answer": "snow, rain, fool",
+          "keywords": [
+            "snow",
+            "rain",
+            "fool"
+          ],
+          "explanation": "The full text is: As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
+          "source_section": "Proverbs 26:1"
+        },
+        {
+          "id": "BW33Q31",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.'",
+          "options": [
+            "A. Proverbs 10:10",
+            "B. Proverbs 10:8",
+            "C. Proverbs 11:9",
+            "D. Proverbs 10:9"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.' is found in Proverbs 10:9.",
+          "source_section": "Proverbs 10:9"
+        },
+        {
+          "id": "BW33Q32",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 10:9:\nHe _____ _____ uprightly walketh surely: but he that _____ his ways shall be known.",
+          "answer": "that, walketh, perverteth",
+          "keywords": [
+            "that",
+            "walketh",
+            "perverteth"
+          ],
+          "explanation": "The full text is: He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+          "source_section": "Proverbs 10:9"
+        },
+        {
+          "id": "BW33Q33",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master\u2019s brother\u2019s daughter unto his son.'",
+          "options": [
+            "A. Another book 4:16",
+            "B. Another book 5:17",
+            "C. Genesis 24:48-51, 57-58",
+            "D. Another book 2:20"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master\u2019s brother\u2019s daughter unto his son.' is found in Genesis 24:48-51, 57-58.",
+          "source_section": "Genesis 24:48-51, 57-58"
+        },
+        {
+          "id": "BW33Q34",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 24:48-51, 57-58:\nAnd I bowed down my _____, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my _____ _____ daughter unto his son.",
+          "answer": "head, master\u2019s, brother\u2019s",
+          "keywords": [
+            "head",
+            "master\u2019s",
+            "brother\u2019s"
+          ],
+          "explanation": "The full text is: And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master\u2019s brother\u2019s daughter unto his son.",
+          "source_section": "Genesis 24:48-51, 57-58"
+        },
+        {
+          "id": "BW33Q35",
+          "week": 33,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A man shall not be established by wickedness: but the root of the righteous shall not be moved.'",
+          "options": [
+            "A. Proverbs 12:4",
+            "B. Proverbs 13:3",
+            "C. Proverbs 12:2",
+            "D. Proverbs 12:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'A man shall not be established by wickedness: but the root of the righteous shall not be moved.' is found in Proverbs 12:3.",
+          "source_section": "Proverbs 12:3"
+        },
+        {
+          "id": "BW33Q36",
+          "week": 33,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 12:3:\nA man shall not be _____ by _____: but the root of the _____ shall not be moved.",
+          "answer": "established, wickedness, righteous",
+          "keywords": [
+            "established",
+            "wickedness",
+            "righteous"
+          ],
+          "explanation": "The full text is: A man shall not be established by wickedness: but the root of the righteous shall not be moved.",
+          "source_section": "Proverbs 12:3"
+        }
+      ]
+    }
+  ]
+}

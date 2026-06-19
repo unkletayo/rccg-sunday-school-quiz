@@ -1,0 +1,507 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 11,
+      "topic": "WORKPLACE MINISTRY",
+      "questions": [
+        {
+          "id": "BW11Q1",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Commit thy works unto the LORD, and thy thoughts shall be established.16.3 Commit: Heb. Roll'",
+          "options": [
+            "A. Proverbs 16:2",
+            "B. Proverbs 16:3",
+            "C. Proverbs 17:3",
+            "D. Proverbs 16:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Commit thy works unto the LORD, and thy thoughts shall be established.16.3 Commit: Heb. Roll' is found in Proverbs 16:3.",
+          "source_section": "Proverbs 16:3"
+        },
+        {
+          "id": "BW11Q2",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 16:3:\nCommit thy works unto the LORD, and thy _____ _____ be established.16.3 _____: Heb. Roll",
+          "answer": "thoughts, shall, Commit",
+          "keywords": [
+            "thoughts",
+            "shall",
+            "Commit"
+          ],
+          "explanation": "The full text is: Commit thy works unto the LORD, and thy thoughts shall be established.16.3 Commit: Heb. Roll",
+          "source_section": "Proverbs 16:3"
+        },
+        {
+          "id": "BW11Q3",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.'",
+          "options": [
+            "A. Matthew 5:14",
+            "B. Matthew 6:13",
+            "C. Matthew 5:13-16",
+            "D. Matthew 5:12"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.' is found in Matthew 5:13-16.",
+          "source_section": "Matthew 5:13-16"
+        },
+        {
+          "id": "BW11Q4",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:13-16:\n\u00b6 Ye are the salt of the earth: but if the salt have lost his _____, _____ shall it be salted? it is _____ good for nothing, but to be cast out, and to be trodden under foot of men.",
+          "answer": "savour, wherewith, thenceforth",
+          "keywords": [
+            "savour",
+            "wherewith",
+            "thenceforth"
+          ],
+          "explanation": "The full text is: \u00b6 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.",
+          "source_section": "Matthew 5:13-16"
+        },
+        {
+          "id": "BW11Q5",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.'",
+          "options": [
+            "A. Matthew 28:19",
+            "B. Matthew 28:18-20",
+            "C. Matthew 29:18",
+            "D. Matthew 28:17"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.' is found in Matthew 28:18-20.",
+          "source_section": "Matthew 28:18-20"
+        },
+        {
+          "id": "BW11Q6",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 28:18-20:\nAnd Jesus came and _____ unto them, saying, All _____ is _____ unto me in heaven and in earth.",
+          "answer": "spake, power, given",
+          "keywords": [
+            "spake",
+            "power",
+            "given"
+          ],
+          "explanation": "The full text is: And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.",
+          "source_section": "Matthew 28:18-20"
+        },
+        {
+          "id": "BW11Q7",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Ointment and perfume rejoice the heart: so doth the sweetness of a man\u2019s friend by hearty counsel.27.9 by\u2026: Heb. from the counsel of the soul'",
+          "options": [
+            "A. Proverbs 27:9-10",
+            "B. Proverbs 27:10",
+            "C. Proverbs 27:8",
+            "D. Proverbs 28:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Ointment and perfume rejoice the heart: so doth the sweetness of a man\u2019s friend by hearty counsel.27.9 by\u2026: Heb. from the counsel of the soul' is found in Proverbs 27:9-10.",
+          "source_section": "Proverbs 27:9-10"
+        },
+        {
+          "id": "BW11Q8",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 27:9-10:\nOintment and perfume _____ the _____: so doth the sweetness of a man\u2019s friend by hearty _____ by\u2026: Heb. from the counsel of the soul",
+          "answer": "rejoice, heart, counsel.27.9",
+          "keywords": [
+            "rejoice",
+            "heart",
+            "counsel.27.9"
+          ],
+          "explanation": "The full text is: Ointment and perfume rejoice the heart: so doth the sweetness of a man\u2019s friend by hearty counsel.27.9 by\u2026: Heb. from the counsel of the soul",
+          "source_section": "Proverbs 27:9-10"
+        },
+        {
+          "id": "BW11Q9",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Whither shall I go from thy spirit? or whither shall I flee from thy presence?'",
+          "options": [
+            "A. Psalm 139:8",
+            "B. Psalm 139:6",
+            "C. Psalm 140:7",
+            "D. Psalm 139:7-10"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Whither shall I go from thy spirit? or whither shall I flee from thy presence?' is found in Psalm 139:7-10.",
+          "source_section": "Psalm 139:7-10"
+        },
+        {
+          "id": "BW11Q10",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 139:7-10:\n_____ shall I go from thy spirit? or _____ _____ I flee from thy presence?",
+          "answer": "Whither, whither, shall",
+          "keywords": [
+            "Whither",
+            "whither",
+            "shall"
+          ],
+          "explanation": "The full text is: Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+          "source_section": "Psalm 139:7-10"
+        },
+        {
+          "id": "BW11Q11",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ\u2019s stead, be ye reconciled to God.'",
+          "options": [
+            "A. 2 Corinthians 5:19",
+            "B. 2 Corinthians 5:21",
+            "C. 2 Corinthians 5:20",
+            "D. 2 Corinthians 6:20"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ\u2019s stead, be ye reconciled to God.' is found in 2 Corinthians 5:20.",
+          "source_section": "2 Corinthians 5:20"
+        },
+        {
+          "id": "BW11Q12",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 5:20:\nNow then we are _____ for Christ, as though God did beseech you by us: we _____ you in Christ\u2019s stead, be ye _____ to God.",
+          "answer": "ambassadors, pray, reconciled",
+          "keywords": [
+            "ambassadors",
+            "pray",
+            "reconciled"
+          ],
+          "explanation": "The full text is: Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ\u2019s stead, be ye reconciled to God.",
+          "source_section": "2 Corinthians 5:20"
+        },
+        {
+          "id": "BW11Q13",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Where no counsel is, the people fall: but in the multitude of counsellors there is safety.'",
+          "options": [
+            "A. Proverbs 11:15",
+            "B. Proverbs 11:13",
+            "C. Proverbs 11:14",
+            "D. Proverbs 12:14"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Where no counsel is, the people fall: but in the multitude of counsellors there is safety.' is found in Proverbs 11:14.",
+          "source_section": "Proverbs 11:14"
+        },
+        {
+          "id": "BW11Q14",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 11:14:\nWhere no _____ is, the people _____: but in the multitude of counsellors _____ is safety.",
+          "answer": "counsel, fall, there",
+          "keywords": [
+            "counsel",
+            "fall",
+            "there"
+          ],
+          "explanation": "The full text is: Where no counsel is, the people fall: but in the multitude of counsellors there is safety.",
+          "source_section": "Proverbs 11:14"
+        },
+        {
+          "id": "BW11Q15",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.'",
+          "options": [
+            "A. Acts 9:35",
+            "B. Acts 10:36",
+            "C. Acts 9:36-40",
+            "D. Acts 9:37"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.' is found in Acts 9:36-40.",
+          "source_section": "Acts 9:36-40"
+        },
+        {
+          "id": "BW11Q16",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 9:36-40:\n\u00b6 Now there was at Joppa a certain disciple _____ _____, which by _____ is called Dorcas: this woman was full of good works and almsdeeds which she did.",
+          "answer": "named, Tabitha, interpretation",
+          "keywords": [
+            "named",
+            "Tabitha",
+            "interpretation"
+          ],
+          "explanation": "The full text is: \u00b6 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.",
+          "source_section": "Acts 9:36-40"
+        },
+        {
+          "id": "BW11Q17",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And whatsoever ye do, do it heartily, as to the Lord, and not unto men;'",
+          "options": [
+            "A. Colossians 3:22",
+            "B. Colossians 3:23",
+            "C. Colossians 4:23",
+            "D. Colossians 3:24"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And whatsoever ye do, do it heartily, as to the Lord, and not unto men;' is found in Colossians 3:23.",
+          "source_section": "Colossians 3:23"
+        },
+        {
+          "id": "BW11Q18",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 3:23:\nAnd _____ ye do, do it _____, as to the Lord, and not _____ men;",
+          "answer": "whatsoever, heartily, unto",
+          "keywords": [
+            "whatsoever",
+            "heartily",
+            "unto"
+          ],
+          "explanation": "The full text is: And whatsoever ye do, do it heartily, as to the Lord, and not unto men;",
+          "source_section": "Colossians 3:23"
+        },
+        {
+          "id": "BW11Q19",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:'",
+          "options": [
+            "A. 1 Peter 3:14",
+            "B. 1 Peter 3:15",
+            "C. 1 Peter 3:16",
+            "D. 1 Peter 4:15"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:' is found in 1 Peter 3:15.",
+          "source_section": "1 Peter 3:15"
+        },
+        {
+          "id": "BW11Q20",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Peter 3:15:\nBut sanctify the _____ God in your hearts: and be ready always to _____ an answer to every man that asketh you a reason of the hope that is in you _____ meekness and fear:",
+          "answer": "Lord, give, with",
+          "keywords": [
+            "Lord",
+            "give",
+            "with"
+          ],
+          "explanation": "The full text is: But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:",
+          "source_section": "1 Peter 3:15"
+        },
+        {
+          "id": "BW11Q21",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.'",
+          "options": [
+            "A. Proverbs 10:9",
+            "B. Proverbs 11:9",
+            "C. Proverbs 10:8",
+            "D. Proverbs 10:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.' is found in Proverbs 10:9.",
+          "source_section": "Proverbs 10:9"
+        },
+        {
+          "id": "BW11Q22",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 10:9:\nHe that walketh _____ walketh surely: but he that _____ his _____ shall be known.",
+          "answer": "uprightly, perverteth, ways",
+          "keywords": [
+            "uprightly",
+            "perverteth",
+            "ways"
+          ],
+          "explanation": "The full text is: He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+          "source_section": "Proverbs 10:9"
+        },
+        {
+          "id": "BW11Q23",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;'",
+          "options": [
+            "A. Ephesians 6:6",
+            "B. Ephesians 6:5-8",
+            "C. Ephesians 6:4",
+            "D. Ephesians 7:5"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;' is found in Ephesians 6:5-8.",
+          "source_section": "Ephesians 6:5-8"
+        },
+        {
+          "id": "BW11Q24",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 6:5-8:\nServants, be obedient to them that are your _____ according to the flesh, with _____ and trembling, in _____ of your heart, as unto Christ;",
+          "answer": "masters, fear, singleness",
+          "keywords": [
+            "masters",
+            "fear",
+            "singleness"
+          ],
+          "explanation": "The full text is: Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;",
+          "source_section": "Ephesians 6:5-8"
+        },
+        {
+          "id": "BW11Q25",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they continued stedfastly in the apostles\u2019 doctrine and fellowship, and in breaking of bread, and in prayers.'",
+          "options": [
+            "A. Acts 3:42",
+            "B. Acts 2:41",
+            "C. Acts 2:43",
+            "D. Acts 2:42-47"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And they continued stedfastly in the apostles\u2019 doctrine and fellowship, and in breaking of bread, and in prayers.' is found in Acts 2:42-47.",
+          "source_section": "Acts 2:42-47"
+        },
+        {
+          "id": "BW11Q26",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 2:42-47:\nAnd they continued _____ in the _____ doctrine and fellowship, and in breaking of bread, and in _____.",
+          "answer": "stedfastly, apostles\u2019, prayers",
+          "keywords": [
+            "stedfastly",
+            "apostles\u2019",
+            "prayers"
+          ],
+          "explanation": "The full text is: And they continued stedfastly in the apostles\u2019 doctrine and fellowship, and in breaking of bread, and in prayers.",
+          "source_section": "Acts 2:42-47"
+        },
+        {
+          "id": "BW11Q27",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Happy is the man that findeth wisdom, and the man that getteth understanding.3.13 that getteth\u2026: Heb. that draweth out understanding'",
+          "options": [
+            "A. Proverbs 3:12",
+            "B. Proverbs 4:13",
+            "C. Proverbs 3:13",
+            "D. Proverbs 3:14"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Happy is the man that findeth wisdom, and the man that getteth understanding.3.13 that getteth\u2026: Heb. that draweth out understanding' is found in Proverbs 3:13.",
+          "source_section": "Proverbs 3:13"
+        },
+        {
+          "id": "BW11Q28",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 3:13:\n\u00b6 Happy is the man _____ _____ wisdom, and the man that getteth understanding.3.13 that getteth\u2026: Heb. _____ draweth out understanding",
+          "answer": "that, findeth, that",
+          "keywords": [
+            "that",
+            "findeth",
+            "that"
+          ],
+          "explanation": "The full text is: \u00b6 Happy is the man that findeth wisdom, and the man that getteth understanding.3.13 that getteth\u2026: Heb. that draweth out understanding",
+          "source_section": "Proverbs 3:13"
+        },
+        {
+          "id": "BW11Q29",
+          "week": 11,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thy word is a lamp unto my feet, and a light unto my path.119.105 lamp: or, candle'",
+          "options": [
+            "A. Psalm 120:105",
+            "B. Psalm 119:105",
+            "C. Psalm 119:106",
+            "D. Psalm 119:104"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Thy word is a lamp unto my feet, and a light unto my path.119.105 lamp: or, candle' is found in Psalm 119:105.",
+          "source_section": "Psalm 119:105"
+        },
+        {
+          "id": "BW11Q30",
+          "week": 11,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 119:105:\nThy _____ is a _____ unto my _____, and a light unto my path.119.105 lamp: or, candle",
+          "answer": "word, lamp, feet",
+          "keywords": [
+            "word",
+            "lamp",
+            "feet"
+          ],
+          "explanation": "The full text is: Thy word is a lamp unto my feet, and a light unto my path.119.105 lamp: or, candle",
+          "source_section": "Psalm 119:105"
+        }
+      ]
+    }
+  ]
+}

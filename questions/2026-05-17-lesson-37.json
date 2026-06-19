@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:39:00Z",
+  "weeks": [
+    {
+      "week_number": 37,
+      "topic": "CHRISTIANITY AND HOMOSEXUALITY (Part 1)",
+      "memory_verse_reference": "Leviticus 18:22",
+      "questions": [
+        {
+          "id": "W37Q1",
+          "week": 37,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 37?",
+          "options": [
+            "A. HOMOSEXUALITY EXPLAINED",
+            "B. WHAT THE BIBLE SAYS",
+            "C. CHRISTIANITY AND HOMOSEXUALITY (Part 1)",
+            "D. PARENTING STYLES (PART 2)"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Thirty-Seven is CHRISTIANITY AND HOMOSEXUALITY (Part 1).",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W37Q2",
+          "week": 37,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 36?",
+          "options": [
+            "A. PARENTING STYLES (PART 1)",
+            "B. PARENTING STYLES (PART 2)",
+            "C. SOCIAL MEDIA ROMANCE",
+            "D. CHRISTIANITY AND HOMOSEXUALITY"
+          ],
+          "answer": "B",
+          "explanation": "Parenting Styles (Part 2) was the topic for Week 36.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W37Q3",
+          "week": 37,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "You shall not lie with a male as with a woman. It is an ________.",
+          "options": [
+            "A. error",
+            "B. abomination",
+            "C. offense",
+            "D. uncleanness"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Leviticus 18:22) says 'It is an abomination.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W37Q4",
+          "week": 37,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Leviticus 18:22",
+          "keywords": ["Leviticus", "18:22"],
+          "explanation": "The memory verse reference is Leviticus 18:22.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W37Q5",
+          "week": 37,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 37 in full (NKJV).",
+          "answer": "You shall not lie with a male as with a woman. It is an abomination.",
+          "keywords": ["lie", "male", "woman", "abomination"],
+          "explanation": "Full text recall of Leviticus 18:22.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W37Q6",
+          "week": 37,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what principles do homosexuals and lesbians often base their advocacy on?",
+          "options": [
+            "A. Wealth and power",
+            "B. Tolerance, equality, justice and love",
+            "C. Anger and revenge",
+            "D. Tradition and culture"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'often advocate for their rights and acceptance based on principles such as tolerance, equality, justice and love.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W37Q7",
+          "week": 37,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The homosexual community wants to be seen as neither abnormal nor dangerous.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction states 'They seek social, political, and cultural recognition and aim to be seen as neither abnormal nor dangerous.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W37Q8",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "HOMOSEXUALITY EXPLAINED",
+          "keywords": ["HOMOSEXUALITY", "EXPLAINED"],
+          "explanation": "Outline I is titled 'HOMOSEXUALITY EXPLAINED'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q9",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What Greek word is the term 'homosexual' derived from in the lesson?",
+          "options": [
+            "A. Agape",
+            "B. Arsenokoites",
+            "C. Eros",
+            "D. Philia"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'The word “homosexual” is from the Greek word arsenokoites.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q10",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is homosexuality among the female gender referred to as in the lesson?",
+          "options": [
+            "A. Feminism",
+            "B. Misogyny",
+            "C. Lesbianism",
+            "D. Matriarchy"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'It is referred to as ‘lesbianism’ among the female gender.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q11",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline I, homosexual desires are completely natural.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states 'Homosexual desires, which may feel natural, are unnatural (Romans 1:26-27).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q12",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding homosexual desires being unnatural?",
+          "options": [
+            "A. Romans 1:21b",
+            "B. Romans 1:26-27",
+            "C. Leviticus 18:22",
+            "D. Genesis 19:4-5"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Romans 1:26-27)' next to 'are unnatural'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q13",
+          "week": 37,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "WHAT THE BIBLE SAYS",
+          "keywords": ["WHAT", "THE", "BIBLE", "SAYS"],
+          "explanation": "Outline II is titled 'WHAT THE BIBLE SAYS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W37Q14",
+          "week": 37,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where in the scriptures did an experience of homosexuality first come up, according to Outline II?",
+          "options": [
+            "A. When Cain killed Abel",
+            "B. When the men of Sodom encompassed Lot's house",
+            "C. When David met Jonathan",
+            "D. When the Israelites built the golden calf"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'The first time an experience of homosexuality came up in the scriptures is in Genesis 19:4-5 where the men of Sodom encompassed the house of Lot...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W37Q15",
+          "week": 37,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What did the Law of Moses declare should happen to culprits of this act?",
+          "options": [
+            "A. They should be imprisoned",
+            "B. They should be fined",
+            "C. They should be stoned to death",
+            "D. They should be banished"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'In the Law of Moses, culprits of the act are to be stoned to death (Lev. 20:13).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W37Q16",
+          "week": 37,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, what will God do to homosexuals who refuse to repent?",
+          "options": [
+            "A. Punish them immediately with fire",
+            "B. Let them alone and give them reprobate minds to continue in their sins",
+            "C. Force them to repent",
+            "D. Forgive them unconditionally"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'The Bible also declared that homosexuals who refuse to repent will be let alone by God and they will be given reprobate minds to continue in their sins (Romans 1:26-28).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W37Q17",
+          "week": 37,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that homosexuals along with other sinners shall not inherit the kingdom of God?",
+          "options": [
+            "A. Leviticus 20:13",
+            "B. Romans 1:21",
+            "C. 1 Corinthians 6:9-10",
+            "D. Genesis 2:20-25"
+          ],
+          "answer": "C",
+          "explanation": "The text says '1 Corinthians 6:9-10 emphatically declares that homosexuals along with other sinners shall not inherit the kingdom of God.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W37Q18",
+          "week": 37,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, God created woman for whom?",
+          "options": [
+            "A. For woman",
+            "B. For angels",
+            "C. For man",
+            "D. For herself"
+          ],
+          "answer": "C",
+          "explanation": "The conclusion states 'God created woman for man, not man for man, or woman for woman (Genesis 2:20-25).'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W37Q19",
+          "week": 37,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'For this reason God gave them up to vile passions. For even their women exchanged the natural use for what is against nature.'",
+          "verse_text": "For this reason God gave them up to vile passions. For even their women exchanged the natural use for what is against nature.",
+          "options": [
+            "A. Romans 1:21",
+            "B. Romans 1:26",
+            "C. Romans 1:27",
+            "D. Romans 1:28"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 26 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W37Q20",
+          "week": 37,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Romans 1:21), what happened because they did not glorify God nor were thankful?",
+          "options": [
+            "A. God struck them with lightning",
+            "B. They became futile in their thoughts, and their foolish hearts were darkened",
+            "C. They became extremely wealthy",
+            "D. They were praised by men"
+          ],
+          "answer": "B",
+          "explanation": "Verse 21 says '...but became futile in their thoughts, and their foolish hearts were darkened.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W37Q21",
+          "week": 37,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Romans 1:27, the men left the natural use of the woman and burned in their lust for what?",
+          "options": [
+            "A. Wealth",
+            "B. Power",
+            "C. One another (men with men)",
+            "D. Idols"
+          ],
+          "answer": "C",
+          "explanation": "Verse 27 says 'Likewise also the men, leaving the natural use of the woman, burned in their lust for one another, men with men...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W37Q22",
+          "week": 37,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Romans 1:28, because they did not like to retain God in their knowledge, what kind of mind did God give them over to?",
+          "options": [
+            "A. A brilliant mind",
+            "B. A pure mind",
+            "C. A spiritual mind",
+            "D. A debased mind"
+          ],
+          "answer": "D",
+          "explanation": "Verse 28 says 'God gave them over to a debased mind, to do those things which are not fitting.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W37Q23",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what is the natural design revealed by a look at the male and female bodies?",
+          "options": [
+            "A. They are designed to be independent",
+            "B. They are designed to couple",
+            "C. They are designed to fight",
+            "D. They are designed to change"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'A look at the male and female bodies reveals that they are designed to couple.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q24",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The homosexual community attempts to use political power to control the church.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I explicitly states 'The homosexual community also attempts to use political power to control the church.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q25",
+          "week": 37,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "The men of Sodom demanded that Lot release his male visitors to them that they may have ________ knowledge of them.",
+          "options": [
+            "A. spiritual",
+            "B. carnal",
+            "C. casual",
+            "D. friendly"
+          ],
+          "answer": "B",
+          "explanation": "Outline II says 'demanding that Lot release his male visitors to them that they may have carnal knowledge of them.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W37Q26",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding pro-homosexuals subtly and consistently pressurising the larger society to accept their sexual orientation?",
+          "options": [
+            "A. Leviticus 18:22",
+            "B. Romans 1:21b",
+            "C. Romans 1:26-27",
+            "D. 1 Corinthians 6:9-10"
+          ],
+          "answer": "B",
+          "explanation": "Outline I cites '(Romans 1:21b)' next to the sentence about pressurising society.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q27",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The homosexual community wants their views taught in schools and promoted over the airwaves.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I states 'They also want their views taught in schools, promoted over the airwaves, and codified in literatures.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q28",
+          "week": 37,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Through what outlets is the message of the homosexual community widely promoted?",
+          "options": [
+            "A. Sunday schools only",
+            "B. Textbooks only",
+            "C. Media outlets like TV, radio, magazines, fashion, music, and movies",
+            "D. Private conversations only"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states 'Their message is widely promoted through media outlets like TV, radio, magazines, fashion, music, and movies.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W37Q29",
+          "week": 37,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "The attempt to redefine love, marriage, and sex cannot suppress what truth?",
+          "options": [
+            "A. That society is changing",
+            "B. That it is an ungodly practice and Christians must not be caught in this web of sin",
+            "C. That everyone should do what they want",
+            "D. That laws need to be updated"
+          ],
+          "answer": "B",
+          "explanation": "Outline I concludes 'cannot suppress the truth that it is an ungodly practice and Christians must not be caught in this web of sin.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W37Q30",
+          "week": 37,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited in the conclusion to show that God created woman for man?",
+          "options": [
+            "A. Genesis 2:20-25",
+            "B. Genesis 19:4-5",
+            "C. Leviticus 20:13",
+            "D. Romans 1:28"
+          ],
+          "answer": "A",
+          "explanation": "The conclusion cites '(Genesis 2:20-25)'.",
+          "source_section": "Conclusion"
+        }
+      ]
+    }
+  ]
+}

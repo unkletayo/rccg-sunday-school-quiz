@@ -1,0 +1,639 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 12,
+      "topic": "DOMINION THROUGH PRAYERS",
+      "questions": [
+        {
+          "id": "BW12Q1",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;'",
+          "options": [
+            "A. Luke 18:1-8",
+            "B. Luke 18:3",
+            "C. Luke 18:2",
+            "D. Luke 19:1"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;' is found in Luke 18:1-8.",
+          "source_section": "Luke 18:1-8"
+        },
+        {
+          "id": "BW12Q2",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 18:1-8:\nAnd he _____ a parable unto them to this end, _____ men ought always to _____, and not to faint;",
+          "answer": "spake, that, pray",
+          "keywords": [
+            "spake",
+            "that",
+            "pray"
+          ],
+          "explanation": "The full text is: And he spake a parable unto them to this end, that men ought always to pray, and not to faint;",
+          "source_section": "Luke 18:1-8"
+        },
+        {
+          "id": "BW12Q3",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;'",
+          "options": [
+            "A. Ephesians 7:18",
+            "B. Ephesians 6:19",
+            "C. Ephesians 6:17",
+            "D. Ephesians 6:18"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;' is found in Ephesians 6:18.",
+          "source_section": "Ephesians 6:18"
+        },
+        {
+          "id": "BW12Q4",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 6:18:\nPraying always with all _____ and supplication in the Spirit, and _____ thereunto _____ all perseverance and supplication for all saints;",
+          "answer": "prayer, watching, with",
+          "keywords": [
+            "prayer",
+            "watching",
+            "with"
+          ],
+          "explanation": "The full text is: Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;",
+          "source_section": "Ephesians 6:18"
+        },
+        {
+          "id": "BW12Q5",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And Jacob was left alone; and there wrestled a man with him until the breaking of the day.32.24 breaking\u2026: Heb. ascending of the morning'",
+          "options": [
+            "A. Genesis 32:24-28",
+            "B. Genesis 32:23",
+            "C. Genesis 32:25",
+            "D. Genesis 33:24"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And Jacob was left alone; and there wrestled a man with him until the breaking of the day.32.24 breaking\u2026: Heb. ascending of the morning' is found in Genesis 32:24-28.",
+          "source_section": "Genesis 32:24-28"
+        },
+        {
+          "id": "BW12Q6",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 32:24-28:\n\u00b6 And Jacob was left alone; and there _____ a man with him _____ the breaking of the _____ breaking\u2026: Heb. ascending of the morning",
+          "answer": "wrestled, until, day.32.24",
+          "keywords": [
+            "wrestled",
+            "until",
+            "day.32.24"
+          ],
+          "explanation": "The full text is: \u00b6 And Jacob was left alone; and there wrestled a man with him until the breaking of the day.32.24 breaking\u2026: Heb. ascending of the morning",
+          "source_section": "Genesis 32:24-28"
+        },
+        {
+          "id": "BW12Q7",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.'",
+          "options": [
+            "A. James 5:17",
+            "B. James 5:15",
+            "C. James 6:16",
+            "D. James 5:16"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.' is found in James 5:16.",
+          "source_section": "James 5:16"
+        },
+        {
+          "id": "BW12Q8",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 5:16:\nConfess _____ faults one to another, and pray one for another, _____ ye may be healed. The effectual fervent prayer of a _____ man availeth much.",
+          "answer": "your, that, righteous",
+          "keywords": [
+            "your",
+            "that",
+            "righteous"
+          ],
+          "explanation": "The full text is: Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+          "source_section": "James 5:16"
+        },
+        {
+          "id": "BW12Q9",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.'",
+          "options": [
+            "A. Daniel 6:9",
+            "B. Daniel 7:10",
+            "C. Daniel 6:10-23",
+            "D. Daniel 6:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.' is found in Daniel 6:10-23.",
+          "source_section": "Daniel 6:10-23"
+        },
+        {
+          "id": "BW12Q10",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 6:10-23:\n\u00b6 Now when Daniel knew that the writing was _____, he went into his house; and his windows being open in his chamber _____ Jerusalem, he kneeled _____ his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
+          "answer": "signed, toward, upon",
+          "keywords": [
+            "signed",
+            "toward",
+            "upon"
+          ],
+          "explanation": "The full text is: \u00b6 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
+          "source_section": "Daniel 6:10-23"
+        },
+        {
+          "id": "BW12Q11",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.'",
+          "options": [
+            "A. Philippians 5:6",
+            "B. Philippians 4:7",
+            "C. Philippians 4:5",
+            "D. Philippians 4:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.' is found in Philippians 4:6.",
+          "source_section": "Philippians 4:6"
+        },
+        {
+          "id": "BW12Q12",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 4:6:\nBe careful for nothing; but in every thing by prayer and _____ with thanksgiving let your requests be _____ _____ unto God.",
+          "answer": "supplication, made, known",
+          "keywords": [
+            "supplication",
+            "made",
+            "known"
+          ],
+          "explanation": "The full text is: Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+          "source_section": "Philippians 4:6"
+        },
+        {
+          "id": "BW12Q13",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If I regard iniquity in my heart, the Lord will not hear me:'",
+          "options": [
+            "A. Psalm 67:18",
+            "B. Psalm 66:17",
+            "C. Psalm 66:19",
+            "D. Psalm 66:18"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'If I regard iniquity in my heart, the Lord will not hear me:' is found in Psalm 66:18.",
+          "source_section": "Psalm 66:18"
+        },
+        {
+          "id": "BW12Q14",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 66:18:\nIf I _____ _____ in my _____, the Lord will not hear me:",
+          "answer": "regard, iniquity, heart",
+          "keywords": [
+            "regard",
+            "iniquity",
+            "heart"
+          ],
+          "explanation": "The full text is: If I regard iniquity in my heart, the Lord will not hear me:",
+          "source_section": "Psalm 66:18"
+        },
+        {
+          "id": "BW12Q15",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.'",
+          "options": [
+            "A. Mark 11:25",
+            "B. Mark 12:24",
+            "C. Mark 11:23",
+            "D. Mark 11:24"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.' is found in Mark 11:24.",
+          "source_section": "Mark 11:24"
+        },
+        {
+          "id": "BW12Q16",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 11:24:\nTherefore I say unto you, _____ things soever ye desire, when ye pray, _____ that ye receive _____, and ye shall have them.",
+          "answer": "What, believe, them",
+          "keywords": [
+            "What",
+            "believe",
+            "them"
+          ],
+          "explanation": "The full text is: Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+          "source_section": "Mark 11:24"
+        },
+        {
+          "id": "BW12Q17",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.'",
+          "options": [
+            "A. Luke 22:40",
+            "B. Luke 22:38",
+            "C. Luke 22:39-44",
+            "D. Luke 23:39"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.' is found in Luke 22:39-44.",
+          "source_section": "Luke 22:39-44"
+        },
+        {
+          "id": "BW12Q18",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 22:39-44:\n\u00b6 And he came out, and went, as he was _____, to the mount of Olives; and his disciples _____ _____ him.",
+          "answer": "wont, also, followed",
+          "keywords": [
+            "wont",
+            "also",
+            "followed"
+          ],
+          "explanation": "The full text is: \u00b6 And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him.",
+          "source_section": "Luke 22:39-44"
+        },
+        {
+          "id": "BW12Q19",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.'",
+          "options": [
+            "A. Matthew 18:19",
+            "B. Matthew 18:17",
+            "C. Matthew 18:18",
+            "D. Matthew 19:18"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.' is found in Matthew 18:18.",
+          "source_section": "Matthew 18:18"
+        },
+        {
+          "id": "BW12Q20",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 18:18:\nVerily I say unto you, _____ ye _____ bind on _____ shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.",
+          "answer": "Whatsoever, shall, earth",
+          "keywords": [
+            "Whatsoever",
+            "shall",
+            "earth"
+          ],
+          "explanation": "The full text is: Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.",
+          "source_section": "Matthew 18:18"
+        },
+        {
+          "id": "BW12Q21",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.'",
+          "options": [
+            "A. Romans 9:2",
+            "B. Romans 8:1",
+            "C. Romans 8:2",
+            "D. Romans 8:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.' is found in Romans 8:2.",
+          "source_section": "Romans 8:2"
+        },
+        {
+          "id": "BW12Q22",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:2:\nFor the law of the _____ of life in Christ _____ hath made me free _____ the law of sin and death.",
+          "answer": "Spirit, Jesus, from",
+          "keywords": [
+            "Spirit",
+            "Jesus",
+            "from"
+          ],
+          "explanation": "The full text is: For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.",
+          "source_section": "Romans 8:2"
+        },
+        {
+          "id": "BW12Q23",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.'",
+          "options": [
+            "A. Philippians 4:7",
+            "B. Philippians 4:5",
+            "C. Philippians 5:6",
+            "D. Philippians 4:6-7"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.' is found in Philippians 4:6-7.",
+          "source_section": "Philippians 4:6-7"
+        },
+        {
+          "id": "BW12Q24",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 4:6-7:\nBe careful for nothing; but in every thing by prayer and _____ _____ _____ let your requests be made known unto God.",
+          "answer": "supplication, with, thanksgiving",
+          "keywords": [
+            "supplication",
+            "with",
+            "thanksgiving"
+          ],
+          "explanation": "The full text is: Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+          "source_section": "Philippians 4:6-7"
+        },
+        {
+          "id": "BW12Q25",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:'",
+          "options": [
+            "A. 1 John 5:15",
+            "B. 1 John 5:13",
+            "C. 1 John 6:14",
+            "D. 1 John 5:14-15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:' is found in 1 John 5:14-15.",
+          "source_section": "1 John 5:14-15"
+        },
+        {
+          "id": "BW12Q26",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 John 5:14-15:\nAnd this is the _____ that we have in him, _____, if we ask any thing according to his will, he _____ us:",
+          "answer": "confidence, that, heareth",
+          "keywords": [
+            "confidence",
+            "that",
+            "heareth"
+          ],
+          "explanation": "The full text is: And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:",
+          "source_section": "1 John 5:14-15"
+        },
+        {
+          "id": "BW12Q27",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And she was in bitterness of soul, and prayed unto the LORD, and wept sore.1.10 in\u2026: Heb. bitter of soul'",
+          "options": [
+            "A. 1 Samuel 1:10-20",
+            "B. 1 Samuel 2:10",
+            "C. 1 Samuel 1:9",
+            "D. 1 Samuel 1:11"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And she was in bitterness of soul, and prayed unto the LORD, and wept sore.1.10 in\u2026: Heb. bitter of soul' is found in 1 Samuel 1:10-20.",
+          "source_section": "1 Samuel 1:10-20"
+        },
+        {
+          "id": "BW12Q28",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 1:10-20:\nAnd she was in bitterness of soul, and _____ _____ the LORD, and _____ sore.1.10 in\u2026: Heb. bitter of soul",
+          "answer": "prayed, unto, wept",
+          "keywords": [
+            "prayed",
+            "unto",
+            "wept"
+          ],
+          "explanation": "The full text is: And she was in bitterness of soul, and prayed unto the LORD, and wept sore.1.10 in\u2026: Heb. bitter of soul",
+          "source_section": "1 Samuel 1:10-20"
+        },
+        {
+          "id": "BW12Q29",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.'",
+          "options": [
+            "A. 1 Kings 18:36-39",
+            "B. 1 Kings 19:36",
+            "C. 1 Kings 18:35",
+            "D. 1 Kings 18:37"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.' is found in 1 Kings 18:36-39.",
+          "source_section": "1 Kings 18:36-39"
+        },
+        {
+          "id": "BW12Q30",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 18:36-39:\nAnd it _____ to pass at the time of the offering of the evening sacrifice, that Elijah the _____ _____ near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.",
+          "answer": "came, prophet, came",
+          "keywords": [
+            "came",
+            "prophet",
+            "came"
+          ],
+          "explanation": "The full text is: And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word.",
+          "source_section": "1 Kings 18:36-39"
+        },
+        {
+          "id": "BW12Q31",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.'",
+          "options": [
+            "A. Genesis 2:26",
+            "B. Genesis 1:25",
+            "C. Genesis 1:26",
+            "D. Genesis 1:27"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.' is found in Genesis 1:26.",
+          "source_section": "Genesis 1:26"
+        },
+        {
+          "id": "BW12Q32",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 1:26:\n\u00b6 And God said, Let us make man in our image, after our _____: and let them have dominion _____ the fish of the sea, and over the _____ of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+          "answer": "likeness, over, fowl",
+          "keywords": [
+            "likeness",
+            "over",
+            "fowl"
+          ],
+          "explanation": "The full text is: \u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+          "source_section": "Genesis 1:26"
+        },
+        {
+          "id": "BW12Q33",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.'",
+          "options": [
+            "A. James 5:17",
+            "B. James 5:15",
+            "C. James 6:16",
+            "D. James 5:16-18"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.' is found in James 5:16-18.",
+          "source_section": "James 5:16-18"
+        },
+        {
+          "id": "BW12Q34",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 5:16-18:\n_____ your _____ one to another, and pray one for another, that ye may be healed. The effectual fervent _____ of a righteous man availeth much.",
+          "answer": "Confess, faults, prayer",
+          "keywords": [
+            "Confess",
+            "faults",
+            "prayer"
+          ],
+          "explanation": "The full text is: Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+          "source_section": "James 5:16-18"
+        },
+        {
+          "id": "BW12Q35",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.'",
+          "options": [
+            "A. Romans 9:26",
+            "B. Romans 8:27",
+            "C. Romans 8:25",
+            "D. Romans 8:26-27"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.' is found in Romans 8:26-27.",
+          "source_section": "Romans 8:26-27"
+        },
+        {
+          "id": "BW12Q36",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:26-27:\nLikewise the _____ also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit _____ _____ intercession for us with groanings which cannot be uttered.",
+          "answer": "Spirit, itself, maketh",
+          "keywords": [
+            "Spirit",
+            "itself",
+            "maketh"
+          ],
+          "explanation": "The full text is: Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+          "source_section": "Romans 8:26-27"
+        },
+        {
+          "id": "BW12Q37",
+          "week": 12,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.17.1 Elijah: Heb. Elijahu: Gr. Elias'",
+          "options": [
+            "A. 1 Kings 17:1-7",
+            "B. 1 Kings 17:2",
+            "C. 1 Kings 17:3",
+            "D. 1 Kings 18:1"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.17.1 Elijah: Heb. Elijahu: Gr. Elias' is found in 1 Kings 17:1-7.",
+          "source_section": "1 Kings 17:1-7"
+        },
+        {
+          "id": "BW12Q38",
+          "week": 12,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 17:1-7:\nAnd _____ the Tishbite, who was of the inhabitants of Gilead, said _____ Ahab, As the LORD God of Israel liveth, before whom I stand, there _____ not be dew nor rain these years, but according to my word.17.1 Elijah: Heb. Elijahu: Gr. Elias",
+          "answer": "Elijah, unto, shall",
+          "keywords": [
+            "Elijah",
+            "unto",
+            "shall"
+          ],
+          "explanation": "The full text is: And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.17.1 Elijah: Heb. Elijahu: Gr. Elias",
+          "source_section": "1 Kings 17:1-7"
+        }
+      ]
+    }
+  ]
+}

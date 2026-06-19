@@ -1,0 +1,479 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:31:00Z",
+  "weeks": [
+    {
+      "week_number": 29,
+      "topic": "COPING WITH LOSS",
+      "memory_verse_reference": "2 Samuel 1:12",
+      "questions": [
+        {
+          "id": "W29Q1",
+          "week": 29,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 29?",
+          "options": [
+            "A. COPING MECHANISMS",
+            "B. FINDING COMFORT IN GOD",
+            "C. COPING WITH LOSS",
+            "D. STRENGTH IN QUIETNESS"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Nine is COPING WITH LOSS.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W29Q2",
+          "week": 29,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 28?",
+          "options": [
+            "A. COPING WITH LOSS",
+            "B. LOVE YOURSELF",
+            "C. GET RICH QUICK SYNDROME",
+            "D. AGENTS OF TRANSFORMATION"
+          ],
+          "answer": "B",
+          "explanation": "Love Yourself was the topic for Week 28.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W29Q3",
+          "week": 29,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And they mourned and wept and fasted until evening for Saul and for ________ his son...",
+          "options": [
+            "A. David",
+            "B. Ishbosheth",
+            "C. Jonathan",
+            "D. Absalom"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (2 Samuel 1:12) says 'for Saul and for Jonathan his son...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W29Q4",
+          "week": 29,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "2 Samuel 1:12",
+          "keywords": ["2 Samuel", "1:12"],
+          "explanation": "The memory verse reference is 2 Samuel 1:12.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W29Q5",
+          "week": 29,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 29 in full (NKJV).",
+          "answer": "And they mourned and wept and fasted until evening for Saul and for Jonathan his son, for the people of the LORD and for the house of Israel, because they had fallen by the sword.",
+          "keywords": ["mourned", "wept", "fasted", "evening", "Saul", "Jonathan", "people", "LORD", "house", "Israel", "fallen", "sword"],
+          "explanation": "Full text recall of 2 Samuel 1:12.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W29Q6",
+          "week": 29,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (2 Samuel 1:12), what did the people do until evening for Saul and Jonathan?",
+          "options": [
+            "A. They sang and danced",
+            "B. They mourned, wept, and fasted",
+            "C. They buried them",
+            "D. They fought the Philistines"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'And they mourned and wept and fasted until evening...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W29Q7",
+          "week": 29,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The introduction states that loss is an inevitable part of life that takes many forms.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text begins: 'Loss is an inevitable part of life (Ecclesiastes 3:1-2, 4) that takes many forms...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W29Q8",
+          "week": 29,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what determines our ability to heal and move forward after a loss?",
+          "options": [
+            "A. How quickly we forget about it",
+            "B. How we cope with it",
+            "C. How much money we have",
+            "D. The size of our family"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'but how we cope with it determines our ability to heal and move forward.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W29Q9",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "COPING MECHANISMS",
+          "keywords": ["COPING", "MECHANISMS"],
+          "explanation": "Outline I is titled 'COPING MECHANISMS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q10",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the first step in coping with loss, according to Outline I?",
+          "options": [
+            "A. To hide the pain from others",
+            "B. To acknowledge the pain",
+            "C. To seek revenge",
+            "D. To travel to a new country"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'The first step in coping with loss is to acknowledge the pain (Psalm 73:26).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q11",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, engaging in simple daily tasks can provide stability during an emotionally challenging time.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'However, engaging in simple daily tasks can provide stability during an emotionally challenging time (Ruth 2:2).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q12",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is NOT mentioned as a healthy way to express grief in the lesson?",
+          "options": [
+            "A. Journaling",
+            "B. Tourism",
+            "C. Ignoring the problem",
+            "D. Physical exercise"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'journaling, tourism, art, music, or physical exercise'. Ignoring the problem is not mentioned.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q13",
+          "week": 29,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that the weight of loss is too heavy to bear alone, and seeking professional help is good?",
+          "options": [
+            "A. Job 2:11-13",
+            "B. Proverbs 24:6; 11:14",
+            "C. Ruth 2:2",
+            "D. Psalm 73:26"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Proverbs 24:6; 11:14)' after the point on seeking professional help.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q14",
+          "week": 29,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "FINDING COMFORT IN GOD",
+          "keywords": ["FINDING", "COMFORT", "IN", "GOD"],
+          "explanation": "Outline II is titled 'FINDING COMFORT IN GOD'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q15",
+          "week": 29,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does Outline II say is a powerful tool when grieving because it provides a direct line of communication with God?",
+          "options": [
+            "A. Fasting",
+            "B. Giving offering",
+            "C. Prayer",
+            "D. Singing"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Prayer is a powerful tool when grieving. It provides a direct line of communication with God...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q16",
+          "week": 29,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is quoted as 'The LORD is near to those who have a broken heart, And saves such as have a contrite spirit'?",
+          "options": [
+            "A. Psalm 34:18",
+            "B. Psalm 46:1",
+            "C. 2 Corinthians 1:3-4",
+            "D. Philippians 4:6-7"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Psalm 34:18 says, “The LORD is near to those who have a broken heart...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q17",
+          "week": 29,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, trusting that God has a plan, even in times of suffering, can provide a sense of purpose and hope.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'trusting that God has a plan, even in times of suffering, can provide a sense of purpose and hope for the future (Romans 8:28; Jeremiah 29:11).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q18",
+          "week": 29,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How can engaging with a faith community help during a loss?",
+          "options": [
+            "A. It can provide a sense of belonging and immense comfort",
+            "B. It guarantees the loss will be reversed",
+            "C. It distracts you completely so you forget",
+            "D. It replaces the lost loved one"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'can provide a sense of belonging, and be an immense source of comfort and support (Galatians 6:2, Hebrews 10:25a).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q19",
+          "week": 29,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding reflecting on the eternal hope offered through Christ, knowing death is not the end?",
+          "options": [
+            "A. Romans 8:28",
+            "B. 1 Thessalonians 4:13-14",
+            "C. Matthew 11:28",
+            "D. Galatians 6:2"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(1 Thessalonians 4:13-14, Psalm 116:15)' for this point.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q20",
+          "week": 29,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, coping with loss is a personal journey, but we can find strength by embracing practical mechanisms and leaning on faith.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states this.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W29Q21",
+          "week": 29,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Then Job arose, tore his robe, and shaved his head; and he fell to the ground and worshiped.'",
+          "verse_text": "Then Job arose, tore his robe, and shaved his head; and he fell to the ground and worshiped.",
+          "options": [
+            "A. Job 1:19",
+            "B. Job 1:20",
+            "C. Job 1:21",
+            "D. Job 1:22"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 20 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W29Q22",
+          "week": 29,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Job 1:21), what did Job say after tearing his robe?",
+          "options": [
+            "A. 'Why has God forsaken me?'",
+            "B. 'Naked I came from my mother’s womb, And naked shall I return there.'",
+            "C. 'My friends have betrayed me.'",
+            "D. 'I will seek revenge on my enemies.'"
+          ],
+          "answer": "B",
+          "explanation": "Verse 21 says 'Naked I came from my mother’s womb, And naked shall I return there...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W29Q23",
+          "week": 29,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Job 1:21, what did Job say about the Lord?",
+          "options": [
+            "A. The Lord is cruel",
+            "B. The Lord has forgotten me",
+            "C. The Lord gave, and the Lord has taken away; Blessed be the name of the Lord.",
+            "D. The Lord will restore double tomorrow"
+          ],
+          "answer": "C",
+          "explanation": "Verse 21 says 'The Lord gave, and the Lord has taken away; Blessed be the name of the Lord.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W29Q24",
+          "week": 29,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Job 1:22, in all this, what did Job NOT do?",
+          "options": [
+            "A. He did not cry",
+            "B. He did not eat",
+            "C. He did not sin nor charge God with wrong",
+            "D. He did not speak to anyone"
+          ],
+          "answer": "C",
+          "explanation": "Verse 22 says 'In all this Job did not sin nor charge God with wrong.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W29Q25",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that surrounding ourselves with a supportive community can provide immense comfort?",
+          "options": [
+            "A. Job 2:11-13; 42:11",
+            "B. Psalm 73:26",
+            "C. Ruth 2:2",
+            "D. 1 Samuel 30:3-6"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'knowing that others are there to listen can provide immense comfort (Job 2:11-13; 42:11).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q26",
+          "week": 29,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "The Bible is filled with verses that speak to loss and grief, offering comfort and ________.",
+          "options": [
+            "A. money",
+            "B. revenge",
+            "C. hope",
+            "D. confusion"
+          ],
+          "answer": "C",
+          "explanation": "Outline II says 'The Bible is filled with verses that speak to loss and grief, offering comfort and hope.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q27",
+          "week": 29,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited in Outline II to support trusting that God has a plan?",
+          "options": [
+            "A. Romans 8:28; Jeremiah 29:11",
+            "B. Philippians 4:6-7",
+            "C. Psalm 34:18",
+            "D. Galatians 6:2"
+          ],
+          "answer": "A",
+          "explanation": "Outline II cites '(Romans 8:28; Jeremiah 29:11)' regarding trusting God has a plan.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W29Q28",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Finding healthy ways like journaling or art to express grief can be therapeutic because they allow us to process our emotions.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'can be incredibly therapeutic because they allow us to process our emotions and alleviate the intensity of our grief.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q29",
+          "week": 29,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is essential for healing, according to the first step in Outline I?",
+          "options": [
+            "A. Ignoring the feelings",
+            "B. Allowing ourselves to feel the grief",
+            "C. Moving to a new house",
+            "D. Pretending it never happened"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Allowing ourselves to feel the grief is essential for healing...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W29Q30",
+          "week": 29,
+          "category": "introduction",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are cited in the introduction to show that loss takes many forms like the death of a loved one or broken relationships?",
+          "options": [
+            "A. Ecclesiastes 3:1-2, 4",
+            "B. Job 14:1-2; 1 Samuel 30:1-4",
+            "C. 2 Samuel 18:33",
+            "D. Job 1:20-22"
+          ],
+          "answer": "B",
+          "explanation": "The text says '...takes many forms like the death of a loved one, broken relationships, major life changes, etc. (Job 14:1-2; 1 Samuel 30:1-4).'",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

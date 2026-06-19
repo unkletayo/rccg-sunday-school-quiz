@@ -1,0 +1,559 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:14:00Z",
+  "weeks": [
+    {
+      "week_number": 9,
+      "topic": "PROPHECY",
+      "memory_verse_reference": "1 Corinthians 14:1",
+      "questions": [
+        {
+          "id": "W9Q1",
+          "week": 9,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 9?",
+          "options": [
+            "A. FAITH AND SCIENCE",
+            "B. UNDERSTAND PROPHECY",
+            "C. PROPHECY",
+            "D. THE BENEFITS"
+          ],
+          "answer": "C",
+          "explanation": "The topic stated for Lesson Nine is PROPHECY.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W9Q2",
+          "week": 9,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 8?",
+          "options": [
+            "A. KNOW YOURSELF",
+            "B. PROPHECY",
+            "C. FAITH AND SCIENCE",
+            "D. FORGIVENESS"
+          ],
+          "answer": "C",
+          "explanation": "Faith and Science was the topic for Week 8.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W9Q3",
+          "week": 9,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Pursue love, and desire spiritual gifts, but especially that you may ________.",
+          "options": [
+            "A. heal",
+            "B. preach",
+            "C. prophesy",
+            "D. speak in tongues"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (1 Corinthians 14:1) concludes with 'but especially that you may prophesy.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W9Q4",
+          "week": 9,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 Corinthians 14:1",
+          "keywords": ["1 Corinthians", "14:1"],
+          "explanation": "The memory verse is 1 Corinthians 14:1.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W9Q5",
+          "week": 9,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 9 in full (NKJV).",
+          "answer": "Pursue love, and desire spiritual gifts, but especially that you may prophesy.",
+          "keywords": ["Pursue", "love", "desire", "spiritual", "gifts", "especially", "prophesy"],
+          "explanation": "Full text recall for 1 Corinthians 14:1.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W9Q6",
+          "week": 9,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the memory verse (1 Corinthians 14:1) urge believers to pursue above all?",
+          "options": [
+            "A. Wealth",
+            "B. Knowledge",
+            "C. Love",
+            "D. Power"
+          ],
+          "answer": "C",
+          "explanation": "The verse begins 'Pursue love...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W9Q7",
+          "week": 9,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is prophecy?",
+          "options": [
+            "A. A spiritual gift and ministry through which God communicates His mind and will",
+            "B. Guessing what will happen tomorrow",
+            "C. A scientific study of future events",
+            "D. Reading the stars"
+          ],
+          "answer": "A",
+          "explanation": "The intro states: 'Prophecy is a spiritual gift and ministry through which God communicates His mind and will to His people.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W9Q8",
+          "week": 9,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Prophecy is a vital aspect of Christian living that enables believers to receive guidance, encouragement and ________.",
+          "options": [
+            "A. wealth",
+            "B. edification",
+            "C. power",
+            "D. salvation"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'guidance, encouragement and edification'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W9Q9",
+          "week": 9,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "UNDERSTAND PROPHECY",
+          "keywords": ["UNDERSTAND", "PROPHECY"],
+          "explanation": "Outline I is titled 'UNDERSTAND PROPHECY'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q10",
+          "week": 9,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Prophecy is rooted primarily in human imagination rather than God's authority.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states: 'Prophecy is not rooted in human imagination but in God’s authority and wisdom.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q11",
+          "week": 9,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that prophecy is the act of speaking God's words under divine inspiration?",
+          "options": [
+            "A. Numbers 12:6",
+            "B. 1 Corinthians 14:3",
+            "C. Job 32:8",
+            "D. 2 Peter 1:21"
+          ],
+          "answer": "C",
+          "explanation": "The text links 'divine inspiration' to '(Job 32:8)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q12",
+          "week": 9,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What does Ezekiel 37:1-14 demonstrate about prophecy, according to Outline I?",
+          "options": [
+            "A. It can predict the weather",
+            "B. The transformative power of prophecy (speaking life to dry bones)",
+            "C. How to interpret dreams",
+            "D. That prophecy only comes through visions"
+          ],
+          "answer": "B",
+          "explanation": "The text notes: 'Ezekiel 37:1-14... demonstrating the transformative power of prophecy.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q13",
+          "week": 9,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Revelation 19:10 highlights that 'the testimony of Jesus is the ________ of prophecy.'",
+          "options": [
+            "A. spirit",
+            "B. heart",
+            "C. goal",
+            "D. power"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'the testimony of Jesus is the spirit of prophecy'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q14",
+          "week": 9,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "Which form of prophecy is defined as 'Predicting future events as revealed by God'?",
+          "options": [
+            "A. Forthtelling",
+            "B. Foretelling",
+            "C. Discernment",
+            "D. Divination"
+          ],
+          "answer": "B",
+          "explanation": "The text defines Foretelling as 'Predicting future events as revealed by God.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q15",
+          "week": 9,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which form of prophecy involves 'Comforting a specific audience through the written word of God' and 'Addressing a current situation and proffering solution'?",
+          "options": [
+            "A. Foretelling",
+            "B. Discernment",
+            "C. Exhortation",
+            "D. Forthtelling"
+          ],
+          "answer": "D",
+          "explanation": "This is the definition given for 'Forthtelling'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q16",
+          "week": 9,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "free_text",
+          "question": "Which form of prophecy provides 'insight into hidden truths or circumstances, often to bring clarity'?",
+          "answer": "Discernment",
+          "keywords": ["Discernment"],
+          "explanation": "The text labels this as 'Discernment'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q17",
+          "week": 9,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, all prophecies are from God, so there is no need to evaluate them.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text warns: 'Believers should note that not all prophecies are from God, which makes it vital to evaluate every prophetic word...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q18",
+          "week": 9,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE BENEFITS",
+          "keywords": ["THE", "BENEFITS"],
+          "explanation": "Outline II is titled 'THE BENEFITS'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q19",
+          "week": 9,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "Which benefit of prophecy builds up the body of Christ, fostering spiritual growth and unity?",
+          "options": [
+            "A. Exhortation",
+            "B. Comfort",
+            "C. Guidance",
+            "D. Edification"
+          ],
+          "answer": "D",
+          "explanation": "This is listed under 'a. Edification'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q20",
+          "week": 9,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which benefit of prophecy encourages and challenges believers, motivating them to stay faithful and pursue righteousness?",
+          "options": [
+            "A. Comfort",
+            "B. Edification",
+            "C. Exhortation",
+            "D. Guidance"
+          ],
+          "answer": "C",
+          "explanation": "This is listed under 'b. Exhortation'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q21",
+          "week": 9,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which benefit of prophecy provides reassurance and peace in times of distress, reminding believers of God's faithfulness and love?",
+          "options": [
+            "A. Edification",
+            "B. Exhortation",
+            "C. Guidance",
+            "D. Comfort"
+          ],
+          "answer": "D",
+          "explanation": "This is listed under 'c. Comfort'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q22",
+          "week": 9,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which benefit of prophecy offers direction and wisdom for decision-making, helping His people align with His will?",
+          "options": [
+            "A. Guidance",
+            "B. Edification",
+            "C. Foretelling",
+            "D. Exhortation"
+          ],
+          "answer": "A",
+          "explanation": "This is listed under 'd. Guidance'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q23",
+          "week": 9,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the benefit of 'Comfort' through prophecy?",
+          "options": [
+            "A. 1 Corinthians 14:4",
+            "B. Isaiah 40:2",
+            "C. 1 Kings 17:13-16",
+            "D. 2 Kings 6:8-12"
+          ],
+          "answer": "C",
+          "explanation": "The text lists '(1 Kings 17:13-16)' next to Comfort.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q24",
+          "week": 9,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the benefit of 'Guidance' through prophecy?",
+          "options": [
+            "A. Isaiah 40:2",
+            "B. 2 Kings 6:8-12",
+            "C. 1 Corinthians 14:4",
+            "D. 1 Kings 17:13-16"
+          ],
+          "answer": "B",
+          "explanation": "The text lists '(2 Kings 6:8-12)' next to Guidance.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W9Q25",
+          "week": 9,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion states that the prophetic ministry is important for the edification of the body of Christ.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states: 'The prophetic ministry is important for the edification of the body of Christ.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W9Q26",
+          "week": 9,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'For he who speaks in a tongue does not speak to men but to God, for no one understands him; however, in the spirit he speaks mysteries.'",
+          "verse_text": "For he who speaks in a tongue does not speak to men but to God, for no one understands him; however, in the spirit he speaks mysteries.",
+          "options": [
+            "A. 1 Corinthians 14:1",
+            "B. 1 Corinthians 14:2",
+            "C. 1 Corinthians 14:4",
+            "D. 1 Corinthians 14:5"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 2 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W9Q27",
+          "week": 9,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (1 Corinthians 14:3), what does the one who prophesies speak to men?",
+          "options": [
+            "A. Mysteries and hidden truths",
+            "B. Edification, exhortation, and comfort",
+            "C. Judgement and warning",
+            "D. Wisdom and wealth"
+          ],
+          "answer": "B",
+          "explanation": "1 Corinthians 14:3 says 'speaks edification and exhortation and comfort to men.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W9Q28",
+          "week": 9,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Corinthians 14:4, who does the one who speaks in a tongue edify, compared to the one who prophesies?",
+          "options": [
+            "A. Tongues edifies the church, prophecy edifies himself",
+            "B. Tongues edifies himself, prophecy edifies the church",
+            "C. Both edify the church equally",
+            "D. Tongues edifies God, prophecy edifies angels"
+          ],
+          "answer": "B",
+          "explanation": "Verse 4 says 'He who speaks in a tongue edifies himself, but he who prophesies edifies the church.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W9Q29",
+          "week": 9,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "In the Bible Passage (1 Corinthians 14:5), Paul states that he wishes none of them spoke with tongues, but only prophesied.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "He says 'I wish you all spoke with tongues, but even more that you prophesied'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W9Q30",
+          "week": 9,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Corinthians 14:5, under what condition is the one who speaks with tongues equal to or greater than the one who prophesies?",
+          "options": [
+            "A. If he speaks loudly",
+            "B. If he interprets, that the church may receive edification",
+            "C. If he speaks for more than an hour",
+            "D. If he sings the tongues as a hymn"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'unless indeed he interprets, that the church may receive edification.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W9Q31",
+          "week": 9,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What is mentioned as a form of 'Forthtelling' besides comforting an audience and addressing a current situation?",
+          "options": [
+            "A. Exhortation",
+            "B. Healing the sick",
+            "C. Correction",
+            "D. Predicting weather patterns"
+          ],
+          "answer": "C",
+          "explanation": "The text explicitly states: 'Forthtelling can also serve as a correction.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q32",
+          "week": 9,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are listed as examples for the 'Discernment' form of prophecy?",
+          "options": [
+            "A. 2 Kings 5:20-26; Acts 16:16-19",
+            "B. Isaiah 7:14; Matthew 24",
+            "C. Nehemiah 8:8-10",
+            "D. 2 Kings 4:1-7; 2 Kings 6:25"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(2 Kings 5:20-26; Acts 16:16-19)' for Discernment.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q33",
+          "week": 9,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Believers must evaluate every prophetic word with Scriptures and ________ principles.",
+          "options": [
+            "A. traditional",
+            "B. godly",
+            "C. church",
+            "D. societal"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'evaluate every prophetic word with Scriptures and godly principles'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q34",
+          "week": 9,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to support 'Foretelling' (Predicting future events)?",
+          "options": [
+            "A. Isaiah 7:14; Matthew 24",
+            "B. 1 Corinthians 14:3",
+            "C. 2 Peter 1:21",
+            "D. Ezekiel 37:1-14"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(Isaiah 7:14; Matthew 24)' for Foretelling.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W9Q35",
+          "week": 9,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Prophecy serves as a channel through which God's truth, plans, and purposes are hidden from the world.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "It serves as a channel through which they are 'revealed', not hidden.",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

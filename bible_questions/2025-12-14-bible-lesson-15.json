@@ -1,0 +1,771 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 15,
+      "topic": "UNTOWARD FREEDOM",
+      "questions": [
+        {
+          "id": "BW15Q1",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.'",
+          "options": [
+            "A. Exodus 32:3",
+            "B. Exodus 33:1",
+            "C. Exodus 32:2",
+            "D. Exodus 32:1-7"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.' is found in Exodus 32:1-7.",
+          "source_section": "Exodus 32:1-7"
+        },
+        {
+          "id": "BW15Q2",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 32:1-7:\nAnd when the people saw that Moses delayed to come _____ out of the mount, the people gathered themselves together unto _____, and said _____ him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
+          "answer": "down, Aaron, unto",
+          "keywords": [
+            "down",
+            "Aaron",
+            "unto"
+          ],
+          "explanation": "The full text is: And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.",
+          "source_section": "Exodus 32:1-7"
+        },
+        {
+          "id": "BW15Q3",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king.15.23 witchcraft: Heb. divination'",
+          "options": [
+            "A. 1 Samuel 15:23",
+            "B. 1 Samuel 15:22",
+            "C. 1 Samuel 15:24",
+            "D. 1 Samuel 16:23"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king.15.23 witchcraft: Heb. divination' is found in 1 Samuel 15:23.",
+          "source_section": "1 Samuel 15:23"
+        },
+        {
+          "id": "BW15Q4",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 15:23:\nFor rebellion is as the sin of witchcraft, and stubbornness is as iniquity and _____. Because thou hast rejected the word of the LORD, he hath _____ rejected thee from being _____ witchcraft: Heb. divination",
+          "answer": "idolatry, also, king.15.23",
+          "keywords": [
+            "idolatry",
+            "also",
+            "king.15.23"
+          ],
+          "explanation": "The full text is: For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king.15.23 witchcraft: Heb. divination",
+          "source_section": "1 Samuel 15:23"
+        },
+        {
+          "id": "BW15Q5",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.'",
+          "options": [
+            "A. Romans 9:4",
+            "B. Romans 8:5",
+            "C. Romans 8:3",
+            "D. Romans 8:4-6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.' is found in Romans 8:4-6.",
+          "source_section": "Romans 8:4-6"
+        },
+        {
+          "id": "BW15Q6",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:4-6:\n_____ the righteousness of the law might be fulfilled in us, who _____ not after the _____, but after the Spirit.",
+          "answer": "That, walk, flesh",
+          "keywords": [
+            "That",
+            "walk",
+            "flesh"
+          ],
+          "explanation": "The full text is: That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.",
+          "source_section": "Romans 8:4-6"
+        },
+        {
+          "id": "BW15Q7",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.'",
+          "options": [
+            "A. Matthew 10:35",
+            "B. Matthew 9:34",
+            "C. Matthew 9:36",
+            "D. Matthew 9:35"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.' is found in Matthew 9:35.",
+          "source_section": "Matthew 9:35"
+        },
+        {
+          "id": "BW15Q8",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 9:35:\nAnd Jesus went about all the cities and _____, teaching in their synagogues, and preaching the _____ of the kingdom, and healing _____ sickness and every disease among the people.",
+          "answer": "villages, gospel, every",
+          "keywords": [
+            "villages",
+            "gospel",
+            "every"
+          ],
+          "explanation": "The full text is: And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.",
+          "source_section": "Matthew 9:35"
+        },
+        {
+          "id": "BW15Q9",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:'",
+          "options": [
+            "A. Galatians 3:12",
+            "B. Galatians 4:13",
+            "C. Galatians 3:14",
+            "D. Galatians 3:13"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:' is found in Galatians 3:13.",
+          "source_section": "Galatians 3:13"
+        },
+        {
+          "id": "BW15Q10",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 3:13:\nChrist hath redeemed us from the _____ of the law, being made a curse for us: for it is _____, _____ is every one that hangeth on a tree:",
+          "answer": "curse, written, Cursed",
+          "keywords": [
+            "curse",
+            "written",
+            "Cursed"
+          ],
+          "explanation": "The full text is: Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:",
+          "source_section": "Galatians 3:13"
+        },
+        {
+          "id": "BW15Q11",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If the Son therefore shall make you free, ye shall be free indeed.'",
+          "options": [
+            "A. John 8:35",
+            "B. John 9:36",
+            "C. John 8:37",
+            "D. John 8:36"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'If the Son therefore shall make you free, ye shall be free indeed.' is found in John 8:36.",
+          "source_section": "John 8:36"
+        },
+        {
+          "id": "BW15Q12",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 8:36:\nIf the Son therefore _____ _____ you _____, ye shall be free indeed.",
+          "answer": "shall, make, free",
+          "keywords": [
+            "shall",
+            "make",
+            "free"
+          ],
+          "explanation": "The full text is: If the Son therefore shall make you free, ye shall be free indeed.",
+          "source_section": "John 8:36"
+        },
+        {
+          "id": "BW15Q13",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.'",
+          "options": [
+            "A. 1 John 2:16",
+            "B. 1 John 2:14",
+            "C. 1 John 2:15-17",
+            "D. 1 John 3:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.' is found in 1 John 2:15-17.",
+          "source_section": "1 John 2:15-17"
+        },
+        {
+          "id": "BW15Q14",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 John 2:15-17:\nLove not the world, neither the things _____ are in the _____. If any man love the _____, the love of the Father is not in him.",
+          "answer": "that, world, world",
+          "keywords": [
+            "that",
+            "world",
+            "world"
+          ],
+          "explanation": "The full text is: Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+          "source_section": "1 John 2:15-17"
+        },
+        {
+          "id": "BW15Q15",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.'",
+          "options": [
+            "A. 2 Chronicles 26:16-20",
+            "B. 2 Chronicles 26:15",
+            "C. 2 Chronicles 26:17",
+            "D. 2 Chronicles 27:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.' is found in 2 Chronicles 26:16-20.",
+          "source_section": "2 Chronicles 26:16-20"
+        },
+        {
+          "id": "BW15Q16",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Chronicles 26:16-20:\n\u00b6 But when he was strong, his heart was lifted up to his _____: for he transgressed against the LORD his God, and went _____ the temple of the LORD to burn incense upon the altar of _____.",
+          "answer": "destruction, into, incense",
+          "keywords": [
+            "destruction",
+            "into",
+            "incense"
+          ],
+          "explanation": "The full text is: \u00b6 But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.",
+          "source_section": "2 Chronicles 26:16-20"
+        },
+        {
+          "id": "BW15Q17",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.'",
+          "options": [
+            "A. Colossians 2:14",
+            "B. Colossians 2:16",
+            "C. Colossians 2:15",
+            "D. Colossians 3:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.' is found in Colossians 2:15.",
+          "source_section": "Colossians 2:15"
+        },
+        {
+          "id": "BW15Q18",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 2:15:\nAnd _____ spoiled principalities and powers, he made a shew of them _____, _____ over them in it.",
+          "answer": "having, openly, triumphing",
+          "keywords": [
+            "having",
+            "openly",
+            "triumphing"
+          ],
+          "explanation": "The full text is: And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.",
+          "source_section": "Colossians 2:15"
+        },
+        {
+          "id": "BW15Q19",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.'",
+          "options": [
+            "A. Revelation 2:15",
+            "B. Revelation 3:15",
+            "C. Revelation 2:14",
+            "D. Revelation 2:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.' is found in Revelation 2:15.",
+          "source_section": "Revelation 2:15"
+        },
+        {
+          "id": "BW15Q20",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 2:15:\nSo hast _____ also them that hold the doctrine of the Nicolaitans, which _____ I _____.",
+          "answer": "thou, thing, hate",
+          "keywords": [
+            "thou",
+            "thing",
+            "hate"
+          ],
+          "explanation": "The full text is: So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.",
+          "source_section": "Revelation 2:15"
+        },
+        {
+          "id": "BW15Q21",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.'",
+          "options": [
+            "A. 2 Timothy 1:8",
+            "B. 2 Timothy 1:6",
+            "C. 2 Timothy 1:7",
+            "D. 2 Timothy 2:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.' is found in 2 Timothy 1:7.",
+          "source_section": "2 Timothy 1:7"
+        },
+        {
+          "id": "BW15Q22",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 1:7:\nFor God _____ not given us the spirit of fear; but of _____, and of love, and of a sound _____.",
+          "answer": "hath, power, mind",
+          "keywords": [
+            "hath",
+            "power",
+            "mind"
+          ],
+          "explanation": "The full text is: For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+          "source_section": "2 Timothy 1:7"
+        },
+        {
+          "id": "BW15Q23",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.'",
+          "options": [
+            "A. Galatians 5:14",
+            "B. Galatians 5:13",
+            "C. Galatians 5:12",
+            "D. Galatians 6:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.' is found in Galatians 5:13.",
+          "source_section": "Galatians 5:13"
+        },
+        {
+          "id": "BW15Q24",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:13:\nFor, brethren, ye have been _____ _____ liberty; only use not liberty for an _____ to the flesh, but by love serve one another.",
+          "answer": "called, unto, occasion",
+          "keywords": [
+            "called",
+            "unto",
+            "occasion"
+          ],
+          "explanation": "The full text is: For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.",
+          "source_section": "Galatians 5:13"
+        },
+        {
+          "id": "BW15Q25",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Nay, in all these things we are more than conquerors through him that loved us.'",
+          "options": [
+            "A. Romans 8:37-39",
+            "B. Romans 8:38",
+            "C. Romans 9:37",
+            "D. Romans 8:36"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Nay, in all these things we are more than conquerors through him that loved us.' is found in Romans 8:37-39.",
+          "source_section": "Romans 8:37-39"
+        },
+        {
+          "id": "BW15Q26",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:37-39:\nNay, in all _____ things we are more than conquerors _____ him _____ loved us.",
+          "answer": "these, through, that",
+          "keywords": [
+            "these",
+            "through",
+            "that"
+          ],
+          "explanation": "The full text is: Nay, in all these things we are more than conquerors through him that loved us.",
+          "source_section": "Romans 8:37-39"
+        },
+        {
+          "id": "BW15Q27",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.30.17 the valley: or, the brook'",
+          "options": [
+            "A. Proverbs 31:17",
+            "B. Proverbs 30:17",
+            "C. Proverbs 30:18",
+            "D. Proverbs 30:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.30.17 the valley: or, the brook' is found in Proverbs 30:17.",
+          "source_section": "Proverbs 30:17"
+        },
+        {
+          "id": "BW15Q28",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 30:17:\nThe eye that mocketh at his _____, and despiseth to _____ his mother, the ravens of the valley shall pick it out, and the young eagles _____ eat it.30.17 the valley: or, the brook",
+          "answer": "father, obey, shall",
+          "keywords": [
+            "father",
+            "obey",
+            "shall"
+          ],
+          "explanation": "The full text is: The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.30.17 the valley: or, the brook",
+          "source_section": "Proverbs 30:17"
+        },
+        {
+          "id": "BW15Q29",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.'",
+          "options": [
+            "A. Romans 9:2",
+            "B. Romans 8:3",
+            "C. Romans 8:1",
+            "D. Romans 8:2"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.' is found in Romans 8:2.",
+          "source_section": "Romans 8:2"
+        },
+        {
+          "id": "BW15Q30",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:2:\nFor the law of the Spirit of life in Christ Jesus hath made me _____ _____ the law of sin and _____.",
+          "answer": "free, from, death",
+          "keywords": [
+            "free",
+            "from",
+            "death"
+          ],
+          "explanation": "The full text is: For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.",
+          "source_section": "Romans 8:2"
+        },
+        {
+          "id": "BW15Q31",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And all thy children shall be taught of the LORD; and great shall be the peace of thy children.'",
+          "options": [
+            "A. Isaiah 54:14",
+            "B. Isaiah 54:12",
+            "C. Isaiah 54:13-14",
+            "D. Isaiah 55:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And all thy children shall be taught of the LORD; and great shall be the peace of thy children.' is found in Isaiah 54:13-14.",
+          "source_section": "Isaiah 54:13-14"
+        },
+        {
+          "id": "BW15Q32",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 54:13-14:\nAnd all thy children _____ be taught of the LORD; and _____ shall be the _____ of thy children.",
+          "answer": "shall, great, peace",
+          "keywords": [
+            "shall",
+            "great",
+            "peace"
+          ],
+          "explanation": "The full text is: And all thy children shall be taught of the LORD; and great shall be the peace of thy children.",
+          "source_section": "Isaiah 54:13-14"
+        },
+        {
+          "id": "BW15Q33",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For sin shall not have dominion over you: for ye are not under the law, but under grace.'",
+          "options": [
+            "A. Romans 6:14",
+            "B. Romans 6:13",
+            "C. Romans 7:14",
+            "D. Romans 6:15"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For sin shall not have dominion over you: for ye are not under the law, but under grace.' is found in Romans 6:14.",
+          "source_section": "Romans 6:14"
+        },
+        {
+          "id": "BW15Q34",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 6:14:\nFor sin _____ not have _____ over you: for ye are not _____ the law, but under grace.",
+          "answer": "shall, dominion, under",
+          "keywords": [
+            "shall",
+            "dominion",
+            "under"
+          ],
+          "explanation": "The full text is: For sin shall not have dominion over you: for ye are not under the law, but under grace.",
+          "source_section": "Romans 6:14"
+        },
+        {
+          "id": "BW15Q35",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.'",
+          "options": [
+            "A. Isaiah 54:15",
+            "B. Isaiah 54:13",
+            "C. Isaiah 55:14",
+            "D. Isaiah 54:14"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.' is found in Isaiah 54:14.",
+          "source_section": "Isaiah 54:14"
+        },
+        {
+          "id": "BW15Q36",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 54:14:\nIn righteousness shalt _____ be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it _____ not come near _____.",
+          "answer": "thou, shall, thee",
+          "keywords": [
+            "thou",
+            "shall",
+            "thee"
+          ],
+          "explanation": "The full text is: In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.",
+          "source_section": "Isaiah 54:14"
+        },
+        {
+          "id": "BW15Q37",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That whosoever believeth in him should not perish, but have eternal life.'",
+          "options": [
+            "A. John 3:15-18",
+            "B. John 4:15",
+            "C. John 3:16",
+            "D. John 3:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'That whosoever believeth in him should not perish, but have eternal life.' is found in John 3:15-18.",
+          "source_section": "John 3:15-18"
+        },
+        {
+          "id": "BW15Q38",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 3:15-18:\n_____ _____ believeth in him should not perish, but have _____ life.",
+          "answer": "That, whosoever, eternal",
+          "keywords": [
+            "That",
+            "whosoever",
+            "eternal"
+          ],
+          "explanation": "The full text is: That whosoever believeth in him should not perish, but have eternal life.",
+          "source_section": "John 3:15-18"
+        },
+        {
+          "id": "BW15Q39",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.'",
+          "options": [
+            "A. Galatians 5:2",
+            "B. Galatians 5:1",
+            "C. Galatians 6:1",
+            "D. Galatians 5:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.' is found in Galatians 5:1.",
+          "source_section": "Galatians 5:1"
+        },
+        {
+          "id": "BW15Q40",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:1:\nStand _____ therefore in the liberty wherewith Christ hath _____ us free, and be not entangled again with the _____ of bondage.",
+          "answer": "fast, made, yoke",
+          "keywords": [
+            "fast",
+            "made",
+            "yoke"
+          ],
+          "explanation": "The full text is: Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+          "source_section": "Galatians 5:1"
+        },
+        {
+          "id": "BW15Q41",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.'",
+          "options": [
+            "A. 1 Corinthians 10:22",
+            "B. 1 Corinthians 11:23",
+            "C. 1 Corinthians 10:24",
+            "D. 1 Corinthians 10:23-24"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.' is found in 1 Corinthians 10:23-24.",
+          "source_section": "1 Corinthians 10:23-24"
+        },
+        {
+          "id": "BW15Q42",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 10:23-24:\nAll _____ are lawful for me, but all things are not expedient: all things are _____ for me, but all _____ edify not.",
+          "answer": "things, lawful, things",
+          "keywords": [
+            "things",
+            "lawful",
+            "things"
+          ],
+          "explanation": "The full text is: All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.",
+          "source_section": "1 Corinthians 10:23-24"
+        },
+        {
+          "id": "BW15Q43",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.'",
+          "options": [
+            "A. Micah 2:2",
+            "B. Micah 2:3",
+            "C. Micah 2:1",
+            "D. Micah 3:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.' is found in Micah 2:1.",
+          "source_section": "Micah 2:1"
+        },
+        {
+          "id": "BW15Q44",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Micah 2:1:\nWoe to them _____ devise iniquity, and work evil upon _____ beds! when the morning is light, they practise it, because it is in the power of their _____.",
+          "answer": "that, their, hand",
+          "keywords": [
+            "that",
+            "their",
+            "hand"
+          ],
+          "explanation": "The full text is: Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.",
+          "source_section": "Micah 2:1"
+        },
+        {
+          "id": "BW15Q45",
+          "week": 15,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:'",
+          "options": [
+            "A. Isaiah 30:3",
+            "B. Isaiah 31:1",
+            "C. Isaiah 30:2",
+            "D. Isaiah 30:1"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:' is found in Isaiah 30:1.",
+          "source_section": "Isaiah 30:1"
+        },
+        {
+          "id": "BW15Q46",
+          "week": 15,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 30:1:\nWoe to the rebellious _____, saith the LORD, that take counsel, but not of me; and that _____ _____ a covering, but not of my spirit, that they may add sin to sin:",
+          "answer": "children, cover, with",
+          "keywords": [
+            "children",
+            "cover",
+            "with"
+          ],
+          "explanation": "The full text is: Woe to the rebellious children, saith the LORD, that take counsel, but not of me; and that cover with a covering, but not of my spirit, that they may add sin to sin:",
+          "source_section": "Isaiah 30:1"
+        }
+      ]
+    }
+  ]
+}

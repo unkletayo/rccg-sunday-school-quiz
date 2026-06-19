@@ -1,0 +1,771 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "STRATEGIC LEADERSHIP",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.'",
+          "options": [
+            "A. Proverbs 12:3",
+            "B. Proverbs 11:2",
+            "C. Proverbs 11:4",
+            "D. Proverbs 11:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.' is found in Proverbs 11:3.",
+          "source_section": "Proverbs 11:3"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 11:3:\nThe integrity of the upright shall guide _____: but the perverseness of _____ shall destroy _____.",
+          "answer": "them, transgressors, them",
+          "keywords": [
+            "them",
+            "transgressors",
+            "them"
+          ],
+          "explanation": "The full text is: The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.",
+          "source_section": "Proverbs 11:3"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:'",
+          "options": [
+            "A. Exodus 18:22",
+            "B. Exodus 18:21",
+            "C. Exodus 18:20",
+            "D. Exodus 19:21"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:' is found in Exodus 18:21.",
+          "source_section": "Exodus 18:21"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 18:21:\nMoreover thou shalt provide out of all the people able men, such as fear God, men of _____, hating covetousness; and place such over them, to be rulers of _____, and rulers of hundreds, rulers of fifties, and rulers of _____:",
+          "answer": "truth, thousands, tens",
+          "keywords": [
+            "truth",
+            "thousands",
+            "tens"
+          ],
+          "explanation": "The full text is: Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:",
+          "source_section": "Exodus 18:21"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be ye followers of me, even as I also am of Christ.'",
+          "options": [
+            "A. 1 Corinthians 11:2",
+            "B. 1 Corinthians 11:1",
+            "C. 1 Corinthians 11:3",
+            "D. 1 Corinthians 12:1"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Be ye followers of me, even as I also am of Christ.' is found in 1 Corinthians 11:1.",
+          "source_section": "1 Corinthians 11:1"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 11:1:\nBe ye followers of me, _____ as I _____ am of _____.",
+          "answer": "even, also, Christ",
+          "keywords": [
+            "even",
+            "also",
+            "Christ"
+          ],
+          "explanation": "The full text is: Be ye followers of me, even as I also am of Christ.",
+          "source_section": "1 Corinthians 11:1"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers\u2019 sepulchres, lieth waste, and the gates thereof are consumed with fire?'",
+          "options": [
+            "A. Nehemiah 3:3",
+            "B. Nehemiah 2:2",
+            "C. Nehemiah 2:3-5",
+            "D. Nehemiah 2:4"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers\u2019 sepulchres, lieth waste, and the gates thereof are consumed with fire?' is found in Nehemiah 2:3-5.",
+          "source_section": "Nehemiah 2:3-5"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 2:3-5:\nAnd said unto the _____, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers\u2019 _____, lieth waste, and the gates thereof are consumed with _____",
+          "answer": "king, sepulchres, fire?",
+          "keywords": [
+            "king",
+            "sepulchres",
+            "fire?"
+          ],
+          "explanation": "The full text is: And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers\u2019 sepulchres, lieth waste, and the gates thereof are consumed with fire?",
+          "source_section": "Nehemiah 2:3-5"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.'",
+          "options": [
+            "A. Ephesians 6:10",
+            "B. Ephesians 7:9",
+            "C. Ephesians 6:9",
+            "D. Ephesians 6:8"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.' is found in Ephesians 6:9.",
+          "source_section": "Ephesians 6:9"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 6:9:\nAnd, ye masters, do the _____ things unto them, forbearing threatening: knowing _____ your Master also is in heaven; neither is there respect of _____ with him.",
+          "answer": "same, that, persons",
+          "keywords": [
+            "same",
+            "that",
+            "persons"
+          ],
+          "explanation": "The full text is: And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.",
+          "source_section": "Ephesians 6:9"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David\u2019s spoil.'",
+          "options": [
+            "A. 1 Samuel 30:20-23",
+            "B. 1 Samuel 30:19",
+            "C. 1 Samuel 30:21",
+            "D. 1 Samuel 31:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David\u2019s spoil.' is found in 1 Samuel 30:20-23.",
+          "source_section": "1 Samuel 30:20-23"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 30:20-23:\nAnd David took all the _____ and the herds, which they drave before those other cattle, and said, _____ is David\u2019s _____.",
+          "answer": "flocks, This, spoil",
+          "keywords": [
+            "flocks",
+            "This",
+            "spoil"
+          ],
+          "explanation": "The full text is: And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David\u2019s spoil.",
+          "source_section": "1 Samuel 30:20-23"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ\u2019s sake hath forgiven you.'",
+          "options": [
+            "A. Ephesians 4:32",
+            "B. Ephesians 5:32",
+            "C. Ephesians 4:31",
+            "D. Ephesians 4:33"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ\u2019s sake hath forgiven you.' is found in Ephesians 4:32.",
+          "source_section": "Ephesians 4:32"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:32:\nAnd be ye kind one to another, _____, forgiving one another, _____ as God for Christ\u2019s _____ hath forgiven you.",
+          "answer": "tenderhearted, even, sake",
+          "keywords": [
+            "tenderhearted",
+            "even",
+            "sake"
+          ],
+          "explanation": "The full text is: And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ\u2019s sake hath forgiven you.",
+          "source_section": "Ephesians 4:32"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.'",
+          "options": [
+            "A. Proverbs 18:15",
+            "B. Proverbs 19:15",
+            "C. Proverbs 18:16",
+            "D. Proverbs 18:14"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.' is found in Proverbs 18:15.",
+          "source_section": "Proverbs 18:15"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:15:\nThe _____ of the prudent getteth _____; and the ear of the wise seeketh _____.",
+          "answer": "heart, knowledge, knowledge",
+          "keywords": [
+            "heart",
+            "knowledge",
+            "knowledge"
+          ],
+          "explanation": "The full text is: The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+          "source_section": "Proverbs 18:15"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And now I have sent a cunning man, endued with understanding, of Huram my father\u2019s,'",
+          "options": [
+            "A. 2 Chronicles 3:13",
+            "B. 2 Chronicles 2:14",
+            "C. 2 Chronicles 2:13-14",
+            "D. 2 Chronicles 2:12"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And now I have sent a cunning man, endued with understanding, of Huram my father\u2019s,' is found in 2 Chronicles 2:13-14.",
+          "source_section": "2 Chronicles 2:13-14"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Chronicles 2:13-14:\nAnd now I _____ _____ a cunning man, _____ with understanding, of Huram my father\u2019s,",
+          "answer": "have, sent, endued",
+          "keywords": [
+            "have",
+            "sent",
+            "endued"
+          ],
+          "explanation": "The full text is: And now I have sent a cunning man, endued with understanding, of Huram my father\u2019s,",
+          "source_section": "2 Chronicles 2:13-14"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers\u2019 sepulchres, that I may build it.'",
+          "options": [
+            "A. Nehemiah 2:4",
+            "B. Nehemiah 3:5",
+            "C. Nehemiah 2:5",
+            "D. Nehemiah 2:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers\u2019 sepulchres, that I may build it.' is found in Nehemiah 2:5.",
+          "source_section": "Nehemiah 2:5"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 2:5:\nAnd I said unto the king, If it please the king, and if thy servant _____ found favour in thy sight, that _____ wouldest send me unto Judah, unto the _____ of my fathers\u2019 sepulchres, that I may build it.",
+          "answer": "have, thou, city",
+          "keywords": [
+            "have",
+            "thou",
+            "city"
+          ],
+          "explanation": "The full text is: And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers\u2019 sepulchres, that I may build it.",
+          "source_section": "Nehemiah 2:5"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.22.29 mean\u2026: Heb. obscure men'",
+          "options": [
+            "A. Proverbs 23:29",
+            "B. Proverbs 22:29",
+            "C. Proverbs 22:28",
+            "D. Proverbs 22:30"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.22.29 mean\u2026: Heb. obscure men' is found in Proverbs 22:29.",
+          "source_section": "Proverbs 22:29"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:29:\nSeest thou a man diligent in his business? he shall stand _____ kings; he shall not _____ before mean _____ mean\u2026: Heb. obscure men",
+          "answer": "before, stand, men.22.29",
+          "keywords": [
+            "before",
+            "stand",
+            "men.22.29"
+          ],
+          "explanation": "The full text is: Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean men.22.29 mean\u2026: Heb. obscure men",
+          "source_section": "Proverbs 22:29"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.'",
+          "options": [
+            "A. Habakkuk 2:3",
+            "B. Habakkuk 2:2",
+            "C. Habakkuk 2:1",
+            "D. Habakkuk 3:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.' is found in Habakkuk 2:2.",
+          "source_section": "Habakkuk 2:2"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Habakkuk 2:2:\nAnd the LORD answered me, and _____, Write the _____, and make it plain upon _____, that he may run that readeth it.",
+          "answer": "said, vision, tables",
+          "keywords": [
+            "said",
+            "vision",
+            "tables"
+          ],
+          "explanation": "The full text is: And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
+          "source_section": "Habakkuk 2:2"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.'",
+          "options": [
+            "A. Colossians 4:7",
+            "B. Colossians 5:6",
+            "C. Colossians 4:6",
+            "D. Colossians 4:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.' is found in Colossians 4:6.",
+          "source_section": "Colossians 4:6"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 4:6:\nLet your speech be alway with _____, seasoned with salt, _____ ye may know how ye ought to answer _____ man.",
+          "answer": "grace, that, every",
+          "keywords": [
+            "grace",
+            "that",
+            "every"
+          ],
+          "explanation": "The full text is: Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.",
+          "source_section": "Colossians 4:6"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved husbandry.26.10 digged\u2026: or, cut out many cisterns26.10 Carmel: or, fruitful fields26.10 husbandry: Heb. ground'",
+          "options": [
+            "A. 2 Chronicles 26:10, 14-15",
+            "B. Another book 1:5",
+            "C. Another book 4:11",
+            "D. Another book 1:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved husbandry.26.10 digged\u2026: or, cut out many cisterns26.10 Carmel: or, fruitful fields26.10 husbandry: Heb. ground' is found in 2 Chronicles 26:10, 14-15.",
+          "source_section": "2 Chronicles 26:10, 14-15"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Chronicles 26:10, 14-15:\nAlso he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved husbandry.26.10 digged\u2026: or, cut out many cisterns26.10 _____: or, _____ _____ husbandry: Heb. ground",
+          "answer": "Carmel, fruitful, fields26.10",
+          "keywords": [
+            "Carmel",
+            "fruitful",
+            "fields26.10"
+          ],
+          "explanation": "The full text is: Also he built towers in the desert, and digged many wells: for he had much cattle, both in the low country, and in the plains: husbandmen also, and vine dressers in the mountains, and in Carmel: for he loved husbandry.26.10 digged\u2026: or, cut out many cisterns26.10 Carmel: or, fruitful fields26.10 husbandry: Heb. ground",
+          "source_section": "2 Chronicles 26:10, 14-15"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.'",
+          "options": [
+            "A. 2 Timothy 3:2",
+            "B. 2 Timothy 2:3",
+            "C. 2 Timothy 2:2",
+            "D. 2 Timothy 2:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.' is found in 2 Timothy 2:2.",
+          "source_section": "2 Timothy 2:2"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 2:2:\nAnd the things that thou hast _____ of me _____ many witnesses, the same commit thou to faithful men, who shall be able to teach _____ also.",
+          "answer": "heard, among, others",
+          "keywords": [
+            "heard",
+            "among",
+            "others"
+          ],
+          "explanation": "The full text is: And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.",
+          "source_section": "2 Timothy 2:2"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.'",
+          "options": [
+            "A. Numbers 13:29",
+            "B. Numbers 13:30",
+            "C. Numbers 13:31",
+            "D. Numbers 14:30"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.' is found in Numbers 13:30.",
+          "source_section": "Numbers 13:30"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Numbers 13:30:\nAnd Caleb _____ the people _____ Moses, and said, Let us go up at once, and possess it; for we are _____ able to overcome it.",
+          "answer": "stilled, before, well",
+          "keywords": [
+            "stilled",
+            "before",
+            "well"
+          ],
+          "explanation": "The full text is: And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
+          "source_section": "Numbers 13:30"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A word fitly spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken upon his wheels'",
+          "options": [
+            "A. Proverbs 25:11",
+            "B. Proverbs 26:11",
+            "C. Proverbs 25:12",
+            "D. Proverbs 25:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'A word fitly spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken upon his wheels' is found in Proverbs 25:11.",
+          "source_section": "Proverbs 25:11"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 25:11:\nA word _____ spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken _____ his _____",
+          "answer": "fitly, upon, wheels",
+          "keywords": [
+            "fitly",
+            "upon",
+            "wheels"
+          ],
+          "explanation": "The full text is: A word fitly spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken upon his wheels",
+          "source_section": "Proverbs 25:11"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.'",
+          "options": [
+            "A. 2 Corinthians 8:21",
+            "B. 2 Corinthians 8:23",
+            "C. 2 Corinthians 8:22",
+            "D. 2 Corinthians 9:22"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.' is found in 2 Corinthians 8:22.",
+          "source_section": "2 Corinthians 8:22"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 8:22:\nAnd we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much _____ diligent, upon the _____ _____ which I have in you.",
+          "answer": "more, great, confidence",
+          "keywords": [
+            "more",
+            "great",
+            "confidence"
+          ],
+          "explanation": "The full text is: And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.",
+          "source_section": "2 Corinthians 8:22"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.'",
+          "options": [
+            "A. Nehemiah 3:17",
+            "B. Nehemiah 2:17-18",
+            "C. Nehemiah 2:18",
+            "D. Nehemiah 2:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.' is found in Nehemiah 2:17-18.",
+          "source_section": "Nehemiah 2:17-18"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 2:17-18:\n\u00b6 Then said I unto them, Ye see the distress _____ we are in, how Jerusalem lieth waste, and the _____ thereof are burned with fire: come, and let us build up the _____ of Jerusalem, that we be no more a reproach.",
+          "answer": "that, gates, wall",
+          "keywords": [
+            "that",
+            "gates",
+            "wall"
+          ],
+          "explanation": "The full text is: \u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
+          "source_section": "Nehemiah 2:17-18"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.'",
+          "options": [
+            "A. Genesis 41:32",
+            "B. Genesis 41:33-36",
+            "C. Genesis 42:33",
+            "D. Genesis 41:34"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.' is found in Genesis 41:33-36.",
+          "source_section": "Genesis 41:33-36"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:33-36:\nNow _____ let Pharaoh look out a man _____ and wise, and set him over the _____ of Egypt.",
+          "answer": "therefore, discreet, land",
+          "keywords": [
+            "therefore",
+            "discreet",
+            "land"
+          ],
+          "explanation": "The full text is: Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.",
+          "source_section": "Genesis 41:33-36"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.'",
+          "options": [
+            "A. Daniel 6:29",
+            "B. Daniel 6:28",
+            "C. Daniel 6:27",
+            "D. Daniel 7:28"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.' is found in Daniel 6:28.",
+          "source_section": "Daniel 6:28"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 6:28:\nSo this Daniel _____ in the reign of Darius, and in the _____ of _____ the Persian.",
+          "answer": "prospered, reign, Cyrus",
+          "keywords": [
+            "prospered",
+            "reign",
+            "Cyrus"
+          ],
+          "explanation": "The full text is: So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.",
+          "source_section": "Daniel 6:28"
+        },
+        {
+          "id": "BW0Q43",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.'",
+          "options": [
+            "A. Exodus 18:12",
+            "B. Exodus 18:14",
+            "C. Exodus 18:13-24",
+            "D. Exodus 19:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.' is found in Exodus 18:13-24.",
+          "source_section": "Exodus 18:13-24"
+        },
+        {
+          "id": "BW0Q44",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 18:13-24:\n\u00b6 And it came to pass on the morrow, _____ Moses sat to _____ the people: and the _____ stood by Moses from the morning unto the evening.",
+          "answer": "that, judge, people",
+          "keywords": [
+            "that",
+            "judge",
+            "people"
+          ],
+          "explanation": "The full text is: \u00b6 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.",
+          "source_section": "Exodus 18:13-24"
+        },
+        {
+          "id": "BW0Q45",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'By humility and the fear of the LORD are riches, and honour, and life.22.4 By\u2026: or, The reward of humility, etc'",
+          "options": [
+            "A. Proverbs 22:4",
+            "B. Proverbs 22:3",
+            "C. Proverbs 23:4",
+            "D. Proverbs 22:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'By humility and the fear of the LORD are riches, and honour, and life.22.4 By\u2026: or, The reward of humility, etc' is found in Proverbs 22:4.",
+          "source_section": "Proverbs 22:4"
+        },
+        {
+          "id": "BW0Q46",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:4:\nBy humility and the _____ of the _____ are _____, and honour, and life.22.4 By\u2026: or, The reward of humility, etc",
+          "answer": "fear, LORD, riches",
+          "keywords": [
+            "fear",
+            "LORD",
+            "riches"
+          ],
+          "explanation": "The full text is: By humility and the fear of the LORD are riches, and honour, and life.22.4 By\u2026: or, The reward of humility, etc",
+          "source_section": "Proverbs 22:4"
+        }
+      ]
+    }
+  ]
+}

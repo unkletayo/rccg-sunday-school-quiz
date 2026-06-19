@@ -1,0 +1,479 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:29:00Z",
+  "weeks": [
+    {
+      "week_number": 27,
+      "topic": "GET RICH QUICK SYNDROME",
+      "memory_verse_reference": "Proverbs 13:11",
+      "questions": [
+        {
+          "id": "W27Q1",
+          "week": 27,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 27?",
+          "options": [
+            "A. THE SYNDROME",
+            "B. GET RICH QUICK SYNDROME",
+            "C. RESIST THE URGE",
+            "D. STRENGTH IN QUIETNESS"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Seven is GET RICH QUICK SYNDROME.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W27Q2",
+          "week": 27,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 25?",
+          "options": [
+            "A. CHRISTIANS AND POLITICS",
+            "B. GET RICH QUICK SYNDROME",
+            "C. STRENGTH IN QUIETNESS",
+            "D. EFFECTIVE PLANNING"
+          ],
+          "answer": "C",
+          "explanation": "Strength in Quietness was the topic for Week 25.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W27Q3",
+          "week": 27,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Wealth gained by dishonesty will be diminished: but he who gathers by ________ will increase.",
+          "options": [
+            "A. faith",
+            "B. grace",
+            "C. labour",
+            "D. force"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Proverbs 13:11) says 'he who gathers by labour will increase.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W27Q4",
+          "week": 27,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Proverbs 13:11",
+          "keywords": ["Proverbs", "13:11"],
+          "explanation": "The memory verse reference is Proverbs 13:11.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W27Q5",
+          "week": 27,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 27 in full (NKJV).",
+          "answer": "Wealth gained by dishonesty will be diminished: but he who gathers by labour will increase.",
+          "keywords": ["Wealth", "gained", "dishonesty", "diminished", "gathers", "labour", "increase"],
+          "explanation": "Full text recall of Proverbs 13:11.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W27Q6",
+          "week": 27,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Proverbs 13:11), what will happen to wealth gained by dishonesty?",
+          "options": [
+            "A. It will be multiplied",
+            "B. It will be diminished",
+            "C. It will be stolen",
+            "D. It will bring sorrow"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'Wealth gained by dishonesty will be diminished...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W27Q7",
+          "week": 27,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the introduction, wealth and living a comfortable life are NOT part of God's plan for humanity.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states 'Wealth and living a comfortable life are part of God’s plan for humanity.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W27Q8",
+          "week": 27,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson's introduction, what has driven many youths to adopt the get-rich-quick syndrome?",
+          "options": [
+            "A. Poverty",
+            "B. Lack of patience",
+            "C. Bad government",
+            "D. Lack of education"
+          ],
+          "answer": "B",
+          "explanation": "The text says '...yet the lack of patience has driven many, especially youths, to adopt the harmful “get-rich-quick syndrome”...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W27Q9",
+          "week": 27,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "THE SYNDROME",
+          "keywords": ["THE", "SYNDROME"],
+          "explanation": "Outline I is titled 'THE SYNDROME'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W27Q10",
+          "week": 27,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does Outline I describe the 'get-rich-quick syndrome'?",
+          "options": [
+            "A. A legitimate business strategy",
+            "B. An intense and irrational desire to accumulate wealth rapidly, often without considering the consequences",
+            "C. Working three jobs at once",
+            "D. Investing in real estate"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'The get-rich-quick syndrome refers to an intense and irrational desire to accumulate wealth rapidly, often without considering the consequences.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W27Q11",
+          "week": 27,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these is listed as a negative consequence of the get-rich-quick syndrome?",
+          "options": [
+            "A. An increase in traditional values",
+            "B. Better educational standards",
+            "C. A deterioration in educational standards and erosion of traditional values",
+            "D. Increased life expectancy"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'a deterioration in educational standards; the erosion of traditional values like honesty, hard work, and fairness...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W27Q12",
+          "week": 27,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, a lack of genuine satisfaction often leads to sudden death as a consequence of this syndrome.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says '...and lack of genuine satisfaction which often leads to sudden death (Proverbs 1:18-19).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W27Q13",
+          "week": 27,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of these is considered a 'red flag' for a get-rich-quick scam?",
+          "options": [
+            "A. Being asked to study for a degree",
+            "B. An offer that takes years to bring profit",
+            "C. Being asked to use one's account for transfers, withdrawals, or other financial transactions",
+            "D. Being asked to volunteer at a charity"
+          ],
+          "answer": "C",
+          "explanation": "The text says '...and being asked to use one’s account for transfers, withdrawals, or other financial transactions (Proverbs 1:10).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W27Q14",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "RESIST THE URGE",
+          "keywords": ["RESIST", "THE", "URGE"],
+          "explanation": "Outline II is titled 'RESIST THE URGE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q15",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How can an individual overcome the urge for quick wealth syndrome?",
+          "options": [
+            "A. By moving to another country",
+            "B. By trusting God to empower and teach you to make wealth",
+            "C. By avoiding all business ventures",
+            "D. By trusting in their own cleverness"
+          ],
+          "answer": "B",
+          "explanation": "Point in Outline II says 'you can overcome the urge for quick wealth syndrome by trusting God to empower and teach you to make wealth...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q16",
+          "week": 27,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that God empowers and teaches you to make wealth?",
+          "options": [
+            "A. Deuteronomy 8:18; Isaiah 48:17",
+            "B. Proverbs 22:29",
+            "C. Luke 15:17-19",
+            "D. 1 Timothy 6:6"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Deuteronomy 8:18; Isaiah 48:17)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q17",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, how should society shift the spotlight?",
+          "options": [
+            "A. From integrity to wealth",
+            "B. From wealth to integrity",
+            "C. From youth to elders",
+            "D. From local to international news"
+          ],
+          "answer": "B",
+          "explanation": "The text says '...and shifting the spotlight from wealth to integrity by ceasing to glorify individuals with questionable characters flaunting wealth...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q18",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, creating job opportunities and empowering youths through skill acquisition are crucial steps society can take.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'Additionally, creating job opportunities, empowering youths through skill acquisition, and supporting entrepreneurship are crucial steps...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q19",
+          "week": 27,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support staying diligent and dedicated to your goals?",
+          "options": [
+            "A. Hebrews 13:5",
+            "B. Proverbs 22:29",
+            "C. Ecclesiastes 7:12",
+            "D. Psalm 73:3"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Stay diligent and dedicated to your goals (Proverbs 22:29)...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q20",
+          "week": 27,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion warns that the get-rich-quick syndrome is a plan to make a lot of money in a short time, often not minding the risk.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion states: 'The get-rich-quick syndrome is a plan to make a lot of money in a short time, often with little effort and not minding the risk, beware (1 Timothy 6:10).'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W27Q21",
+          "week": 27,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Blessed is the man that trusteth in the LORD, and whose hope the LORD is.'",
+          "verse_text": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is.",
+          "options": [
+            "A. Jeremiah 17:7",
+            "B. Jeremiah 17:8",
+            "C. Jeremiah 17:9",
+            "D. Jeremiah 17:10"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 7 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W27Q22",
+          "week": 27,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Jeremiah 17:8), the man who trusts in the Lord shall be like what?",
+          "options": [
+            "A. A lion in the forest",
+            "B. A tree planted by the waters",
+            "C. A house built on a rock",
+            "D. A wealthy merchant"
+          ],
+          "answer": "B",
+          "explanation": "Verse 8 says 'For he shall be as a tree planted by the waters...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W27Q23",
+          "week": 27,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Jeremiah 17:9, what is deceitful above all things, and desperately wicked?",
+          "options": [
+            "A. The world",
+            "B. Money",
+            "C. The heart",
+            "D. The flesh"
+          ],
+          "answer": "C",
+          "explanation": "Verse 9 says 'The heart is deceitful above all things, and desperately wicked...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W27Q24",
+          "week": 27,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Jeremiah 17:10, what does the Lord do to give every man according to his ways?",
+          "options": [
+            "A. He searches the heart and tries the reins",
+            "B. He opens the books of heaven",
+            "C. He asks the angels for a report",
+            "D. He weighs their money"
+          ],
+          "answer": "A",
+          "explanation": "Verse 10 says 'I the LORD search the heart, I try the reins, even to give every man according to his ways...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W27Q25",
+          "week": 27,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "In Jeremiah 17:11, he that gets riches, and not by right, is compared to what bird?",
+          "options": [
+            "A. An eagle",
+            "B. A dove",
+            "C. An ostrich",
+            "D. A partridge"
+          ],
+          "answer": "D",
+          "explanation": "Verse 11 says 'As the partridge sitteth on eggs, and hatcheth them not...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W27Q26",
+          "week": 27,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Jeremiah 17:11, what will happen to the man who gets riches not by right at his end?",
+          "options": [
+            "A. He shall be a king",
+            "B. He shall be a fool",
+            "C. He shall be celebrated",
+            "D. He shall live forever"
+          ],
+          "answer": "B",
+          "explanation": "Verse 11 concludes '...shall leave them in the midst of his days, and at his end shall be a fool.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W27Q27",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are cited in Outline II to support seeking wisdom, practicing patience, and cultivating contentment?",
+          "options": [
+            "A. Ecclesiastes 7:12; Hebrews 13:5; 1 Timothy 6:6",
+            "B. Psalm 73:3; Proverbs 13:11",
+            "C. Proverbs 21:6-8; Proverbs 23:4-5",
+            "D. Deuteronomy 8:18; Isaiah 48:17"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(Ecclesiastes 7:12; Hebrews 13:5; 1 Timothy 6:6)' at the end of the first paragraph of Outline II.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q28",
+          "week": 27,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "One of the red flags for a scam is a stranger who claims to be connected through mutual acquaintances and proposes a business opportunity.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text specifically mentions this as a red flag in Outline I.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W27Q29",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Efforts should focus on promoting value-based orientation, emphasising that the ________ matter as much as the ends.",
+          "options": [
+            "A. money",
+            "B. friends",
+            "C. means",
+            "D. words"
+          ],
+          "answer": "C",
+          "explanation": "Outline II states 'emphasising that the means matter as much as the ends...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W27Q30",
+          "week": 27,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is one way society can combat this syndrome regarding its exposure channels?",
+          "options": [
+            "A. By shutting down the internet",
+            "B. By educating individuals on its channels of exposure, such as social media",
+            "C. By making all news illegal",
+            "D. By paying everyone a high salary"
+          ],
+          "answer": "B",
+          "explanation": "Outline II states 'Society can play a vital role in combating this syndrome by educating individuals on its channels of exposure—such as social media...'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

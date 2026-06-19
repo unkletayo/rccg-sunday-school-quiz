@@ -1,0 +1,564 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:18:00Z",
+  "weeks": [
+    {
+      "week_number": 14,
+      "topic": "PEER PRESSURE",
+      "memory_verse_reference": "1 Corinthians 15:33",
+      "questions": [
+        {
+          "id": "W14Q1",
+          "week": 14,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 14?",
+          "options": [
+            "A. DOMINION THROUGH PRAYERS",
+            "B. PEER PRESSURE",
+            "C. STRATEGIES TO STAND FIRM",
+            "D. MISLEADING PEER INFLUENCE"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Fourteen is PEER PRESSURE.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W14Q2",
+          "week": 14,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 12?",
+          "options": [
+            "A. PEER PRESSURE",
+            "B. WORKPLACE MINISTRY",
+            "C. SPIRITUAL MATURITY",
+            "D. DOMINION THROUGH PRAYERS"
+          ],
+          "answer": "D",
+          "explanation": "Dominion through Prayers was the topic for Week 12.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W14Q3",
+          "week": 14,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Do not be deceived: 'Evil company corrupts good ________'",
+          "options": [
+            "A. character",
+            "B. friends",
+            "C. habits",
+            "D. thoughts"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (1 Corinthians 15:33) ends with 'corrupts good habits'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W14Q4",
+          "week": 14,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 Corinthians 15:33",
+          "keywords": ["1 Corinthians", "15:33"],
+          "explanation": "The reference for the memory verse is 1 Corinthians 15:33.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W14Q5",
+          "week": 14,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 14 in full (NKJV).",
+          "answer": "Do not be deceived: “Evil company corrupts good habits”",
+          "keywords": ["deceived", "Evil", "company", "corrupts", "good", "habits"],
+          "explanation": "Full text recall of 1 Corinthians 15:33.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W14Q6",
+          "week": 14,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (1 Corinthians 15:33), what does evil company corrupt?",
+          "options": [
+            "A. The church",
+            "B. Good habits",
+            "C. Your salvation",
+            "D. Good intentions"
+          ],
+          "answer": "B",
+          "explanation": "The verse explicitly states 'Evil company corrupts good habits'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W14Q7",
+          "week": 14,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How are 'peers' defined in the introduction of the lesson?",
+          "options": [
+            "A. Enemies who want to destroy you",
+            "B. Mentors who are older than you",
+            "C. Individuals within the same social group",
+            "D. Co-workers only"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'Peers are individuals within the same social group...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W14Q8",
+          "week": 14,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the introduction, peer pressure is especially dangerous for those whose personal convictions are fully developed.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "It says it is dangerous 'especially for those whose personal convictions are NOT yet fully developed or established.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W14Q9",
+          "week": 14,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "IDENTIFYING PEER PRESSURE",
+          "keywords": ["IDENTIFYING", "PEER", "PRESSURE"],
+          "explanation": "Outline I is titled 'IDENTIFYING PEER PRESSURE'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W14Q10",
+          "week": 14,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what must individuals develop to resist negative peer influence?",
+          "options": [
+            "A. A large group of friends",
+            "B. Strong convictions and a clear sense of identity",
+            "C. More money and wealth",
+            "D. A secretive lifestyle"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Individuals must develop strong convictions and a clear sense of identity to resist negative peer influence.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W14Q11",
+          "week": 14,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding the pressure to engage in 'Indecent Dressing' and worldly fashion standards?",
+          "options": [
+            "A. 1 Timothy 6:10",
+            "B. Romans 12:2",
+            "C. 2 Chronicles 18:1-18",
+            "D. 1 Corinthians 15:33"
+          ],
+          "answer": "B",
+          "explanation": "The text links this to '(Romans 12:2)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W14Q12",
+          "week": 14,
+          "category": "name_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which king was misled by King Ahab into a dangerous battle, used as an example of misleading peer influence?",
+          "options": [
+            "A. King Rehoboam",
+            "B. King Jeroboam",
+            "C. King Solomon",
+            "D. King Jehoshaphat"
+          ],
+          "answer": "D",
+          "explanation": "Point 3 states 'Just as King Jehoshaphat was misled by King Ahab into a dangerous battle...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W14Q13",
+          "week": 14,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show the danger of the 'Pursuit of Wealth through Unethical Means'?",
+          "options": [
+            "A. Romans 12:2",
+            "B. 1 Timothy 6:10",
+            "C. 2 Chronicles 10:3",
+            "D. James 5:12"
+          ],
+          "answer": "B",
+          "explanation": "The text links this to '(1 Timothy 6:10)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W14Q14",
+          "week": 14,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Influence of Ungodly Mentors is one of the examples of peer pressure listed in Outline I.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 4 explicitly states 'Influence of Ungodly Mentors'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W14Q15",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "STRATEGIES TO STAND FIRM",
+          "keywords": ["STRATEGIES", "STAND", "FIRM"],
+          "explanation": "Outline II is titled 'STRATEGIES TO STAND FIRM'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q16",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "To resist peer pressure, the lesson says it is essential to grow spiritually and allow what to guide you effectively?",
+          "options": [
+            "A. Your inner feelings",
+            "B. The Spirit of God",
+            "C. Your best friends",
+            "D. Science and facts"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'allow the Spirit of God to guide you effectively (2 Peter 3:18; Isaiah 30:21).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q17",
+          "week": 14,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the strategy to 'Prepare in Advance'?",
+          "options": [
+            "A. Proverbs 1:10-14",
+            "B. Genesis 39:9-13",
+            "C. James 5:12",
+            "D. 2 Kings 2:3"
+          ],
+          "answer": "B",
+          "explanation": "Point 2 lists 'Prepare in Advance... (Genesis 39:9-13).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q18",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the strategy 'Establish a Secret Code' entail?",
+          "options": [
+            "A. Speaking in tongues when pressured",
+            "B. Using a secret handshake to identify true believers",
+            "C. Creating a way to communicate with a trusted adult if you need help exiting a situation",
+            "D. Writing coded messages to friends"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 states 'Create a way to communicate with a trusted adult, such as a parent or mentor, if you need help exiting a situation.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q19",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the strategy 'Practice Saying No', how should you say no to peer pressure?",
+          "options": [
+            "A. Apologise immediately after",
+            "B. Firmly say no without apologising or offering explanations",
+            "C. Try to explain your religious views in detail",
+            "D. Say maybe first, then later say no"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 states 'Firmly say no without apologising or offering explanations (James 5:12).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q20",
+          "week": 14,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for 'Surround Yourself with Supportive Friends'?",
+          "options": [
+            "A. Proverbs 11:14",
+            "B. Proverbs 13:20",
+            "C. James 5:12",
+            "D. 2 Kings 2:3"
+          ],
+          "answer": "B",
+          "explanation": "The text lists 'Surround Yourself with Supportive Friends... (Proverbs 13:20).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q21",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Offering positive alternatives that steer clear of trouble is one of the strategies to stand firm.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 7 explicitly states 'Offer Alternatives: Suggest positive activities that steer clear of trouble.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q22",
+          "week": 14,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the strategy to 'Be Honest' about how the pressure makes you feel?",
+          "options": [
+            "A. 2 Kings 2:3",
+            "B. Proverbs 1:10-14",
+            "C. Genesis 39:9-13",
+            "D. Isaiah 30:21"
+          ],
+          "answer": "A",
+          "explanation": "Point 8 lists 'Be Honest... (2 Kings 2:3).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q23",
+          "week": 14,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "According to the conclusion, by focusing on building yourself spiritually, emotionally, and mentally, you equip yourself to positively ________ others.",
+          "options": [
+            "A. rebuke",
+            "B. impact",
+            "C. dominate",
+            "D. judge"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion says 'you equip yourself to positively impact others.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W14Q24",
+          "week": 14,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (2 Chronicles 10:3-11), who came to speak to King Rehoboam regarding the heavy yoke?",
+          "options": [
+            "A. Elijah and the prophets",
+            "B. Jeroboam and all Israel",
+            "C. The King of Egypt",
+            "D. Ahab and Jezebel"
+          ],
+          "answer": "B",
+          "explanation": "Verse 3 says 'And Jeroboam and all Israel came and spoke to Rehoboam'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q25",
+          "week": 14,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What request did Jeroboam and Israel make to King Rehoboam?",
+          "options": [
+            "A. To give them more land",
+            "B. To lighten the burdensome service and heavy yoke his father put on them",
+            "C. To go to war with Syria",
+            "D. To build a new temple"
+          ],
+          "answer": "B",
+          "explanation": "Verse 4 says 'now therefore, lighten the burdensome service of your father and his heavy yoke which he put on us...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q26",
+          "week": 14,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "When King Rehoboam consulted the elders, what advice did they give him? (2 Chronicles 10:7)",
+          "options": [
+            "A. If you are kind, please them, and speak good words to them, they will be your servants forever",
+            "B. Do not listen to them; show your strength",
+            "C. Arrest Jeroboam immediately",
+            "D. Tell them to return after forty days"
+          ],
+          "answer": "A",
+          "explanation": "Verse 7 says 'If you are kind to these people, and please them, and speak good words to them, they will be your servants forever.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q27",
+          "week": 14,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "After rejecting the elders' advice, who did Rehoboam consult next?",
+          "options": [
+            "A. The prophets",
+            "B. His mother",
+            "C. The young men who had grown up with him",
+            "D. The priests of the temple"
+          ],
+          "answer": "C",
+          "explanation": "Verse 8 says 'and consulted the young men who had grown up with him'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q28",
+          "week": 14,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What did the young men advise Rehoboam to say about his 'little finger' compared to his father? (2 Chronicles 10:10)",
+          "options": [
+            "A. My little finger shall be thicker than my father’s waist",
+            "B. My little finger is stronger than my father's arm",
+            "C. My little finger holds more wealth than my father's kingdom",
+            "D. My little finger is wiser than my father's head"
+          ],
+          "answer": "A",
+          "explanation": "Verse 10 states 'My little finger shall be thicker than my father’s waist!'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q29",
+          "week": 14,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What did the young men advise Rehoboam to say about how he would chastise the people? (2 Chronicles 10:11)",
+          "options": [
+            "A. With scorpions",
+            "B. With swords",
+            "C. With scourges",
+            "D. With fire"
+          ],
+          "answer": "C",
+          "explanation": "Verse 11 says 'my father chastised you with whips, but I will chastise you with scourges!'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q30",
+          "week": 14,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'So he said to them, “Come back to me after three days.” And the people departed.'",
+          "verse_text": "So he said to them, “Come back to me after three days.” And the people departed.",
+          "options": [
+            "A. 2 Chronicles 10:3",
+            "B. 2 Chronicles 10:5",
+            "C. 2 Chronicles 10:7",
+            "D. 2 Chronicles 10:11"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 5 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W14Q31",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline II, 'Seek Guidance' means you should keep your challenges to yourself and not talk to anyone.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Point 6 says 'Talk about your challenges with a trusted person who can offer support and advice'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q32",
+          "week": 14,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Why is peer pressure considered particularly dangerous according to the introduction?",
+          "options": [
+            "A. Because it can get you arrested",
+            "B. Because it can strongly influence behaviour, especially for those whose personal convictions are not fully developed",
+            "C. Because friends always give bad advice",
+            "D. Because it only happens in schools"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'peer pressure is particularly dangerous because it can strongly influence behaviour, especially for those whose personal convictions are not yet fully developed'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W14Q33",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support the strategy to 'Believe in Yourself and Your Values' by daring to walk away?",
+          "options": [
+            "A. Proverbs 13:20",
+            "B. Proverbs 1:10-14",
+            "C. James 5:12",
+            "D. 2 Peter 3:18"
+          ],
+          "answer": "B",
+          "explanation": "Point 1 cites '(Proverbs 1:10-14)' for this strategy.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q34",
+          "week": 14,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited along with 2 Peter 3:18 to support allowing the Spirit of God to guide you effectively?",
+          "options": [
+            "A. Isaiah 30:21",
+            "B. Proverbs 11:14",
+            "C. Romans 12:2",
+            "D. 1 Corinthians 15:33"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'allow the Spirit of God to guide you effectively (2 Peter 3:18; Isaiah 30:21).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W14Q35",
+          "week": 14,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson advises to spend time with friends who share your values and avoid those whose influence is harmful.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 says 'Spend time with friends who share your values and avoid those whose influence is harmful'.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

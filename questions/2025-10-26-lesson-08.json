@@ -1,0 +1,559 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:13:00Z",
+  "weeks": [
+    {
+      "week_number": 8,
+      "topic": "FAITH AND SCIENCE",
+      "memory_verse_reference": "Colossians 3:13",
+      "questions": [
+        {
+          "id": "W8Q1",
+          "week": 8,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 8?",
+          "options": [
+            "A. THE HARMONY",
+            "B. THE CONCEPTS",
+            "C. FORGIVENESS",
+            "D. FAITH AND SCIENCE"
+          ],
+          "answer": "D",
+          "explanation": "The topic provided for Lesson Eight is FAITH AND SCIENCE.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W8Q2",
+          "week": 8,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 7?",
+          "options": [
+            "A. FAITH AND SCIENCE",
+            "B. FORGIVENESS",
+            "C. MY ENEMY: “THE FLESH”",
+            "D. KNOW YOURSELF"
+          ],
+          "answer": "B",
+          "explanation": "Forgiveness was the topic for Week 7.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W8Q3",
+          "week": 8,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Bearing with one another, and ________ one another, if anyone has a complaint against another...",
+          "options": [
+            "A. loving",
+            "B. helping",
+            "C. forgiving",
+            "D. praying for"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Colossians 3:13) says 'and forgiving one another'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W8Q4",
+          "week": 8,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Colossians 3:13",
+          "keywords": ["Colossians", "3:13"],
+          "explanation": "The memory verse is Colossians 3:13.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W8Q5",
+          "week": 8,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 8 in full (NKJV).",
+          "answer": "Bearing with one another, and forgiving one another, if anyone has a complaint against another; even as Christ forgave you, so you also must do.",
+          "keywords": ["Bearing", "forgiving", "complaint", "Christ", "forgave", "must", "do"],
+          "explanation": "Full text recall for Colossians 3:13.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W8Q6",
+          "week": 8,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse, what standard should we use when forgiving someone who we have a complaint against?",
+          "options": [
+            "A. We should forgive as many times as they apologize",
+            "B. We should forgive even as Christ forgave us",
+            "C. We should forgive only if they pay us back",
+            "D. We should forgive if the church elders ask us to"
+          ],
+          "answer": "B",
+          "explanation": "The verse states: 'even as Christ forgave you, so you also must do.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W8Q7",
+          "week": 8,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the introduction, faith and science are often portrayed as opposing forces.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The intro states: 'Faith and science are often portrayed as opposing forces...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W8Q8",
+          "week": 8,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the assumption that belief in faith negates the validity of science overlook, according to the introduction?",
+          "options": [
+            "A. The history of the church",
+            "B. The possible harmony between faith and science",
+            "C. The fact that science is a religion",
+            "D. The errors in scientific research"
+          ],
+          "answer": "B",
+          "explanation": "The intro says 'This perception overlooks the possible harmony between faith and science.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W8Q9",
+          "week": 8,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "THE CONCEPTS",
+          "keywords": ["THE", "CONCEPTS"],
+          "explanation": "Outline I is titled 'THE CONCEPTS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q10",
+          "week": 8,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does Outline I define faith?",
+          "options": [
+            "A. The discovery and orderly classification of phenomena",
+            "B. A systematic study of the natural world through observation",
+            "C. A personal and spiritual belief, often centred on trust in a higher power or divine being",
+            "D. An outdated method of explaining weather patterns"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Faith is a personal and spiritual belief, often centred on trust in a higher power...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q11",
+          "week": 8,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are cited to support the idea that faith involves accepting truths that may not be practically provable?",
+          "options": [
+            "A. Hebrews 11:1, 7-8",
+            "B. Daniel 3:16-18, Hebrews 11:3; Acts 9:3-6",
+            "C. Acts 17:23; Jonah 3:5",
+            "D. Genesis 6:14-16"
+          ],
+          "answer": "B",
+          "explanation": "The text points to '(Daniel 3:16-18, Hebrews 11:3; Acts 9:3-6)' for this point.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q12",
+          "week": 8,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, science is defined as the discovery and orderly classification and exposition of the phenomena called nature.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I states exactly this definition.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q13",
+          "week": 8,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical figure used keen observation of the natural world to explain botanical, zoological and aquatic phenomena?",
+          "options": [
+            "A. Noah",
+            "B. Daniel",
+            "C. Solomon",
+            "D. Job"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Solomon explained botanical, zoological and even aquatic phenomena (1 Kings 4:33).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q14",
+          "week": 8,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical figure followed precise measurement and construction instructions revealing an innovative engineering skill that saved lives?",
+          "options": [
+            "A. Noah",
+            "B. David",
+            "C. Solomon",
+            "D. Bezaleel"
+          ],
+          "answer": "A",
+          "explanation": "The lesson lists 'Noah also followed precise measurement and construction instructions...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q15",
+          "week": 8,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which book of the Bible is noted in the lesson for containing profound observations of nature, animals, the weather and the cosmos?",
+          "options": [
+            "A. Genesis",
+            "B. Proverbs",
+            "C. Job",
+            "D. Ecclesiastes"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'The Book of Job contains profound observations of nature, animals, the weather and the cosmos (Job 38-39).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q16",
+          "week": 8,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "________ was trained in the wisdom and knowledge of the Babylonians which included astronomy.",
+          "options": [
+            "A. Joseph",
+            "B. Daniel",
+            "C. Moses",
+            "D. Paul"
+          ],
+          "answer": "B",
+          "explanation": "The text explicitly states 'Daniel was trained in the wisdom and knowledge of the Babylonians which included astronomy.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q17",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE HARMONY",
+          "keywords": ["THE", "HARMONY"],
+          "explanation": "Outline II is titled 'THE HARMONY'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q18",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following historical scientific minds is NOT listed in the lesson as being a person of faith?",
+          "options": [
+            "A. Francis S. Collins",
+            "B. Isaac Newton",
+            "C. Galileo Galilei",
+            "D. Albert Einstein"
+          ],
+          "answer": "D",
+          "explanation": "Albert Einstein is not mentioned. The lesson lists Francis S. Collins, Isaac Newton, Galileo Galilei, and Gregor Mendel.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q19",
+          "week": 8,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to describe those who have placed their discoveries and inventions above the living God and refused to acknowledge Him?",
+          "options": [
+            "A. Psalm 53:1-2",
+            "B. Isaiah 40:22",
+            "C. Genesis 2:9a",
+            "D. Psalm 18:30"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Psalm 53:1-2)' for those who refused to acknowledge Him.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q20",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline II, the belief that the universe is orderly and governed by consistent laws stems from a faith-based worldview.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The lesson explicitly says 'The belief that the universe is orderly... stems from a faith-based worldview'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q21",
+          "week": 8,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "The scientific discovery of the earth as spherical deepens the divine insight of which prophet, according to the lesson?",
+          "options": [
+            "A. Jeremiah",
+            "B. Ezekiel",
+            "C. Isaiah",
+            "D. Daniel"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'discovery of the earth as spherical by science deepens the divine insight of the prophet Isaiah (Isaiah 40:22).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q22",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "While science helps explain the 'how' of natural phenomena, what does faith address?",
+          "options": [
+            "A. The 'when'",
+            "B. The 'where'",
+            "C. The 'who'",
+            "D. The 'why'"
+          ],
+          "answer": "D",
+          "explanation": "The text states 'While science helps explain the “how” of natural phenomena, faith addresses the “why”'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q23",
+          "week": 8,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What example does the lesson give to contrast the 'how' of science and the 'why' of faith?",
+          "options": [
+            "A. How birds fly versus why God created the sky",
+            "B. How the ocean tides work versus why God parted the Red Sea",
+            "C. How trees grow by respiration versus why God created them to provide food for man",
+            "D. How stars shine versus why God put them in the heavens"
+          ],
+          "answer": "C",
+          "explanation": "The text uses the example of trees growing by sunlight/water/carbon dioxide (science) vs God creating them to provide food (faith) (Genesis 2:9a).",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q24",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, our belief in science should be absolute, while our faith in God should be intellectual.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The lesson says the exact opposite: 'our faith in God should be absolute... while our belief in science should be intellectual.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q25",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Science is prone to ________ because it depends on limited mortal men.",
+          "options": [
+            "A. bias",
+            "B. failure",
+            "C. corruption",
+            "D. errors"
+          ],
+          "answer": "D",
+          "explanation": "The text says 'it is also prone to errors because it depends on limited mortal men.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q26",
+          "week": 8,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to show that we can trust God as a perfect Creator?",
+          "options": [
+            "A. Deuteronomy 32:4, Psalm 18:30",
+            "B. Proverbs 3:19-20",
+            "C. Psalm 19:1-6",
+            "D. Isaiah 40:25-26"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'since we trust that He is a perfect Creator (Deuteronomy 32:4, Psalm 18:30)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q27",
+          "week": 8,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the final conclusion of the lesson regarding faith and science?",
+          "options": [
+            "A. Christians must reject science to preserve their faith",
+            "B. Science and faith will always be opposing forces",
+            "C. When approached with an open mind, faith and science can complementarily offer deeper insights into mysteries of existence",
+            "D. Science is completely irrelevant to the Christian worldview"
+          ],
+          "answer": "C",
+          "explanation": "The conclusion explicitly states: 'When approached with an open mind, faith and science can complementarily offer deeper insights...'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W8Q28",
+          "week": 8,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Then the king instructed Ashpenaz, the master of his eunuchs, to bring some of the children of Israel...'",
+          "verse_text": "Then the king instructed Ashpenaz, the master of his eunuchs, to bring some of the children of Israel...",
+          "options": [
+            "A. Daniel 1:3",
+            "B. Daniel 3:16",
+            "C. Daniel 1:19",
+            "D. Isaiah 40:25"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 3 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W8Q29",
+          "week": 8,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Daniel 1:4), what did the king want the young men to be taught?",
+          "options": [
+            "A. The art of war",
+            "B. The language and literature of the Chaldeans",
+            "C. The religion of Babylon",
+            "D. The skills of chariot driving"
+          ],
+          "answer": "B",
+          "explanation": "Daniel 1:4 ends with 'and whom they might teach the language and literature of the Chaldeans.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W8Q30",
+          "week": 8,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of the following is NOT one of the qualities the young men in Daniel 1:4 were required to possess?",
+          "options": [
+            "A. Good-looking",
+            "B. Gifted in all wisdom",
+            "C. Skilled in musical instruments",
+            "D. Quick to understand"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'no blemish, but good-looking, gifted in all wisdom, possessing knowledge and quick to understand'. Musical skill is not mentioned.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W8Q31",
+          "week": 8,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson asserts that faith provides meaning, purpose, and moral guidance.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline I says 'For many, faith provides meaning, purpose and moral guidance'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q32",
+          "week": 8,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The misconception that faith and science are mutually exclusive can lead to unnecessary tension.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'These views can lead to unnecessary tension, playing down how faith and science can coexist.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W8Q33",
+          "week": 8,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that discoveries in astronomy, biology, and physics can inspire awe and wonder?",
+          "options": [
+            "A. Psalm 19:1-6",
+            "B. Ecclesiastes 3:1",
+            "C. Genesis 8:22",
+            "D. Isaiah 40:22"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Psalm 19:1-6)' regarding inspiring awe and wonder in creation.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q34",
+          "week": 8,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to show that understanding the vastness of the universe and complexity of life strengthens belief in a purposeful Creator?",
+          "options": [
+            "A. Psalm 19:1-6",
+            "B. Proverbs 3:19-20",
+            "C. Job 38-39",
+            "D. Daniel 1:19-20"
+          ],
+          "answer": "B",
+          "explanation": "The text links this directly to '(Proverbs 3:19-20)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W8Q35",
+          "week": 8,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Faith addresses the '________' providing a framework for understanding the deeper aspects of living things.",
+          "options": [
+            "A. how",
+            "B. when",
+            "C. why",
+            "D. who"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'faith addresses the “why”'.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

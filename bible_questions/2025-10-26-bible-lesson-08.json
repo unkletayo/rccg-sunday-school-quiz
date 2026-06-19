@@ -1,0 +1,639 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 8,
+      "topic": "FAITH AND SCIENCE",
+      "questions": [
+        {
+          "id": "BW8Q1",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.53.1 Maschil: or, of instruction'",
+          "options": [
+            "A. Psalm 53:3",
+            "B. Psalm 54:1",
+            "C. Psalm 53:2",
+            "D. Psalm 53:1-2"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.53.1 Maschil: or, of instruction' is found in Psalm 53:1-2.",
+          "source_section": "Psalm 53:1-2"
+        },
+        {
+          "id": "BW8Q2",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 53:1-2:\nThe fool hath said in his heart, There is no God. Corrupt are they, and _____ done abominable _____: there is none _____ doeth good.53.1 Maschil: or, of instruction",
+          "answer": "have, iniquity, that",
+          "keywords": [
+            "have",
+            "iniquity",
+            "that"
+          ],
+          "explanation": "The full text is: The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.53.1 Maschil: or, of instruction",
+          "source_section": "Psalm 53:1-2"
+        },
+        {
+          "id": "BW8Q3",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To every thing there is a season, and a time to every purpose under the heaven:'",
+          "options": [
+            "A. Ecclesiastes 4:1",
+            "B. Ecclesiastes 3:3",
+            "C. Ecclesiastes 3:1",
+            "D. Ecclesiastes 3:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'To every thing there is a season, and a time to every purpose under the heaven:' is found in Ecclesiastes 3:1.",
+          "source_section": "Ecclesiastes 3:1"
+        },
+        {
+          "id": "BW8Q4",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 3:1:\nTo every _____ _____ is a season, and a _____ to every purpose under the heaven:",
+          "answer": "thing, there, time",
+          "keywords": [
+            "thing",
+            "there",
+            "time"
+          ],
+          "explanation": "The full text is: To every thing there is a season, and a time to every purpose under the heaven:",
+          "source_section": "Ecclesiastes 3:1"
+        },
+        {
+          "id": "BW8Q5",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.'",
+          "options": [
+            "A. Hebrews 11:3",
+            "B. Hebrews 11:4",
+            "C. Hebrews 11:2",
+            "D. Hebrews 12:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.' is found in Hebrews 11:3.",
+          "source_section": "Hebrews 11:3"
+        },
+        {
+          "id": "BW8Q6",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 11:3:\nThrough faith we _____ that the worlds were framed by the word of God, so that things which are seen were not made of _____ _____ do appear.",
+          "answer": "understand, things, which",
+          "keywords": [
+            "understand",
+            "things",
+            "which"
+          ],
+          "explanation": "The full text is: Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.",
+          "source_section": "Hebrews 11:3"
+        },
+        {
+          "id": "BW8Q7",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.6.14 rooms: Heb. nests'",
+          "options": [
+            "A. Genesis 6:14-16",
+            "B. Genesis 6:13",
+            "C. Genesis 7:14",
+            "D. Genesis 6:15"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.6.14 rooms: Heb. nests' is found in Genesis 6:14-16.",
+          "source_section": "Genesis 6:14-16"
+        },
+        {
+          "id": "BW8Q8",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 6:14-16:\n\u00b6 Make thee an ark of gopher wood; rooms shalt thou _____ in the ark, and shalt pitch it _____ and without with pitch.6.14 _____: Heb. nests",
+          "answer": "make, within, rooms",
+          "keywords": [
+            "make",
+            "within",
+            "rooms"
+          ],
+          "explanation": "The full text is: \u00b6 Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.6.14 rooms: Heb. nests",
+          "source_section": "Genesis 6:14-16"
+        },
+        {
+          "id": "BW8Q9",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.'",
+          "options": [
+            "A. 1 Kings 4:33",
+            "B. 1 Kings 5:33",
+            "C. 1 Kings 4:32",
+            "D. 1 Kings 4:34"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.' is found in 1 Kings 4:33.",
+          "source_section": "1 Kings 4:33"
+        },
+        {
+          "id": "BW8Q10",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 4:33:\nAnd he spake of trees, from the cedar tree that is in _____ even unto the _____ that springeth out of the wall: he spake also of beasts, and of _____, and of creeping things, and of fishes.",
+          "answer": "Lebanon, hyssop, fowl",
+          "keywords": [
+            "Lebanon",
+            "hyssop",
+            "fowl"
+          ],
+          "explanation": "The full text is: And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.",
+          "source_section": "1 Kings 4:33"
+        },
+        {
+          "id": "BW8Q11",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:'",
+          "options": [
+            "A. Acts 10:3",
+            "B. Acts 9:4",
+            "C. Acts 9:3-6",
+            "D. Acts 9:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:' is found in Acts 9:3-6.",
+          "source_section": "Acts 9:3-6"
+        },
+        {
+          "id": "BW8Q12",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 9:3-6:\nAnd as he _____, he came near Damascus: and suddenly _____ shined round _____ him a light from heaven:",
+          "answer": "journeyed, there, about",
+          "keywords": [
+            "journeyed",
+            "there",
+            "about"
+          ],
+          "explanation": "The full text is: And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:",
+          "source_section": "Acts 9:3-6"
+        },
+        {
+          "id": "BW8Q13",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:40.22 It is\u2026: or, Him that'",
+          "options": [
+            "A. Isaiah 40:22",
+            "B. Isaiah 40:23",
+            "C. Isaiah 41:22",
+            "D. Isaiah 40:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:40.22 It is\u2026: or, Him that' is found in Isaiah 40:22.",
+          "source_section": "Isaiah 40:22"
+        },
+        {
+          "id": "BW8Q14",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 40:22:\nIt is he that sitteth upon the circle of the _____, and the _____ thereof are as grasshoppers; that _____ out the heavens as a curtain, and spreadeth them out as a tent to dwell in:40.22 It is\u2026: or, Him that",
+          "answer": "earth, inhabitants, stretcheth",
+          "keywords": [
+            "earth",
+            "inhabitants",
+            "stretcheth"
+          ],
+          "explanation": "The full text is: It is he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers; that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in:40.22 It is\u2026: or, Him that",
+          "source_section": "Isaiah 40:22"
+        },
+        {
+          "id": "BW8Q15",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The heavens declare the glory of God; and the firmament sheweth his handywork.'",
+          "options": [
+            "A. Psalm 19:3",
+            "B. Psalm 19:2",
+            "C. Psalm 19:1-6",
+            "D. Psalm 20:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The heavens declare the glory of God; and the firmament sheweth his handywork.' is found in Psalm 19:1-6.",
+          "source_section": "Psalm 19:1-6"
+        },
+        {
+          "id": "BW8Q16",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 19:1-6:\nThe _____ _____ the glory of God; and the firmament _____ his handywork.",
+          "answer": "heavens, declare, sheweth",
+          "keywords": [
+            "heavens",
+            "declare",
+            "sheweth"
+          ],
+          "explanation": "The full text is: The heavens declare the glory of God; and the firmament sheweth his handywork.",
+          "source_section": "Psalm 19:1-6"
+        },
+        {
+          "id": "BW8Q17",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.'",
+          "options": [
+            "A. Colossians 3:12",
+            "B. Colossians 4:13",
+            "C. Colossians 3:14",
+            "D. Colossians 3:13"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.' is found in Colossians 3:13.",
+          "source_section": "Colossians 3:13"
+        },
+        {
+          "id": "BW8Q18",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 3:13:\nForbearing one another, and forgiving one _____, if any man have a _____ _____ any: even as Christ forgave you, so also do ye.",
+          "answer": "another, quarrel, against",
+          "keywords": [
+            "another",
+            "quarrel",
+            "against"
+          ],
+          "explanation": "The full text is: Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+          "source_section": "Colossians 3:13"
+        },
+        {
+          "id": "BW8Q19",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.'",
+          "options": [
+            "A. Daniel 1:20",
+            "B. Daniel 2:19",
+            "C. Daniel 1:19-20",
+            "D. Daniel 1:18"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.' is found in Daniel 1:19-20.",
+          "source_section": "Daniel 1:19-20"
+        },
+        {
+          "id": "BW8Q20",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 1:19-20:\nAnd the king _____ with them; and _____ them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood _____ before the king.",
+          "answer": "communed, among, they",
+          "keywords": [
+            "communed",
+            "among",
+            "they"
+          ],
+          "explanation": "The full text is: And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.",
+          "source_section": "Daniel 1:19-20"
+        },
+        {
+          "id": "BW8Q21",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.8.22 While\u2026: Heb. As yet all the days of the earth'",
+          "options": [
+            "A. Genesis 8:21",
+            "B. Genesis 9:22",
+            "C. Genesis 8:22",
+            "D. Genesis 8:23"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.8.22 While\u2026: Heb. As yet all the days of the earth' is found in Genesis 8:22.",
+          "source_section": "Genesis 8:22"
+        },
+        {
+          "id": "BW8Q22",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 8:22:\nWhile the earth remaineth, seedtime and _____, and cold and heat, and summer and winter, and day and night _____ not cease.8.22 _____: Heb. As yet all the days of the earth",
+          "answer": "harvest, shall, While\u2026",
+          "keywords": [
+            "harvest",
+            "shall",
+            "While\u2026"
+          ],
+          "explanation": "The full text is: While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.8.22 While\u2026: Heb. As yet all the days of the earth",
+          "source_section": "Genesis 8:22"
+        },
+        {
+          "id": "BW8Q23",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To whom then will ye liken me, or shall I be equal? saith the Holy One.'",
+          "options": [
+            "A. Isaiah 41:25",
+            "B. Isaiah 40:25-26",
+            "C. Isaiah 40:26",
+            "D. Isaiah 40:24"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'To whom then will ye liken me, or shall I be equal? saith the Holy One.' is found in Isaiah 40:25-26.",
+          "source_section": "Isaiah 40:25-26"
+        },
+        {
+          "id": "BW8Q24",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 40:25-26:\nTo whom then will ye _____ me, or shall I be _____ _____ the Holy One.",
+          "answer": "liken, equal?, saith",
+          "keywords": [
+            "liken",
+            "equal?",
+            "saith"
+          ],
+          "explanation": "The full text is: To whom then will ye liken me, or shall I be equal? saith the Holy One.",
+          "source_section": "Isaiah 40:25-26"
+        },
+        {
+          "id": "BW8Q25",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.3.19 established: or, prepared'",
+          "options": [
+            "A. Proverbs 4:19",
+            "B. Proverbs 3:18",
+            "C. Proverbs 3:19-20",
+            "D. Proverbs 3:20"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.3.19 established: or, prepared' is found in Proverbs 3:19-20.",
+          "source_section": "Proverbs 3:19-20"
+        },
+        {
+          "id": "BW8Q26",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 3:19-20:\nThe _____ by wisdom hath founded the earth; by understanding hath he established the _____ established: or, _____",
+          "answer": "LORD, heavens.3.19, prepared",
+          "keywords": [
+            "LORD",
+            "heavens.3.19",
+            "prepared"
+          ],
+          "explanation": "The full text is: The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.3.19 established: or, prepared",
+          "source_section": "Proverbs 3:19-20"
+        },
+        {
+          "id": "BW8Q27",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.'",
+          "options": [
+            "A. Acts 17:22",
+            "B. Acts 18:23",
+            "C. Acts 17:24",
+            "D. Acts 17:23"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.' is found in Acts 17:23.",
+          "source_section": "Acts 17:23"
+        },
+        {
+          "id": "BW8Q28",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 17:23:\nFor as I _____ by, and beheld _____ devotions, I found an _____ with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.",
+          "answer": "passed, your, altar",
+          "keywords": [
+            "passed",
+            "your",
+            "altar"
+          ],
+          "explanation": "The full text is: For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.",
+          "source_section": "Acts 17:23"
+        },
+        {
+          "id": "BW8Q29",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now faith is the substance of things hoped for, the evidence of things not seen.'",
+          "options": [
+            "A. Hebrews 11:1, 7-8",
+            "B. Another book 2:7",
+            "C. Another book 3:13",
+            "D. Another book 5:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Now faith is the substance of things hoped for, the evidence of things not seen.' is found in Hebrews 11:1, 7-8.",
+          "source_section": "Hebrews 11:1, 7-8"
+        },
+        {
+          "id": "BW8Q30",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 11:1, 7-8:\nNow _____ is the _____ of things hoped for, the evidence of _____ not seen.",
+          "answer": "faith, substance, things",
+          "keywords": [
+            "faith",
+            "substance",
+            "things"
+          ],
+          "explanation": "The full text is: Now faith is the substance of things hoped for, the evidence of things not seen.",
+          "source_section": "Hebrews 11:1, 7-8"
+        },
+        {
+          "id": "BW8Q31",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he.'",
+          "options": [
+            "A. Deuteronomy 32:4",
+            "B. Deuteronomy 32:3",
+            "C. Deuteronomy 32:5",
+            "D. Deuteronomy 33:4"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he.' is found in Deuteronomy 32:4.",
+          "source_section": "Deuteronomy 32:4"
+        },
+        {
+          "id": "BW8Q32",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Deuteronomy 32:4:\nHe is the _____, his work is perfect: for all his ways are _____: a God of truth and without _____, just and right is he.",
+          "answer": "Rock, judgment, iniquity",
+          "keywords": [
+            "Rock",
+            "judgment",
+            "iniquity"
+          ],
+          "explanation": "The full text is: He is the Rock, his work is perfect: for all his ways are judgment: a God of truth and without iniquity, just and right is he.",
+          "source_section": "Deuteronomy 32:4"
+        },
+        {
+          "id": "BW8Q33",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.'",
+          "options": [
+            "A. Jonah 3:5",
+            "B. Jonah 3:4",
+            "C. Jonah 3:6",
+            "D. Jonah 4:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.' is found in Jonah 3:5.",
+          "source_section": "Jonah 3:5"
+        },
+        {
+          "id": "BW8Q34",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jonah 3:5:\n\u00b6 So the people of Nineveh believed God, and proclaimed a _____, and put on sackcloth, _____ the greatest of them even to the _____ of them.",
+          "answer": "fast, from, least",
+          "keywords": [
+            "fast",
+            "from",
+            "least"
+          ],
+          "explanation": "The full text is: \u00b6 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+          "source_section": "Jonah 3:5"
+        },
+        {
+          "id": "BW8Q35",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.18.30 tried: or, refined'",
+          "options": [
+            "A. Psalm 19:30",
+            "B. Psalm 18:29",
+            "C. Psalm 18:30",
+            "D. Psalm 18:31"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.18.30 tried: or, refined' is found in Psalm 18:30.",
+          "source_section": "Psalm 18:30"
+        },
+        {
+          "id": "BW8Q36",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 18:30:\nAs for God, his way is _____: the word of the LORD is tried: he is a buckler to all _____ that trust in him.18.30 _____: or, refined",
+          "answer": "perfect, those, tried",
+          "keywords": [
+            "perfect",
+            "those",
+            "tried"
+          ],
+          "explanation": "The full text is: As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him.18.30 tried: or, refined",
+          "source_section": "Psalm 18:30"
+        },
+        {
+          "id": "BW8Q37",
+          "week": 8,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter.'",
+          "options": [
+            "A. Daniel 3:16-18",
+            "B. Daniel 3:15",
+            "C. Daniel 3:17",
+            "D. Daniel 4:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter.' is found in Daniel 3:16-18.",
+          "source_section": "Daniel 3:16-18"
+        },
+        {
+          "id": "BW8Q38",
+          "week": 8,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 3:16-18:\nShadrach, Meshach, and _____, answered and said to the king, O Nebuchadnezzar, we are not careful to answer _____ in this _____.",
+          "answer": "Abed-nego, thee, matter",
+          "keywords": [
+            "Abed-nego",
+            "thee",
+            "matter"
+          ],
+          "explanation": "The full text is: Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter.",
+          "source_section": "Daniel 3:16-18"
+        }
+      ]
+    }
+  ]
+}

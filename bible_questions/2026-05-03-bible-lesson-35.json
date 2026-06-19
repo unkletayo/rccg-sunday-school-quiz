@@ -1,0 +1,441 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 35,
+      "topic": "PARENTING STYLES (PART 1)",
+      "questions": [
+        {
+          "id": "BW35Q1",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?22.7 lamb: or, kid'",
+          "options": [
+            "A. Genesis 22:7-8",
+            "B. Genesis 22:6",
+            "C. Genesis 22:8",
+            "D. Genesis 23:7"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?22.7 lamb: or, kid' is found in Genesis 22:7-8.",
+          "source_section": "Genesis 22:7-8"
+        },
+        {
+          "id": "BW35Q2",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 22:7-8:\nAnd Isaac spake unto Abraham his father, and said, My _____: and he said, _____ am I, my son. And he said, Behold the fire and the wood: but where is the _____ for a burnt offering?22.7 lamb: or, kid",
+          "answer": "father, Here, lamb",
+          "keywords": [
+            "father",
+            "Here",
+            "lamb"
+          ],
+          "explanation": "The full text is: And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?22.7 lamb: or, kid",
+          "source_section": "Genesis 22:7-8"
+        },
+        {
+          "id": "BW35Q3",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 So Absalom dwelt two full years in Jerusalem, and saw not the king\u2019s face.'",
+          "options": [
+            "A. 2 Samuel 14:27",
+            "B. 2 Samuel 14:28",
+            "C. 2 Samuel 15:28",
+            "D. 2 Samuel 14:29"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 So Absalom dwelt two full years in Jerusalem, and saw not the king\u2019s face.' is found in 2 Samuel 14:28.",
+          "source_section": "2 Samuel 14:28"
+        },
+        {
+          "id": "BW35Q4",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Samuel 14:28:\n\u00b6 So Absalom dwelt two _____ _____ in Jerusalem, and saw not the _____ face.",
+          "answer": "full, years, king\u2019s",
+          "keywords": [
+            "full",
+            "years",
+            "king\u2019s"
+          ],
+          "explanation": "The full text is: \u00b6 So Absalom dwelt two full years in Jerusalem, and saw not the king\u2019s face.",
+          "source_section": "2 Samuel 14:28"
+        },
+        {
+          "id": "BW35Q5",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then Saul\u2019s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother\u2019s nakedness?20.30 Thou\u2026: or, Thou perverse rebel: Heb. Son of perverse rebellion'",
+          "options": [
+            "A. 1 Samuel 20:29",
+            "B. 1 Samuel 21:30",
+            "C. 1 Samuel 20:31",
+            "D. 1 Samuel 20:30"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Then Saul\u2019s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother\u2019s nakedness?20.30 Thou\u2026: or, Thou perverse rebel: Heb. Son of perverse rebellion' is found in 1 Samuel 20:30.",
+          "source_section": "1 Samuel 20:30"
+        },
+        {
+          "id": "BW35Q6",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 20:30:\nThen _____ anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to _____ own confusion, and unto the confusion of thy mother\u2019s nakedness?20.30 Thou\u2026: or, _____ perverse rebel: Heb. Son of perverse rebellion",
+          "answer": "Saul\u2019s, thine, Thou",
+          "keywords": [
+            "Saul\u2019s",
+            "thine",
+            "Thou"
+          ],
+          "explanation": "The full text is: Then Saul\u2019s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother\u2019s nakedness?20.30 Thou\u2026: or, Thou perverse rebel: Heb. Son of perverse rebellion",
+          "source_section": "1 Samuel 20:30"
+        },
+        {
+          "id": "BW35Q7",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Train up a child in the way he should go: and when he is old, he will not depart from it.22.6 Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way'",
+          "options": [
+            "A. Proverbs 22:7",
+            "B. Proverbs 22:5",
+            "C. Proverbs 23:6",
+            "D. Proverbs 22:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Train up a child in the way he should go: and when he is old, he will not depart from it.22.6 Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way' is found in Proverbs 22:6.",
+          "source_section": "Proverbs 22:6"
+        },
+        {
+          "id": "BW35Q8",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:6:\nTrain up a child in the way he should go: and when he is old, he will not _____ _____ it.22.6 Train\u2026: or, _____ in\u2026: Heb. in his way",
+          "answer": "depart, from, Catechise22.6",
+          "keywords": [
+            "depart",
+            "from",
+            "Catechise22.6"
+          ],
+          "explanation": "The full text is: Train up a child in the way he should go: and when he is old, he will not depart from it.22.6 Train\u2026: or, Catechise22.6 in\u2026: Heb. in his way",
+          "source_section": "Proverbs 22:6"
+        },
+        {
+          "id": "BW35Q9",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.'",
+          "options": [
+            "A. Proverbs 30:15",
+            "B. Proverbs 29:15",
+            "C. Proverbs 29:16",
+            "D. Proverbs 29:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.' is found in Proverbs 29:15.",
+          "source_section": "Proverbs 29:15"
+        },
+        {
+          "id": "BW35Q10",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:15:\nThe rod and reproof give _____: but a child left to himself _____ his mother to _____.",
+          "answer": "wisdom, bringeth, shame",
+          "keywords": [
+            "wisdom",
+            "bringeth",
+            "shame"
+          ],
+          "explanation": "The full text is: The rod and reproof give wisdom: but a child left to himself bringeth his mother to shame.",
+          "source_section": "Proverbs 29:15"
+        },
+        {
+          "id": "BW35Q11",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.'",
+          "options": [
+            "A. Proverbs 23:14",
+            "B. Proverbs 23:12",
+            "C. Proverbs 23:13-14",
+            "D. Proverbs 24:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.' is found in Proverbs 23:13-14.",
+          "source_section": "Proverbs 23:13-14"
+        },
+        {
+          "id": "BW35Q12",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 23:13-14:\n_____ not correction from the child: for if _____ beatest him _____ the rod, he shall not die.",
+          "answer": "Withhold, thou, with",
+          "keywords": [
+            "Withhold",
+            "thou",
+            "with"
+          ],
+          "explanation": "The full text is: Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.",
+          "source_section": "Proverbs 23:13-14"
+        },
+        {
+          "id": "BW35Q13",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops'",
+          "options": [
+            "A. 1 Samuel 3:22",
+            "B. 1 Samuel 2:21",
+            "C. 1 Samuel 2:22-24",
+            "D. 1 Samuel 2:23"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops' is found in 1 Samuel 2:22-24.",
+          "source_section": "1 Samuel 2:22-24"
+        },
+        {
+          "id": "BW35Q14",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 2:22-24:\n\u00b6 Now Eli was very old, and heard all that his _____ did unto all Israel; and how they lay with the women that assembled at the _____ of the tabernacle of the congregation.2.22 assembled: Heb. assembled by _____",
+          "answer": "sons, door, troops",
+          "keywords": [
+            "sons",
+            "door",
+            "troops"
+          ],
+          "explanation": "The full text is: \u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops",
+          "source_section": "1 Samuel 2:22-24"
+        },
+        {
+          "id": "BW35Q15",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.'",
+          "options": [
+            "A. Ephesians 6:5",
+            "B. Ephesians 7:4",
+            "C. Ephesians 6:3",
+            "D. Ephesians 6:4"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.' is found in Ephesians 6:4.",
+          "source_section": "Ephesians 6:4"
+        },
+        {
+          "id": "BW35Q16",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 6:4:\nAnd, ye _____, provoke not your children to wrath: but bring them up in the nurture and _____ of the _____.",
+          "answer": "fathers, admonition, Lord",
+          "keywords": [
+            "fathers",
+            "admonition",
+            "Lord"
+          ],
+          "explanation": "The full text is: And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.",
+          "source_section": "Ephesians 6:4"
+        },
+        {
+          "id": "BW35Q17",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.3.13 For I\u2026: or, And I will tell him3.13 vile: or, accursed3.13 restrained\u2026: Heb. frowned not upon them'",
+          "options": [
+            "A. 1 Samuel 3:14",
+            "B. 1 Samuel 4:13",
+            "C. 1 Samuel 3:13",
+            "D. 1 Samuel 3:12"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.3.13 For I\u2026: or, And I will tell him3.13 vile: or, accursed3.13 restrained\u2026: Heb. frowned not upon them' is found in 1 Samuel 3:13.",
+          "source_section": "1 Samuel 3:13"
+        },
+        {
+          "id": "BW35Q18",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 3:13:\nFor I _____ told him that I will judge his house for ever for the iniquity _____ he knoweth; because his sons made themselves vile, and he restrained them not.3.13 For I\u2026: or, And I will tell him3.13 vile: or, accursed3.13 _____: Heb. frowned not upon them",
+          "answer": "have, which, restrained\u2026",
+          "keywords": [
+            "have",
+            "which",
+            "restrained\u2026"
+          ],
+          "explanation": "The full text is: For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.3.13 For I\u2026: or, And I will tell him3.13 vile: or, accursed3.13 restrained\u2026: Heb. frowned not upon them",
+          "source_section": "1 Samuel 3:13"
+        },
+        {
+          "id": "BW35Q19",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.1.5 be king: Heb. reign'",
+          "options": [
+            "A. 1 Kings 1:5-6",
+            "B. 1 Kings 1:4",
+            "C. 1 Kings 1:6",
+            "D. 1 Kings 2:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.1.5 be king: Heb. reign' is found in 1 Kings 1:5-6.",
+          "source_section": "1 Kings 1:5-6"
+        },
+        {
+          "id": "BW35Q20",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Kings 1:5-6:\n\u00b6 Then _____ the son of Haggith _____ himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.1.5 be king: Heb. _____",
+          "answer": "Adonijah, exalted, reign",
+          "keywords": [
+            "Adonijah",
+            "exalted",
+            "reign"
+          ],
+          "explanation": "The full text is: \u00b6 Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.1.5 be king: Heb. reign",
+          "source_section": "1 Kings 1:5-6"
+        },
+        {
+          "id": "BW35Q21",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these.'",
+          "options": [
+            "A. 1 Samuel 17:10",
+            "B. 1 Samuel 16:9",
+            "C. 1 Samuel 16:10-11",
+            "D. 1 Samuel 16:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these.' is found in 1 Samuel 16:10-11.",
+          "source_section": "1 Samuel 16:10-11"
+        },
+        {
+          "id": "BW35Q22",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 16:10-11:\nAgain, Jesse made _____ of his sons to _____ before Samuel. And Samuel said unto Jesse, The LORD _____ not chosen these.",
+          "answer": "seven, pass, hath",
+          "keywords": [
+            "seven",
+            "pass",
+            "hath"
+          ],
+          "explanation": "The full text is: Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these.",
+          "source_section": "1 Samuel 16:10-11"
+        },
+        {
+          "id": "BW35Q23",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.'",
+          "options": [
+            "A. Luke 16:12",
+            "B. Luke 15:13",
+            "C. Luke 15:12",
+            "D. Luke 15:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.' is found in Luke 15:12.",
+          "source_section": "Luke 15:12"
+        },
+        {
+          "id": "BW35Q24",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 15:12:\nAnd the _____ of them said to his father, Father, _____ me the portion of _____ that falleth to me. And he divided unto them his living.",
+          "answer": "younger, give, goods",
+          "keywords": [
+            "younger",
+            "give",
+            "goods"
+          ],
+          "explanation": "The full text is: And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.",
+          "source_section": "Luke 15:12"
+        },
+        {
+          "id": "BW35Q25",
+          "week": 35,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops'",
+          "options": [
+            "A. 1 Samuel 3:22",
+            "B. 1 Samuel 2:21",
+            "C. 1 Samuel 2:22-25,29",
+            "D. 1 Samuel 2:23"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops' is found in 1 Samuel 2:22-25,29.",
+          "source_section": "1 Samuel 2:22-25,29"
+        },
+        {
+          "id": "BW35Q26",
+          "week": 35,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 2:22-25,29:\n\u00b6 Now Eli was very old, and heard all that his sons did unto all _____; and how _____ lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by _____",
+          "answer": "Israel, they, troops",
+          "keywords": [
+            "Israel",
+            "they",
+            "troops"
+          ],
+          "explanation": "The full text is: \u00b6 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled at the door of the tabernacle of the congregation.2.22 assembled: Heb. assembled by troops",
+          "source_section": "1 Samuel 2:22-25,29"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:19:00Z",
+  "weeks": [
+    {
+      "week_number": 15,
+      "topic": "UNTOWARD FREEDOM",
+      "memory_verse_reference": "Galatians 5:13",
+      "questions": [
+        {
+          "id": "W15Q1",
+          "week": 15,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 15?",
+          "options": [
+            "A. PEER PRESSURE",
+            "B. TRUE FREEDOM",
+            "C. UNTOWARD FREEDOM",
+            "D. DESCRIPTION AND BRANDS"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly given for Lesson Fifteen is UNTOWARD FREEDOM.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W15Q2",
+          "week": 15,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 14?",
+          "options": [
+            "A. UNTOWARD FREEDOM",
+            "B. PEER PRESSURE",
+            "C. DOMINION THROUGH PRAYERS",
+            "D. WORKPLACE MINISTRY"
+          ],
+          "answer": "B",
+          "explanation": "Peer Pressure was the topic for Week 14.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W15Q3",
+          "week": 15,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "For you, brethren, have been called to ________; only do not use liberty as an opportunity for the flesh...",
+          "options": [
+            "A. salvation",
+            "B. righteousness",
+            "C. liberty",
+            "D. peace"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Galatians 5:13) says 'have been called to liberty'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W15Q4",
+          "week": 15,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Galatians 5:13",
+          "keywords": ["Galatians", "5:13"],
+          "explanation": "The memory verse reference is Galatians 5:13.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W15Q5",
+          "week": 15,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 15 in full (NKJV).",
+          "answer": "For you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another.",
+          "keywords": ["brethren", "liberty", "opportunity", "flesh", "love", "serve", "another"],
+          "explanation": "Full text recall of Galatians 5:13.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W15Q6",
+          "week": 15,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Galatians 5:13), instead of using liberty for the flesh, what should we do?",
+          "options": [
+            "A. Build wealth for ourselves",
+            "B. Condemn the world",
+            "C. Through love serve one another",
+            "D. Hide from society"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'but through love serve one another.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W15Q7",
+          "week": 15,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the introduction, freedom without borders is problematic.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'However, freedom without borders is problematic.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W15Q8",
+          "week": 15,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "How is freedom described in the introduction of the lesson?",
+          "options": [
+            "A. The condition of being free from external restraints",
+            "B. The ability to control others",
+            "C. Doing whatever the flesh desires without consequences",
+            "D. The absence of government laws"
+          ],
+          "answer": "A",
+          "explanation": "The intro says 'It is the condition of being free from external restraints.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W15Q9",
+          "week": 15,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "DESCRIPTION AND BRANDS",
+          "keywords": ["DESCRIPTION", "AND", "BRANDS"],
+          "explanation": "Outline I is titled 'DESCRIPTION AND BRANDS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q10",
+          "week": 15,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is 'Untoward freedom' as described in Outline I?",
+          "options": [
+            "A. Freedom purchased by the blood of Jesus",
+            "B. Liberty without boundaries that degenerates into sinful behaviour",
+            "C. Freedom of speech in a democracy",
+            "D. Freedom from poverty"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Untoward freedom refers to liberty without boundaries. It is freedom without limits which degenerates into sinful behaviour and problems.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q11",
+          "week": 15,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "In Outline I, which scripture is cited where Paul warns against unrestrained independence?",
+          "options": [
+            "A. Galatians 5:1",
+            "B. 1 Peter 2:16a",
+            "C. Proverbs 30:17",
+            "D. Isaiah 30:1"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Paul warns against this kind of unrestrained independence in Galatians 5:1...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q12",
+          "week": 15,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which brand of untoward freedom opposes God's will, disregards moral boundaries, and promotes anarchy?",
+          "options": [
+            "A. Flout",
+            "B. Rebellion",
+            "C. Lawlessness",
+            "D. Obeying the Flesh"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 defines Lawlessness as 'opposes God’s will... disregards moral and legal boundaries, promoting anarchy.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q13",
+          "week": 15,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which brand of untoward freedom involves deliberately disobeying rules, laws, and authority figures like parents and government?",
+          "options": [
+            "A. Throwing Caution into the Wind",
+            "B. Evil Practices",
+            "C. Lawlessness",
+            "D. Flout"
+          ],
+          "answer": "D",
+          "explanation": "Point 2 defines Flout: 'occurs when individuals ignore or deliberately disobey rules, laws, and authority figures...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q14",
+          "week": 15,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the brand of untoward freedom called when individuals oppose legitimate authority in the name of freewill?",
+          "options": [
+            "A. Flout",
+            "B. Rebellion",
+            "C. Evil Practices",
+            "D. Throwing Caution into the Wind"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 defines Rebellion as 'opposing legitimate authority in the name of freewill...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q15",
+          "week": 15,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Engaging in unlawful or immoral activities under the pretence of freedom is called 'Evil Practices' in the lesson.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 is 'Evil Practices: Engaging in unlawful or immoral activities under the pretence of freedom.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q16",
+          "week": 15,
+          "category": "name_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which brand of untoward freedom is described as a reckless form where people disregard consequences, living carelessly while claiming to be believers?",
+          "options": [
+            "A. Obeying the Flesh",
+            "B. Lawlessness",
+            "C. Flout",
+            "D. Throwing Caution into the Wind"
+          ],
+          "answer": "D",
+          "explanation": "Point 6 is 'Throwing Caution into the Wind: This is a reckless form of freedom...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q17",
+          "week": 15,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "TRUE FREEDOM",
+          "keywords": ["TRUE", "FREEDOM"],
+          "explanation": "Outline II is titled 'TRUE FREEDOM'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q18",
+          "week": 15,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, where is true and total freedom found?",
+          "options": [
+            "A. In political independence",
+            "B. In Christ Jesus",
+            "C. In financial wealth",
+            "D. In human rights laws"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'True and total freedom is found in Christ Jesus (John 8:36).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q19",
+          "week": 15,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited for 'Freedom from Sin', where Christ enables us to live righteously?",
+          "options": [
+            "A. Isaiah 54:14",
+            "B. Matthew 9:35",
+            "C. Romans 6:14",
+            "D. Galatians 3:13"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 lists '(Romans 6:14)' for Freedom from Sin.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q20",
+          "week": 15,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for 'Freedom from Sickness' (Through Jesus, we are healed and made whole)?",
+          "options": [
+            "A. Galatians 5:1",
+            "B. Matthew 9:35",
+            "C. Isaiah 54:14",
+            "D. 2 Timothy 1:7"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 lists '(Matthew 9:35)' for Freedom from Sickness.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q21",
+          "week": 15,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which freedom is described as receiving power, love, and a sound mind through the Holy Spirit?",
+          "options": [
+            "A. Freedom from Bondage",
+            "B. Freedom from Principalities and Powers",
+            "C. Freedom from Curses",
+            "D. Freedom from Fear"
+          ],
+          "answer": "D",
+          "explanation": "Point 7 describes 'Freedom from Fear: Through the Holy Spirit, we receive power, love, and a sound mind...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q22",
+          "week": 15,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which freedom is associated with Christ redeeming us and offering blessings instead?",
+          "options": [
+            "A. Freedom from Curses",
+            "B. Freedom from Oppression",
+            "C. Freedom from Sin",
+            "D. Freedom from Everlasting Punishment"
+          ],
+          "answer": "A",
+          "explanation": "Point 6 describes 'Freedom from Curses: Christ redeemed us from curses and offered blessings instead...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q23",
+          "week": 15,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "While freedom in Christ is a liberating gift, it is not a license to sin.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states 'While freedom in Christ is a beautiful and liberating gift, it is not a license to sin.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q24",
+          "week": 15,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, true freedom should be lived in obedience to God's word.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion begins with 'True freedom should be lived in obedience to God’s word...'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W15Q25",
+          "week": 15,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'All things are lawful for me, but not all things are helpful; all things are lawful for me, but not all things edify.'",
+          "verse_text": "All things are lawful for me, but not all things are helpful; all things are lawful for me, but not all things edify.",
+          "options": [
+            "A. 1 Corinthians 10:23",
+            "B. 1 Corinthians 10:24",
+            "C. Galatians 5:1",
+            "D. Galatians 5:13"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 23 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W15Q26",
+          "week": 15,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (1 Corinthians 10:23), what two reasons does Paul give for not doing 'all things' even if they are lawful?",
+          "options": [
+            "A. Not all things are profitable; not all things are pure",
+            "B. Not all things are helpful; not all things edify",
+            "C. Not all things are easy; not all things are safe",
+            "D. Not all things are holy; not all things are good"
+          ],
+          "answer": "B",
+          "explanation": "Verse 23 says 'but not all things are helpful... but not all things edify.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W15Q27",
+          "week": 15,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Corinthians 10:24, what should no one seek?",
+          "options": [
+            "A. Vengeance",
+            "B. Wealth",
+            "C. His own",
+            "D. The praise of men"
+          ],
+          "answer": "C",
+          "explanation": "Verse 24 reads 'Let no one seek his own...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W15Q28",
+          "week": 15,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Corinthians 10:24, what should each one seek instead of his own?",
+          "options": [
+            "A. God's glory",
+            "B. The other's well-being",
+            "C. The truth",
+            "D. Peace with all men"
+          ],
+          "answer": "B",
+          "explanation": "Verse 24 concludes 'but each one the other’s well-being.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W15Q29",
+          "week": 15,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show the consequences of 'Throwing Caution into the Wind' (reckless freedom)?",
+          "options": [
+            "A. Proverbs 30:17; 2 Chronicles 26:16-20",
+            "B. Exodus 32:1-7; Revelation 2:15; 1 John 2:15-17",
+            "C. Romans 8:4-6; 12-13",
+            "D. Micah 2:1"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 lists '(Exodus 32:1-7; Revelation 2:15; 1 John 2:15-17)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q30",
+          "week": 15,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Freedom from Principalities and Powers is part of true freedom in Christ Jesus.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 4 explicitly states 'Freedom from Principalities and Powers'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q31",
+          "week": 15,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Obeying the Flesh is a perversion of liberty, allowing the flesh to dominate rather than submit to the ________.",
+          "options": [
+            "A. law",
+            "B. church",
+            "C. Spirit",
+            "D. mind"
+          ],
+          "answer": "C",
+          "explanation": "Point 4 says 'allowing the flesh to dominate rather than submit to the Spirit'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q32",
+          "week": 15,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for 'Freedom from Bondage' (Jesus setting us free from all forms of spiritual and physical bondage)?",
+          "options": [
+            "A. Romans 8:37-39",
+            "B. Galatians 5:1",
+            "C. John 3:15-18",
+            "D. Isaiah 54:14"
+          ],
+          "answer": "B",
+          "explanation": "Point 5 cites '(Galatians 5:1)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W15Q33",
+          "week": 15,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "How are 'Evil Practices' often justified under the pretence of freedom?",
+          "options": [
+            "A. As God's will",
+            "B. As cultural traditions",
+            "C. As personal rights or liberties",
+            "D. As necessary for survival"
+          ],
+          "answer": "C",
+          "explanation": "Point 5 says 'These practices often emerge quietly and are justified as personal rights or liberties'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q34",
+          "week": 15,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures support 'Rebellion' (opposing legitimate authority)?",
+          "options": [
+            "A. Micah 2:1",
+            "B. 1 Peter 2:16a",
+            "C. Proverbs 30:17",
+            "D. Isaiah 30:1; 1 Samuel 15:23"
+          ],
+          "answer": "D",
+          "explanation": "Point 3 cites '(Isaiah 30:1; 1 Samuel 15:23)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W15Q35",
+          "week": 15,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "True freedom should not be accompanied by evil or harmful actions such as wickedness, corruption, and ________.",
+          "options": [
+            "A. sickness",
+            "B. poverty",
+            "C. sin",
+            "D. mistakes"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states 'such as wickedness, corruption, and sin.'",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

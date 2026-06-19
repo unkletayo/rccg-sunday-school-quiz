@@ -1,0 +1,1231 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:14Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "THE DEITY OF JESUS PART 1",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?43.13 let it: Heb. turn it back?'",
+          "options": [
+            "A. Isaiah 43:12",
+            "B. Isaiah 43:13",
+            "C. Isaiah 44:13",
+            "D. Isaiah 43:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?43.13 let it: Heb. turn it back?' is found in Isaiah 43:13.",
+          "source_section": "Isaiah 43:13"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 43:13:\nYea, before the day was I am he; and _____ is none that can deliver out of my _____: I will work, and who shall let it?43.13 let it: Heb. turn it _____",
+          "answer": "there, hand, back?",
+          "keywords": [
+            "there",
+            "hand",
+            "back?"
+          ],
+          "explanation": "The full text is: Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?43.13 let it: Heb. turn it back?",
+          "source_section": "Isaiah 43:13"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'All things were made by him; and without him was not any thing made that was made.'",
+          "options": [
+            "A. John 2:3",
+            "B. John 1:3",
+            "C. John 1:4",
+            "D. John 1:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'All things were made by him; and without him was not any thing made that was made.' is found in John 1:3.",
+          "source_section": "John 1:3"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 1:3:\nAll things were made by him; and _____ him was not any _____ _____ that was made.",
+          "answer": "without, thing, made",
+          "keywords": [
+            "without",
+            "thing",
+            "made"
+          ],
+          "explanation": "The full text is: All things were made by him; and without him was not any thing made that was made.",
+          "source_section": "John 1:3"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.'",
+          "options": [
+            "A. John 14:6",
+            "B. John 14:5",
+            "C. John 14:7",
+            "D. John 15:6"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.' is found in John 14:6.",
+          "source_section": "John 14:6"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:6:\nJesus _____ unto him, I am the way, the _____, and the _____: no man cometh unto the Father, but by me.",
+          "answer": "saith, truth, life",
+          "keywords": [
+            "saith",
+            "truth",
+            "life"
+          ],
+          "explanation": "The full text is: Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+          "source_section": "John 14:6"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.'",
+          "options": [
+            "A. Revelation 1:8",
+            "B. Revelation 1:9",
+            "C. Revelation 2:8",
+            "D. Revelation 1:7"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.' is found in Revelation 1:8.",
+          "source_section": "Revelation 1:8"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 1:8:\nI am _____ and Omega, the beginning and the ending, saith the _____, which is, and which was, and which is to come, the _____.",
+          "answer": "Alpha, Lord, Almighty",
+          "keywords": [
+            "Alpha",
+            "Lord",
+            "Almighty"
+          ],
+          "explanation": "The full text is: I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+          "source_section": "Revelation 1:8"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Thomas answered and said unto him, My Lord and my God.'",
+          "options": [
+            "A. John 21:28",
+            "B. John 20:27",
+            "C. John 20:29",
+            "D. John 20:28"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And Thomas answered and said unto him, My Lord and my God.' is found in John 20:28.",
+          "source_section": "John 20:28"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 20:28:\nAnd Thomas _____ and _____ unto him, My _____ and my God.",
+          "answer": "answered, said, Lord",
+          "keywords": [
+            "answered",
+            "said",
+            "Lord"
+          ],
+          "explanation": "The full text is: And Thomas answered and said unto him, My Lord and my God.",
+          "source_section": "John 20:28"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.'",
+          "options": [
+            "A. John 1:15",
+            "B. John 2:14",
+            "C. John 1:14",
+            "D. John 1:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.' is found in John 1:14.",
+          "source_section": "John 1:14"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 1:14:\nAnd the Word was _____ flesh, and dwelt among us, (and we beheld his glory, the _____ as of the only begotten of the Father,) _____ of grace and truth.",
+          "answer": "made, glory, full",
+          "keywords": [
+            "made",
+            "glory",
+            "full"
+          ],
+          "explanation": "The full text is: And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+          "source_section": "John 1:14"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.'",
+          "options": [
+            "A. 1 John 5:20",
+            "B. 1 John 5:19",
+            "C. 1 John 5:21",
+            "D. 1 John 6:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.' is found in 1 John 5:20.",
+          "source_section": "1 John 5:20"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 John 5:20:\nAnd we know that the Son of God is _____, and hath given us an understanding, that we may know him that is true, and we are in him that is _____, even in his Son _____ Christ. This is the true God, and eternal life.",
+          "answer": "come, true, Jesus",
+          "keywords": [
+            "come",
+            "true",
+            "Jesus"
+          ],
+          "explanation": "The full text is: And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.",
+          "source_section": "1 John 5:20"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In the beginning was the Word, and the Word was with God, and the Word was God.'",
+          "options": [
+            "A. John 1:3",
+            "B. John 1:2",
+            "C. John 2:1",
+            "D. John 1:1"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'In the beginning was the Word, and the Word was with God, and the Word was God.' is found in John 1:1.",
+          "source_section": "John 1:1"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 1:1:\nIn the beginning was the _____, and the _____ was with God, and the _____ was God.",
+          "answer": "Word, Word, Word",
+          "keywords": [
+            "Word",
+            "Word",
+            "Word"
+          ],
+          "explanation": "The full text is: In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "source_section": "John 1:1"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they worshipped him, and returned to Jerusalem with great joy:'",
+          "options": [
+            "A. Luke 24:53",
+            "B. Luke 25:52",
+            "C. Luke 24:51",
+            "D. Luke 24:52"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And they worshipped him, and returned to Jerusalem with great joy:' is found in Luke 24:52.",
+          "source_section": "Luke 24:52"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 24:52:\nAnd they _____ him, and returned to _____ with _____ joy:",
+          "answer": "worshipped, Jerusalem, great",
+          "keywords": [
+            "worshipped",
+            "Jerusalem",
+            "great"
+          ],
+          "explanation": "The full text is: And they worshipped him, and returned to Jerusalem with great joy:",
+          "source_section": "Luke 24:52"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.'",
+          "options": [
+            "A. Matthew 2:11",
+            "B. Matthew 3:11",
+            "C. Matthew 2:10",
+            "D. Matthew 2:12"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.' is found in Matthew 2:11.",
+          "source_section": "Matthew 2:11"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 2:11:\n\u00b6 And _____ they were _____ into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and _____.",
+          "answer": "when, come, myrrh",
+          "keywords": [
+            "when",
+            "come",
+            "myrrh"
+          ],
+          "explanation": "The full text is: \u00b6 And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.",
+          "source_section": "Matthew 2:11"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.'",
+          "options": [
+            "A. Luke 5:20-24",
+            "B. Luke 5:19",
+            "C. Luke 5:21",
+            "D. Luke 6:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.' is found in Luke 5:20-24.",
+          "source_section": "Luke 5:20-24"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 5:20-24:\nAnd _____ he saw their faith, he said unto him, Man, thy sins are _____ _____.",
+          "answer": "when, forgiven, thee",
+          "keywords": [
+            "when",
+            "forgiven",
+            "thee"
+          ],
+          "explanation": "The full text is: And when he saw their faith, he said unto him, Man, thy sins are forgiven thee.",
+          "source_section": "Luke 5:20-24"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.'",
+          "options": [
+            "A. Isaiah 9:7",
+            "B. Isaiah 10:6",
+            "C. Isaiah 9:5",
+            "D. Isaiah 9:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.' is found in Isaiah 9:6.",
+          "source_section": "Isaiah 9:6"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 9:6:\nFor _____ us a child is born, unto us a son is given: and the government shall be upon his _____: and his name _____ be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+          "answer": "unto, shoulder, shall",
+          "keywords": [
+            "unto",
+            "shoulder",
+            "shall"
+          ],
+          "explanation": "The full text is: For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+          "source_section": "Isaiah 9:6"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said, Lord, I believe. And he worshipped him.'",
+          "options": [
+            "A. John 9:38",
+            "B. John 10:38",
+            "C. John 9:37",
+            "D. John 9:39"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he said, Lord, I believe. And he worshipped him.' is found in John 9:38.",
+          "source_section": "John 9:38"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 9:38:\nAnd he _____, _____, I believe. And he _____ him.",
+          "answer": "said, Lord, worshipped",
+          "keywords": [
+            "said",
+            "Lord",
+            "worshipped"
+          ],
+          "explanation": "The full text is: And he said, Lord, I believe. And he worshipped him.",
+          "source_section": "John 9:38"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.'",
+          "options": [
+            "A. Hebrews 1:9",
+            "B. Hebrews 2:8",
+            "C. Hebrews 1:8",
+            "D. Hebrews 1:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.' is found in Hebrews 1:8.",
+          "source_section": "Hebrews 1:8"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 1:8:\nBut unto the Son he _____, Thy _____, O God, is for ever and ever: a sceptre of righteousness is the _____ of thy kingdom.",
+          "answer": "saith, throne, sceptre",
+          "keywords": [
+            "saith",
+            "throne",
+            "sceptre"
+          ],
+          "explanation": "The full text is: But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.",
+          "source_section": "Hebrews 1:8"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.'",
+          "options": [
+            "A. Exodus 3:13",
+            "B. Exodus 3:14",
+            "C. Exodus 4:14",
+            "D. Exodus 3:15"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.' is found in Exodus 3:14.",
+          "source_section": "Exodus 3:14"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 3:14:\nAnd God said unto _____, I AM THAT I AM: and he _____, Thus shalt _____ say unto the children of Israel, I AM hath sent me unto you.",
+          "answer": "Moses, said, thou",
+          "keywords": [
+            "Moses",
+            "said",
+            "thou"
+          ],
+          "explanation": "The full text is: And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+          "source_section": "Exodus 3:14"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.'",
+          "options": [
+            "A. Matthew 1:24",
+            "B. Matthew 1:22",
+            "C. Matthew 1:23",
+            "D. Matthew 2:23"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.' is found in Matthew 1:23.",
+          "source_section": "Matthew 1:23"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 1:23:\nBehold, a _____ shall be with _____, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God _____ us.",
+          "answer": "virgin, child, with",
+          "keywords": [
+            "virgin",
+            "child",
+            "with"
+          ],
+          "explanation": "The full text is: Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
+          "source_section": "Matthew 1:23"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.'",
+          "options": [
+            "A. Matthew 16:22",
+            "B. Matthew 17:21",
+            "C. Matthew 16:21",
+            "D. Matthew 16:20"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.' is found in Matthew 16:21.",
+          "source_section": "Matthew 16:21"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 16:21:\n\u00b6 From that _____ _____ began _____ to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.",
+          "answer": "time, forth, Jesus",
+          "keywords": [
+            "time",
+            "forth",
+            "Jesus"
+          ],
+          "explanation": "The full text is: \u00b6 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.",
+          "source_section": "Matthew 16:21"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.'",
+          "options": [
+            "A. Revelation 23:11",
+            "B. Revelation 22:12",
+            "C. Revelation 22:11-12",
+            "D. Revelation 22:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.' is found in Revelation 22:11-12.",
+          "source_section": "Revelation 22:11-12"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 22:11-12:\nHe that is unjust, let him be unjust still: and he which is _____, let him be filthy still: and he that is righteous, let him be righteous _____: and he that is holy, let him be _____ still.",
+          "answer": "filthy, still, holy",
+          "keywords": [
+            "filthy",
+            "still",
+            "holy"
+          ],
+          "explanation": "The full text is: He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.",
+          "source_section": "Revelation 22:11-12"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;'",
+          "options": [
+            "A. Titus 2:12",
+            "B. Titus 2:13",
+            "C. Titus 3:13",
+            "D. Titus 2:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;' is found in Titus 2:13.",
+          "source_section": "Titus 2:13"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Titus 2:13:\nLooking for that _____ _____, and the glorious appearing of the _____ God and our Saviour Jesus Christ;",
+          "answer": "blessed, hope, great",
+          "keywords": [
+            "blessed",
+            "hope",
+            "great"
+          ],
+          "explanation": "The full text is: Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+          "source_section": "Titus 2:13"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For where two or three are gathered together in my name, there am I in the midst of them.'",
+          "options": [
+            "A. Matthew 18:20",
+            "B. Matthew 18:21",
+            "C. Matthew 18:19",
+            "D. Matthew 19:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For where two or three are gathered together in my name, there am I in the midst of them.' is found in Matthew 18:20.",
+          "source_section": "Matthew 18:20"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 18:20:\nFor _____ two or _____ are gathered together in my name, there am I in the _____ of them.",
+          "answer": "where, three, midst",
+          "keywords": [
+            "where",
+            "three",
+            "midst"
+          ],
+          "explanation": "The full text is: For where two or three are gathered together in my name, there am I in the midst of them.",
+          "source_section": "Matthew 18:20"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.'",
+          "options": [
+            "A. Acts 5:30",
+            "B. Acts 6:31",
+            "C. Acts 5:32",
+            "D. Acts 5:31"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.' is found in Acts 5:31.",
+          "source_section": "Acts 5:31"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 5:31:\nHim hath God exalted _____ his right hand to be a Prince and a Saviour, for to _____ repentance to Israel, and _____ of sins.",
+          "answer": "with, give, forgiveness",
+          "keywords": [
+            "with",
+            "give",
+            "forgiveness"
+          ],
+          "explanation": "The full text is: Him hath God exalted with his right hand to be a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.",
+          "source_section": "Acts 5:31"
+        },
+        {
+          "id": "BW0Q43",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.'",
+          "options": [
+            "A. Mark 8:32",
+            "B. Mark 8:31",
+            "C. Mark 9:31",
+            "D. Mark 8:30"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.' is found in Mark 8:31.",
+          "source_section": "Mark 8:31"
+        },
+        {
+          "id": "BW0Q44",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 8:31:\nAnd he began to teach them, _____ the Son of man must suffer many things, and be rejected of the elders, and of the _____ priests, and scribes, and be killed, and _____ three days rise again.",
+          "answer": "that, chief, after",
+          "keywords": [
+            "that",
+            "chief",
+            "after"
+          ],
+          "explanation": "The full text is: And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.",
+          "source_section": "Mark 8:31"
+        },
+        {
+          "id": "BW0Q45",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;'",
+          "options": [
+            "A. 2 Timothy 4:2",
+            "B. 2 Timothy 4:3",
+            "C. 2 Timothy 5:1",
+            "D. 2 Timothy 4:1"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;' is found in 2 Timothy 4:1.",
+          "source_section": "2 Timothy 4:1"
+        },
+        {
+          "id": "BW0Q46",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 4:1:\nI charge thee therefore before God, and the _____ _____ _____, who shall judge the quick and the dead at his appearing and his kingdom;",
+          "answer": "Lord, Jesus, Christ",
+          "keywords": [
+            "Lord",
+            "Jesus",
+            "Christ"
+          ],
+          "explanation": "The full text is: I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;",
+          "source_section": "2 Timothy 4:1"
+        },
+        {
+          "id": "BW0Q47",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:'",
+          "options": [
+            "A. Colossians 1:15",
+            "B. Colossians 2:16",
+            "C. Colossians 1:17",
+            "D. Colossians 1:16-17"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:' is found in Colossians 1:16-17.",
+          "source_section": "Colossians 1:16-17"
+        },
+        {
+          "id": "BW0Q48",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 1:16-17:\nFor by him were all things created, that are in _____, and that are in earth, visible and invisible, whether _____ be thrones, or dominions, or principalities, or _____: all things were created by him, and for him:",
+          "answer": "heaven, they, powers",
+          "keywords": [
+            "heaven",
+            "they",
+            "powers"
+          ],
+          "explanation": "The full text is: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:",
+          "source_section": "Colossians 1:16-17"
+        },
+        {
+          "id": "BW0Q49",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.'",
+          "options": [
+            "A. Matthew 14:33",
+            "B. Matthew 15:33",
+            "C. Matthew 14:32",
+            "D. Matthew 14:34"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.' is found in Matthew 14:33.",
+          "source_section": "Matthew 14:33"
+        },
+        {
+          "id": "BW0Q50",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 14:33:\n_____ they that were in the ship came and worshipped him, _____, Of a _____ thou art the Son of God.",
+          "answer": "Then, saying, truth",
+          "keywords": [
+            "Then",
+            "saying",
+            "truth"
+          ],
+          "explanation": "The full text is: Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.",
+          "source_section": "Matthew 14:33"
+        },
+        {
+          "id": "BW0Q51",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In the beginning was the Word, and the Word was with God, and the Word was God.'",
+          "options": [
+            "A. John 1:1-5,14",
+            "B. John 1:2",
+            "C. John 2:1",
+            "D. John 1:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'In the beginning was the Word, and the Word was with God, and the Word was God.' is found in John 1:1-5,14.",
+          "source_section": "John 1:1-5,14"
+        },
+        {
+          "id": "BW0Q52",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 1:1-5,14:\nIn the _____ was the _____, and the Word was with God, and the _____ was God.",
+          "answer": "beginning, Word, Word",
+          "keywords": [
+            "beginning",
+            "Word",
+            "Word"
+          ],
+          "explanation": "The full text is: In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "source_section": "John 1:1-5,14"
+        },
+        {
+          "id": "BW0Q53",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;'",
+          "options": [
+            "A. Titus 3:13",
+            "B. Titus 2:13-14",
+            "C. Titus 2:12",
+            "D. Titus 2:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;' is found in Titus 2:13-14.",
+          "source_section": "Titus 2:13-14"
+        },
+        {
+          "id": "BW0Q54",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Titus 2:13-14:\n_____ for that blessed _____, and the glorious appearing of the great God and our Saviour _____ Christ;",
+          "answer": "Looking, hope, Jesus",
+          "keywords": [
+            "Looking",
+            "hope",
+            "Jesus"
+          ],
+          "explanation": "The full text is: Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+          "source_section": "Titus 2:13-14"
+        },
+        {
+          "id": "BW0Q55",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?'",
+          "options": [
+            "A. Matthew 16:13-16",
+            "B. Matthew 16:14",
+            "C. Matthew 17:13",
+            "D. Matthew 16:12"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?' is found in Matthew 16:13-16.",
+          "source_section": "Matthew 16:13-16"
+        },
+        {
+          "id": "BW0Q56",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 16:13-16:\n\u00b6 When Jesus came _____ the coasts of _____ _____, he asked his disciples, saying, Whom do men say that I the Son of man am?",
+          "answer": "into, Caesarea, Philippi",
+          "keywords": [
+            "into",
+            "Caesarea",
+            "Philippi"
+          ],
+          "explanation": "The full text is: \u00b6 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?",
+          "source_section": "Matthew 16:13-16"
+        },
+        {
+          "id": "BW0Q57",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:'",
+          "options": [
+            "A. 2 Peter 1:1",
+            "B. 2 Peter 1:2",
+            "C. 2 Peter 2:1",
+            "D. 2 Peter 1:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:' is found in 2 Peter 1:1.",
+          "source_section": "2 Peter 1:1"
+        },
+        {
+          "id": "BW0Q58",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Peter 1:1:\nSimon Peter, a servant and an apostle of Jesus Christ, to _____ that _____ obtained like _____ faith with us through the righteousness of God and our Saviour Jesus Christ:",
+          "answer": "them, have, precious",
+          "keywords": [
+            "them",
+            "have",
+            "precious"
+          ],
+          "explanation": "The full text is: Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:",
+          "source_section": "2 Peter 1:1"
+        },
+        {
+          "id": "BW0Q59",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.'",
+          "options": [
+            "A. 2 Timothy 4:7",
+            "B. 2 Timothy 5:8",
+            "C. 2 Timothy 4:9",
+            "D. 2 Timothy 4:8"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.' is found in 2 Timothy 4:8.",
+          "source_section": "2 Timothy 4:8"
+        },
+        {
+          "id": "BW0Q60",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 4:8:\n_____ there is laid up for me a _____ of righteousness, which the Lord, the righteous judge, _____ give me at that day: and not to me only, but unto all them also that love his appearing.",
+          "answer": "Henceforth, crown, shall",
+          "keywords": [
+            "Henceforth",
+            "crown",
+            "shall"
+          ],
+          "explanation": "The full text is: Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.",
+          "source_section": "2 Timothy 4:8"
+        },
+        {
+          "id": "BW0Q61",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.'",
+          "options": [
+            "A. Acts 5:12",
+            "B. Acts 4:13",
+            "C. Acts 4:12",
+            "D. Acts 4:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.' is found in Acts 4:12.",
+          "source_section": "Acts 4:12"
+        },
+        {
+          "id": "BW0Q62",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 4:12:\nNeither is there salvation in any other: for _____ is _____ other name under heaven _____ among men, whereby we must be saved.",
+          "answer": "there, none, given",
+          "keywords": [
+            "there",
+            "none",
+            "given"
+          ],
+          "explanation": "The full text is: Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+          "source_section": "Acts 4:12"
+        },
+        {
+          "id": "BW0Q63",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.'",
+          "options": [
+            "A. John 8:58",
+            "B. John 8:57",
+            "C. John 9:58",
+            "D. John 8:59"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.' is found in John 8:58.",
+          "source_section": "John 8:58"
+        },
+        {
+          "id": "BW0Q64",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 8:58:\nJesus said unto _____, _____, verily, I say unto you, _____ Abraham was, I am.",
+          "answer": "them, Verily, Before",
+          "keywords": [
+            "them",
+            "Verily",
+            "Before"
+          ],
+          "explanation": "The full text is: Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.",
+          "source_section": "John 8:58"
+        },
+        {
+          "id": "BW0Q65",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For in him dwelleth all the fulness of the Godhead bodily.'",
+          "options": [
+            "A. Colossians 2:8",
+            "B. Colossians 2:10",
+            "C. Colossians 2:9",
+            "D. Colossians 3:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For in him dwelleth all the fulness of the Godhead bodily.' is found in Colossians 2:9.",
+          "source_section": "Colossians 2:9"
+        },
+        {
+          "id": "BW0Q66",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 2:9:\nFor in him _____ all the _____ of the _____ bodily.",
+          "answer": "dwelleth, fulness, Godhead",
+          "keywords": [
+            "dwelleth",
+            "fulness",
+            "Godhead"
+          ],
+          "explanation": "The full text is: For in him dwelleth all the fulness of the Godhead bodily.",
+          "source_section": "Colossians 2:9"
+        },
+        {
+          "id": "BW0Q67",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I and my Father are one.'",
+          "options": [
+            "A. John 10:29",
+            "B. John 10:31",
+            "C. John 11:30",
+            "D. John 10:30"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'I and my Father are one.' is found in John 10:30.",
+          "source_section": "John 10:30"
+        },
+        {
+          "id": "BW0Q68",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 10:30:\nI and my _____ are one.",
+          "answer": "Father",
+          "keywords": [
+            "Father"
+          ],
+          "explanation": "The full text is: I and my Father are one.",
+          "source_section": "John 10:30"
+        },
+        {
+          "id": "BW0Q69",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;'",
+          "options": [
+            "A. Revelation 5:9",
+            "B. Revelation 5:8",
+            "C. Revelation 5:10",
+            "D. Revelation 6:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;' is found in Revelation 5:9.",
+          "source_section": "Revelation 5:9"
+        },
+        {
+          "id": "BW0Q70",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 5:9:\nAnd they sung a new song, saying, Thou art worthy to take the book, and to open the seals _____: for thou wast slain, and hast redeemed us to God by thy blood out of every _____, and tongue, and people, and _____;",
+          "answer": "thereof, kindred, nation",
+          "keywords": [
+            "thereof",
+            "kindred",
+            "nation"
+          ],
+          "explanation": "The full text is: And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;",
+          "source_section": "Revelation 5:9"
+        },
+        {
+          "id": "BW0Q71",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when the Lord saw her, he had compassion on her, and said unto her, Weep not.'",
+          "options": [
+            "A. Luke 7:14",
+            "B. Luke 7:13-15",
+            "C. Luke 7:12",
+            "D. Luke 8:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And when the Lord saw her, he had compassion on her, and said unto her, Weep not.' is found in Luke 7:13-15.",
+          "source_section": "Luke 7:13-15"
+        },
+        {
+          "id": "BW0Q72",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 7:13-15:\nAnd _____ the Lord saw her, he had _____ on her, and said unto her, _____ not.",
+          "answer": "when, compassion, Weep",
+          "keywords": [
+            "when",
+            "compassion",
+            "Weep"
+          ],
+          "explanation": "The full text is: And when the Lord saw her, he had compassion on her, and said unto her, Weep not.",
+          "source_section": "Luke 7:13-15"
+        },
+        {
+          "id": "BW0Q73",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.19.14 strength: Heb. rock'",
+          "options": [
+            "A. Psalms 19:15",
+            "B. Psalms 20:14",
+            "C. Psalms 19:14",
+            "D. Psalms 19:13"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.19.14 strength: Heb. rock' is found in Psalms 19:14.",
+          "source_section": "Psalms 19:14"
+        },
+        {
+          "id": "BW0Q74",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalms 19:14:\nLet the words of my mouth, and the _____ of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.19.14 _____: Heb. _____",
+          "answer": "meditation, strength, rock",
+          "keywords": [
+            "meditation",
+            "strength",
+            "rock"
+          ],
+          "explanation": "The full text is: Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.19.14 strength: Heb. rock",
+          "source_section": "Psalms 19:14"
+        }
+      ]
+    }
+  ]
+}

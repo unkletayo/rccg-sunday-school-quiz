@@ -1,0 +1,563 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:09:00Z",
+  "weeks": [
+    {
+      "week_number": 4,
+      "topic": "HODEGEO PNEUMA",
+      "memory_verse_reference": "John 16:13",
+      "questions": [
+        {
+          "id": "W4Q1",
+          "week": 4,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 4?",
+          "options": [
+            "A. THEOS BASILEIA",
+            "B. THE DEITY OF JESUS (PART 2)",
+            "C. HODEGEO PNEUMA",
+            "D. FUNCTIONS OF THE HOLY SPIRIT"
+          ],
+          "answer": "C",
+          "explanation": "The stated topic for Lesson Four is HODEGEO PNEUMA.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W4Q2",
+          "week": 4,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 3?",
+          "options": [
+            "A. HODEGEO PNEUMA",
+            "B. THE DEITY OF JESUS (PART 2)",
+            "C. THEOS BASILEIA",
+            "D. THE WAY, THE TRUTH, AND THE LIFE"
+          ],
+          "answer": "B",
+          "explanation": "The Deity of Jesus (Part 2) was the topic for Week 3.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W4Q3",
+          "week": 4,
+          "category": "greek_hebrew",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what does the Greek word 'Hodegeo' mean?",
+          "options": [
+            "A. Holy Spirit",
+            "B. Guidance",
+            "C. Power",
+            "D. Comforter"
+          ],
+          "answer": "B",
+          "explanation": "The introduction states: 'Hodegeo is a Greek word meaning guidance'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W4Q4",
+          "week": 4,
+          "category": "greek_hebrew",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What does the Greek word 'Pneuma' translate to in English according to the lesson?",
+          "answer": "Holy Spirit",
+          "keywords": ["Holy", "Spirit"],
+          "explanation": "The text says 'while Pneuma is the Holy Spirit.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W4Q5",
+          "week": 4,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "However, when He, the Spirit of truth, has come, He will ________ you into all truth...",
+          "options": [
+            "A. lead",
+            "B. guide",
+            "C. teach",
+            "D. bring"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (John 16:13) says 'He will guide you into all truth'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W4Q6",
+          "week": 4,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "John 16:13",
+          "keywords": ["John", "16:13"],
+          "explanation": "The memory verse reference is John 16:13.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W4Q7",
+          "week": 4,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 4 in full (NKJV).",
+          "answer": "However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come",
+          "keywords": ["Spirit", "truth", "guide", "authority", "speak", "hears", "things", "come"],
+          "explanation": "Full text recall of John 16:13.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W4Q8",
+          "week": 4,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse, on whose authority will the Spirit of truth speak?",
+          "options": [
+            "A. His own authority",
+            "B. The disciples' authority",
+            "C. He will not speak on His own authority, but whatever He hears",
+            "D. The angels' authority"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'for He will not speak on His own authority, but whatever He hears He will speak'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W4Q9",
+          "week": 4,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the memory verse, the Spirit of truth will tell you things of the past, but not things to come.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The verse explicitly states 'and He will tell you things to come'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W4Q10",
+          "week": 4,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Jesus told His disciples that His Father would send the ________ – the Holy Spirit.",
+          "options": [
+            "A. Teacher",
+            "B. Guide",
+            "C. Comforter",
+            "D. Advocate"
+          ],
+          "answer": "C",
+          "explanation": "The intro says 'His Father would send the Comforter – the Holy Spirit'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W4Q11",
+          "week": 4,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Ephesians 1:13-14 cited in the introduction, when does the Holy Spirit become a part of a person's life?",
+          "options": [
+            "A. After water baptism",
+            "B. Immediately when a person believes in Christ",
+            "C. After speaking in tongues",
+            "D. After a period of fasting"
+          ],
+          "answer": "B",
+          "explanation": "The intro states: 'Now, when a person believes in Christ, the Holy Spirit immediately becomes a part of his life (Ephesians 1:13-14).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W4Q12",
+          "week": 4,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical event fulfilled Jesus' promise that the Holy Spirit would come with power?",
+          "options": [
+            "A. The Transfiguration",
+            "B. The Ascension",
+            "C. Pentecost (Acts 2)",
+            "D. The Last Supper"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'fulfilled when the Holy Spirit came with power on believers at Pentecost (Acts 2).'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W4Q13",
+          "week": 4,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline in this lesson?",
+          "answer": "FUNCTIONS OF THE HOLY SPIRIT",
+          "keywords": ["FUNCTIONS", "HOLY", "SPIRIT"],
+          "explanation": "Outline I is titled 'FUNCTIONS OF THE HOLY SPIRIT'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q14",
+          "week": 4,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Corinthians 12:7-11, what is one of the functions of the Holy Spirit?",
+          "options": [
+            "A. He distributes spiritual gifts according to His will",
+            "B. He reproves the world of sin",
+            "C. He seals us until the day of return",
+            "D. He comforts the brokenhearted"
+          ],
+          "answer": "A",
+          "explanation": "The lesson points to 1 Cor 12:7-11 for the fact that 'He distributes spiritual gifts according to His will'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q15",
+          "week": 4,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline I, the Holy Spirit distributes spiritual gifts according to our own personal desires and will.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "It says 'He distributes spiritual gifts according to His will'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q16",
+          "week": 4,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Based on John 16:8 cited in Outline I, what function does the Holy Spirit perform?",
+          "options": [
+            "A. Teaches and reminds",
+            "B. Comforts",
+            "C. Reproves",
+            "D. Seals"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'reproves (John 16:8)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q17",
+          "week": 4,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is the function of the Holy Spirit to 'teach and remind' found in the references given in Outline I?",
+          "verse_text": "teaches and reminds",
+          "options": [
+            "A. John 16:8",
+            "B. John 14:16",
+            "C. John 14:26",
+            "D. Ephesians 4:30"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'teaches and reminds (John 14:26)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q18",
+          "week": 4,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "The Holy Spirit remains in us as a ________ of promise upon our hearts until the day of Jesus’ return (Ephesians 4:30).",
+          "options": [
+            "A. light",
+            "B. sign",
+            "C. seal",
+            "D. token"
+          ],
+          "answer": "C",
+          "explanation": "The text explicitly says 'seal of promise upon our hearts' citing Eph 4:30.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q19",
+          "week": 4,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "In His role as Guide and Counsellor, what does the Holy Spirit reveal to us according to Outline I?",
+          "options": [
+            "A. The future of the world economy",
+            "B. God’s truth",
+            "C. Our enemies' secrets",
+            "D. The exact date of Christ's return"
+          ],
+          "answer": "B",
+          "explanation": "The outline states: 'leading us in the way we should go and revealing God’s truth'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W4Q20",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline in this lesson?",
+          "answer": "OUR THOUGHTS VERSUS THE HOLY SPIRIT’S LEADING",
+          "keywords": ["OUR", "THOUGHTS", "VERSUS", "HOLY", "SPIRIT", "LEADING"],
+          "explanation": "Outline II is titled 'OUR THOUGHTS VERSUS THE HOLY SPIRIT’S LEADING'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q21",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline II, fear is a product of uncontrolled thoughts.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states: 'Fear is a product of uncontrolled thoughts.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q22",
+          "week": 4,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which Bible reference supports the idea that our thoughts may be sensual?",
+          "options": [
+            "A. Romans 8:5",
+            "B. Romans 9:1",
+            "C. 2 Timothy 3:16",
+            "D. Psalm 119:11"
+          ],
+          "answer": "A",
+          "explanation": "The lesson says 'Our thoughts may be sensual (Romans 8:5).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q23",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What does the lesson say we should do even when our thought seems positive?",
+          "options": [
+            "A. Act on it immediately",
+            "B. Check with the Holy Spirit",
+            "C. Ask our friends for advice",
+            "D. Ignore it"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'It is important to check with the Holy Spirit even when the thought seems positive.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q24",
+          "week": 4,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "The Holy Spirit sometimes guides us through our ________ (Romans 9:1).",
+          "options": [
+            "A. dreams",
+            "B. pastors",
+            "C. conscience",
+            "D. circumstances"
+          ],
+          "answer": "C",
+          "explanation": "The lesson notes: 'The Holy Spirit sometimes guides us through our conscience (Romans 9:1).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q25",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is described as one of the most important ways to recognise the Holy Spirit's guidance (supported by 2 Timothy 3:16)?",
+          "options": [
+            "A. Inner peace",
+            "B. The word of God",
+            "C. Advice from elders",
+            "D. Dreams and visions"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'The word of God is one of the most important ways to recognise the Holy Spirit’s guidance'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q26",
+          "week": 4,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that knowledge of God's word helps us discern whether our desires come from the Holy Spirit?",
+          "options": [
+            "A. Psalm 119:11",
+            "B. Romans 15:13",
+            "C. Acts 7:51",
+            "D. Ephesians 4:30"
+          ],
+          "answer": "A",
+          "explanation": "The text links this directly to '(Psalm 119:11)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q27",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the leading of the Holy Spirit bring, according to Romans 15:13?",
+          "options": [
+            "A. Wealth",
+            "B. Confusion",
+            "C. Peace",
+            "D. Trials"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'Tho leading of the Holy Spirit also brings peace (Romans 15:13).' Note: typo in original text 'pea' meant 'peace'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q28",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "true_false",
+          "question": "When we know the will of God but do not follow it, we are resisting the Spirit’s work in our lives.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The lesson states exactly this, citing Acts 7:51 and 1 Thess 5:19.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q29",
+          "week": 4,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Ephesians 4:30 as used in Outline II, what is the result of following our own ways instead of God's will?",
+          "options": [
+            "A. It angers the Father",
+            "B. It grieves the Holy Spirit",
+            "C. It quenches the Spirit",
+            "D. It removes the Spirit from us"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'When we follow our ways, it grieves Him (Ephesians 4:30).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q30",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "________ sin will cause us to miss what the Holy Spirit wants to say to us through the word.",
+          "options": [
+            "A. Unconfessed",
+            "B. Habitual",
+            "C. Secret",
+            "D. Intentional"
+          ],
+          "answer": "B",
+          "explanation": "The lesson explicitly warns: 'Habitual sin will cause us to miss what the Holy Spirit wants to say...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q31",
+          "week": 4,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What does the conclusion of the lesson urge believers to do?",
+          "options": [
+            "A. Be constantly in tune with the Holy Spirit",
+            "B. Fast and pray for 40 days",
+            "C. Speak in tongues every morning",
+            "D. Avoid all worldly activities"
+          ],
+          "answer": "A",
+          "explanation": "The conclusion is a simple command: 'Be constantly in tune with the Holy Spirit.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W4Q32",
+          "week": 4,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? '“I still have many things to say to you, but you cannot bear them now.'",
+          "verse_text": "“I still have many things to say to you, but you cannot bear them now.",
+          "options": [
+            "A. John 16:12",
+            "B. John 14:26",
+            "C. Romans 8:26",
+            "D. Luke 12:12"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 12 from the main Bible Passage, John 16:12-14.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W4Q33",
+          "week": 4,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (John 16:14), how will the Spirit of truth glorify Jesus?",
+          "options": [
+            "A. By performing miracles in His name",
+            "B. By taking what is His and declaring it to the disciples",
+            "C. By making His enemies His footstool",
+            "D. By raising the dead"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'He will glorify Me, for He will take of what is Mine and declare it to you.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W4Q34",
+          "week": 4,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "The lesson teaches that our thoughts can be unstable and misleading, and that they often wander from one end to another.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "answer": "A",
+          "explanation": "Outline II states: 'Thoughts can be unstable and sometimes misleading. It wanders from one end to another.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W4Q35",
+          "week": 4,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are given to support the necessity of being in continual prayer (in the Spirit) to keep our hearts open to the Spirit's leading?",
+          "options": [
+            "A. 1 Thessalonians 5:17; Romans 8:26-27",
+            "B. 2 Timothy 3:16; 2:15",
+            "C. Ephesians 1:13-14",
+            "D. 1 Corinthians 12:7-11"
+          ],
+          "answer": "A",
+          "explanation": "The lesson pairs '(1 Thessalonians 5:17; Romans 8:26-27)' with this point.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

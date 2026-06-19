@@ -1,0 +1,564 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:17:00Z",
+  "weeks": [
+    {
+      "week_number": 12,
+      "topic": "DOMINION THROUGH PRAYERS",
+      "memory_verse_reference": "Matthew 18:18",
+      "questions": [
+        {
+          "id": "W12Q1",
+          "week": 12,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 12?",
+          "options": [
+            "A. WORKPLACE MINISTRY",
+            "B. THE HOW",
+            "C. BIBLICAL EXAMPLES",
+            "D. DOMINION THROUGH PRAYERS"
+          ],
+          "answer": "D",
+          "explanation": "The topic explicitly given for Lesson Twelve is DOMINION THROUGH PRAYERS.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W12Q2",
+          "week": 12,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 11?",
+          "options": [
+            "A. DOMINION THROUGH PRAYERS",
+            "B. WORKPLACE MINISTRY",
+            "C. SPIRITUAL MATURITY",
+            "D. PROPHECY"
+          ],
+          "answer": "B",
+          "explanation": "Workplace Ministry was the topic for Week 11.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W12Q3",
+          "week": 12,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Assuredly, I say to you, whatever you ________ on earth will be bound in heaven...",
+          "options": [
+            "A. loose",
+            "B. tie",
+            "C. bind",
+            "D. decree"
+          ],
+          "answer": "C",
+          "explanation": "Matthew 18:18 says 'whatever you bind on earth'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W12Q4",
+          "week": 12,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Matthew 18:18",
+          "keywords": ["Matthew", "18:18"],
+          "explanation": "The memory verse reference is Matthew 18:18.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W12Q5",
+          "week": 12,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 12 in full (NKJV).",
+          "answer": "Assuredly, I say to you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.",
+          "keywords": ["Assuredly", "bind", "earth", "bound", "heaven", "loose", "loosed"],
+          "explanation": "Full text recall of Matthew 18:18.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W12Q6",
+          "week": 12,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Matthew 18:18), what happens to whatever is loosed on earth?",
+          "options": [
+            "A. It will be ignored in heaven",
+            "B. It will be bound in heaven",
+            "C. It will be loosed in heaven",
+            "D. It will be forgiven"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'and whatever you loose on earth will be loosed in heaven.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W12Q7",
+          "week": 12,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what was God's original intention for mankind? (Supported by Genesis 1:26)",
+          "options": [
+            "A. To live forever on earth",
+            "B. Dominion (ruling and having authority over creation)",
+            "C. To suffer and build character",
+            "D. To pray endlessly"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Dominion, as God’s original intention for mankind (Genesis 1:26), involves ruling and having authority over creation.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W12Q8",
+          "week": 12,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the introduction, the dominion God intended for mankind is purely physical and requires no spiritual connection.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states: 'This dominion is not just physical but spiritual, requiring a connection with God.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W12Q9",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "BIBLICAL EXAMPLES",
+          "keywords": ["BIBLICAL", "EXAMPLES"],
+          "explanation": "Outline I is titled 'BIBLICAL EXAMPLES'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q10",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which biblical figure's persistent prayer and wrestling with an angel led to a transformation from deceit to divine favour?",
+          "options": [
+            "A. Elijah",
+            "B. Jesus",
+            "C. Daniel",
+            "D. Jacob"
+          ],
+          "answer": "D",
+          "explanation": "Point 1 lists 'Jacob: His persistent prayer and wrestling with an angel led to a transformation in his identity...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q11",
+          "week": 12,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show Daniel's unwavering commitment to prayer that led to divine intervention from lions?",
+          "options": [
+            "A. Genesis 32:24-28",
+            "B. Daniel 6:10-23",
+            "C. 1 Kings 18:36-39",
+            "D. 1 Samuel 1:10-20"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Daniel 6:10-23)' for Daniel's example.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q12",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Whose fervent prayers brought down fire from heaven and called for national repentance?",
+          "options": [
+            "A. Elisha",
+            "B. Moses",
+            "C. Elijah",
+            "D. Samuel"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 lists 'Elijah: His fervent prayers brought down fire from heaven...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q13",
+          "week": 12,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are listed to support the example of Elijah's fervent prayers demonstrating God's power?",
+          "options": [
+            "A. 1 Kings 18:36-39; James 5:16-18",
+            "B. Luke 22:39-44; Romans 8:26-27",
+            "C. Daniel 6:10-23; Psalm 66:18",
+            "D. 1 Samuel 1:10-20; Philippians 4:6"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(1 Kings 18:36-39; James 5:16-18)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q14",
+          "week": 12,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "________'s heartfelt prayers and faith resulted in the miraculous birth of Samuel, showing dominion over her situation.",
+          "options": [
+            "A. Sarah",
+            "B. Rachel",
+            "C. Hannah",
+            "D. Elizabeth"
+          ],
+          "answer": "C",
+          "explanation": "Point 4 lists 'Hannah: Her heartfelt prayers and faith resulted in the miraculous birth of Samuel...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q15",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "In the Garden of Gethsemane, Jesus' prayer aligned His will with God's to do what?",
+          "options": [
+            "A. Defeat the Roman army",
+            "B. Bring down fire from heaven",
+            "C. Gain strength to face the cross and secure victory over sin and death",
+            "D. Stop the crucifixion"
+          ],
+          "answer": "C",
+          "explanation": "Point 5 lists 'Jesus... giving Him the strength to face the cross and secure victory over sin and death (Luke 22:39-44).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q16",
+          "week": 12,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE HOW",
+          "keywords": ["THE", "HOW"],
+          "explanation": "Outline II is titled 'THE HOW'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q17",
+          "week": 12,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the principle 'Pray with Faith', how should we approach God? (Supported by Mark 11:24)",
+          "options": [
+            "A. With fear and trembling",
+            "B. With confidence and trust in His ability to answer",
+            "C. With a long list of demands",
+            "D. By fasting for 40 days"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'Pray with Faith: Approach God with confidence and trust in His ability to answer your prayers (Mark 11:24).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q18",
+          "week": 12,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that effective prayers must align with God's word and will ('Pray According to God's Will')?",
+          "options": [
+            "A. 1 John 5:14-15",
+            "B. Luke 18:1-8",
+            "C. Mark 11:24",
+            "D. Psalm 66:18"
+          ],
+          "answer": "A",
+          "explanation": "The lesson points to '(1 John 5:14-15)' for praying according to God's will.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q19",
+          "week": 12,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what does praying persistently demonstrate?",
+          "options": [
+            "A. That God is hard of hearing",
+            "B. Faith and dependence on God, leading to breakthroughs",
+            "C. That we are unsure of what we want",
+            "D. A lack of understanding of God's timing"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 states 'Persistent prayers demonstrate faith and dependence on God, leading to breakthroughs.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q20",
+          "week": 12,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "How does 'Praying in the Spirit' help believers, according to the lesson?",
+          "options": [
+            "A. It ensures everyone in the room can hear the prayer",
+            "B. It strengthens communication with God beyond human capability",
+            "C. It immediately causes miracles to happen",
+            "D. It removes the need to read the Bible"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Praying in the Holy Ghost strengthens communication with God beyond human capability...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q21",
+          "week": 12,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "A righteous lifestyle has no effect on prayer, as long as you pray fervently.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Point 5 says 'Live Righteously: A righteous lifestyle enhances the effectiveness of prayer, while sin hinders it.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q22",
+          "week": 12,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited to show that sin hinders prayer?",
+          "options": [
+            "A. James 5:16",
+            "B. Psalm 66:18",
+            "C. Philippians 4:6",
+            "D. Romans 8:26"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'while sin hinders it (Psalm 66:18).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q23",
+          "week": 12,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Incorporate ________: Gratitude and worship magnify God's power and shift our focus to Him (Philippians 4:6).",
+          "options": [
+            "A. fasting",
+            "B. thanksgiving",
+            "C. tears",
+            "D. rituals"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 is titled 'Incorporate Thanksgiving'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q24",
+          "week": 12,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion of the lesson states that prayer is the key to transforming situations, achieving victory and walking in dominion.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states this word-for-word.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W12Q25",
+          "week": 12,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Then the word of the Lord came to him, saying, “Get away from here and turn eastward...\"'",
+          "verse_text": "Then the word of the Lord came to him, saying, “Get away from here and turn eastward...\"",
+          "options": [
+            "A. 1 Kings 17:1",
+            "B. 1 Kings 17:2-3",
+            "C. 1 Kings 18:36",
+            "D. Genesis 32:24"
+          ],
+          "answer": "B",
+          "explanation": "This corresponds to verses 2 and 3 of the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W12Q26",
+          "week": 12,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (1 Kings 17:1), who told Ahab there would be no dew or rain?",
+          "options": [
+            "A. Elisha the prophet",
+            "B. Elijah the Tishbite",
+            "C. Samuel the seer",
+            "D. Jacob"
+          ],
+          "answer": "B",
+          "explanation": "1 Kings 17:1 reads 'And Elijah the Tishbite... said to Ahab...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W12Q27",
+          "week": 12,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage, where did God tell Elijah to hide?",
+          "options": [
+            "A. In the cave of Adullam",
+            "B. By the Brook Cherith",
+            "C. On Mount Carmel",
+            "D. In the wilderness of Sin"
+          ],
+          "answer": "B",
+          "explanation": "1 Kings 17:3 says 'hide by the Brook Cherith, which flows into the Jordan.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W12Q28",
+          "week": 12,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "How did God command Elijah to be fed while he was hiding by the brook? (1 Kings 17:4)",
+          "options": [
+            "A. By the widow of Zarephath",
+            "B. By angels who brought manna",
+            "C. I have commanded the ravens to feed you there",
+            "D. By a miraculous jar of flour"
+          ],
+          "answer": "C",
+          "explanation": "Verse 4 says 'and I have commanded the ravens to feed you there.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W12Q29",
+          "week": 12,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What exactly did the ravens bring Elijah in the morning and evening? (1 Kings 17:6)",
+          "options": [
+            "A. Water and fruit",
+            "B. Bread and meat",
+            "C. Honey and locusts",
+            "D. Fish and loaves"
+          ],
+          "answer": "B",
+          "explanation": "Verse 6 states 'The ravens brought him bread and meat in the morning, and bread and meat in the evening'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W12Q30",
+          "week": 12,
+          "category": "bible_verse_meaning",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to 1 Kings 17:7, why did the brook eventually dry up?",
+          "options": [
+            "A. Because Ahab found it",
+            "B. Because the ravens drank it all",
+            "C. Because there had been no rain in the land",
+            "D. Because Elijah commanded it to dry"
+          ],
+          "answer": "C",
+          "explanation": "Verse 7 says 'because there had been no rain in the land.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W12Q31",
+          "week": 12,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited to show that 'Holiness is key to having dominion through prayer'?",
+          "options": [
+            "A. James 5:16",
+            "B. Luke 18:1-8",
+            "C. Mark 11:24",
+            "D. Philippians 4:6"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Holiness is key to having dominion through prayer (James 5:16).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q32",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, Daniel's prayer demonstrated that a righteous lifestyle hinders the effectiveness of prayer.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "A righteous lifestyle enhances it; sin hinders it.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q33",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "In the example of Jesus, His prayer in the Garden of Gethsemane aligned His ________ with God's.",
+          "options": [
+            "A. disciples",
+            "B. power",
+            "C. will",
+            "D. words"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Jesus’ prayer aligned His will with God’s...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W12Q34",
+          "week": 12,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures support 'Praying in the Spirit'?",
+          "options": [
+            "A. Ephesians 6:18; Romans 8:26-27",
+            "B. Luke 22:39-44",
+            "C. 1 John 5:14-15",
+            "D. James 5:16-18"
+          ],
+          "answer": "A",
+          "explanation": "The lesson lists '(Ephesians 6:18; Romans 8:26-27)' under Pray in the Spirit.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W12Q35",
+          "week": 12,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Through prayer, believers gain access to divine strategies, power, and intervention, allowing them to overcome challenges.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction explicitly states this word-for-word.",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

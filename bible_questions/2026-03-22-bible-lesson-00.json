@@ -1,0 +1,804 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "COPING WITH LOSS",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.34.18 unto\u2026: Heb. to the broken of heart34.18 of a contrite\u2026: Heb. contrite of spirit'",
+          "options": [
+            "A. Psalm 34:17",
+            "B. Psalm 34:19",
+            "C. Psalm 34:18",
+            "D. Psalm 35:18"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.34.18 unto\u2026: Heb. to the broken of heart34.18 of a contrite\u2026: Heb. contrite of spirit' is found in Psalm 34:18.",
+          "source_section": "Psalm 34:18"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 34:18:\nThe LORD is nigh unto them that are of a _____ heart; and saveth _____ as be of a contrite spirit.34.18 unto\u2026: Heb. to the broken of heart34.18 of a _____: Heb. contrite of spirit",
+          "answer": "broken, such, contrite\u2026",
+          "keywords": [
+            "broken",
+            "such",
+            "contrite\u2026"
+          ],
+          "explanation": "The full text is: The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.34.18 unto\u2026: Heb. to the broken of heart34.18 of a contrite\u2026: Heb. contrite of spirit",
+          "source_section": "Psalm 34:18"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Man that is born of a woman is of few days, and full of trouble.14.1 few\u2026: Heb. short of days'",
+          "options": [
+            "A. Job 14:1-2",
+            "B. Job 15:1",
+            "C. Job 14:3",
+            "D. Job 14:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Man that is born of a woman is of few days, and full of trouble.14.1 few\u2026: Heb. short of days' is found in Job 14:1-2.",
+          "source_section": "Job 14:1-2"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 14:1-2:\nMan that is born of a woman is of few _____, and full of trouble.14.1 _____: Heb. _____ of days",
+          "answer": "days, few\u2026, short",
+          "keywords": [
+            "days",
+            "few\u2026",
+            "short"
+          ],
+          "explanation": "The full text is: Man that is born of a woman is of few days, and full of trouble.14.1 few\u2026: Heb. short of days",
+          "source_section": "Job 14:1-2"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Now when Job\u2019s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.'",
+          "options": [
+            "A. Job 3:11",
+            "B. Job 2:12",
+            "C. Job 2:10",
+            "D. Job 2:11-13"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Now when Job\u2019s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.' is found in Job 2:11-13.",
+          "source_section": "Job 2:11-13"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 2:11-13:\n\u00b6 Now when Job\u2019s three friends heard of all this evil that was come upon him, they came every one from his own _____; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for _____ had made an appointment together to come to mourn with him and to _____ him.",
+          "answer": "place, they, comfort",
+          "keywords": [
+            "place",
+            "they",
+            "comfort"
+          ],
+          "explanation": "The full text is: \u00b6 Now when Job\u2019s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.",
+          "source_section": "Job 2:11-13"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation'",
+          "options": [
+            "A. Jeremiah 29:11",
+            "B. Jeremiah 29:12",
+            "C. Jeremiah 30:11",
+            "D. Jeremiah 29:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation' is found in Jeremiah 29:11.",
+          "source_section": "Jeremiah 29:11"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 29:11:\nFor I know the thoughts that I _____ toward you, saith the LORD, _____ of peace, and not of evil, to give you an expected _____ expected\u2026: Heb. end and expectation",
+          "answer": "think, thoughts, end.29.11",
+          "keywords": [
+            "think",
+            "thoughts",
+            "end.29.11"
+          ],
+          "explanation": "The full text is: For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.29.11 expected\u2026: Heb. end and expectation",
+          "source_section": "Jeremiah 29:11"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.'",
+          "options": [
+            "A. Ruth 2:2",
+            "B. Ruth 3:2",
+            "C. Ruth 2:1",
+            "D. Ruth 2:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.' is found in Ruth 2:2.",
+          "source_section": "Ruth 2:2"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ruth 2:2:\nAnd Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose _____ I _____ find grace. And she said unto her, Go, my _____.",
+          "answer": "sight, shall, daughter",
+          "keywords": [
+            "sight",
+            "shall",
+            "daughter"
+          ],
+          "explanation": "The full text is: And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.",
+          "source_section": "Ruth 2:2"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.73.26 strength: Heb. rock'",
+          "options": [
+            "A. Psalm 73:25",
+            "B. Psalm 74:26",
+            "C. Psalm 73:26",
+            "D. Psalm 73:27"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.73.26 strength: Heb. rock' is found in Psalm 73:26.",
+          "source_section": "Psalm 73:26"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 73:26:\nMy flesh and my _____ faileth: but God is the strength of my heart, and my portion for _____ _____: Heb. rock",
+          "answer": "heart, ever.73.26, strength",
+          "keywords": [
+            "heart",
+            "ever.73.26",
+            "strength"
+          ],
+          "explanation": "The full text is: My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.73.26 strength: Heb. rock",
+          "source_section": "Psalm 73:26"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;'",
+          "options": [
+            "A. 1 Samuel 30:1-4",
+            "B. 1 Samuel 31:1",
+            "C. 1 Samuel 30:2",
+            "D. 1 Samuel 30:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;' is found in 1 Samuel 30:1-4.",
+          "source_section": "1 Samuel 30:1-4"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 30:1-4:\nAnd it came to pass, when David and his men were come to _____ on the _____ day, that the Amalekites had invaded the south, and Ziklag, and _____ Ziklag, and burned it with fire;",
+          "answer": "Ziklag, third, smitten",
+          "keywords": [
+            "Ziklag",
+            "third",
+            "smitten"
+          ],
+          "explanation": "The full text is: And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;",
+          "source_section": "1 Samuel 30:1-4"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!'",
+          "options": [
+            "A. 2 Samuel 18:32",
+            "B. 2 Samuel 19:33",
+            "C. 2 Samuel 18:34",
+            "D. 2 Samuel 18:33"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!' is found in 2 Samuel 18:33.",
+          "source_section": "2 Samuel 18:33"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Samuel 18:33:\n\u00b6 And the king was much moved, and went up to the chamber over the _____, and wept: and as he went, thus he _____, O my son Absalom, my son, my son Absalom! would God I had died for thee, O _____, my son, my son!",
+          "answer": "gate, said, Absalom",
+          "keywords": [
+            "gate",
+            "said",
+            "Absalom"
+          ],
+          "explanation": "The full text is: \u00b6 And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!",
+          "source_section": "2 Samuel 18:33"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'God is our refuge and strength, a very present help in trouble.46.1 for: or, of'",
+          "options": [
+            "A. Psalm 46:2",
+            "B. Psalm 47:1",
+            "C. Psalm 46:1",
+            "D. Psalm 46:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'God is our refuge and strength, a very present help in trouble.46.1 for: or, of' is found in Psalm 46:1.",
+          "source_section": "Psalm 46:1"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 46:1:\nGod is our refuge and strength, a _____ present _____ in _____ for: or, of",
+          "answer": "very, help, trouble.46.1",
+          "keywords": [
+            "very",
+            "help",
+            "trouble.46.1"
+          ],
+          "explanation": "The full text is: God is our refuge and strength, a very present help in trouble.46.1 for: or, of",
+          "source_section": "Psalm 46:1"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.'",
+          "options": [
+            "A. Proverbs 24:6",
+            "B. Proverbs 24:5",
+            "C. Proverbs 25:6",
+            "D. Proverbs 24:7"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.' is found in Proverbs 24:6.",
+          "source_section": "Proverbs 24:6"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 24:6:\nFor by wise _____ thou shalt make thy war: and in multitude of counsellors _____ is _____.",
+          "answer": "counsel, there, safety",
+          "keywords": [
+            "counsel",
+            "there",
+            "safety"
+          ],
+          "explanation": "The full text is: For by wise counsel thou shalt make thy war: and in multitude of counsellors there is safety.",
+          "source_section": "Proverbs 24:6"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.'",
+          "options": [
+            "A. Philippians 5:6",
+            "B. Philippians 4:6-7",
+            "C. Philippians 4:5",
+            "D. Philippians 4:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.' is found in Philippians 4:6-7.",
+          "source_section": "Philippians 4:6-7"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 4:6-7:\nBe careful for nothing; but in every thing by _____ and supplication _____ thanksgiving let your requests be _____ known unto God.",
+          "answer": "prayer, with, made",
+          "keywords": [
+            "prayer",
+            "with",
+            "made"
+          ],
+          "explanation": "The full text is: Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+          "source_section": "Philippians 4:6-7"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,1.20 mantle: or, robe'",
+          "options": [
+            "A. Job 1:20-22",
+            "B. Job 1:19",
+            "C. Job 2:20",
+            "D. Job 1:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,1.20 mantle: or, robe' is found in Job 1:20-22.",
+          "source_section": "Job 1:20-22"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 1:20-22:\nThen Job arose, and rent his _____, and shaved his head, and fell down upon the _____, and worshipped,1.20 mantle: or, _____",
+          "answer": "mantle, ground, robe",
+          "keywords": [
+            "mantle",
+            "ground",
+            "robe"
+          ],
+          "explanation": "The full text is: Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,1.20 mantle: or, robe",
+          "source_section": "Job 1:20-22"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;'",
+          "options": [
+            "A. 2 Corinthians 1:4",
+            "B. 2 Corinthians 1:2",
+            "C. 2 Corinthians 1:3-4",
+            "D. 2 Corinthians 2:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;' is found in 2 Corinthians 1:3-4.",
+          "source_section": "2 Corinthians 1:3-4"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 1:3-4:\n_____ be God, even the _____ of our Lord _____ Christ, the Father of mercies, and the God of all comfort;",
+          "answer": "Blessed, Father, Jesus",
+          "keywords": [
+            "Blessed",
+            "Father",
+            "Jesus"
+          ],
+          "explanation": "The full text is: Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
+          "source_section": "2 Corinthians 1:3-4"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.'",
+          "options": [
+            "A. 1 Thessalonians 5:13",
+            "B. 1 Thessalonians 4:13-14",
+            "C. 1 Thessalonians 4:12",
+            "D. 1 Thessalonians 4:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.' is found in 1 Thessalonians 4:13-14.",
+          "source_section": "1 Thessalonians 4:13-14"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 4:13-14:\nBut I would not have you to be ignorant, _____, concerning _____ which are asleep, that ye sorrow not, _____ as others which have no hope.",
+          "answer": "brethren, them, even",
+          "keywords": [
+            "brethren",
+            "them",
+            "even"
+          ],
+          "explanation": "The full text is: But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
+          "source_section": "1 Thessalonians 4:13-14"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For my sighing cometh before I eat, and my roarings are poured out like the waters.3.24 I eat: Heb. my meat'",
+          "options": [
+            "A. Job 3:25",
+            "B. Job 4:24",
+            "C. Job 3:23",
+            "D. Job 3:24-26"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For my sighing cometh before I eat, and my roarings are poured out like the waters.3.24 I eat: Heb. my meat' is found in Job 3:24-26.",
+          "source_section": "Job 3:24-26"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 3:24-26:\nFor my sighing cometh _____ I eat, and my roarings are poured out _____ the waters.3.24 I eat: Heb. my _____",
+          "answer": "before, like, meat",
+          "keywords": [
+            "before",
+            "like",
+            "meat"
+          ],
+          "explanation": "The full text is: For my sighing cometh before I eat, and my roarings are poured out like the waters.3.24 I eat: Heb. my meat",
+          "source_section": "Job 3:24-26"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.'",
+          "options": [
+            "A. 2 Corinthians 1:21",
+            "B. 2 Corinthians 1:20",
+            "C. 2 Corinthians 2:20",
+            "D. 2 Corinthians 1:19"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.' is found in 2 Corinthians 1:20.",
+          "source_section": "2 Corinthians 1:20"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 1:20:\nFor all the _____ of God in him are yea, and in him Amen, _____ the _____ of God by us.",
+          "answer": "promises, unto, glory",
+          "keywords": [
+            "promises",
+            "unto",
+            "glory"
+          ],
+          "explanation": "The full text is: For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.",
+          "source_section": "2 Corinthians 1:20"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Precious in the sight of the LORD is the death of his saints.'",
+          "options": [
+            "A. Psalm 116:14",
+            "B. Psalm 116:15",
+            "C. Psalm 117:15",
+            "D. Psalm 116:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Precious in the sight of the LORD is the death of his saints.' is found in Psalm 116:15.",
+          "source_section": "Psalm 116:15"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 116:15:\n_____ in the _____ of the LORD is the _____ of his saints.",
+          "answer": "Precious, sight, death",
+          "keywords": [
+            "Precious",
+            "sight",
+            "death"
+          ],
+          "explanation": "The full text is: Precious in the sight of the LORD is the death of his saints.",
+          "source_section": "Psalm 116:15"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.'",
+          "options": [
+            "A. 2 Samuel 1:11",
+            "B. 2 Samuel 1:12",
+            "C. 2 Samuel 1:13",
+            "D. 2 Samuel 2:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.' is found in 2 Samuel 1:12.",
+          "source_section": "2 Samuel 1:12"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Samuel 1:12:\nAnd they _____, and wept, and _____ until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; _____ they were fallen by the sword.",
+          "answer": "mourned, fasted, because",
+          "keywords": [
+            "mourned",
+            "fasted",
+            "because"
+          ],
+          "explanation": "The full text is: And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.",
+          "source_section": "2 Samuel 1:12"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To every thing there is a season, and a time to every purpose under the heaven:'",
+          "options": [
+            "A. Ecclesiastes 3:1-2, 4",
+            "B. Another book 5:11",
+            "C. Another book 5:9",
+            "D. Another book 3:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'To every thing there is a season, and a time to every purpose under the heaven:' is found in Ecclesiastes 3:1-2, 4.",
+          "source_section": "Ecclesiastes 3:1-2, 4"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 3:1-2, 4:\nTo every _____ there is a season, and a _____ to every purpose _____ the heaven:",
+          "answer": "thing, time, under",
+          "keywords": [
+            "thing",
+            "time",
+            "under"
+          ],
+          "explanation": "The full text is: To every thing there is a season, and a time to every purpose under the heaven:",
+          "source_section": "Ecclesiastes 3:1-2, 4"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.'",
+          "options": [
+            "A. Romans 8:27",
+            "B. Romans 8:29",
+            "C. Romans 9:28",
+            "D. Romans 8:28"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And we know that all things work together for good to them that love God, to them who are the called according to his purpose.' is found in Romans 8:28.",
+          "source_section": "Romans 8:28"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:28:\nAnd we _____ that all things _____ together for _____ to them that love God, to them who are the called according to his purpose.",
+          "answer": "know, work, good",
+          "keywords": [
+            "know",
+            "work",
+            "good"
+          ],
+          "explanation": "The full text is: And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+          "source_section": "Romans 8:28"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 So David and his men came to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captives.'",
+          "options": [
+            "A. 1 Samuel 31:3",
+            "B. 1 Samuel 30:2",
+            "C. 1 Samuel 30:4",
+            "D. 1 Samuel 30:3-6"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 So David and his men came to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captives.' is found in 1 Samuel 30:3-6.",
+          "source_section": "1 Samuel 30:3-6"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 30:3-6:\n\u00b6 So _____ and his men _____ to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken _____.",
+          "answer": "David, came, captives",
+          "keywords": [
+            "David",
+            "came",
+            "captives"
+          ],
+          "explanation": "The full text is: \u00b6 So David and his men came to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captives.",
+          "source_section": "1 Samuel 30:3-6"
+        },
+        {
+          "id": "BW0Q43",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'O taste and see that the LORD is good: blessed is the man that trusteth in him.'",
+          "options": [
+            "A. Psalm 34:9",
+            "B. Psalm 34:8",
+            "C. Psalm 35:8",
+            "D. Psalm 34:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'O taste and see that the LORD is good: blessed is the man that trusteth in him.' is found in Psalm 34:8.",
+          "source_section": "Psalm 34:8"
+        },
+        {
+          "id": "BW0Q44",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 34:8:\nO taste and see that the _____ is _____: _____ is the man that trusteth in him.",
+          "answer": "LORD, good, blessed",
+          "keywords": [
+            "LORD",
+            "good",
+            "blessed"
+          ],
+          "explanation": "The full text is: O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+          "source_section": "Psalm 34:8"
+        },
+        {
+          "id": "BW0Q45",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Come unto me, all ye that labour and are heavy laden, and I will give you rest.'",
+          "options": [
+            "A. Matthew 11:27",
+            "B. Matthew 11:28",
+            "C. Matthew 11:29",
+            "D. Matthew 12:28"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Come unto me, all ye that labour and are heavy laden, and I will give you rest.' is found in Matthew 11:28.",
+          "source_section": "Matthew 11:28"
+        },
+        {
+          "id": "BW0Q46",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 11:28:\n\u00b6 Come unto me, all ye _____ labour and are _____ laden, and I will give you _____.",
+          "answer": "that, heavy, rest",
+          "keywords": [
+            "that",
+            "heavy",
+            "rest"
+          ],
+          "explanation": "The full text is: \u00b6 Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+          "source_section": "Matthew 11:28"
+        },
+        {
+          "id": "BW0Q47",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Bear ye one another\u2019s burdens, and so fulfil the law of Christ.'",
+          "options": [
+            "A. Galatians 6:1",
+            "B. Galatians 6:3",
+            "C. Galatians 7:2",
+            "D. Galatians 6:2"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Bear ye one another\u2019s burdens, and so fulfil the law of Christ.' is found in Galatians 6:2.",
+          "source_section": "Galatians 6:2"
+        },
+        {
+          "id": "BW0Q48",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 6:2:\nBear ye one _____ _____, and so _____ the law of Christ.",
+          "answer": "another\u2019s, burdens, fulfil",
+          "keywords": [
+            "another\u2019s",
+            "burdens",
+            "fulfil"
+          ],
+          "explanation": "The full text is: Bear ye one another\u2019s burdens, and so fulfil the law of Christ.",
+          "source_section": "Galatians 6:2"
+        }
+      ]
+    }
+  ]
+}

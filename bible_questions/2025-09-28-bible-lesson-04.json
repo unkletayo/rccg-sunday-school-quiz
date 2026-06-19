@@ -1,0 +1,820 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:14Z",
+  "weeks": [
+    {
+      "week_number": 4,
+      "topic": "HODEGEO PNEUMA",
+      "questions": [
+        {
+          "id": "BW4Q1",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.'",
+          "options": [
+            "A. Ephesians 4:31",
+            "B. Ephesians 4:30",
+            "C. Ephesians 5:30",
+            "D. Ephesians 4:29"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.' is found in Ephesians 4:30.",
+          "source_section": "Ephesians 4:30"
+        },
+        {
+          "id": "BW4Q2",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:30:\nAnd _____ not the holy _____ of God, whereby ye are sealed _____ the day of redemption.",
+          "answer": "grieve, Spirit, unto",
+          "keywords": [
+            "grieve",
+            "Spirit",
+            "unto"
+          ],
+          "explanation": "The full text is: And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+          "source_section": "Ephesians 4:30"
+        },
+        {
+          "id": "BW4Q3",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Continue in prayer, and watch in the same with thanksgiving;'",
+          "options": [
+            "A. Colossians 4:2",
+            "B. Colossians 5:2",
+            "C. Colossians 4:3",
+            "D. Colossians 4:1"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Continue in prayer, and watch in the same with thanksgiving;' is found in Colossians 4:2.",
+          "source_section": "Colossians 4:2"
+        },
+        {
+          "id": "BW4Q4",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 4:2:\nContinue in _____, and _____ in the same _____ thanksgiving;",
+          "answer": "prayer, watch, with",
+          "keywords": [
+            "prayer",
+            "watch",
+            "with"
+          ],
+          "explanation": "The full text is: Continue in prayer, and watch in the same with thanksgiving;",
+          "source_section": "Colossians 4:2"
+        },
+        {
+          "id": "BW4Q5",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.'",
+          "options": [
+            "A. John 14:25",
+            "B. John 14:27",
+            "C. John 14:26",
+            "D. John 15:26"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.' is found in John 14:26.",
+          "source_section": "John 14:26"
+        },
+        {
+          "id": "BW4Q6",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:26:\nBut the Comforter, _____ is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and _____ all things to your _____, whatsoever I have said unto you.",
+          "answer": "which, bring, remembrance",
+          "keywords": [
+            "which",
+            "bring",
+            "remembrance"
+          ],
+          "explanation": "The full text is: But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.",
+          "source_section": "John 14:26"
+        },
+        {
+          "id": "BW4Q7",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.'",
+          "options": [
+            "A. Acts 8:51",
+            "B. Acts 7:51",
+            "C. Acts 7:50",
+            "D. Acts 7:52"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.' is found in Acts 7:51.",
+          "source_section": "Acts 7:51"
+        },
+        {
+          "id": "BW4Q8",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 7:51:\n\u00b6 Ye stiffnecked and uncircumcised in _____ and _____, ye do _____ resist the Holy Ghost: as your fathers did, so do ye.",
+          "answer": "heart, ears, always",
+          "keywords": [
+            "heart",
+            "ears",
+            "always"
+          ],
+          "explanation": "The full text is: \u00b6 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.",
+          "source_section": "Acts 7:51"
+        },
+        {
+          "id": "BW4Q9",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,'",
+          "options": [
+            "A. Ephesians 1:14",
+            "B. Ephesians 1:13-14",
+            "C. Ephesians 2:13",
+            "D. Ephesians 1:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,' is found in Ephesians 1:13-14.",
+          "source_section": "Ephesians 1:13-14"
+        },
+        {
+          "id": "BW4Q10",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 1:13-14:\nIn whom ye also trusted, after that ye heard the word of truth, the gospel of your _____: in whom also after _____ ye believed, ye were sealed _____ that holy Spirit of promise,",
+          "answer": "salvation, that, with",
+          "keywords": [
+            "salvation",
+            "that",
+            "with"
+          ],
+          "explanation": "The full text is: In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,",
+          "source_section": "Ephesians 1:13-14"
+        },
+        {
+          "id": "BW4Q11",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Pray without ceasing.'",
+          "options": [
+            "A. 1 Thessalonians 5:17",
+            "B. 1 Thessalonians 5:18",
+            "C. 1 Thessalonians 6:17",
+            "D. 1 Thessalonians 5:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Pray without ceasing.' is found in 1 Thessalonians 5:17.",
+          "source_section": "1 Thessalonians 5:17"
+        },
+        {
+          "id": "BW4Q12",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:'",
+          "options": [
+            "A. 1 Corinthians 2:5",
+            "B. 1 Corinthians 2:7",
+            "C. 1 Corinthians 3:6",
+            "D. 1 Corinthians 2:6-10"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:' is found in 1 Corinthians 2:6-10.",
+          "source_section": "1 Corinthians 2:6-10"
+        },
+        {
+          "id": "BW4Q13",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 2:6-10:\nHowbeit we speak wisdom among them that are perfect: yet not the wisdom of _____ _____, nor of the princes of _____ world, that come to nought:",
+          "answer": "this, world, this",
+          "keywords": [
+            "this",
+            "world",
+            "this"
+          ],
+          "explanation": "The full text is: Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:",
+          "source_section": "1 Corinthians 2:6-10"
+        },
+        {
+          "id": "BW4Q14",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now the things which I write unto you, behold, before God, I lie not.'",
+          "options": [
+            "A. Galatians 1:20",
+            "B. Galatians 2:20",
+            "C. Galatians 1:21",
+            "D. Galatians 1:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Now the things which I write unto you, behold, before God, I lie not.' is found in Galatians 1:20.",
+          "source_section": "Galatians 1:20"
+        },
+        {
+          "id": "BW4Q15",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 1:20:\nNow the things which I _____ _____ you, behold, _____ God, I lie not.",
+          "answer": "write, unto, before",
+          "keywords": [
+            "write",
+            "unto",
+            "before"
+          ],
+          "explanation": "The full text is: Now the things which I write unto you, behold, before God, I lie not.",
+          "source_section": "Galatians 1:20"
+        },
+        {
+          "id": "BW4Q16",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:'",
+          "options": [
+            "A. John 16:8",
+            "B. John 17:8",
+            "C. John 16:7",
+            "D. John 16:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:' is found in John 16:8.",
+          "source_section": "John 16:8"
+        },
+        {
+          "id": "BW4Q17",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 16:8:\nAnd _____ he is come, he will reprove the _____ of sin, and of _____, and of judgment:",
+          "answer": "when, world, righteousness",
+          "keywords": [
+            "when",
+            "world",
+            "righteousness"
+          ],
+          "explanation": "The full text is: And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:",
+          "source_section": "John 16:8"
+        },
+        {
+          "id": "BW4Q18",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;'",
+          "options": [
+            "A. John 14:16",
+            "B. John 14:15",
+            "C. John 14:17",
+            "D. John 15:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;' is found in John 14:16.",
+          "source_section": "John 14:16"
+        },
+        {
+          "id": "BW4Q19",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:16:\nAnd I will _____ the Father, and he _____ give you _____ Comforter, that he may abide with you for ever;",
+          "answer": "pray, shall, another",
+          "keywords": [
+            "pray",
+            "shall",
+            "another"
+          ],
+          "explanation": "The full text is: And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;",
+          "source_section": "John 14:16"
+        },
+        {
+          "id": "BW4Q20",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.'",
+          "options": [
+            "A. Romans 9:5",
+            "B. Romans 8:4",
+            "C. Romans 8:5",
+            "D. Romans 8:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.' is found in Romans 8:5.",
+          "source_section": "Romans 8:5"
+        },
+        {
+          "id": "BW4Q21",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:5:\nFor they that are after the _____ do mind the things of the flesh; but they _____ are after the _____ the things of the Spirit.",
+          "answer": "flesh, that, Spirit",
+          "keywords": [
+            "flesh",
+            "that",
+            "Spirit"
+          ],
+          "explanation": "The full text is: For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.",
+          "source_section": "Romans 8:5"
+        },
+        {
+          "id": "BW4Q22",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I have yet many things to say unto you, but ye cannot bear them now.'",
+          "options": [
+            "A. John 16:12-14",
+            "B. John 16:11",
+            "C. John 16:13",
+            "D. John 17:12"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'I have yet many things to say unto you, but ye cannot bear them now.' is found in John 16:12-14.",
+          "source_section": "John 16:12-14"
+        },
+        {
+          "id": "BW4Q23",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 16:12-14:\nI have yet _____ things to say _____ you, but ye cannot _____ them now.",
+          "answer": "many, unto, bear",
+          "keywords": [
+            "many",
+            "unto",
+            "bear"
+          ],
+          "explanation": "The full text is: I have yet many things to say unto you, but ye cannot bear them now.",
+          "source_section": "John 16:12-14"
+        },
+        {
+          "id": "BW4Q24",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.'",
+          "options": [
+            "A. Acts 10:38",
+            "B. Acts 10:37",
+            "C. Acts 10:39",
+            "D. Acts 11:38"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.' is found in Acts 10:38.",
+          "source_section": "Acts 10:38"
+        },
+        {
+          "id": "BW4Q25",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 10:38:\nHow God anointed Jesus of Nazareth with the _____ Ghost and with power: who went _____ doing good, and healing all that were oppressed of the _____; for God was with him.",
+          "answer": "Holy, about, devil",
+          "keywords": [
+            "Holy",
+            "about",
+            "devil"
+          ],
+          "explanation": "The full text is: How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.",
+          "source_section": "Acts 10:38"
+        },
+        {
+          "id": "BW4Q26",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:'",
+          "options": [
+            "A. 2 Timothy 3:15",
+            "B. 2 Timothy 3:17",
+            "C. 2 Timothy 3:16",
+            "D. 2 Timothy 4:16"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:' is found in 2 Timothy 3:16.",
+          "source_section": "2 Timothy 3:16"
+        },
+        {
+          "id": "BW4Q27",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 3:16:\nAll scripture is given by inspiration of God, and is _____ for doctrine, for reproof, for _____, for _____ in righteousness:",
+          "answer": "profitable, correction, instruction",
+          "keywords": [
+            "profitable",
+            "correction",
+            "instruction"
+          ],
+          "explanation": "The full text is: All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:",
+          "source_section": "2 Timothy 3:16"
+        },
+        {
+          "id": "BW4Q28",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Quench not the Spirit.'",
+          "options": [
+            "A. 1 Thessalonians 5:20",
+            "B. 1 Thessalonians 5:19",
+            "C. 1 Thessalonians 5:18",
+            "D. 1 Thessalonians 6:19"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Quench not the Spirit.' is found in 1 Thessalonians 5:19.",
+          "source_section": "1 Thessalonians 5:19"
+        },
+        {
+          "id": "BW4Q29",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 5:19:\n_____ not the _____.",
+          "answer": "Quench, Spirit",
+          "keywords": [
+            "Quench",
+            "Spirit"
+          ],
+          "explanation": "The full text is: Quench not the Spirit.",
+          "source_section": "1 Thessalonians 5:19"
+        },
+        {
+          "id": "BW4Q30",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For the Holy Ghost shall teach you in the same hour what ye ought to say.'",
+          "options": [
+            "A. Luke 12:13",
+            "B. Luke 13:12",
+            "C. Luke 12:12",
+            "D. Luke 12:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For the Holy Ghost shall teach you in the same hour what ye ought to say.' is found in Luke 12:12.",
+          "source_section": "Luke 12:12"
+        },
+        {
+          "id": "BW4Q31",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 12:12:\nFor the Holy Ghost _____ teach you in the _____ hour what ye _____ to say.",
+          "answer": "shall, same, ought",
+          "keywords": [
+            "shall",
+            "same",
+            "ought"
+          ],
+          "explanation": "The full text is: For the Holy Ghost shall teach you in the same hour what ye ought to say.",
+          "source_section": "Luke 12:12"
+        },
+        {
+          "id": "BW4Q32",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,'",
+          "options": [
+            "A. Romans 9:1",
+            "B. Romans 9:3",
+            "C. Romans 10:1",
+            "D. Romans 9:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,' is found in Romans 9:1.",
+          "source_section": "Romans 9:1"
+        },
+        {
+          "id": "BW4Q33",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 9:1:\nI say the truth in Christ, I lie not, my conscience _____ _____ me witness in the Holy _____,",
+          "answer": "also, bearing, Ghost",
+          "keywords": [
+            "also",
+            "bearing",
+            "Ghost"
+          ],
+          "explanation": "The full text is: I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,",
+          "source_section": "Romans 9:1"
+        },
+        {
+          "id": "BW4Q34",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.32.29 For Moses\u2026: or, And Moses said, Consecrate yourselves to day to the LORD, because every man hath been against his brother, etc32.29 Consecrate\u2026: Heb. Fill your hands'",
+          "options": [
+            "A. Exodus 33:29",
+            "B. Exodus 32:30",
+            "C. Exodus 32:28",
+            "D. Exodus 32:29"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.32.29 For Moses\u2026: or, And Moses said, Consecrate yourselves to day to the LORD, because every man hath been against his brother, etc32.29 Consecrate\u2026: Heb. Fill your hands' is found in Exodus 32:29.",
+          "source_section": "Exodus 32:29"
+        },
+        {
+          "id": "BW4Q35",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 32:29:\nFor Moses had said, Consecrate yourselves to day to the _____, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.32.29 For _____: or, And Moses said, Consecrate yourselves to day to the LORD, _____ every man hath been against his brother, etc32.29 Consecrate\u2026: Heb. Fill your hands",
+          "answer": "LORD, Moses\u2026, because",
+          "keywords": [
+            "LORD",
+            "Moses\u2026",
+            "because"
+          ],
+          "explanation": "The full text is: For Moses had said, Consecrate yourselves to day to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.32.29 For Moses\u2026: or, And Moses said, Consecrate yourselves to day to the LORD, because every man hath been against his brother, etc32.29 Consecrate\u2026: Heb. Fill your hands",
+          "source_section": "Exodus 32:29"
+        },
+        {
+          "id": "BW4Q36",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;'",
+          "options": [
+            "A. Luke 18:3",
+            "B. Luke 18:1",
+            "C. Luke 18:2",
+            "D. Luke 19:1"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;' is found in Luke 18:1.",
+          "source_section": "Luke 18:1"
+        },
+        {
+          "id": "BW4Q37",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 18:1:\nAnd he spake a parable unto _____ to this end, _____ men ought _____ to pray, and not to faint;",
+          "answer": "them, that, always",
+          "keywords": [
+            "them",
+            "that",
+            "always"
+          ],
+          "explanation": "The full text is: And he spake a parable unto them to this end, that men ought always to pray, and not to faint;",
+          "source_section": "Luke 18:1"
+        },
+        {
+          "id": "BW4Q38",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?'",
+          "options": [
+            "A. Isaiah 7:12",
+            "B. Isaiah 7:13",
+            "C. Isaiah 8:13",
+            "D. Isaiah 7:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?' is found in Isaiah 7:13.",
+          "source_section": "Isaiah 7:13"
+        },
+        {
+          "id": "BW4Q39",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 7:13:\nAnd he said, Hear ye now, O house of _____; Is it a small thing for you to _____ men, but will ye _____ my God also?",
+          "answer": "David, weary, weary",
+          "keywords": [
+            "David",
+            "weary",
+            "weary"
+          ],
+          "explanation": "The full text is: And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?",
+          "source_section": "Isaiah 7:13"
+        },
+        {
+          "id": "BW4Q40",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thy word have I hid in mine heart, that I might not sin against thee.'",
+          "options": [
+            "A. Psalm 119:10",
+            "B. Psalm 120:11",
+            "C. Psalm 119:11",
+            "D. Psalm 119:12"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Thy word have I hid in mine heart, that I might not sin against thee.' is found in Psalm 119:11.",
+          "source_section": "Psalm 119:11"
+        },
+        {
+          "id": "BW4Q41",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 119:11:\nThy _____ _____ I hid in mine _____, that I might not sin against thee.",
+          "answer": "word, have, heart",
+          "keywords": [
+            "word",
+            "have",
+            "heart"
+          ],
+          "explanation": "The full text is: Thy word have I hid in mine heart, that I might not sin against thee.",
+          "source_section": "Psalm 119:11"
+        },
+        {
+          "id": "BW4Q42",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.'",
+          "options": [
+            "A. John 16:12",
+            "B. John 16:13",
+            "C. John 17:13",
+            "D. John 16:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.' is found in John 16:13.",
+          "source_section": "John 16:13"
+        },
+        {
+          "id": "BW4Q43",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 16:13:\nHowbeit when he, the Spirit of truth, is come, he will _____ you into all truth: for he shall not _____ of himself; but whatsoever he shall hear, _____ shall he speak: and he will shew you things to come.",
+          "answer": "guide, speak, that",
+          "keywords": [
+            "guide",
+            "speak",
+            "that"
+          ],
+          "explanation": "The full text is: Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come.",
+          "source_section": "John 16:13"
+        },
+        {
+          "id": "BW4Q44",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.'",
+          "options": [
+            "A. Romans 15:14",
+            "B. Romans 15:12",
+            "C. Romans 16:13",
+            "D. Romans 15:13"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.' is found in Romans 15:13.",
+          "source_section": "Romans 15:13"
+        },
+        {
+          "id": "BW4Q45",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 15:13:\nNow the God of _____ _____ you with all joy and peace in believing, _____ ye may abound in hope, through the power of the Holy Ghost.",
+          "answer": "hope, fill, that",
+          "keywords": [
+            "hope",
+            "fill",
+            "that"
+          ],
+          "explanation": "The full text is: Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+          "source_section": "Romans 15:13"
+        },
+        {
+          "id": "BW4Q46",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But the manifestation of the Spirit is given to every man to profit withal.'",
+          "options": [
+            "A. 1 Corinthians 12:6",
+            "B. 1 Corinthians 12:8",
+            "C. 1 Corinthians 13:7",
+            "D. 1 Corinthians 12:7-11"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But the manifestation of the Spirit is given to every man to profit withal.' is found in 1 Corinthians 12:7-11.",
+          "source_section": "1 Corinthians 12:7-11"
+        },
+        {
+          "id": "BW4Q47",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 12:7-11:\nBut the _____ of the Spirit is given to _____ man to _____ withal.",
+          "answer": "manifestation, every, profit",
+          "keywords": [
+            "manifestation",
+            "every",
+            "profit"
+          ],
+          "explanation": "The full text is: But the manifestation of the Spirit is given to every man to profit withal.",
+          "source_section": "1 Corinthians 12:7-11"
+        },
+        {
+          "id": "BW4Q48",
+          "week": 4,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.'",
+          "options": [
+            "A. Romans 8:25",
+            "B. Romans 8:27",
+            "C. Romans 9:26",
+            "D. Romans 8:26-27"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.' is found in Romans 8:26-27.",
+          "source_section": "Romans 8:26-27"
+        },
+        {
+          "id": "BW4Q49",
+          "week": 4,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 8:26-27:\nLikewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit _____ maketh intercession for us _____ groanings which _____ be uttered.",
+          "answer": "itself, with, cannot",
+          "keywords": [
+            "itself",
+            "with",
+            "cannot"
+          ],
+          "explanation": "The full text is: Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.",
+          "source_section": "Romans 8:26-27"
+        }
+      ]
+    }
+  ]
+}

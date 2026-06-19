@@ -1,0 +1,870 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 20,
+      "topic": "RESOURCEFULNESS",
+      "questions": [
+        {
+          "id": "BW20Q1",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.'",
+          "options": [
+            "A. 1 Samuel 17:48",
+            "B. 1 Samuel 17:50",
+            "C. 1 Samuel 17:49",
+            "D. 1 Samuel 18:49"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.' is found in 1 Samuel 17:49.",
+          "source_section": "1 Samuel 17:49"
+        },
+        {
+          "id": "BW20Q2",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 17:49:\nAnd David put his hand in his bag, and took thence a _____, and slang it, and smote the Philistine in his _____, that the stone sunk into his forehead; and he fell upon his _____ to the earth.",
+          "answer": "stone, forehead, face",
+          "keywords": [
+            "stone",
+            "forehead",
+            "face"
+          ],
+          "explanation": "The full text is: And David put his hand in his bag, and took thence a stone, and slang it, and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.",
+          "source_section": "1 Samuel 17:49"
+        },
+        {
+          "id": "BW20Q3",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it.'",
+          "options": [
+            "A. 2 Kings 7:9",
+            "B. 2 Kings 8:8",
+            "C. 2 Kings 7:7",
+            "D. 2 Kings 7:8-9"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it.' is found in 2 Kings 7:8-9.",
+          "source_section": "2 Kings 7:8-9"
+        },
+        {
+          "id": "BW20Q4",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Kings 7:8-9:\nAnd when these lepers came to the uttermost _____ of the camp, they _____ into one _____, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it.",
+          "answer": "part, went, tent",
+          "keywords": [
+            "part",
+            "went",
+            "tent"
+          ],
+          "explanation": "The full text is: And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it.",
+          "source_section": "2 Kings 7:8-9"
+        },
+        {
+          "id": "BW20Q5",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In whom are hid all the treasures of wisdom and knowledge.'",
+          "options": [
+            "A. Colossians 2:4",
+            "B. Colossians 2:2",
+            "C. Colossians 3:3",
+            "D. Colossians 2:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'In whom are hid all the treasures of wisdom and knowledge.' is found in Colossians 2:3.",
+          "source_section": "Colossians 2:3"
+        },
+        {
+          "id": "BW20Q6",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 2:3:\nIn whom are hid all the _____ of _____ and _____.",
+          "answer": "treasures, wisdom, knowledge",
+          "keywords": [
+            "treasures",
+            "wisdom",
+            "knowledge"
+          ],
+          "explanation": "The full text is: In whom are hid all the treasures of wisdom and knowledge.",
+          "source_section": "Colossians 2:3"
+        },
+        {
+          "id": "BW20Q7",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then I went down to the potter\u2019s house, and, behold, he wrought a work on the wheels.18.3 wheels: or, frames, or, seats'",
+          "options": [
+            "A. Jeremiah 19:3",
+            "B. Jeremiah 18:4",
+            "C. Jeremiah 18:2",
+            "D. Jeremiah 18:3-4"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Then I went down to the potter\u2019s house, and, behold, he wrought a work on the wheels.18.3 wheels: or, frames, or, seats' is found in Jeremiah 18:3-4.",
+          "source_section": "Jeremiah 18:3-4"
+        },
+        {
+          "id": "BW20Q8",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 18:3-4:\nThen I _____ down to the potter\u2019s _____, and, _____, he wrought a work on the wheels.18.3 wheels: or, frames, or, seats",
+          "answer": "went, house, behold",
+          "keywords": [
+            "went",
+            "house",
+            "behold"
+          ],
+          "explanation": "The full text is: Then I went down to the potter\u2019s house, and, behold, he wrought a work on the wheels.18.3 wheels: or, frames, or, seats",
+          "source_section": "Jeremiah 18:3-4"
+        },
+        {
+          "id": "BW20Q9",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.'",
+          "options": [
+            "A. 1 Corinthians 10:22",
+            "B. 1 Corinthians 9:23",
+            "C. 1 Corinthians 9:21",
+            "D. 1 Corinthians 9:22"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.' is found in 1 Corinthians 9:22.",
+          "source_section": "1 Corinthians 9:22"
+        },
+        {
+          "id": "BW20Q10",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 9:22:\nTo the weak became I as weak, _____ I might gain the weak: I am made all things to all men, that I _____ by all means save _____.",
+          "answer": "that, might, some",
+          "keywords": [
+            "that",
+            "might",
+            "some"
+          ],
+          "explanation": "The full text is: To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.",
+          "source_section": "1 Corinthians 9:22"
+        },
+        {
+          "id": "BW20Q11",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.31.16 buyeth: Heb. taketh'",
+          "options": [
+            "A. Proverbs 31:17",
+            "B. Proverbs 31:15",
+            "C. Proverbs 32:16",
+            "D. Proverbs 31:16"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.31.16 buyeth: Heb. taketh' is found in Proverbs 31:16.",
+          "source_section": "Proverbs 31:16"
+        },
+        {
+          "id": "BW20Q12",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 31:16:\nShe considereth a _____, and _____ it: with the fruit of her hands she planteth a _____ buyeth: Heb. taketh",
+          "answer": "field, buyeth, vineyard.31.16",
+          "keywords": [
+            "field",
+            "buyeth",
+            "vineyard.31.16"
+          ],
+          "explanation": "The full text is: She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.31.16 buyeth: Heb. taketh",
+          "source_section": "Proverbs 31:16"
+        },
+        {
+          "id": "BW20Q13",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.'",
+          "options": [
+            "A. Nehemiah 4:18",
+            "B. Nehemiah 4:17",
+            "C. Nehemiah 4:16",
+            "D. Nehemiah 5:17"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.' is found in Nehemiah 4:17.",
+          "source_section": "Nehemiah 4:17"
+        },
+        {
+          "id": "BW20Q14",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 4:17:\nThey which builded on the wall, and _____ that _____ burdens, with those that laded, every one with one of his hands wrought in the work, and _____ the other hand held a weapon.",
+          "answer": "they, bare, with",
+          "keywords": [
+            "they",
+            "bare",
+            "with"
+          ],
+          "explanation": "The full text is: They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.",
+          "source_section": "Nehemiah 4:17"
+        },
+        {
+          "id": "BW20Q15",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.'",
+          "options": [
+            "A. Proverbs 18:16",
+            "B. Proverbs 18:14",
+            "C. Proverbs 18:15",
+            "D. Proverbs 19:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.' is found in Proverbs 18:15.",
+          "source_section": "Proverbs 18:15"
+        },
+        {
+          "id": "BW20Q16",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:15:\nThe heart of the prudent _____ _____; and the ear of the wise _____ knowledge.",
+          "answer": "getteth, knowledge, seeketh",
+          "keywords": [
+            "getteth",
+            "knowledge",
+            "seeketh"
+          ],
+          "explanation": "The full text is: The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.",
+          "source_section": "Proverbs 18:15"
+        },
+        {
+          "id": "BW20Q17",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus said unto him, If thou canst believe, all things are possible to him that believeth.'",
+          "options": [
+            "A. Mark 9:23",
+            "B. Mark 9:24",
+            "C. Mark 10:23",
+            "D. Mark 9:22"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Jesus said unto him, If thou canst believe, all things are possible to him that believeth.' is found in Mark 9:23.",
+          "source_section": "Mark 9:23"
+        },
+        {
+          "id": "BW20Q18",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 9:23:\nJesus said unto him, If thou _____ believe, all _____ are _____ to him that believeth.",
+          "answer": "canst, things, possible",
+          "keywords": [
+            "canst",
+            "things",
+            "possible"
+          ],
+          "explanation": "The full text is: Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+          "source_section": "Mark 9:23"
+        },
+        {
+          "id": "BW20Q19",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.'",
+          "options": [
+            "A. Ephesians 3:6",
+            "B. Ephesians 4:7",
+            "C. Ephesians 3:8",
+            "D. Ephesians 3:7-9"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.' is found in Ephesians 3:7-9.",
+          "source_section": "Ephesians 3:7-9"
+        },
+        {
+          "id": "BW20Q20",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 3:7-9:\nWhereof I was made a _____, according to the gift of the _____ of God given unto me by the effectual working of his _____.",
+          "answer": "minister, grace, power",
+          "keywords": [
+            "minister",
+            "grace",
+            "power"
+          ],
+          "explanation": "The full text is: Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.",
+          "source_section": "Ephesians 3:7-9"
+        },
+        {
+          "id": "BW20Q21",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.'",
+          "options": [
+            "A. Judges 3:30",
+            "B. Judges 3:31",
+            "C. Judges 4:31",
+            "D. Judges 3:32"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.' is found in Judges 3:31.",
+          "source_section": "Judges 3:31"
+        },
+        {
+          "id": "BW20Q22",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 3:31:\n\u00b6 And after him was Shamgar the son of Anath, _____ slew of the Philistines six hundred men with an ox goad: and he _____ _____ Israel.",
+          "answer": "which, also, delivered",
+          "keywords": [
+            "which",
+            "also",
+            "delivered"
+          ],
+          "explanation": "The full text is: \u00b6 And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.",
+          "source_section": "Judges 3:31"
+        },
+        {
+          "id": "BW20Q23",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.'",
+          "options": [
+            "A. Numbers 13:31",
+            "B. Numbers 14:30",
+            "C. Numbers 13:30",
+            "D. Numbers 13:29"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.' is found in Numbers 13:30.",
+          "source_section": "Numbers 13:30"
+        },
+        {
+          "id": "BW20Q24",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Numbers 13:30:\nAnd Caleb _____ the people before Moses, and _____, Let us go up at once, and possess it; for we are _____ able to overcome it.",
+          "answer": "stilled, said, well",
+          "keywords": [
+            "stilled",
+            "said",
+            "well"
+          ],
+          "explanation": "The full text is: And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.",
+          "source_section": "Numbers 13:30"
+        },
+        {
+          "id": "BW20Q25",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?'",
+          "options": [
+            "A. Another book 3:19",
+            "B. John 2:20, 27",
+            "C. Another book 5:19",
+            "D. Another book 3:15"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?' is found in John 2:20, 27.",
+          "source_section": "John 2:20, 27"
+        },
+        {
+          "id": "BW20Q26",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 2:20, 27:\nThen said the Jews, Forty and six years was _____ _____ in building, and wilt _____ rear it up in three days?",
+          "answer": "this, temple, thou",
+          "keywords": [
+            "this",
+            "temple",
+            "thou"
+          ],
+          "explanation": "The full text is: Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
+          "source_section": "John 2:20, 27"
+        },
+        {
+          "id": "BW20Q27",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.'",
+          "options": [
+            "A. Nehemiah 3:17",
+            "B. Nehemiah 2:16",
+            "C. Nehemiah 2:17-18",
+            "D. Nehemiah 2:18"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.' is found in Nehemiah 2:17-18.",
+          "source_section": "Nehemiah 2:17-18"
+        },
+        {
+          "id": "BW20Q28",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 2:17-18:\n\u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: _____, and let us _____ up the wall of Jerusalem, that we be no _____ a reproach.",
+          "answer": "come, build, more",
+          "keywords": [
+            "come",
+            "build",
+            "more"
+          ],
+          "explanation": "The full text is: \u00b6 Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
+          "source_section": "Nehemiah 2:17-18"
+        },
+        {
+          "id": "BW20Q29",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to espy out the land; and I brought him word again as it was in mine heart.'",
+          "options": [
+            "A. Joshua 14:7-8",
+            "B. Joshua 15:7",
+            "C. Joshua 14:6",
+            "D. Joshua 14:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to espy out the land; and I brought him word again as it was in mine heart.' is found in Joshua 14:7-8.",
+          "source_section": "Joshua 14:7-8"
+        },
+        {
+          "id": "BW20Q30",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 14:7-8:\nForty years old was I when Moses the servant of the LORD _____ me from Kadesh-barnea to _____ out the land; and I brought him word again as it was in mine _____.",
+          "answer": "sent, espy, heart",
+          "keywords": [
+            "sent",
+            "espy",
+            "heart"
+          ],
+          "explanation": "The full text is: Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to espy out the land; and I brought him word again as it was in mine heart.",
+          "source_section": "Joshua 14:7-8"
+        },
+        {
+          "id": "BW20Q31",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,1.11 Melzar: or, the steward'",
+          "options": [
+            "A. Daniel 1:12",
+            "B. Daniel 1:11-1",
+            "C. Daniel 2:11",
+            "D. Daniel 1:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,1.11 Melzar: or, the steward' is found in Daniel 1:11-1.",
+          "source_section": "Daniel 1:11-1"
+        },
+        {
+          "id": "BW20Q32",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Daniel 1:11-1:\nThen said Daniel to Melzar, _____ the prince of the eunuchs had set over Daniel, Hananiah, _____, and Azariah,1.11 _____: or, the steward",
+          "answer": "whom, Mishael, Melzar",
+          "keywords": [
+            "whom",
+            "Mishael",
+            "Melzar"
+          ],
+          "explanation": "The full text is: Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,1.11 Melzar: or, the steward",
+          "source_section": "Daniel 1:11-1"
+        },
+        {
+          "id": "BW20Q33",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.1.28 moveth: Heb. creepeth'",
+          "options": [
+            "A. Genesis 1:27",
+            "B. Genesis 1:29",
+            "C. Genesis 2:28",
+            "D. Genesis 1:28-30"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.1.28 moveth: Heb. creepeth' is found in Genesis 1:28-30.",
+          "source_section": "Genesis 1:28-30"
+        },
+        {
+          "id": "BW20Q34",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 1:28-30:\nAnd God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over _____ _____ thing that _____ upon the earth.1.28 moveth: Heb. creepeth",
+          "answer": "every, living, moveth",
+          "keywords": [
+            "every",
+            "living",
+            "moveth"
+          ],
+          "explanation": "The full text is: And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.1.28 moveth: Heb. creepeth",
+          "source_section": "Genesis 1:28-30"
+        },
+        {
+          "id": "BW20Q35",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;'",
+          "options": [
+            "A. Luke 19:1",
+            "B. Luke 18:1-5",
+            "C. Luke 18:2",
+            "D. Luke 18:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And he spake a parable unto them to this end, that men ought always to pray, and not to faint;' is found in Luke 18:1-5.",
+          "source_section": "Luke 18:1-5"
+        },
+        {
+          "id": "BW20Q36",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 18:1-5:\nAnd he spake a _____ _____ them to this end, _____ men ought always to pray, and not to faint;",
+          "answer": "parable, unto, that",
+          "keywords": [
+            "parable",
+            "unto",
+            "that"
+          ],
+          "explanation": "The full text is: And he spake a parable unto them to this end, that men ought always to pray, and not to faint;",
+          "source_section": "Luke 18:1-5"
+        },
+        {
+          "id": "BW20Q37",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'After a long time the lord of those servants cometh, and reckoneth with them.'",
+          "options": [
+            "A. Matthew 25:19",
+            "B. Matthew 25:18",
+            "C. Matthew 26:19",
+            "D. Matthew 25:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'After a long time the lord of those servants cometh, and reckoneth with them.' is found in Matthew 25:19.",
+          "source_section": "Matthew 25:19"
+        },
+        {
+          "id": "BW20Q38",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 25:19:\n_____ a _____ time the lord of those servants _____, and reckoneth with them.",
+          "answer": "After, long, cometh",
+          "keywords": [
+            "After",
+            "long",
+            "cometh"
+          ],
+          "explanation": "The full text is: After a long time the lord of those servants cometh, and reckoneth with them.",
+          "source_section": "Matthew 25:19"
+        },
+        {
+          "id": "BW20Q39",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.15.14 loosed: Heb. were melted'",
+          "options": [
+            "A. Judges 16:14",
+            "B. Judges 15:13",
+            "C. Judges 15:15",
+            "D. Judges 15:14-16"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.15.14 loosed: Heb. were melted' is found in Judges 15:14-16.",
+          "source_section": "Judges 15:14-16"
+        },
+        {
+          "id": "BW20Q40",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 15:14-16:\n\u00b6 And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD _____ mightily upon him, and the cords that were _____ his arms became as flax that was burnt with fire, and his bands loosed from off his _____ loosed: Heb. were melted",
+          "answer": "came, upon, hands.15.14",
+          "keywords": [
+            "came",
+            "upon",
+            "hands.15.14"
+          ],
+          "explanation": "The full text is: \u00b6 And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.15.14 loosed: Heb. were melted",
+          "source_section": "Judges 15:14-16"
+        },
+        {
+          "id": "BW20Q41",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.11.11 an Hachmonite: or, son of Hachmoni'",
+          "options": [
+            "A. 1 Chronicles 11:11-13",
+            "B. 1 Chronicles 11:10",
+            "C. 1 Chronicles 12:11",
+            "D. 1 Chronicles 11:12"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.11.11 an Hachmonite: or, son of Hachmoni' is found in 1 Chronicles 11:11-13.",
+          "source_section": "1 Chronicles 11:11-13"
+        },
+        {
+          "id": "BW20Q42",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Chronicles 11:11-13:\nAnd this is the _____ of the mighty men whom David had; Jashobeam, an _____, the chief of the captains: he lifted up his spear _____ three hundred slain by him at one time.11.11 an Hachmonite: or, son of Hachmoni",
+          "answer": "number, Hachmonite, against",
+          "keywords": [
+            "number",
+            "Hachmonite",
+            "against"
+          ],
+          "explanation": "The full text is: And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.11.11 an Hachmonite: or, son of Hachmoni",
+          "source_section": "1 Chronicles 11:11-13"
+        },
+        {
+          "id": "BW20Q43",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:'",
+          "options": [
+            "A. Exodus 31:3",
+            "B. Exodus 31:1",
+            "C. Exodus 32:2",
+            "D. Exodus 31:2-5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:' is found in Exodus 31:2-5.",
+          "source_section": "Exodus 31:2-5"
+        },
+        {
+          "id": "BW20Q44",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 31:2-5:\nSee, I _____ called by name _____ the son of Uri, the son of Hur, of the tribe of _____:",
+          "answer": "have, Bezaleel, Judah",
+          "keywords": [
+            "have",
+            "Bezaleel",
+            "Judah"
+          ],
+          "explanation": "The full text is: See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:",
+          "source_section": "Exodus 31:2-5"
+        },
+        {
+          "id": "BW20Q45",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it.'",
+          "options": [
+            "A. Numbers 13:26",
+            "B. Numbers 13:27-31",
+            "C. Numbers 14:27",
+            "D. Numbers 13:28"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it.' is found in Numbers 13:27-31.",
+          "source_section": "Numbers 13:27-31"
+        },
+        {
+          "id": "BW20Q46",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Numbers 13:27-31:\nAnd they told him, and said, We came unto the land whither _____ sentest us, and surely it _____ with _____ and honey; and this is the fruit of it.",
+          "answer": "thou, floweth, milk",
+          "keywords": [
+            "thou",
+            "floweth",
+            "milk"
+          ],
+          "explanation": "The full text is: And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it.",
+          "source_section": "Numbers 13:27-31"
+        },
+        {
+          "id": "BW20Q47",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.'",
+          "options": [
+            "A. Nehemiah 4:12",
+            "B. Nehemiah 4:10",
+            "C. Nehemiah 4:11-18",
+            "D. Nehemiah 5:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.' is found in Nehemiah 4:11-18.",
+          "source_section": "Nehemiah 4:11-18"
+        },
+        {
+          "id": "BW20Q48",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Nehemiah 4:11-18:\nAnd our adversaries said, They shall not know, neither see, _____ we come in the _____ among them, and slay them, and cause the work to _____.",
+          "answer": "till, midst, cease",
+          "keywords": [
+            "till",
+            "midst",
+            "cease"
+          ],
+          "explanation": "The full text is: And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.",
+          "source_section": "Nehemiah 4:11-18"
+        },
+        {
+          "id": "BW20Q49",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.'",
+          "options": [
+            "A. Ruth 2:2, 17-18",
+            "B. Another book 5:6",
+            "C. Another book 4:11",
+            "D. Another book 3:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.' is found in Ruth 2:2, 17-18.",
+          "source_section": "Ruth 2:2, 17-18"
+        },
+        {
+          "id": "BW20Q50",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ruth 2:2, 17-18:\nAnd Ruth the Moabitess said unto Naomi, Let me now go to the field, and _____ ears of corn _____ him in whose sight I shall find _____. And she said unto her, Go, my daughter.",
+          "answer": "glean, after, grace",
+          "keywords": [
+            "glean",
+            "after",
+            "grace"
+          ],
+          "explanation": "The full text is: And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.",
+          "source_section": "Ruth 2:2, 17-18"
+        },
+        {
+          "id": "BW20Q51",
+          "week": 20,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'After a long time the lord of those servants cometh, and reckoneth with them.'",
+          "options": [
+            "A. Matthew 25:18",
+            "B. Matthew 25:19-28",
+            "C. Matthew 26:19",
+            "D. Matthew 25:20"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'After a long time the lord of those servants cometh, and reckoneth with them.' is found in Matthew 25:19-28.",
+          "source_section": "Matthew 25:19-28"
+        },
+        {
+          "id": "BW20Q52",
+          "week": 20,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 25:19-28:\nAfter a _____ time the _____ of those servants cometh, and reckoneth with _____.",
+          "answer": "long, lord, them",
+          "keywords": [
+            "long",
+            "lord",
+            "them"
+          ],
+          "explanation": "The full text is: After a long time the lord of those servants cometh, and reckoneth with them.",
+          "source_section": "Matthew 25:19-28"
+        }
+      ]
+    }
+  ]
+}

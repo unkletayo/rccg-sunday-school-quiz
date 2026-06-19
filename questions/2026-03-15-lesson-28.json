@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:30:00Z",
+  "weeks": [
+    {
+      "week_number": 28,
+      "topic": "LOVE YOURSELF",
+      "memory_verse_reference": "Matthew 22:39",
+      "questions": [
+        {
+          "id": "W28Q1",
+          "week": 28,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 28?",
+          "options": [
+            "A. A MASTERPIECE",
+            "B. LOVE YOURSELF",
+            "C. SELF-AFFECTION",
+            "D. GET RICH QUICK SYNDROME"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Twenty-Eight is LOVE YOURSELF.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W28Q2",
+          "week": 28,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 27?",
+          "options": [
+            "A. STRENGTH IN QUIETNESS",
+            "B. GET RICH QUICK SYNDROME",
+            "C. LOVE YOURSELF",
+            "D. CHRISTIANS AND POLITICS"
+          ],
+          "answer": "B",
+          "explanation": "Get Rich Quick Syndrome was the topic for Week 27.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W28Q3",
+          "week": 28,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And the second is like it: ‘You shall love your ________ as yourself.’",
+          "options": [
+            "A. friend",
+            "B. neighbour",
+            "C. brother",
+            "D. enemy"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Matthew 22:39) says 'You shall love your neighbour as yourself.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W28Q4",
+          "week": 28,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Matthew 22:39",
+          "keywords": ["Matthew", "22:39"],
+          "explanation": "The memory verse reference is Matthew 22:39.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W28Q5",
+          "week": 28,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 28 in full (NKJV).",
+          "answer": "And the second is like it: ‘You shall love your neighbour as yourself.’",
+          "keywords": ["second", "like", "love", "neighbour", "yourself"],
+          "explanation": "Full text recall of Matthew 22:39.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W28Q6",
+          "week": 28,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Matthew 22:39), how are you commanded to love your neighbour?",
+          "options": [
+            "A. More than yourself",
+            "B. Less than yourself",
+            "C. As yourself",
+            "D. With all your heart"
+          ],
+          "answer": "C",
+          "explanation": "The verse commands: 'You shall love your neighbour as yourself.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W28Q7",
+          "week": 28,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, why should you love yourself for who you are?",
+          "options": [
+            "A. Because you are wealthy",
+            "B. Because you are exceptional and in God's plan",
+            "C. Because society says so",
+            "D. Because you are a victim of circumstance"
+          ],
+          "answer": "B",
+          "explanation": "The introduction says 'Love yourself for who you are; because you are exceptional and in God’s plan.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W28Q8",
+          "week": 28,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the introduction, you are a victim of circumstance due to the incidents that may surround your birth.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states: 'you are not a victim of circumstance, irrespective of the incident that may surround your birth or family.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W28Q9",
+          "week": 28,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "A MASTERPIECE",
+          "keywords": ["A", "MASTERPIECE"],
+          "explanation": "Outline I is titled 'A MASTERPIECE'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q10",
+          "week": 28,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what is the approximate amount of genetic variation between any two humans?",
+          "options": [
+            "A. About ten per cent",
+            "B. About five per cent",
+            "C. About one per cent",
+            "D. About fifty per cent"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Between any two humans, the amount of genetic variation (biochemical individuality) is about one per cent.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q11",
+          "week": 28,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How many nerve cells are approximately in the human brain, which is compared to a supercomputer?",
+          "options": [
+            "A. 100 thousand",
+            "B. 100 million",
+            "C. 100 billion",
+            "D. 100 trillion"
+          ],
+          "answer": "C",
+          "explanation": "The text mentions 'a brain that is like a supercomputer with about 100 billion nerve cells...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q12",
+          "week": 28,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Studies show that the human brain processes about how many thoughts per day?",
+          "options": [
+            "A. 10,000",
+            "B. 30,000",
+            "C. 50,000",
+            "D. 70,000"
+          ],
+          "answer": "D",
+          "explanation": "The text states 'Studies show that the human brain processes about 70,000 thoughts per day.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q13",
+          "week": 28,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that the hairs on your head are numbered?",
+          "options": [
+            "A. Isaiah 64:8",
+            "B. Matthew 10:30",
+            "C. Matthew 5:36",
+            "D. Exodus 35:30-33"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Matthew 10:30)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q14",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "SELF-AFFECTION",
+          "keywords": ["SELF-AFFECTION", "SELF", "AFFECTION"],
+          "explanation": "Outline II is titled 'SELF-AFFECTION'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q15",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, to love and respect yourself, what should you avoid doing?",
+          "options": [
+            "A. Working too hard",
+            "B. Comparing yourself to others",
+            "C. Helping others",
+            "D. Dreaming big"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Avoid comparing yourself to others (2 Corinthians 10:12)...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q16",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Loving yourself involves taking care of your physical and emotional well-being, such as eating healthily and sleeping well.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'Loving yourself involves taking care of your physical and emotional well-being... eat healthily, exercise (1 Timothy 4:8), sleep well (Ecclesiastes 5:12)...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q17",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these toxic emotions does Outline II advise you to eliminate to take care of your emotional well-being?",
+          "options": [
+            "A. Ambition",
+            "B. Bitterness and envy",
+            "C. Joy and peace",
+            "D. Curiosity"
+          ],
+          "answer": "B",
+          "explanation": "The text says '...eliminate negativity such as bitterness (Ephesians 4:31), envy (Proverbs 14:30)...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q18",
+          "week": 28,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to encourage avoiding toxic relationships?",
+          "options": [
+            "A. Proverbs 13:20",
+            "B. Proverbs 14:30",
+            "C. Ephesians 4:31",
+            "D. Ecclesiastes 9:10"
+          ],
+          "answer": "A",
+          "explanation": "The text cites '(Proverbs 13:20)' next to toxic relationships.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q19",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, true self-love involves recognising God's supreme position in your life.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states 'as true self-love involves recognising God’s supreme position in your life.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q20",
+          "week": 28,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, loving yourself is a recognition of what?",
+          "options": [
+            "A. Your superiority over others",
+            "B. Your uniqueness as God's creature to fulfill your purpose in life",
+            "C. Your independence from God",
+            "D. Your right to be selfish"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion says 'Loving yourself is recognition of your uniqueness as God’s creature to fulfil your purpose in life.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W28Q21",
+          "week": 28,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'I will praise You, for I am fearfully and wonderfully made; Marvelous are Your works, And that my soul knows very well.'",
+          "verse_text": "I will praise You, for I am fearfully and wonderfully made; Marvelous are Your works, And that my soul knows very well.",
+          "options": [
+            "A. Psalm 139:13",
+            "B. Psalm 139:14",
+            "C. Psalm 139:15",
+            "D. Psalm 139:16"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 14 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W28Q22",
+          "week": 28,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Psalm 139:13), what did God form?",
+          "options": [
+            "A. The stars in the sky",
+            "B. The inward parts of the psalmist",
+            "C. The mountains",
+            "D. The beasts of the field"
+          ],
+          "answer": "B",
+          "explanation": "Verse 13 says 'For You formed my inward parts; You covered me in my mother’s womb.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W28Q23",
+          "week": 28,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Psalm 139:15, where was the psalmist skillfully wrought?",
+          "options": [
+            "A. In the heavens",
+            "B. In the lowest parts of the earth",
+            "C. In a high tower",
+            "D. In the deep sea"
+          ],
+          "answer": "B",
+          "explanation": "Verse 15 says 'And skillfully wrought in the lowest parts of the earth.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W28Q24",
+          "week": 28,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Psalm 139:16, what did God's eyes see when it was yet unformed?",
+          "options": [
+            "A. The psalmist's substance",
+            "B. The psalmist's sins",
+            "C. The future of the world",
+            "D. The stars"
+          ],
+          "answer": "A",
+          "explanation": "Verse 16 says 'Your eyes saw my substance, being yet unformed.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W28Q25",
+          "week": 28,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Psalm 139:18, God's thoughts toward the psalmist are more in number than what?",
+          "options": [
+            "A. The stars in the sky",
+            "B. The sand",
+            "C. The hairs on the head",
+            "D. The drops of rain"
+          ],
+          "answer": "B",
+          "explanation": "Verse 18 says 'If I should count them, they would be more in number than the sand...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W28Q26",
+          "week": 28,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that humans also possess the creative ability of God Almighty?",
+          "options": [
+            "A. Isaiah 64:8",
+            "B. Matthew 10:30",
+            "C. Exodus 35:30-33",
+            "D. Matthew 5:36"
+          ],
+          "answer": "C",
+          "explanation": "Outline I cites '(Exodus 35:30-33)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q27",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Avoid comparing yourself to others; instead, strive to be the best ________ of yourself while learning from others.",
+          "options": [
+            "A. version",
+            "B. enemy",
+            "C. friend",
+            "D. critic"
+          ],
+          "answer": "A",
+          "explanation": "Outline II says 'strive to be the best version of yourself while learning from others.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q28",
+          "week": 28,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding putting your best effort into life's pursuits?",
+          "options": [
+            "A. Proverbs 12:24",
+            "B. Proverbs 16:16",
+            "C. 1 Samuel 30:6",
+            "D. Proverbs 15:13"
+          ],
+          "answer": "A",
+          "explanation": "Outline II cites '(Proverbs 12:24)' next to putting best effort.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W28Q29",
+          "week": 28,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The human nose does not vary from person to person.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Outline I explicitly states: 'Also, the human nose varies from person to person.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W28Q30",
+          "week": 28,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited in connection with loving God passionately?",
+          "options": [
+            "A. 2 Peter 3:18",
+            "B. Deuteronomy 6:5",
+            "C. Ecclesiastes 9:10",
+            "D. Deuteronomy 23:13-14"
+          ],
+          "answer": "B",
+          "explanation": "Outline II cites '(Deuteronomy 6:5)' for loving God passionately.",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

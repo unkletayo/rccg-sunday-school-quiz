@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadQuiz(filename) {
-        const folder = currentMode === 'general' ? '../questions/' : '../bible_questions/';
+        const folder = currentMode === 'general' ? 'questions/' : 'bible_questions/';
         try {
             const response = await fetch(`${folder}${filename}`);
             const data = await response.json();

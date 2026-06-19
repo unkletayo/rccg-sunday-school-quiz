@@ -1,0 +1,441 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 34,
+      "topic": "SOCIAL MEDIA ROMANCE",
+      "questions": [
+        {
+          "id": "BW34Q1",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.'",
+          "options": [
+            "A. Proverbs 3:6",
+            "B. Proverbs 3:5-6",
+            "C. Proverbs 4:5",
+            "D. Proverbs 3:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.' is found in Proverbs 3:5-6.",
+          "source_section": "Proverbs 3:5-6"
+        },
+        {
+          "id": "BW34Q2",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 3:5-6:\n\u00b6 Trust in the LORD _____ all _____ _____; and lean not unto thine own understanding.",
+          "answer": "with, thine, heart",
+          "keywords": [
+            "with",
+            "thine",
+            "heart"
+          ],
+          "explanation": "The full text is: \u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+          "source_section": "Proverbs 3:5-6"
+        },
+        {
+          "id": "BW34Q3",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be not deceived: evil communications corrupt good manners.'",
+          "options": [
+            "A. 1 Corinthians 16:33",
+            "B. 1 Corinthians 15:34",
+            "C. 1 Corinthians 15:32",
+            "D. 1 Corinthians 15:33"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Be not deceived: evil communications corrupt good manners.' is found in 1 Corinthians 15:33.",
+          "source_section": "1 Corinthians 15:33"
+        },
+        {
+          "id": "BW34Q4",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 15:33:\nBe not _____: evil communications corrupt _____ _____.",
+          "answer": "deceived, good, manners",
+          "keywords": [
+            "deceived",
+            "good",
+            "manners"
+          ],
+          "explanation": "The full text is: Be not deceived: evil communications corrupt good manners.",
+          "source_section": "1 Corinthians 15:33"
+        },
+        {
+          "id": "BW34Q5",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping'",
+          "options": [
+            "A. Proverbs 4:23",
+            "B. Proverbs 4:24",
+            "C. Proverbs 5:23",
+            "D. Proverbs 4:22"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping' is found in Proverbs 4:23.",
+          "source_section": "Proverbs 4:23"
+        },
+        {
+          "id": "BW34Q6",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 4:23:\n\u00b6 Keep thy heart _____ all diligence; for out of it are the issues of _____ _____: Heb. above all keeping",
+          "answer": "with, life.4.23, with\u2026",
+          "keywords": [
+            "with",
+            "life.4.23",
+            "with\u2026"
+          ],
+          "explanation": "The full text is: \u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping",
+          "source_section": "Proverbs 4:23"
+        },
+        {
+          "id": "BW34Q7",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Can two walk together, except they be agreed?'",
+          "options": [
+            "A. Amos 3:4",
+            "B. Amos 4:3",
+            "C. Amos 3:2",
+            "D. Amos 3:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Can two walk together, except they be agreed?' is found in Amos 3:3.",
+          "source_section": "Amos 3:3"
+        },
+        {
+          "id": "BW34Q8",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Amos 3:3:\nCan two _____ together, except _____ be _____",
+          "answer": "walk, they, agreed?",
+          "keywords": [
+            "walk",
+            "they",
+            "agreed?"
+          ],
+          "explanation": "The full text is: Can two walk together, except they be agreed?",
+          "source_section": "Amos 3:3"
+        },
+        {
+          "id": "BW34Q9",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Without counsel purposes are disappointed: but in the multitude of counsellors they are established.'",
+          "options": [
+            "A. Proverbs 15:22",
+            "B. Proverbs 15:23",
+            "C. Proverbs 15:21",
+            "D. Proverbs 16:22"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Without counsel purposes are disappointed: but in the multitude of counsellors they are established.' is found in Proverbs 15:22.",
+          "source_section": "Proverbs 15:22"
+        },
+        {
+          "id": "BW34Q10",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 15:22:\n_____ counsel purposes are _____: but in the multitude of counsellors _____ are established.",
+          "answer": "Without, disappointed, they",
+          "keywords": [
+            "Without",
+            "disappointed",
+            "they"
+          ],
+          "explanation": "The full text is: Without counsel purposes are disappointed: but in the multitude of counsellors they are established.",
+          "source_section": "Proverbs 15:22"
+        },
+        {
+          "id": "BW34Q11",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Prove all things; hold fast that which is good.'",
+          "options": [
+            "A. 1 Thessalonians 6:21",
+            "B. 1 Thessalonians 5:20",
+            "C. 1 Thessalonians 5:22",
+            "D. 1 Thessalonians 5:21"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Prove all things; hold fast that which is good.' is found in 1 Thessalonians 5:21.",
+          "source_section": "1 Thessalonians 5:21"
+        },
+        {
+          "id": "BW34Q12",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 5:21:\nProve all things; _____ _____ _____ which is good.",
+          "answer": "hold, fast, that",
+          "keywords": [
+            "hold",
+            "fast",
+            "that"
+          ],
+          "explanation": "The full text is: Prove all things; hold fast that which is good.",
+          "source_section": "1 Thessalonians 5:21"
+        },
+        {
+          "id": "BW34Q13",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 The heart is deceitful above all things, and desperately wicked: who can know it?'",
+          "options": [
+            "A. Jeremiah 17:9",
+            "B. Jeremiah 18:9",
+            "C. Jeremiah 17:10",
+            "D. Jeremiah 17:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 The heart is deceitful above all things, and desperately wicked: who can know it?' is found in Jeremiah 17:9.",
+          "source_section": "Jeremiah 17:9"
+        },
+        {
+          "id": "BW34Q14",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 17:9:\n\u00b6 The heart is _____ above all things, and desperately _____: who can _____ it?",
+          "answer": "deceitful, wicked, know",
+          "keywords": [
+            "deceitful",
+            "wicked",
+            "know"
+          ],
+          "explanation": "The full text is: \u00b6 The heart is deceitful above all things, and desperately wicked: who can know it?",
+          "source_section": "Jeremiah 17:9"
+        },
+        {
+          "id": "BW34Q15",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For this is the will of God, even your sanctification, that ye should abstain from fornication:'",
+          "options": [
+            "A. 1 Thessalonians 4:4",
+            "B. 1 Thessalonians 4:3-7",
+            "C. 1 Thessalonians 4:2",
+            "D. 1 Thessalonians 5:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For this is the will of God, even your sanctification, that ye should abstain from fornication:' is found in 1 Thessalonians 4:3-7.",
+          "source_section": "1 Thessalonians 4:3-7"
+        },
+        {
+          "id": "BW34Q16",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 4:3-7:\nFor this is the will of God, _____ your sanctification, that ye should _____ _____ fornication:",
+          "answer": "even, abstain, from",
+          "keywords": [
+            "even",
+            "abstain",
+            "from"
+          ],
+          "explanation": "The full text is: For this is the will of God, even your sanctification, that ye should abstain from fornication:",
+          "source_section": "1 Thessalonians 4:3-7"
+        },
+        {
+          "id": "BW34Q17",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,'",
+          "options": [
+            "A. 1 Corinthians 13:5",
+            "B. 1 Corinthians 13:3",
+            "C. 1 Corinthians 14:4",
+            "D. 1 Corinthians 13:4"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,' is found in 1 Corinthians 13:4.",
+          "source_section": "1 Corinthians 13:4"
+        },
+        {
+          "id": "BW34Q18",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 13:4:\nCharity suffereth long, and is kind; _____ _____ not; charity vaunteth not _____, is not puffed up,",
+          "answer": "charity, envieth, itself",
+          "keywords": [
+            "charity",
+            "envieth",
+            "itself"
+          ],
+          "explanation": "The full text is: Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,",
+          "source_section": "1 Corinthians 13:4"
+        },
+        {
+          "id": "BW34Q19",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.'",
+          "options": [
+            "A. James 1:6",
+            "B. James 1:4",
+            "C. James 1:5",
+            "D. James 2:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.' is found in James 1:5.",
+          "source_section": "James 1:5"
+        },
+        {
+          "id": "BW34Q20",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:5:\nIf any of you lack _____, let him ask of God, that giveth to all men liberally, and upbraideth not; and it _____ be _____ him.",
+          "answer": "wisdom, shall, given",
+          "keywords": [
+            "wisdom",
+            "shall",
+            "given"
+          ],
+          "explanation": "The full text is: If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+          "source_section": "James 1:5"
+        },
+        {
+          "id": "BW34Q21",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.'",
+          "options": [
+            "A. Proverbs 18:21",
+            "B. Proverbs 19:22",
+            "C. Proverbs 18:23",
+            "D. Proverbs 18:22"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.' is found in Proverbs 18:22.",
+          "source_section": "Proverbs 18:22"
+        },
+        {
+          "id": "BW34Q22",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:22:\nWhoso _____ a wife findeth a good _____, and _____ favour of the LORD.",
+          "answer": "findeth, thing, obtaineth",
+          "keywords": [
+            "findeth",
+            "thing",
+            "obtaineth"
+          ],
+          "explanation": "The full text is: Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD.",
+          "source_section": "Proverbs 18:22"
+        },
+        {
+          "id": "BW34Q23",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.'",
+          "options": [
+            "A. Proverbs 23:3",
+            "B. Proverbs 22:3",
+            "C. Proverbs 22:2",
+            "D. Proverbs 22:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.' is found in Proverbs 22:3.",
+          "source_section": "Proverbs 22:3"
+        },
+        {
+          "id": "BW34Q24",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:3:\nA prudent man _____ the evil, and _____ himself: but the simple pass on, and are _____.",
+          "answer": "foreseeth, hideth, punished",
+          "keywords": [
+            "foreseeth",
+            "hideth",
+            "punished"
+          ],
+          "explanation": "The full text is: A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
+          "source_section": "Proverbs 22:3"
+        },
+        {
+          "id": "BW34Q25",
+          "week": 34,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Every purpose is established by counsel: and with good advice make war.'",
+          "options": [
+            "A. Proverbs 21:18",
+            "B. Proverbs 20:19",
+            "C. Proverbs 20:18",
+            "D. Proverbs 20:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Every purpose is established by counsel: and with good advice make war.' is found in Proverbs 20:18.",
+          "source_section": "Proverbs 20:18"
+        },
+        {
+          "id": "BW34Q26",
+          "week": 34,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 20:18:\n_____ purpose is _____ by counsel: and with good advice _____ war.",
+          "answer": "Every, established, make",
+          "keywords": [
+            "Every",
+            "established",
+            "make"
+          ],
+          "explanation": "The full text is: Every purpose is established by counsel: and with good advice make war.",
+          "source_section": "Proverbs 20:18"
+        }
+      ]
+    }
+  ]
+}

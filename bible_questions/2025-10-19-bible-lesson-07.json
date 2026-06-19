@@ -1,0 +1,771 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 7,
+      "topic": "FORGIVENESS",
+      "questions": [
+        {
+          "id": "BW7Q1",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For if ye forgive men their trespasses, your heavenly Father will also forgive you:'",
+          "options": [
+            "A. Matthew 6:13",
+            "B. Matthew 7:14",
+            "C. Matthew 6:15",
+            "D. Matthew 6:14"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For if ye forgive men their trespasses, your heavenly Father will also forgive you:' is found in Matthew 6:14.",
+          "source_section": "Matthew 6:14"
+        },
+        {
+          "id": "BW7Q2",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:14:\nFor if ye forgive men their trespasses, _____ heavenly _____ _____ also forgive you:",
+          "answer": "your, Father, will",
+          "keywords": [
+            "your",
+            "Father",
+            "will"
+          ],
+          "explanation": "The full text is: For if ye forgive men their trespasses, your heavenly Father will also forgive you:",
+          "source_section": "Matthew 6:14"
+        },
+        {
+          "id": "BW7Q3",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.'",
+          "options": [
+            "A. Matthew 5:15",
+            "B. Matthew 6:16",
+            "C. Matthew 5:17",
+            "D. Matthew 5:16"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.' is found in Matthew 5:16.",
+          "source_section": "Matthew 5:16"
+        },
+        {
+          "id": "BW7Q4",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:16:\nLet your light so shine before men, that they may see your good _____, and _____ your _____ which is in heaven.",
+          "answer": "works, glorify, Father",
+          "keywords": [
+            "works",
+            "glorify",
+            "Father"
+          ],
+          "explanation": "The full text is: Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+          "source_section": "Matthew 5:16"
+        },
+        {
+          "id": "BW7Q5",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt.'",
+          "options": [
+            "A. Genesis 46:4",
+            "B. Genesis 45:3",
+            "C. Genesis 45:5",
+            "D. Genesis 45:4"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt.' is found in Genesis 45:4.",
+          "source_section": "Genesis 45:4"
+        },
+        {
+          "id": "BW7Q6",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 45:4:\nAnd Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph _____ _____, whom ye sold _____ Egypt.",
+          "answer": "your, brother, into",
+          "keywords": [
+            "your",
+            "brother",
+            "into"
+          ],
+          "explanation": "The full text is: And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt.",
+          "source_section": "Genesis 45:4"
+        },
+        {
+          "id": "BW7Q7",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he is before all things, and by him all things consist.'",
+          "options": [
+            "A. Colossians 1:17",
+            "B. Colossians 2:17",
+            "C. Colossians 1:16",
+            "D. Colossians 1:18"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he is before all things, and by him all things consist.' is found in Colossians 1:17.",
+          "source_section": "Colossians 1:17"
+        },
+        {
+          "id": "BW7Q8",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 1:17:\nAnd he is before all _____, and by him all _____ _____.",
+          "answer": "things, things, consist",
+          "keywords": [
+            "things",
+            "things",
+            "consist"
+          ],
+          "explanation": "The full text is: And he is before all things, and by him all things consist.",
+          "source_section": "Colossians 1:17"
+        },
+        {
+          "id": "BW7Q9",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Blessed is he whose transgression is forgiven, whose sin is covered.32.1 A Psalm\u2026: or, A Psalm of David giving instruction'",
+          "options": [
+            "A. Psalm 32:1-5",
+            "B. Psalm 32:2",
+            "C. Psalm 33:1",
+            "D. Psalm 32:3"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Blessed is he whose transgression is forgiven, whose sin is covered.32.1 A Psalm\u2026: or, A Psalm of David giving instruction' is found in Psalm 32:1-5.",
+          "source_section": "Psalm 32:1-5"
+        },
+        {
+          "id": "BW7Q10",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 32:1-5:\nBlessed is he whose transgression is forgiven, whose sin is _____ A Psalm\u2026: or, A _____ of _____ giving instruction",
+          "answer": "covered.32.1, Psalm, David",
+          "keywords": [
+            "covered.32.1",
+            "Psalm",
+            "David"
+          ],
+          "explanation": "The full text is: Blessed is he whose transgression is forgiven, whose sin is covered.32.1 A Psalm\u2026: or, A Psalm of David giving instruction",
+          "source_section": "Psalm 32:1-5"
+        },
+        {
+          "id": "BW7Q11",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.'",
+          "options": [
+            "A. Mark 11:26",
+            "B. Mark 11:25",
+            "C. Mark 12:25",
+            "D. Mark 11:24"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.' is found in Mark 11:25.",
+          "source_section": "Mark 11:25"
+        },
+        {
+          "id": "BW7Q12",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 11:25:\nAnd _____ ye stand praying, forgive, if ye have ought against any: that your Father _____ which is in _____ may forgive you your trespasses.",
+          "answer": "when, also, heaven",
+          "keywords": [
+            "when",
+            "also",
+            "heaven"
+          ],
+          "explanation": "The full text is: And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.",
+          "source_section": "Mark 11:25"
+        },
+        {
+          "id": "BW7Q13",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ\u2019s sake hath forgiven you.'",
+          "options": [
+            "A. Ephesians 4:33",
+            "B. Ephesians 4:32",
+            "C. Ephesians 5:32",
+            "D. Ephesians 4:31"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ\u2019s sake hath forgiven you.' is found in Ephesians 4:32.",
+          "source_section": "Ephesians 4:32"
+        },
+        {
+          "id": "BW7Q14",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 4:32:\nAnd be ye kind one to another, _____, _____ one another, _____ as God for Christ\u2019s sake hath forgiven you.",
+          "answer": "tenderhearted, forgiving, even",
+          "keywords": [
+            "tenderhearted",
+            "forgiving",
+            "even"
+          ],
+          "explanation": "The full text is: And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ\u2019s sake hath forgiven you.",
+          "source_section": "Ephesians 4:32"
+        },
+        {
+          "id": "BW7Q15",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.'",
+          "options": [
+            "A. Genesis 46:1",
+            "B. Genesis 45:1-15",
+            "C. Genesis 45:3",
+            "D. Genesis 45:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.' is found in Genesis 45:1-15.",
+          "source_section": "Genesis 45:1-15"
+        },
+        {
+          "id": "BW7Q16",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 45:1-15:\nThen Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And _____ stood no man _____ him, while Joseph made himself _____ unto his brethren.",
+          "answer": "there, with, known",
+          "keywords": [
+            "there",
+            "with",
+            "known"
+          ],
+          "explanation": "The full text is: Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.",
+          "source_section": "Genesis 45:1-15"
+        },
+        {
+          "id": "BW7Q17",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.'",
+          "options": [
+            "A. Colossians 3:12",
+            "B. Colossians 3:13",
+            "C. Colossians 4:13",
+            "D. Colossians 3:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.' is found in Colossians 3:13.",
+          "source_section": "Colossians 3:13"
+        },
+        {
+          "id": "BW7Q18",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 3:13:\n_____ one another, and forgiving one _____, if any man have a quarrel _____ any: even as Christ forgave you, so also do ye.",
+          "answer": "Forbearing, another, against",
+          "keywords": [
+            "Forbearing",
+            "another",
+            "against"
+          ],
+          "explanation": "The full text is: Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+          "source_section": "Colossians 3:13"
+        },
+        {
+          "id": "BW7Q19",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'If it be possible, as much as lieth in you, live peaceably with all men.'",
+          "options": [
+            "A. Romans 12:18",
+            "B. Romans 13:18",
+            "C. Romans 12:19",
+            "D. Romans 12:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'If it be possible, as much as lieth in you, live peaceably with all men.' is found in Romans 12:18.",
+          "source_section": "Romans 12:18"
+        },
+        {
+          "id": "BW7Q20",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:18:\nIf it be possible, as _____ as lieth in you, _____ _____ with all men.",
+          "answer": "much, live, peaceably",
+          "keywords": [
+            "much",
+            "live",
+            "peaceably"
+          ],
+          "explanation": "The full text is: If it be possible, as much as lieth in you, live peaceably with all men.",
+          "source_section": "Romans 12:18"
+        },
+        {
+          "id": "BW7Q21",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.'",
+          "options": [
+            "A. Another book 2:3",
+            "B. Another book 3:14",
+            "C. Another book 4:18",
+            "D. Genesis 37:8, 19-21"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.' is found in Genesis 37:8, 19-21.",
+          "source_section": "Genesis 37:8, 19-21"
+        },
+        {
+          "id": "BW7Q22",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 37:8, 19-21:\nAnd his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed _____ dominion over us? And they _____ him yet the _____ for his dreams, and for his words.",
+          "answer": "have, hated, more",
+          "keywords": [
+            "have",
+            "hated",
+            "more"
+          ],
+          "explanation": "The full text is: And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.",
+          "source_section": "Genesis 37:8, 19-21"
+        },
+        {
+          "id": "BW7Q23",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:'",
+          "options": [
+            "A. Matthew 18:32-35",
+            "B. Matthew 18:33",
+            "C. Matthew 19:32",
+            "D. Matthew 18:31"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:' is found in Matthew 18:32-35.",
+          "source_section": "Matthew 18:32-35"
+        },
+        {
+          "id": "BW7Q24",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 18:32-35:\n_____ his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that _____, _____ thou desiredst me:",
+          "answer": "Then, debt, because",
+          "keywords": [
+            "Then",
+            "debt",
+            "because"
+          ],
+          "explanation": "The full text is: Then his lord, after that he had called him, said unto him, O thou wicked servant, I forgave thee all that debt, because thou desiredst me:",
+          "source_section": "Matthew 18:32-35"
+        },
+        {
+          "id": "BW7Q25",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;'",
+          "options": [
+            "A. Matthew 5:44",
+            "B. Matthew 5:43",
+            "C. Matthew 5:45",
+            "D. Matthew 6:44"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;' is found in Matthew 5:44.",
+          "source_section": "Matthew 5:44"
+        },
+        {
+          "id": "BW7Q26",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:44:\nBut I say unto you, Love your enemies, _____ them that curse you, do good to them that _____ you, and pray for them _____ despitefully use you, and persecute you;",
+          "answer": "bless, hate, which",
+          "keywords": [
+            "bless",
+            "hate",
+            "which"
+          ],
+          "explanation": "The full text is: But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+          "source_section": "Matthew 5:44"
+        },
+        {
+          "id": "BW7Q27",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For if ye forgive men their trespasses, your heavenly Father will also forgive you:'",
+          "options": [
+            "A. Matthew 6:13",
+            "B. Matthew 6:15",
+            "C. Matthew 7:14",
+            "D. Matthew 6:14-15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For if ye forgive men their trespasses, your heavenly Father will also forgive you:' is found in Matthew 6:14-15.",
+          "source_section": "Matthew 6:14-15"
+        },
+        {
+          "id": "BW7Q28",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:14-15:\nFor if ye forgive men their trespasses, your _____ _____ _____ also forgive you:",
+          "answer": "heavenly, Father, will",
+          "keywords": [
+            "heavenly",
+            "Father",
+            "will"
+          ],
+          "explanation": "The full text is: For if ye forgive men their trespasses, your heavenly Father will also forgive you:",
+          "source_section": "Matthew 6:14-15"
+        },
+        {
+          "id": "BW7Q29",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.'",
+          "options": [
+            "A. Genesis 51:17",
+            "B. Genesis 50:18",
+            "C. Genesis 50:16",
+            "D. Genesis 50:17-20"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.' is found in Genesis 50:17-20.",
+          "source_section": "Genesis 50:17-20"
+        },
+        {
+          "id": "BW7Q30",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 50:17-20:\nSo _____ ye say unto _____, _____, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
+          "answer": "shall, Joseph, Forgive",
+          "keywords": [
+            "shall",
+            "Joseph",
+            "Forgive"
+          ],
+          "explanation": "The full text is: So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.",
+          "source_section": "Genesis 50:17-20"
+        },
+        {
+          "id": "BW7Q31",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.'",
+          "options": [
+            "A. 1 Thessalonians 6:15",
+            "B. 1 Thessalonians 5:16",
+            "C. 1 Thessalonians 5:14",
+            "D. 1 Thessalonians 5:15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.' is found in 1 Thessalonians 5:15.",
+          "source_section": "1 Thessalonians 5:15"
+        },
+        {
+          "id": "BW7Q32",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 5:15:\nSee _____ none render evil for evil _____ any man; but _____ follow that which is good, both among yourselves, and to all men.",
+          "answer": "that, unto, ever",
+          "keywords": [
+            "that",
+            "unto",
+            "ever"
+          ],
+          "explanation": "The full text is: See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.",
+          "source_section": "1 Thessalonians 5:15"
+        },
+        {
+          "id": "BW7Q33",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.'",
+          "options": [
+            "A. Romans 12:15",
+            "B. Romans 12:17",
+            "C. Romans 12:16",
+            "D. Romans 13:16"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.' is found in Romans 12:16.",
+          "source_section": "Romans 12:16"
+        },
+        {
+          "id": "BW7Q34",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:16:\nBe of the same mind one toward _____. Mind not high things, but condescend to men of low _____. Be not wise in your own _____.",
+          "answer": "another, estate, conceits",
+          "keywords": [
+            "another",
+            "estate",
+            "conceits"
+          ],
+          "explanation": "The full text is: Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.",
+          "source_section": "Romans 12:16"
+        },
+        {
+          "id": "BW7Q35",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And herein do I exercise myself, to have always a conscience void of offence toward God, and toward men.'",
+          "options": [
+            "A. Acts 24:15",
+            "B. Acts 24:17",
+            "C. Acts 25:16",
+            "D. Acts 24:16"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And herein do I exercise myself, to have always a conscience void of offence toward God, and toward men.' is found in Acts 24:16.",
+          "source_section": "Acts 24:16"
+        },
+        {
+          "id": "BW7Q36",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 24:16:\nAnd herein do I _____ myself, to have always a conscience void of offence _____ God, and _____ men.",
+          "answer": "exercise, toward, toward",
+          "keywords": [
+            "exercise",
+            "toward",
+            "toward"
+          ],
+          "explanation": "The full text is: And herein do I exercise myself, to have always a conscience void of offence toward God, and toward men.",
+          "source_section": "Acts 24:16"
+        },
+        {
+          "id": "BW7Q37",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.'",
+          "options": [
+            "A. Acts 7:60",
+            "B. Acts 7:59",
+            "C. Acts 7:61",
+            "D. Acts 8:60"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.' is found in Acts 7:60.",
+          "source_section": "Acts 7:60"
+        },
+        {
+          "id": "BW7Q38",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 7:60:\nAnd he kneeled down, and _____ _____ a loud _____, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+          "answer": "cried, with, voice",
+          "keywords": [
+            "cried",
+            "with",
+            "voice"
+          ],
+          "explanation": "The full text is: And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.",
+          "source_section": "Acts 7:60"
+        },
+        {
+          "id": "BW7Q39",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Ye are the light of the world. A city that is set on an hill cannot be hid.'",
+          "options": [
+            "A. Matthew 5:13",
+            "B. Matthew 6:14",
+            "C. Matthew 5:14",
+            "D. Matthew 5:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Ye are the light of the world. A city that is set on an hill cannot be hid.' is found in Matthew 5:14.",
+          "source_section": "Matthew 5:14"
+        },
+        {
+          "id": "BW7Q40",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:14:\nYe are the _____ of the world. A _____ that is set on an hill _____ be hid.",
+          "answer": "light, city, cannot",
+          "keywords": [
+            "light",
+            "city",
+            "cannot"
+          ],
+          "explanation": "The full text is: Ye are the light of the world. A city that is set on an hill cannot be hid.",
+          "source_section": "Matthew 5:14"
+        },
+        {
+          "id": "BW7Q41",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Follow peace with all men, and holiness, without which no man shall see the Lord:'",
+          "options": [
+            "A. Hebrews 12:14-15",
+            "B. Hebrews 13:14",
+            "C. Hebrews 12:13",
+            "D. Hebrews 12:15"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Follow peace with all men, and holiness, without which no man shall see the Lord:' is found in Hebrews 12:14-15.",
+          "source_section": "Hebrews 12:14-15"
+        },
+        {
+          "id": "BW7Q42",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 12:14-15:\n_____ peace _____ all men, and holiness, _____ which no man shall see the Lord:",
+          "answer": "Follow, with, without",
+          "keywords": [
+            "Follow",
+            "with",
+            "without"
+          ],
+          "explanation": "The full text is: Follow peace with all men, and holiness, without which no man shall see the Lord:",
+          "source_section": "Hebrews 12:14-15"
+        },
+        {
+          "id": "BW7Q43",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let us therefore follow after the things which make for peace, and things wherewith one may edify another.'",
+          "options": [
+            "A. Romans 14:19",
+            "B. Romans 15:19",
+            "C. Romans 14:20",
+            "D. Romans 14:18"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Let us therefore follow after the things which make for peace, and things wherewith one may edify another.' is found in Romans 14:19.",
+          "source_section": "Romans 14:19"
+        },
+        {
+          "id": "BW7Q44",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 14:19:\nLet us therefore follow after the things which _____ for peace, and _____ wherewith one may _____ another.",
+          "answer": "make, things, edify",
+          "keywords": [
+            "make",
+            "things",
+            "edify"
+          ],
+          "explanation": "The full text is: Let us therefore follow after the things which make for peace, and things wherewith one may edify another.",
+          "source_section": "Romans 14:19"
+        },
+        {
+          "id": "BW7Q45",
+          "week": 7,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.'",
+          "options": [
+            "A. 1 Corinthians 1:9",
+            "B. 1 Corinthians 1:11",
+            "C. 1 Corinthians 2:10",
+            "D. 1 Corinthians 1:10"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.' is found in 1 Corinthians 1:10.",
+          "source_section": "1 Corinthians 1:10"
+        },
+        {
+          "id": "BW7Q46",
+          "week": 7,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 1:10:\nNow I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same _____, and that there be no _____ among you; but that ye be perfectly joined _____ in the same mind and in the same judgment.",
+          "answer": "thing, divisions, together",
+          "keywords": [
+            "thing",
+            "divisions",
+            "together"
+          ],
+          "explanation": "The full text is: Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.",
+          "source_section": "1 Corinthians 1:10"
+        }
+      ]
+    }
+  ]
+}

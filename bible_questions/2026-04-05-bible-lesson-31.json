@@ -1,0 +1,705 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:16Z",
+  "weeks": [
+    {
+      "week_number": 31,
+      "topic": "SELF-WORTH",
+      "questions": [
+        {
+          "id": "BW31Q1",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.3.7 aprons: or, things to gird about'",
+          "options": [
+            "A. Genesis 3:7-9",
+            "B. Genesis 3:6",
+            "C. Genesis 4:7",
+            "D. Genesis 3:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.3.7 aprons: or, things to gird about' is found in Genesis 3:7-9.",
+          "source_section": "Genesis 3:7-9"
+        },
+        {
+          "id": "BW31Q2",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 3:7-9:\nAnd the eyes of them _____ were opened, and they knew that they were naked; and they sewed fig leaves _____, and made _____ aprons.3.7 aprons: or, things to gird about",
+          "answer": "both, together, themselves",
+          "keywords": [
+            "both",
+            "together",
+            "themselves"
+          ],
+          "explanation": "The full text is: And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.3.7 aprons: or, things to gird about",
+          "source_section": "Genesis 3:7-9"
+        },
+        {
+          "id": "BW31Q3",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,'",
+          "options": [
+            "A. Philippians 3:12",
+            "B. Philippians 3:13-14",
+            "C. Philippians 4:13",
+            "D. Philippians 3:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,' is found in Philippians 3:13-14.",
+          "source_section": "Philippians 3:13-14"
+        },
+        {
+          "id": "BW31Q4",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 3:13-14:\n_____, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching _____ unto those things which are _____,",
+          "answer": "Brethren, forth, before",
+          "keywords": [
+            "Brethren",
+            "forth",
+            "before"
+          ],
+          "explanation": "The full text is: Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,",
+          "source_section": "Philippians 3:13-14"
+        },
+        {
+          "id": "BW31Q5",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And ye shall know the truth, and the truth shall make you free.'",
+          "options": [
+            "A. John 8:31",
+            "B. John 8:33",
+            "C. John 8:32",
+            "D. John 9:32"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And ye shall know the truth, and the truth shall make you free.' is found in John 8:32.",
+          "source_section": "John 8:32"
+        },
+        {
+          "id": "BW31Q6",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 8:32:\nAnd ye _____ _____ the _____, and the truth shall make you free.",
+          "answer": "shall, know, truth",
+          "keywords": [
+            "shall",
+            "know",
+            "truth"
+          ],
+          "explanation": "The full text is: And ye shall know the truth, and the truth shall make you free.",
+          "source_section": "John 8:32"
+        },
+        {
+          "id": "BW31Q7",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.139.14 right\u2026: Heb. greatly'",
+          "options": [
+            "A. Psalm 139:14",
+            "B. Psalm 139:13",
+            "C. Psalm 140:14",
+            "D. Psalm 139:15"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.139.14 right\u2026: Heb. greatly' is found in Psalm 139:14.",
+          "source_section": "Psalm 139:14"
+        },
+        {
+          "id": "BW31Q8",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 139:14:\nI will praise thee; for I am _____ and wonderfully made: marvellous are thy works; and that my _____ knoweth right well.139.14 right\u2026: Heb. _____",
+          "answer": "fearfully, soul, greatly",
+          "keywords": [
+            "fearfully",
+            "soul",
+            "greatly"
+          ],
+          "explanation": "The full text is: I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.139.14 right\u2026: Heb. greatly",
+          "source_section": "Psalm 139:14"
+        },
+        {
+          "id": "BW31Q9",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In every thing give thanks: for this is the will of God in Christ Jesus concerning you.'",
+          "options": [
+            "A. 1 Thessalonians 5:17",
+            "B. 1 Thessalonians 6:18",
+            "C. 1 Thessalonians 5:18",
+            "D. 1 Thessalonians 5:19"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'In every thing give thanks: for this is the will of God in Christ Jesus concerning you.' is found in 1 Thessalonians 5:18.",
+          "source_section": "1 Thessalonians 5:18"
+        },
+        {
+          "id": "BW31Q10",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 5:18:\nIn every thing _____ _____: for this is the will of God in Christ _____ concerning you.",
+          "answer": "give, thanks, Jesus",
+          "keywords": [
+            "give",
+            "thanks",
+            "Jesus"
+          ],
+          "explanation": "The full text is: In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+          "source_section": "1 Thessalonians 5:18"
+        },
+        {
+          "id": "BW31Q11",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.43.4 life: or, person'",
+          "options": [
+            "A. Isaiah 44:4",
+            "B. Isaiah 43:4",
+            "C. Isaiah 43:5",
+            "D. Isaiah 43:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.43.4 life: or, person' is found in Isaiah 43:4.",
+          "source_section": "Isaiah 43:4"
+        },
+        {
+          "id": "BW31Q12",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 43:4:\nSince _____ _____ precious in my sight, thou _____ been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.43.4 life: or, person",
+          "answer": "thou, wast, hast",
+          "keywords": [
+            "thou",
+            "wast",
+            "hast"
+          ],
+          "explanation": "The full text is: Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.43.4 life: or, person",
+          "source_section": "Isaiah 43:4"
+        },
+        {
+          "id": "BW31Q13",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But with many of them God was not well pleased: for they were overthrown in the wilderness.'",
+          "options": [
+            "A. Corinthians 11:5",
+            "B. Corinthians 10:4",
+            "C. Corinthians 10:6",
+            "D. Corinthians 10:5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But with many of them God was not well pleased: for they were overthrown in the wilderness.' is found in Corinthians 10:5.",
+          "source_section": "Corinthians 10:5"
+        },
+        {
+          "id": "BW31Q14",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Corinthians 10:5:\nBut with many of them God was not well pleased: for they _____ _____ in the _____.",
+          "answer": "were, overthrown, wilderness",
+          "keywords": [
+            "were",
+            "overthrown",
+            "wilderness"
+          ],
+          "explanation": "The full text is: But with many of them God was not well pleased: for they were overthrown in the wilderness.",
+          "source_section": "Corinthians 10:5"
+        },
+        {
+          "id": "BW31Q15",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.'",
+          "options": [
+            "A. 2 Corinthians 12:8",
+            "B. 2 Corinthians 13:9",
+            "C. 2 Corinthians 12:9",
+            "D. 2 Corinthians 12:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.' is found in 2 Corinthians 12:9.",
+          "source_section": "2 Corinthians 12:9"
+        },
+        {
+          "id": "BW31Q16",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 12:9:\nAnd he said unto me, My grace is sufficient for thee: for my strength is _____ _____ in weakness. Most gladly _____ will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+          "answer": "made, perfect, therefore",
+          "keywords": [
+            "made",
+            "perfect",
+            "therefore"
+          ],
+          "explanation": "The full text is: And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+          "source_section": "2 Corinthians 12:9"
+        },
+        {
+          "id": "BW31Q17",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.'",
+          "options": [
+            "A. Acts 8:20",
+            "B. Acts 9:20",
+            "C. Acts 8:21",
+            "D. Acts 8:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.' is found in Acts 8:20.",
+          "source_section": "Acts 8:20"
+        },
+        {
+          "id": "BW31Q18",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 8:20:\nBut Peter said unto him, Thy money perish with _____, because thou hast _____ that the gift of God may be purchased with _____.",
+          "answer": "thee, thought, money",
+          "keywords": [
+            "thee",
+            "thought",
+            "money"
+          ],
+          "explanation": "The full text is: But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.",
+          "source_section": "Acts 8:20"
+        },
+        {
+          "id": "BW31Q19",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping'",
+          "options": [
+            "A. Another book 1:18",
+            "B. Proverbs 4:23, 2",
+            "C. Another book 5:7",
+            "D. Another book 5:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping' is found in Proverbs 4:23, 2.",
+          "source_section": "Proverbs 4:23, 2"
+        },
+        {
+          "id": "BW31Q20",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 4:23, 2:\n\u00b6 Keep thy heart with all _____; for out of it are the issues of life.4.23 with\u2026: Heb. _____ all _____",
+          "answer": "diligence, above, keeping",
+          "keywords": [
+            "diligence",
+            "above",
+            "keeping"
+          ],
+          "explanation": "The full text is: \u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping",
+          "source_section": "Proverbs 4:23, 2"
+        },
+        {
+          "id": "BW31Q21",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.'",
+          "options": [
+            "A. Philippians 4:5",
+            "B. Philippians 5:6",
+            "C. Philippians 4:7",
+            "D. Philippians 4:6"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.' is found in Philippians 4:6.",
+          "source_section": "Philippians 4:6"
+        },
+        {
+          "id": "BW31Q22",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 4:6:\nBe careful for nothing; but in every _____ by prayer and _____ with thanksgiving let _____ requests be made known unto God.",
+          "answer": "thing, supplication, your",
+          "keywords": [
+            "thing",
+            "supplication",
+            "your"
+          ],
+          "explanation": "The full text is: Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+          "source_section": "Philippians 4:6"
+        },
+        {
+          "id": "BW31Q23",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.'",
+          "options": [
+            "A. 2 Corinthians 10:12",
+            "B. 2 Corinthians 11:12",
+            "C. 2 Corinthians 10:11",
+            "D. 2 Corinthians 10:13"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.' is found in 2 Corinthians 10:12.",
+          "source_section": "2 Corinthians 10:12"
+        },
+        {
+          "id": "BW31Q24",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 10:12:\nFor we dare not _____ ourselves of the number, or compare ourselves with some _____ commend themselves: but they measuring themselves by themselves, and comparing themselves _____ themselves, are not wise.",
+          "answer": "make, that, among",
+          "keywords": [
+            "make",
+            "that",
+            "among"
+          ],
+          "explanation": "The full text is: For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
+          "source_section": "2 Corinthians 10:12"
+        },
+        {
+          "id": "BW31Q25",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.'",
+          "options": [
+            "A. Romans 13:2",
+            "B. Romans 12:2",
+            "C. Romans 12:1",
+            "D. Romans 12:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.' is found in Romans 12:2.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW31Q26",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:2:\nAnd be not conformed to this world: but be ye transformed by the _____ of your mind, that ye may prove _____ is that good, and _____, and perfect, will of God.",
+          "answer": "renewing, what, acceptable",
+          "keywords": [
+            "renewing",
+            "what",
+            "acceptable"
+          ],
+          "explanation": "The full text is: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW31Q27",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,1.20 mantle: or, robe'",
+          "options": [
+            "A. Job 1:21",
+            "B. Job 1:19",
+            "C. Job 2:20",
+            "D. Job 1:20-22"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,1.20 mantle: or, robe' is found in Job 1:20-22.",
+          "source_section": "Job 1:20-22"
+        },
+        {
+          "id": "BW31Q28",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 1:20-22:\nThen Job arose, and rent his _____, and shaved his head, and fell down upon the ground, and _____ _____: or, robe",
+          "answer": "mantle, worshipped,1.20, mantle",
+          "keywords": [
+            "mantle",
+            "worshipped,1.20",
+            "mantle"
+          ],
+          "explanation": "The full text is: Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,1.20 mantle: or, robe",
+          "source_section": "Job 1:20-22"
+        },
+        {
+          "id": "BW31Q29",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.'",
+          "options": [
+            "A. Genesis 1:27",
+            "B. Genesis 1:26-27",
+            "C. Genesis 2:26",
+            "D. Genesis 1:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.' is found in Genesis 1:26-27.",
+          "source_section": "Genesis 1:26-27"
+        },
+        {
+          "id": "BW31Q30",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 1:26-27:\n\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and _____ the cattle, and over all the _____, and over every creeping thing that creepeth _____ the earth.",
+          "answer": "over, earth, upon",
+          "keywords": [
+            "over",
+            "earth",
+            "upon"
+          ],
+          "explanation": "The full text is: \u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+          "source_section": "Genesis 1:26-27"
+        },
+        {
+          "id": "BW31Q31",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.'",
+          "options": [
+            "A. Proverbs 18:22",
+            "B. Proverbs 19:21",
+            "C. Proverbs 18:21",
+            "D. Proverbs 18:20"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.' is found in Proverbs 18:21.",
+          "source_section": "Proverbs 18:21"
+        },
+        {
+          "id": "BW31Q32",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:21:\nDeath and life are in the power of the tongue: and _____ that _____ it _____ eat the fruit thereof.",
+          "answer": "they, love, shall",
+          "keywords": [
+            "they",
+            "love",
+            "shall"
+          ],
+          "explanation": "The full text is: Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.",
+          "source_section": "Proverbs 18:21"
+        },
+        {
+          "id": "BW31Q33",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.'",
+          "options": [
+            "A. John 3:16",
+            "B. John 4:16",
+            "C. John 3:15",
+            "D. John 3:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.' is found in John 3:16.",
+          "source_section": "John 3:16"
+        },
+        {
+          "id": "BW31Q34",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 3:16:\n\u00b6 For God so loved the _____, _____ he gave his only begotten Son, that whosoever _____ in him should not perish, but have everlasting life.",
+          "answer": "world, that, believeth",
+          "keywords": [
+            "world",
+            "that",
+            "believeth"
+          ],
+          "explanation": "The full text is: \u00b6 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+          "source_section": "John 3:16"
+        },
+        {
+          "id": "BW31Q35",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping'",
+          "options": [
+            "A. Proverbs 4:24",
+            "B. Proverbs 5:23",
+            "C. Proverbs 4:23",
+            "D. Proverbs 4:22"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping' is found in Proverbs 4:23.",
+          "source_section": "Proverbs 4:23"
+        },
+        {
+          "id": "BW31Q36",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 4:23:\n\u00b6 Keep thy heart with all _____; for out of it are the issues of _____ with\u2026: Heb. above all _____",
+          "answer": "diligence, life.4.23, keeping",
+          "keywords": [
+            "diligence",
+            "life.4.23",
+            "keeping"
+          ],
+          "explanation": "The full text is: \u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping",
+          "source_section": "Proverbs 4:23"
+        },
+        {
+          "id": "BW31Q37",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?'",
+          "options": [
+            "A. Judges 12:9",
+            "B. Judges 11:9",
+            "C. Judges 11:10",
+            "D. Judges 11:8"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?' is found in Judges 11:9.",
+          "source_section": "Judges 11:9"
+        },
+        {
+          "id": "BW31Q38",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 11:9:\nAnd Jephthah said unto the elders of Gilead, If ye _____ me _____ again to _____ against the children of Ammon, and the LORD deliver them before me, shall I be your head?",
+          "answer": "bring, home, fight",
+          "keywords": [
+            "bring",
+            "home",
+            "fight"
+          ],
+          "explanation": "The full text is: And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?",
+          "source_section": "Judges 11:9"
+        },
+        {
+          "id": "BW31Q39",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.'",
+          "options": [
+            "A. 1 Thessalonians 2:5",
+            "B. 1 Thessalonians 2:4",
+            "C. 1 Thessalonians 2:3",
+            "D. 1 Thessalonians 3:4"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.' is found in 1 Thessalonians 2:4.",
+          "source_section": "1 Thessalonians 2:4"
+        },
+        {
+          "id": "BW31Q40",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 2:4:\nBut as we were _____ of God to be put in trust _____ the gospel, even so we _____; not as pleasing men, but God, which trieth our hearts.",
+          "answer": "allowed, with, speak",
+          "keywords": [
+            "allowed",
+            "with",
+            "speak"
+          ],
+          "explanation": "The full text is: But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.",
+          "source_section": "1 Thessalonians 2:4"
+        },
+        {
+          "id": "BW31Q41",
+          "week": 31,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Which of you by taking thought can add one cubit unto his stature?'",
+          "options": [
+            "A. Matthew 6:28",
+            "B. Matthew 7:27",
+            "C. Matthew 6:26",
+            "D. Matthew 6:27"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Which of you by taking thought can add one cubit unto his stature?' is found in Matthew 6:27.",
+          "source_section": "Matthew 6:27"
+        },
+        {
+          "id": "BW31Q42",
+          "week": 31,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 6:27:\nWhich of you by _____ _____ can add one cubit unto his _____",
+          "answer": "taking, thought, stature?",
+          "keywords": [
+            "taking",
+            "thought",
+            "stature?"
+          ],
+          "explanation": "The full text is: Which of you by taking thought can add one cubit unto his stature?",
+          "source_section": "Matthew 6:27"
+        }
+      ]
+    }
+  ]
+}

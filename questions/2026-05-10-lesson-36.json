@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:38:00Z",
+  "weeks": [
+    {
+      "week_number": 36,
+      "topic": "PARENTING STYLES (PART 2)",
+      "memory_verse_reference": "Proverbs 13:24",
+      "questions": [
+        {
+          "id": "W36Q1",
+          "week": 36,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 36?",
+          "options": [
+            "A. BIBLICAL POINTERS",
+            "B. THE BEST PARENTING STYLE",
+            "C. PARENTING STYLES (PART 1)",
+            "D. PARENTING STYLES (PART 2)"
+          ],
+          "answer": "D",
+          "explanation": "The topic explicitly listed for Lesson Thirty-Six is PARENTING STYLES (PART 2).",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W36Q2",
+          "week": 36,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 35?",
+          "options": [
+            "A. PARENTING STYLES (PART 1)",
+            "B. PARENTING STYLES (PART 2)",
+            "C. SOCIAL MEDIA ROMANCE",
+            "D. DEFINE YOUR RELATIONSHIP"
+          ],
+          "answer": "A",
+          "explanation": "Parenting Styles (Part 1) was the topic for Week 35.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W36Q3",
+          "week": 36,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "He that spareth his rod hateth his son: but he that loveth him chasteneth him ________.",
+          "options": [
+            "A. softly",
+            "B. sometimes",
+            "C. betimes",
+            "D. severely"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Proverbs 13:24) says 'but he that loveth him chasteneth him betimes.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W36Q4",
+          "week": 36,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Proverbs 13:24",
+          "keywords": ["Proverbs", "13:24"],
+          "explanation": "The memory verse reference is Proverbs 13:24.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W36Q5",
+          "week": 36,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 36 in full (KJV/NKJV).",
+          "answer": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
+          "keywords": ["spareth", "rod", "hateth", "loveth", "chasteneth", "betimes"],
+          "explanation": "Full text recall of Proverbs 13:24.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W36Q6",
+          "week": 36,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Proverbs 13:24), what does a father who spares his rod do?",
+          "options": [
+            "A. He loves his son",
+            "B. He spoils his son",
+            "C. He hateth his son",
+            "D. He protects his son"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'He that spareth his rod hateth his son...'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W36Q7",
+          "week": 36,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the introduction, the four major parenting styles are permissive, uninvolved, authoritarian, and authoritative.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'In our last lesson, we discussed the four major parenting styles namely the “permissive”, “uninvolved”, “authoritarian” and “authoritative.”'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W36Q8",
+          "week": 36,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What significant responsibility of Christian parents does the lesson focus on?",
+          "options": [
+            "A. Paying school fees",
+            "B. Raising their children in a way that honours God and promotes spiritual growth, emotional well-being and career success",
+            "C. Ensuring their children play sports",
+            "D. Buying them a house"
+          ],
+          "answer": "B",
+          "explanation": "The introduction explicitly states this responsibility.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W36Q9",
+          "week": 36,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "BIBLICAL POINTERS",
+          "keywords": ["BIBLICAL", "POINTERS"],
+          "explanation": "Outline I is titled 'BIBLICAL POINTERS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q10",
+          "week": 36,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, does the Bible have anything to say about different parenting styles?",
+          "options": [
+            "A. No, it is silent on the matter",
+            "B. Only about authoritarian style",
+            "C. Yes, it gives several examples of very effective techniques and disastrous methods",
+            "D. Only about permissive style"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Yes, it does. The Bible gives several examples of very effective parenting techniques, and some disastrous parenting methods...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q11",
+          "week": 36,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show the Bible emphasizes spiritual instruction for parents to follow?",
+          "options": [
+            "A. Proverbs 23:13-14",
+            "B. Proverbs 19:18",
+            "C. Ephesians 6:4; 1 Timothy 5:8",
+            "D. Deuteronomy 6:7; Proverbs 22:6"
+          ],
+          "answer": "D",
+          "explanation": "The text lists 'spiritual instruction (Deuteronomy 6:7; Proverbs 22:6).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q12",
+          "week": 36,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, knowing the biblical pointers is enough to make a person a godly and effective parent.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly states 'Knowing these pointers are not enough to make the necessary changes! Obeying them is crucial...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q13",
+          "week": 36,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show the Bible provides guidance for parents by emphasizing love, care and support?",
+          "options": [
+            "A. Ephesians 6:4; 1 Timothy 5:8; Proverbs 31:15, 21",
+            "B. Deuteronomy 6:7",
+            "C. Proverbs 19:18; 29:17",
+            "D. Genesis 18:19"
+          ],
+          "answer": "A",
+          "explanation": "The text lists 'love, care and support (Ephesians 6:4; 1Timothy 5:8; Proverbs 31:15, 21)...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q14",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE BEST PARENTING STYLE",
+          "keywords": ["THE", "BEST", "PARENTING", "STYLE"],
+          "explanation": "Outline II is titled 'THE BEST PARENTING STYLE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W36Q15",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, does parenting follow a 'one size fits all' model?",
+          "options": [
+            "A. Yes, all children are the same",
+            "B. Yes, authoritarian is the only way",
+            "C. No, parenting does not follow a 'one size fits all' model",
+            "D. Yes, if you use the Bible"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Parenting does not follow a “one size fits all” model.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W36Q16",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What do the most effective parents do regarding their parenting style?",
+          "options": [
+            "A. They never change their style",
+            "B. They recognise when to adjust their style based on the circumstances",
+            "C. They let the child pick the style",
+            "D. They let the school teachers handle it"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'The most effective parents recognise when to adjust their style based on the circumstances.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W36Q17",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "An authoritarian parent might choose to be more permissive when a child is unwell, offering extra warmth.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text gives this as an example: 'For instance, an authoritarian parent might choose to be more permissive when a child is unwell, offering extra warmth and easing some restrictions...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W36Q18",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "When might a permissive parent adopt a stricter approach?",
+          "options": [
+            "A. When they want to sleep",
+            "B. When a child's safety is at risk, such as while crossing a busy street",
+            "C. When guests are visiting",
+            "D. When they don't have enough money"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'A permissive parent might adopt a stricter approach when a child’s safety is at risk, such as while crossing a busy street...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W36Q19",
+          "week": 36,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, what should guide you in using the parenting style that best suits your family's needs?",
+          "options": [
+            "A. Society's trends",
+            "B. The guidance of the Holy Spirit",
+            "C. Your grandparents' advice",
+            "D. Television shows"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion states 'Use the parenting style that best suits your family’s needs with the guidance of the Holy Spirit.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W36Q20",
+          "week": 36,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.'",
+          "verse_text": "Esther had not shewed her people nor her kindred: for Mordecai had charged her that she should not shew it.",
+          "options": [
+            "A. Esther 2:7",
+            "B. Esther 2:8",
+            "C. Esther 2:9",
+            "D. Esther 2:10"
+          ],
+          "answer": "D",
+          "explanation": "This is verse 10 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W36Q21",
+          "week": 36,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Esther 2:7), who brought up Hadassah (Esther)?",
+          "options": [
+            "A. King Ahasuerus",
+            "B. Her father",
+            "C. Mordecai",
+            "D. The king's eunuch"
+          ],
+          "answer": "C",
+          "explanation": "Verse 7 says 'And he brought up Hadassah... whom Mordecai, when her father and mother were dead, took for his own daughter.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W36Q22",
+          "week": 36,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is another name for Esther in Esther 2:7?",
+          "options": [
+            "A. Vashti",
+            "B. Hadassah",
+            "C. Ruth",
+            "D. Naomi"
+          ],
+          "answer": "B",
+          "explanation": "Verse 7 says 'Hadassah, that is, Esther...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W36Q23",
+          "week": 36,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Esther 2:7, what happened to Esther's father and mother?",
+          "options": [
+            "A. They moved to another country",
+            "B. They were captured",
+            "C. They were dead",
+            "D. They abandoned her"
+          ],
+          "answer": "C",
+          "explanation": "Verse 7 says 'for she had neither father nor mother... when her father and mother were dead...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W36Q24",
+          "week": 36,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Esther 2:10, why did Esther not show her people nor her kindred?",
+          "options": [
+            "A. She forgot who they were",
+            "B. Mordecai had charged her that she should not show it",
+            "C. She was ashamed of them",
+            "D. The king forbade it"
+          ],
+          "answer": "B",
+          "explanation": "Verse 10 says 'for Mordecai had charged her that she should not shew it.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W36Q25",
+          "week": 36,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Esther 2:11, what did Mordecai do every day?",
+          "options": [
+            "A. He fasted and prayed",
+            "B. He walked before the court of the women's house, to know how Esther did",
+            "C. He wrote letters to Esther",
+            "D. He brought her gifts"
+          ],
+          "answer": "B",
+          "explanation": "Verse 11 says 'And Mordecai walked every day before the court of the women’s house, to know how Esther did, and what should become of her.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W36Q26",
+          "week": 36,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Your parenting style simply refers to your ________ to parenting.",
+          "options": [
+            "A. approach",
+            "B. feeling",
+            "C. rule",
+            "D. reaction"
+          ],
+          "answer": "A",
+          "explanation": "Outline I says 'Your parenting style simply refers to your approach to parenting.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q27",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "You do not have to stick to a single parenting approach, as there will be times when a mix of methods is necessary.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II explicitly states this.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W36Q28",
+          "week": 36,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding God giving examples of disastrous parenting methods?",
+          "options": [
+            "A. 1 Samuel 2:27-30",
+            "B. Proverbs 23:13-14",
+            "C. Ephesians 6:4",
+            "D. Deuteronomy 6:7"
+          ],
+          "answer": "A",
+          "explanation": "Outline I cites '(Genesis 18:19; 1 Samuel 2:27-30)' when mentioning effective and disastrous methods.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q29",
+          "week": 36,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Knowing these pointers are not enough to make the necessary changes! ________ them is crucial in becoming a godly and effective parent.",
+          "options": [
+            "A. Memorising",
+            "B. Discussing",
+            "C. Obeying",
+            "D. Preaching"
+          ],
+          "answer": "C",
+          "explanation": "Outline I says 'Obeying them is crucial in becoming a godly and effective parent.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W36Q30",
+          "week": 36,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the phrase given as an example of a permissive parent being strict for safety?",
+          "options": [
+            "A. 'You must do your homework.'",
+            "B. 'Of course, you can have ice cream for lunch.'",
+            "C. 'I am holding your hand whether you want it or not.'",
+            "D. 'Don't talk to strangers.'"
+          ],
+          "answer": "C",
+          "explanation": "Outline II gives the example: 'e.g., “I am holding your hand whether you want it or not.”'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:20:00Z",
+  "weeks": [
+    {
+      "week_number": 16,
+      "topic": "DESTINY DESTROYERS",
+      "memory_verse_reference": "Jeremiah 29:11",
+      "questions": [
+        {
+          "id": "W16Q1",
+          "week": 16,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 16?",
+          "options": [
+            "A. UNTOWARD FREEDOM",
+            "B. DESTINY DESTROYERS",
+            "C. BIBLICAL INSTANCES",
+            "D. PURSUIT OF VANITY"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Sixteen is DESTINY DESTROYERS.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W16Q2",
+          "week": 16,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 15?",
+          "options": [
+            "A. UNTOWARD FREEDOM",
+            "B. DESTINY DESTROYERS",
+            "C. PEER PRESSURE",
+            "D. DOMINION THROUGH PRAYERS"
+          ],
+          "answer": "A",
+          "explanation": "Untoward Freedom was the topic for Week 15.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W16Q3",
+          "week": 16,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "For I know the thoughts that I think toward you, says the LORD, thoughts of ________ and not of evil, to give you a future and a hope.",
+          "options": [
+            "A. wealth",
+            "B. peace",
+            "C. victory",
+            "D. health"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Jeremiah 29:11) says 'thoughts of peace and not of evil'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W16Q4",
+          "week": 16,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Jeremiah 29:11",
+          "keywords": ["Jeremiah", "29:11"],
+          "explanation": "The memory verse reference is Jeremiah 29:11.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W16Q5",
+          "week": 16,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 16 in full (NKJV).",
+          "answer": "For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.",
+          "keywords": ["know", "thoughts", "toward", "LORD", "peace", "evil", "future", "hope"],
+          "explanation": "Full text recall of Jeremiah 29:11.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W16Q6",
+          "week": 16,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Jeremiah 29:11), what two things does God intend to give you?",
+          "options": [
+            "A. Wealth and long life",
+            "B. Victory and dominion",
+            "C. A future and a hope",
+            "D. Grace and peace"
+          ],
+          "answer": "C",
+          "explanation": "The verse says 'to give you a future and a hope.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W16Q7",
+          "week": 16,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How is 'destiny' defined in the introduction of the lesson?",
+          "options": [
+            "A. A random series of events",
+            "B. God's divine purpose and preplanned destination for a person's life",
+            "C. The career you choose",
+            "D. Whatever happens at the end of your life"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Destiny is God’s divine purpose and preplanned destination for a person’s life.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W16Q8",
+          "week": 16,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited to show that destiny represents what God has ordained for an individual even before conception?",
+          "options": [
+            "A. Jeremiah 1:5",
+            "B. Jeremiah 29:11",
+            "C. John 8:32",
+            "D. Romans 8:28"
+          ],
+          "answer": "A",
+          "explanation": "The text links this to '(Jeremiah 1:5)'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W16Q9",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "EXAMPLES OF DESTINY DESTROYERS",
+          "keywords": ["EXAMPLES", "OF", "DESTINY", "DESTROYERS"],
+          "explanation": "Outline I is titled 'EXAMPLES OF DESTINY DESTROYERS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q10",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what leads to destruction due to lack of focus and is described as a significant destiny destroyer? (Hosea 4:6)",
+          "options": [
+            "A. Laziness",
+            "B. Anger",
+            "C. Ignorance",
+            "D. Pride"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 is 'Ignorance: Lack of knowledge of God’s plan... (Hosea 4:6).' ",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q11",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, Solomon's pursuit of vanity and wealth led to his backsliding.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 2 states 'Solomon’s pursuit of vanity and wealth led to his backsliding and loss of direction.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q12",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which destiny destroyer leads to divine resistance? (James 4:6)",
+          "options": [
+            "A. Anger",
+            "B. Pride",
+            "C. Prayerlessness",
+            "D. Laziness"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 says 'Pride leads to divine resistance (James 4:6).' ",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q13",
+          "week": 16,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are associated with 'Lack of Faith' as a destiny destroyer?",
+          "options": [
+            "A. 1 Timothy 1:19; Hebrews 11:6",
+            "B. Proverbs 29:22; Proverbs 12:24",
+            "C. 1 John 3:4; Matthew 13:25",
+            "D. Ecclesiastes 2:10-11"
+          ],
+          "answer": "A",
+          "explanation": "Point 3 links this to '(1 Timothy 1:19; Hebrews 11:6)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q14",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "________ creates openings for the enemy to attack one's destiny, because maintaining alignment with God's purpose requires it (Matthew 13:25).",
+          "options": [
+            "A. Pride",
+            "B. Laziness",
+            "C. Prayerlessness",
+            "D. Ignorance"
+          ],
+          "answer": "C",
+          "explanation": "Point 8 is 'Prayerlessness: This creates openings for the enemy...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q15",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Living in unconfessed sin only hinders earthly purpose, but does not affect eternal promise.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Point 5 says 'Living in sin hinders both earthly purpose and eternal promise (1 John 3:4).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q16",
+          "week": 16,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "BIBLICAL INSTANCES",
+          "keywords": ["BIBLICAL", "INSTANCES"],
+          "explanation": "Outline II is titled 'BIBLICAL INSTANCES'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q17",
+          "week": 16,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who allowed greed and betrayal to destroy his destiny according to Outline II?",
+          "options": [
+            "A. Gehazi",
+            "B. Achan",
+            "C. Judas Iscariot",
+            "D. Demas"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 lists 'Judas Iscariot: He allowed greed and betrayal to destroy his destiny...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q18",
+          "week": 16,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which companion of apostle Paul abandoned his faith and ministry, choosing worldly desires over his divine calling?",
+          "options": [
+            "A. Barnabas",
+            "B. Demas",
+            "C. Silas",
+            "D. John Mark"
+          ],
+          "answer": "B",
+          "explanation": "Point 2 lists 'Demas: Once a companion of the apostle Paul... choosing worldly desires...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q19",
+          "week": 16,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Who was the greedy servant of Elisha whose actions resulted in the curse of leprosy upon him and his descendants?",
+          "options": [
+            "A. Achan",
+            "B. Demas",
+            "C. Gehazi",
+            "D. Reuben"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 lists 'Gehazi: The greedy servant of Elisha... resulted in the curse of leprosy...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q20",
+          "week": 16,
+          "category": "name_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Why did Reuben lose his birthright, according to the lesson?",
+          "options": [
+            "A. Due to disobedience in taking spoils from Jericho",
+            "B. Due to greed and betrayal",
+            "C. Due to illicit sex with his father's concubine",
+            "D. Due to pride and backsliding"
+          ],
+          "answer": "C",
+          "explanation": "Point 4 lists 'Reuben: Jacob’s firstborn who lost his birthright due to illicit sex with his father’s concubine.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q21",
+          "week": 16,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Whose disobedience in taking spoils from Jericho led to the destruction of his family and the defeat of Israel in battle?",
+          "options": [
+            "A. Gehazi",
+            "B. Achan",
+            "C. Demas",
+            "D. Judas"
+          ],
+          "answer": "B",
+          "explanation": "Point 5 lists 'Achan: His disobedience in taking spoils from Jericho led to the destruction of his family...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q22",
+          "week": 16,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture verse is associated with Gehazi's story in the lesson?",
+          "options": [
+            "A. Joshua 7:24-25",
+            "B. Genesis 49:3-4",
+            "C. 2 Timothy 4:10",
+            "D. 2 Kings 5:20-27"
+          ],
+          "answer": "D",
+          "explanation": "The text cites '(2 Kings 5:20-27)' for Gehazi.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q23",
+          "week": 16,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, to avoid destiny destroyers we must fully surrender to God and align ourselves with His will.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion states exactly this: 'we must fully surrender to Him and align ourselves with His will.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W16Q24",
+          "week": 16,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'But King Solomon loved many foreign women, as well as the daughter of Pharaoh...'",
+          "verse_text": "But King Solomon loved many foreign women, as well as the daughter of Pharaoh...",
+          "options": [
+            "A. 1 Kings 11:1",
+            "B. 1 Kings 11:3",
+            "C. Ecclesiastes 2:10",
+            "D. Proverbs 12:24"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 1 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q25",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (1 Kings 11:1), which of these groups of women is NOT listed as those Solomon loved?",
+          "options": [
+            "A. Moabites",
+            "B. Ammonites",
+            "C. Philistines",
+            "D. Sidonians"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'Moabites, Ammonites, Edomites, Sidonians, and Hittites'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q26",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Why did the Lord tell the children of Israel not to intermarry with these nations? (1 Kings 11:2)",
+          "options": [
+            "A. They would steal their wealth",
+            "B. They will turn away your hearts after their gods",
+            "C. They were enemies of peace",
+            "D. They had strange diseases"
+          ],
+          "answer": "B",
+          "explanation": "Verse 2 says 'Surely they will turn away your hearts after their gods.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q27",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Kings 11:3, how many wives (princesses) and concubines did Solomon have?",
+          "options": [
+            "A. 300 wives, 700 concubines",
+            "B. 700 wives, 300 concubines",
+            "C. 500 wives, 500 concubines",
+            "D. 1000 wives, 0 concubines"
+          ],
+          "answer": "B",
+          "explanation": "Verse 3 states 'he had seven hundred wives, princesses, and three hundred concubines'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q28",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What happened when Solomon was old? (1 Kings 11:4)",
+          "options": [
+            "A. He repented of his sins",
+            "B. He wrote the book of Psalms",
+            "C. His wives turned his heart after other gods",
+            "D. He lost all his wealth"
+          ],
+          "answer": "C",
+          "explanation": "Verse 4 says 'when Solomon was old, that his wives turned his heart after other gods'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q29",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Kings 11:5, which goddess of the Sidonians did Solomon go after?",
+          "options": [
+            "A. Diana",
+            "B. Asherah",
+            "C. Ashtoreth",
+            "D. Milcom"
+          ],
+          "answer": "C",
+          "explanation": "Verse 5 says 'Solomon went after Ashtoreth the goddess of the Sidonians'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q30",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Kings 11:5, what is Milcom referred to as?",
+          "options": [
+            "A. The god of the Edomites",
+            "B. The abomination of the Ammonites",
+            "C. The golden calf of Israel",
+            "D. The prince of demons"
+          ],
+          "answer": "B",
+          "explanation": "Verse 5 says 'and after Milcom the abomination of the Ammonites.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W16Q31",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that uncontrolled anger can cause individuals to deviate from God's purpose?",
+          "options": [
+            "A. Proverbs 29:22",
+            "B. Proverbs 12:24",
+            "C. Matthew 13:25",
+            "D. 1 John 3:4"
+          ],
+          "answer": "A",
+          "explanation": "Point 6 lists '(Proverbs 29:22)' for Anger.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q32",
+          "week": 16,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Laziness prevents individuals from fulfilling their potential, leaving them perpetually under the influence of more industrious individuals.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 7 explicitly states this.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W16Q33",
+          "week": 16,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "While destiny is a beautiful and purposeful plan, it is still influenced by one's attitude and willingness to ________ with God's will.",
+          "options": [
+            "A. argue",
+            "B. align",
+            "C. fight",
+            "D. compromise"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'influenced by one’s attitude and willingness to align with God’s will.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W16Q34",
+          "week": 16,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is associated with Reuben losing his birthright in the lesson?",
+          "options": [
+            "A. Joshua 7:24-25",
+            "B. Genesis 49:3-4",
+            "C. Matthew 27:3-5",
+            "D. 2 Timothy 4:10"
+          ],
+          "answer": "B",
+          "explanation": "Point 4 cites '(Genesis 49:3-4)' for Reuben.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W16Q35",
+          "week": 16,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The Bible Passage (1 Kings 11:6) states that Solomon did evil in the sight of the Lord and did not fully follow the Lord, unlike his father David.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Verse 6 states: 'Solomon did evil in the sight of the Lord, and did not fully follow the Lord, as did his father David.'",
+          "source_section": "Bible Passage"
+        }
+      ]
+    }
+  ]
+}

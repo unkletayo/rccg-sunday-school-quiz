@@ -1,0 +1,870 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "STAY PURE",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The wicked flee when no man pursueth: but the righteous are bold as a lion.'",
+          "options": [
+            "A. Proverbs 28:1",
+            "B. Proverbs 28:2",
+            "C. Proverbs 28:3",
+            "D. Proverbs 29:1"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The wicked flee when no man pursueth: but the righteous are bold as a lion.' is found in Proverbs 28:1.",
+          "source_section": "Proverbs 28:1"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 28:1:\nThe wicked flee _____ no man pursueth: but the _____ are _____ as a lion.",
+          "answer": "when, righteous, bold",
+          "keywords": [
+            "when",
+            "righteous",
+            "bold"
+          ],
+          "explanation": "The full text is: The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+          "source_section": "Proverbs 28:1"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I have refrained my feet from every evil way, that I might keep thy word.'",
+          "options": [
+            "A. Psalm 119:100",
+            "B. Psalm 119:101",
+            "C. Psalm 120:101",
+            "D. Psalm 119:102"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'I have refrained my feet from every evil way, that I might keep thy word.' is found in Psalm 119:101.",
+          "source_section": "Psalm 119:101"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 119:101:\nI have _____ my _____ from every evil way, that I _____ keep thy word.",
+          "answer": "refrained, feet, might",
+          "keywords": [
+            "refrained",
+            "feet",
+            "might"
+          ],
+          "explanation": "The full text is: I have refrained my feet from every evil way, that I might keep thy word.",
+          "source_section": "Psalm 119:101"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Be not deceived: evil communications corrupt good manners.'",
+          "options": [
+            "A. 1 Corinthians 16:33",
+            "B. 1 Corinthians 15:32",
+            "C. 1 Corinthians 15:34",
+            "D. 1 Corinthians 15:33"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Be not deceived: evil communications corrupt good manners.' is found in 1 Corinthians 15:33.",
+          "source_section": "1 Corinthians 15:33"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 15:33:\nBe not deceived: _____ _____ _____ good manners.",
+          "answer": "evil, communications, corrupt",
+          "keywords": [
+            "evil",
+            "communications",
+            "corrupt"
+          ],
+          "explanation": "The full text is: Be not deceived: evil communications corrupt good manners.",
+          "source_section": "1 Corinthians 15:33"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I acknowledge my transgressions: and my sin is ever before me.'",
+          "options": [
+            "A. Psalm 51:2",
+            "B. Psalm 52:3",
+            "C. Psalm 51:3",
+            "D. Psalm 51:4"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For I acknowledge my transgressions: and my sin is ever before me.' is found in Psalm 51:3.",
+          "source_section": "Psalm 51:3"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 51:3:\nFor I _____ my _____: and my sin is ever _____ me.",
+          "answer": "acknowledge, transgressions, before",
+          "keywords": [
+            "acknowledge",
+            "transgressions",
+            "before"
+          ],
+          "explanation": "The full text is: For I acknowledge my transgressions: and my sin is ever before me.",
+          "source_section": "Psalm 51:3"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.6.26 the adulteress: Heb. the woman of a man, or, a man\u2019s wife'",
+          "options": [
+            "A. Proverbs 6:25",
+            "B. Proverbs 7:26",
+            "C. Proverbs 6:26",
+            "D. Proverbs 6:27"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.6.26 the adulteress: Heb. the woman of a man, or, a man\u2019s wife' is found in Proverbs 6:26.",
+          "source_section": "Proverbs 6:26"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 6:26:\nFor by means of a whorish woman a man is brought to a piece of _____: and the adulteress _____ hunt for the precious life.6.26 the adulteress: Heb. the _____ of a man, or, a man\u2019s wife",
+          "answer": "bread, will, woman",
+          "keywords": [
+            "bread",
+            "will",
+            "woman"
+          ],
+          "explanation": "The full text is: For by means of a whorish woman a man is brought to a piece of bread: and the adulteress will hunt for the precious life.6.26 the adulteress: Heb. the woman of a man, or, a man\u2019s wife",
+          "source_section": "Proverbs 6:26"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Blessed are the pure in heart: for they shall see God.'",
+          "options": [
+            "A. Matthew 6:8",
+            "B. Matthew 5:9",
+            "C. Matthew 5:8",
+            "D. Matthew 5:7"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Blessed are the pure in heart: for they shall see God.' is found in Matthew 5:8.",
+          "source_section": "Matthew 5:8"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:8:\n_____ are the pure in heart: for _____ _____ see God.",
+          "answer": "Blessed, they, shall",
+          "keywords": [
+            "Blessed",
+            "they",
+            "shall"
+          ],
+          "explanation": "The full text is: Blessed are the pure in heart: for they shall see God.",
+          "source_section": "Matthew 5:8"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.'",
+          "options": [
+            "A. Isaiah 52:12",
+            "B. Isaiah 52:10",
+            "C. Isaiah 52:11",
+            "D. Isaiah 53:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.' is found in Isaiah 52:11.",
+          "source_section": "Isaiah 52:11"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 52:11:\n\u00b6 Depart ye, depart ye, go ye out from thence, touch no unclean _____; go ye out of the midst of her; be ye _____, that bear the vessels of the _____.",
+          "answer": "thing, clean, LORD",
+          "keywords": [
+            "thing",
+            "clean",
+            "LORD"
+          ],
+          "explanation": "The full text is: \u00b6 Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.",
+          "source_section": "Isaiah 52:11"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Restore unto me the joy of thy salvation; and uphold me with thy free spirit.'",
+          "options": [
+            "A. Psalm 51:13",
+            "B. Psalm 52:12",
+            "C. Psalm 51:12-14",
+            "D. Psalm 51:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Restore unto me the joy of thy salvation; and uphold me with thy free spirit.' is found in Psalm 51:12-14.",
+          "source_section": "Psalm 51:12-14"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 51:12-14:\nRestore unto me the joy of thy _____; and uphold me _____ thy free _____.",
+          "answer": "salvation, with, spirit",
+          "keywords": [
+            "salvation",
+            "with",
+            "spirit"
+          ],
+          "explanation": "The full text is: Restore unto me the joy of thy salvation; and uphold me with thy free spirit.",
+          "source_section": "Psalm 51:12-14"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Then said the king\u2019s servants that ministered unto him, Let there be fair young virgins sought for the king:'",
+          "options": [
+            "A. Esther 2:1",
+            "B. Esther 2:2",
+            "C. Esther 2:3",
+            "D. Esther 3:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Then said the king\u2019s servants that ministered unto him, Let there be fair young virgins sought for the king:' is found in Esther 2:2.",
+          "source_section": "Esther 2:2"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 2:2:\nThen said the king\u2019s _____ that _____ unto him, Let there be fair young virgins sought for the _____:",
+          "answer": "servants, ministered, king",
+          "keywords": [
+            "servants",
+            "ministered",
+            "king"
+          ],
+          "explanation": "The full text is: Then said the king\u2019s servants that ministered unto him, Let there be fair young virgins sought for the king:",
+          "source_section": "Esther 2:2"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That every one of you should know how to possess his vessel in sanctification and honour;'",
+          "options": [
+            "A. 1 Thessalonians 4:5",
+            "B. 1 Thessalonians 4:4",
+            "C. 1 Thessalonians 5:4",
+            "D. 1 Thessalonians 4:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'That every one of you should know how to possess his vessel in sanctification and honour;' is found in 1 Thessalonians 4:4.",
+          "source_section": "1 Thessalonians 4:4"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 4:4:\nThat every one of you should _____ how to _____ his vessel in _____ and honour;",
+          "answer": "know, possess, sanctification",
+          "keywords": [
+            "know",
+            "possess",
+            "sanctification"
+          ],
+          "explanation": "The full text is: That every one of you should know how to possess his vessel in sanctification and honour;",
+          "source_section": "1 Thessalonians 4:4"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.'",
+          "options": [
+            "A. Romans 12:1",
+            "B. Romans 13:2",
+            "C. Romans 12:2",
+            "D. Romans 12:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.' is found in Romans 12:2.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 12:2:\nAnd be not conformed to _____ _____: but be ye transformed by the renewing of your mind, _____ ye may prove what is that good, and acceptable, and perfect, will of God.",
+          "answer": "this, world, that",
+          "keywords": [
+            "this",
+            "world",
+            "that"
+          ],
+          "explanation": "The full text is: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+          "source_section": "Romans 12:2"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.41.40 be ruled: Heb. be armed, or, kiss'",
+          "options": [
+            "A. Genesis 41:39",
+            "B. Genesis 41:40-41",
+            "C. Genesis 41:41",
+            "D. Genesis 42:40"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.41.40 be ruled: Heb. be armed, or, kiss' is found in Genesis 41:40-41.",
+          "source_section": "Genesis 41:40-41"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 41:40-41:\nThou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be _____ _____ _____ be ruled: Heb. be armed, or, kiss",
+          "answer": "greater, than, thou.41.40",
+          "keywords": [
+            "greater",
+            "than",
+            "thou.41.40"
+          ],
+          "explanation": "The full text is: Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.41.40 be ruled: Heb. be armed, or, kiss",
+          "source_section": "Genesis 41:40-41"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.'",
+          "options": [
+            "A. Matthew 5:28",
+            "B. Matthew 5:29",
+            "C. Matthew 6:28",
+            "D. Matthew 5:27"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.' is found in Matthew 5:28.",
+          "source_section": "Matthew 5:28"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:28:\nBut I say unto you, That whosoever _____ on a woman to lust after her _____ committed _____ with her already in his heart.",
+          "answer": "looketh, hath, adultery",
+          "keywords": [
+            "looketh",
+            "hath",
+            "adultery"
+          ],
+          "explanation": "The full text is: But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.",
+          "source_section": "Matthew 5:28"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;'",
+          "options": [
+            "A. Ephesians 5:4",
+            "B. Ephesians 5:2",
+            "C. Ephesians 6:3",
+            "D. Ephesians 5:3-5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;' is found in Ephesians 5:3-5.",
+          "source_section": "Ephesians 5:3-5"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 5:3-5:\nBut _____, and all uncleanness, or _____, let it not be once named among you, as _____ saints;",
+          "answer": "fornication, covetousness, becometh",
+          "keywords": [
+            "fornication",
+            "covetousness",
+            "becometh"
+          ],
+          "explanation": "The full text is: But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
+          "source_section": "Ephesians 5:3-5"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.'",
+          "options": [
+            "A. Galatians 5:3",
+            "B. Galatians 5:2",
+            "C. Galatians 6:1",
+            "D. Galatians 5:1"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.' is found in Galatians 5:1.",
+          "source_section": "Galatians 5:1"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 5:1:\nStand fast therefore in the liberty wherewith Christ _____ made us free, and be not _____ _____ with the yoke of bondage.",
+          "answer": "hath, entangled, again",
+          "keywords": [
+            "hath",
+            "entangled",
+            "again"
+          ],
+          "explanation": "The full text is: Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+          "source_section": "Galatians 5:1"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:'",
+          "options": [
+            "A. Genesis 49:4",
+            "B. Genesis 50:3",
+            "C. Genesis 49:2",
+            "D. Genesis 49:3-4"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:' is found in Genesis 49:3-4.",
+          "source_section": "Genesis 49:3-4"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 49:3-4:\n\u00b6 _____, thou art my _____, my might, and the beginning of my strength, the _____ of dignity, and the excellency of power:",
+          "answer": "Reuben, firstborn, excellency",
+          "keywords": [
+            "Reuben",
+            "firstborn",
+            "excellency"
+          ],
+          "explanation": "The full text is: \u00b6 Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:",
+          "source_section": "Genesis 49:3-4"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping'",
+          "options": [
+            "A. Proverbs 4:24",
+            "B. Proverbs 5:23",
+            "C. Proverbs 4:22",
+            "D. Proverbs 4:23"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping' is found in Proverbs 4:23.",
+          "source_section": "Proverbs 4:23"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 4:23:\n\u00b6 _____ thy heart with all diligence; for out of it are the issues of life.4.23 _____: Heb. _____ all keeping",
+          "answer": "Keep, with\u2026, above",
+          "keywords": [
+            "Keep",
+            "with\u2026",
+            "above"
+          ],
+          "explanation": "The full text is: \u00b6 Keep thy heart with all diligence; for out of it are the issues of life.4.23 with\u2026: Heb. above all keeping",
+          "source_section": "Proverbs 4:23"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.'",
+          "options": [
+            "A. Psalm 119:9",
+            "B. Psalm 119:8",
+            "C. Psalm 120:9",
+            "D. Psalm 119:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.' is found in Psalm 119:9.",
+          "source_section": "Psalm 119:9"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 119:9:\nWherewithal shall a _____ man cleanse his way? by taking _____ _____ according to thy word.",
+          "answer": "young, heed, thereto",
+          "keywords": [
+            "young",
+            "heed",
+            "thereto"
+          ],
+          "explanation": "The full text is: Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.",
+          "source_section": "Psalm 119:9"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And it came to pass after these things, that his master\u2019s wife cast her eyes upon Joseph; and she said, Lie with me.'",
+          "options": [
+            "A. Genesis 40:7",
+            "B. Genesis 39:7-9",
+            "C. Genesis 39:8",
+            "D. Genesis 39:6"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 And it came to pass after these things, that his master\u2019s wife cast her eyes upon Joseph; and she said, Lie with me.' is found in Genesis 39:7-9.",
+          "source_section": "Genesis 39:7-9"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 39:7-9:\n\u00b6 And it came to pass after these things, _____ his master\u2019s wife cast her _____ upon Joseph; and she said, Lie _____ me.",
+          "answer": "that, eyes, with",
+          "keywords": [
+            "that",
+            "eyes",
+            "with"
+          ],
+          "explanation": "The full text is: \u00b6 And it came to pass after these things, that his master\u2019s wife cast her eyes upon Joseph; and she said, Lie with me.",
+          "source_section": "Genesis 39:7-9"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jonadab, the son of Shimeah David\u2019s brother, answered and said, Let not my lord suppose that they have slain all the young men the king\u2019s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.13.32 appointment: Heb. mouth13.32 determined: or, settled'",
+          "options": [
+            "A. 2 Samuel 13:31",
+            "B. 2 Samuel 13:32",
+            "C. 2 Samuel 14:32",
+            "D. 2 Samuel 13:33"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Jonadab, the son of Shimeah David\u2019s brother, answered and said, Let not my lord suppose that they have slain all the young men the king\u2019s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.13.32 appointment: Heb. mouth13.32 determined: or, settled' is found in 2 Samuel 13:32.",
+          "source_section": "2 Samuel 13:32"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Samuel 13:32:\nAnd Jonadab, the son of Shimeah David\u2019s brother, answered and said, Let not my lord suppose that they have _____ all the young men the king\u2019s sons; for _____ only is dead: for by the appointment of _____ this hath been determined from the day that he forced his sister Tamar.13.32 appointment: Heb. mouth13.32 determined: or, settled",
+          "answer": "slain, Amnon, Absalom",
+          "keywords": [
+            "slain",
+            "Amnon",
+            "Absalom"
+          ],
+          "explanation": "The full text is: And Jonadab, the son of Shimeah David\u2019s brother, answered and said, Let not my lord suppose that they have slain all the young men the king\u2019s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.13.32 appointment: Heb. mouth13.32 determined: or, settled",
+          "source_section": "2 Samuel 13:32"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.'",
+          "options": [
+            "A. Luke 11:33",
+            "B. Luke 12:34",
+            "C. Luke 11:35",
+            "D. Luke 11:34"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.' is found in Luke 11:34.",
+          "source_section": "Luke 11:34"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 11:34:\nThe light of the body is the eye: _____ when _____ eye is single, thy whole _____ also is full of light; but when thine eye is evil, thy body also is full of darkness.",
+          "answer": "therefore, thine, body",
+          "keywords": [
+            "therefore",
+            "thine",
+            "body"
+          ],
+          "explanation": "The full text is: The light of the body is the eye: therefore when thine eye is single, thy whole body also is full of light; but when thine eye is evil, thy body also is full of darkness.",
+          "source_section": "Luke 11:34"
+        },
+        {
+          "id": "BW0Q43",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;'",
+          "options": [
+            "A. 1 Peter 2:12",
+            "B. 1 Peter 2:10",
+            "C. 1 Peter 2:11",
+            "D. 1 Peter 3:11"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;' is found in 1 Peter 2:11.",
+          "source_section": "1 Peter 2:11"
+        },
+        {
+          "id": "BW0Q44",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Peter 2:11:\nDearly beloved, I _____ you as strangers and pilgrims, abstain from fleshly lusts, which war _____ the _____;",
+          "answer": "beseech, against, soul",
+          "keywords": [
+            "beseech",
+            "against",
+            "soul"
+          ],
+          "explanation": "The full text is: Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;",
+          "source_section": "1 Peter 2:11"
+        },
+        {
+          "id": "BW0Q45",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.'",
+          "options": [
+            "A. Hebrews 14:4",
+            "B. Hebrews 13:4",
+            "C. Hebrews 13:5",
+            "D. Hebrews 13:3"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.' is found in Hebrews 13:4.",
+          "source_section": "Hebrews 13:4"
+        },
+        {
+          "id": "BW0Q46",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 13:4:\nMarriage is _____ in all, and the bed undefiled: but _____ and adulterers God will _____.",
+          "answer": "honourable, whoremongers, judge",
+          "keywords": [
+            "honourable",
+            "whoremongers",
+            "judge"
+          ],
+          "explanation": "The full text is: Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.",
+          "source_section": "Hebrews 13:4"
+        },
+        {
+          "id": "BW0Q47",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.'",
+          "options": [
+            "A. Proverbs 22:13",
+            "B. Proverbs 22:14",
+            "C. Proverbs 23:14",
+            "D. Proverbs 22:15"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.' is found in Proverbs 22:14.",
+          "source_section": "Proverbs 22:14"
+        },
+        {
+          "id": "BW0Q48",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 22:14:\nThe mouth of _____ women is a deep pit: he that is abhorred of the _____ _____ fall therein.",
+          "answer": "strange, LORD, shall",
+          "keywords": [
+            "strange",
+            "LORD",
+            "shall"
+          ],
+          "explanation": "The full text is: The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.",
+          "source_section": "Proverbs 22:14"
+        },
+        {
+          "id": "BW0Q49",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'There is no peace, saith the LORD, unto the wicked.'",
+          "options": [
+            "A. Isaiah 49:22",
+            "B. Isaiah 48:23",
+            "C. Isaiah 48:21",
+            "D. Isaiah 48:22"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'There is no peace, saith the LORD, unto the wicked.' is found in Isaiah 48:22.",
+          "source_section": "Isaiah 48:22"
+        },
+        {
+          "id": "BW0Q50",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 48:22:\nThere is no peace, saith the _____, _____ the _____.",
+          "answer": "LORD, unto, wicked",
+          "keywords": [
+            "LORD",
+            "unto",
+            "wicked"
+          ],
+          "explanation": "The full text is: There is no peace, saith the LORD, unto the wicked.",
+          "source_section": "Isaiah 48:22"
+        },
+        {
+          "id": "BW0Q51",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For this is the will of God, even your sanctification, that ye should abstain from fornication:'",
+          "options": [
+            "A. 1 Thessalonians 4:4",
+            "B. 1 Thessalonians 5:3",
+            "C. 1 Thessalonians 4:3",
+            "D. 1 Thessalonians 4:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For this is the will of God, even your sanctification, that ye should abstain from fornication:' is found in 1 Thessalonians 4:3.",
+          "source_section": "1 Thessalonians 4:3"
+        },
+        {
+          "id": "BW0Q52",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Thessalonians 4:3:\nFor this is the will of God, even your _____, _____ ye _____ abstain from fornication:",
+          "answer": "sanctification, that, should",
+          "keywords": [
+            "sanctification",
+            "that",
+            "should"
+          ],
+          "explanation": "The full text is: For this is the will of God, even your sanctification, that ye should abstain from fornication:",
+          "source_section": "1 Thessalonians 4:3"
+        }
+      ]
+    }
+  ]
+}

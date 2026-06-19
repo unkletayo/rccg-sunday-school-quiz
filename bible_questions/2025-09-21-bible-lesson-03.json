@@ -1,0 +1,1068 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:14Z",
+  "weeks": [
+    {
+      "week_number": 3,
+      "topic": "THE DEITY OF JESUS (PART 2)",
+      "questions": [
+        {
+          "id": "BW3Q1",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.'",
+          "options": [
+            "A. Galatians 4:24",
+            "B. Galatians 3:25",
+            "C. Galatians 3:23",
+            "D. Galatians 3:24"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.' is found in Galatians 3:24.",
+          "source_section": "Galatians 3:24"
+        },
+        {
+          "id": "BW3Q2",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 3:24:\n_____ the law was our schoolmaster to bring us unto Christ, that we _____ be justified by _____.",
+          "answer": "Wherefore, might, faith",
+          "keywords": [
+            "Wherefore",
+            "might",
+            "faith"
+          ],
+          "explanation": "The full text is: Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.",
+          "source_section": "Galatians 3:24"
+        },
+        {
+          "id": "BW3Q3",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And ye shall know the truth, and the truth shall make you free.'",
+          "options": [
+            "A. John 8:31",
+            "B. John 8:33",
+            "C. John 8:32",
+            "D. John 9:32"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And ye shall know the truth, and the truth shall make you free.' is found in John 8:32.",
+          "source_section": "John 8:32"
+        },
+        {
+          "id": "BW3Q4",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 8:32:\nAnd ye _____ know the truth, and the truth shall _____ you _____.",
+          "answer": "shall, make, free",
+          "keywords": [
+            "shall",
+            "make",
+            "free"
+          ],
+          "explanation": "The full text is: And ye shall know the truth, and the truth shall make you free.",
+          "source_section": "John 8:32"
+        },
+        {
+          "id": "BW3Q5",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.19.9 true: Heb. truth'",
+          "options": [
+            "A. Psalm 19:8",
+            "B. Psalm 19:9",
+            "C. Psalm 20:9",
+            "D. Psalm 19:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.19.9 true: Heb. truth' is found in Psalm 19:9.",
+          "source_section": "Psalm 19:9"
+        },
+        {
+          "id": "BW3Q6",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 19:9:\nThe fear of the LORD is clean, _____ for _____: the _____ of the LORD are true and righteous altogether.19.9 true: Heb. truth",
+          "answer": "enduring, ever, judgments",
+          "keywords": [
+            "enduring",
+            "ever",
+            "judgments"
+          ],
+          "explanation": "The full text is: The fear of the LORD is clean, enduring for ever: the judgments of the LORD are true and righteous altogether.19.9 true: Heb. truth",
+          "source_section": "Psalm 19:9"
+        },
+        {
+          "id": "BW3Q7",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.'",
+          "options": [
+            "A. John 2:8",
+            "B. John 2:7-9",
+            "C. John 3:7",
+            "D. John 2:6"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.' is found in John 2:7-9.",
+          "source_section": "John 2:7-9"
+        },
+        {
+          "id": "BW3Q8",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 2:7-9:\nJesus saith unto _____, Fill the waterpots _____ _____. And they filled them up to the brim.",
+          "answer": "them, with, water",
+          "keywords": [
+            "them",
+            "with",
+            "water"
+          ],
+          "explanation": "The full text is: Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.",
+          "source_section": "John 2:7-9"
+        },
+        {
+          "id": "BW3Q9",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Who, being in the form of God, thought it not robbery to be equal with God:'",
+          "options": [
+            "A. Philippians 2:6",
+            "B. Philippians 2:7",
+            "C. Philippians 3:6",
+            "D. Philippians 2:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Who, being in the form of God, thought it not robbery to be equal with God:' is found in Philippians 2:6.",
+          "source_section": "Philippians 2:6"
+        },
+        {
+          "id": "BW3Q10",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 2:6:\nWho, being in the _____ of God, thought it not robbery to be _____ _____ God:",
+          "answer": "form, equal, with",
+          "keywords": [
+            "form",
+            "equal",
+            "with"
+          ],
+          "explanation": "The full text is: Who, being in the form of God, thought it not robbery to be equal with God:",
+          "source_section": "Philippians 2:6"
+        },
+        {
+          "id": "BW3Q11",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.'",
+          "options": [
+            "A. Matthew 9:35",
+            "B. Matthew 10:35",
+            "C. Matthew 9:36",
+            "D. Matthew 9:34"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.' is found in Matthew 9:35.",
+          "source_section": "Matthew 9:35"
+        },
+        {
+          "id": "BW3Q12",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 9:35:\nAnd Jesus went about all the cities and villages, _____ in their _____, and preaching the gospel of the kingdom, and healing every sickness and every _____ among the people.",
+          "answer": "teaching, synagogues, disease",
+          "keywords": [
+            "teaching",
+            "synagogues",
+            "disease"
+          ],
+          "explanation": "The full text is: And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.",
+          "source_section": "Matthew 9:35"
+        },
+        {
+          "id": "BW3Q13",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.'",
+          "options": [
+            "A. John 14:6",
+            "B. John 15:6",
+            "C. John 14:5",
+            "D. John 14:7"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.' is found in John 14:6.",
+          "source_section": "John 14:6"
+        },
+        {
+          "id": "BW3Q14",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:6:\nJesus saith unto him, I am the way, the _____, and the life: no man _____ _____ the Father, but by me.",
+          "answer": "truth, cometh, unto",
+          "keywords": [
+            "truth",
+            "cometh",
+            "unto"
+          ],
+          "explanation": "The full text is: Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+          "source_section": "John 14:6"
+        },
+        {
+          "id": "BW3Q15",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.'",
+          "options": [
+            "A. John 6:36",
+            "B. John 6:38",
+            "C. John 6:37",
+            "D. John 7:37"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.' is found in John 6:37.",
+          "source_section": "John 6:37"
+        },
+        {
+          "id": "BW3Q16",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 6:37:\nAll that the Father giveth me _____ _____ to me; and him that cometh to me I will in no wise _____ out.",
+          "answer": "shall, come, cast",
+          "keywords": [
+            "shall",
+            "come",
+            "cast"
+          ],
+          "explanation": "The full text is: All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.",
+          "source_section": "John 6:37"
+        },
+        {
+          "id": "BW3Q17",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And he is before all things, and by him all things consist.'",
+          "options": [
+            "A. Colossians 1:16",
+            "B. Colossians 1:18",
+            "C. Colossians 1:17",
+            "D. Colossians 2:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And he is before all things, and by him all things consist.' is found in Colossians 1:17.",
+          "source_section": "Colossians 1:17"
+        },
+        {
+          "id": "BW3Q18",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 1:17:\nAnd he is _____ all _____, and by him all _____ consist.",
+          "answer": "before, things, things",
+          "keywords": [
+            "before",
+            "things",
+            "things"
+          ],
+          "explanation": "The full text is: And he is before all things, and by him all things consist.",
+          "source_section": "Colossians 1:17"
+        },
+        {
+          "id": "BW3Q19",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.'",
+          "options": [
+            "A. John 11:38",
+            "B. John 10:39",
+            "C. John 10:38",
+            "D. John 10:37"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.' is found in John 10:38.",
+          "source_section": "John 10:38"
+        },
+        {
+          "id": "BW3Q20",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 10:38:\nBut if I do, _____ ye believe not me, believe the _____: that ye may know, and _____, that the Father is in me, and I in him.",
+          "answer": "though, works, believe",
+          "keywords": [
+            "though",
+            "works",
+            "believe"
+          ],
+          "explanation": "The full text is: But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him.",
+          "source_section": "John 10:38"
+        },
+        {
+          "id": "BW3Q21",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:'",
+          "options": [
+            "A. Another book 4:6",
+            "B. Another book 2:15",
+            "C. Another book 2:9",
+            "D. Matthew 5:21-22, 27-28"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:' is found in Matthew 5:21-22, 27-28.",
+          "source_section": "Matthew 5:21-22, 27-28"
+        },
+        {
+          "id": "BW3Q22",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:21-22, 27-28:\n\u00b6 Ye have heard that it was said by _____ of old time, _____ shalt not kill; and whosoever _____ kill shall be in danger of the judgment:",
+          "answer": "them, Thou, shall",
+          "keywords": [
+            "them",
+            "Thou",
+            "shall"
+          ],
+          "explanation": "The full text is: \u00b6 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:",
+          "source_section": "Matthew 5:21-22, 27-28"
+        },
+        {
+          "id": "BW3Q23",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In the beginning was the Word, and the Word was with God, and the Word was God.'",
+          "options": [
+            "A. John 2:1",
+            "B. John 1:2",
+            "C. John 1:3",
+            "D. John 1:1"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'In the beginning was the Word, and the Word was with God, and the Word was God.' is found in John 1:1.",
+          "source_section": "John 1:1"
+        },
+        {
+          "id": "BW3Q24",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 1:1:\nIn the beginning was the Word, and the _____ was _____ God, and the _____ was God.",
+          "answer": "Word, with, Word",
+          "keywords": [
+            "Word",
+            "with",
+            "Word"
+          ],
+          "explanation": "The full text is: In the beginning was the Word, and the Word was with God, and the Word was God.",
+          "source_section": "John 1:1"
+        },
+        {
+          "id": "BW3Q25",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let not your heart be troubled: ye believe in God, believe also in me.'",
+          "options": [
+            "A. John 14:3",
+            "B. John 14:1-3",
+            "C. John 15:1",
+            "D. John 14:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Let not your heart be troubled: ye believe in God, believe also in me.' is found in John 14:1-3.",
+          "source_section": "John 14:1-3"
+        },
+        {
+          "id": "BW3Q26",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:1-3:\nLet not your _____ be troubled: ye believe in God, _____ _____ in me.",
+          "answer": "heart, believe, also",
+          "keywords": [
+            "heart",
+            "believe",
+            "also"
+          ],
+          "explanation": "The full text is: Let not your heart be troubled: ye believe in God, believe also in me.",
+          "source_section": "John 14:1-3"
+        },
+        {
+          "id": "BW3Q27",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Do we then make void the law through faith? God forbid: yea, we establish the law.'",
+          "options": [
+            "A. Romans 4:31",
+            "B. Romans 3:30",
+            "C. Romans 3:32",
+            "D. Romans 3:31"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Do we then make void the law through faith? God forbid: yea, we establish the law.' is found in Romans 3:31.",
+          "source_section": "Romans 3:31"
+        },
+        {
+          "id": "BW3Q28",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Romans 3:31:\nDo we then _____ void the law through faith? God _____: yea, we _____ the law.",
+          "answer": "make, forbid, establish",
+          "keywords": [
+            "make",
+            "forbid",
+            "establish"
+          ],
+          "explanation": "The full text is: Do we then make void the law through faith? God forbid: yea, we establish the law.",
+          "source_section": "Romans 3:31"
+        },
+        {
+          "id": "BW3Q29",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.'",
+          "options": [
+            "A. John 9:7",
+            "B. John 9:8",
+            "C. John 10:7",
+            "D. John 9:6"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.' is found in John 9:7.",
+          "source_section": "John 9:7"
+        },
+        {
+          "id": "BW3Q30",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 9:7:\nAnd said _____ him, Go, _____ in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came _____.",
+          "answer": "unto, wash, seeing",
+          "keywords": [
+            "unto",
+            "wash",
+            "seeing"
+          ],
+          "explanation": "The full text is: And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.",
+          "source_section": "John 9:7"
+        },
+        {
+          "id": "BW3Q31",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.10.12 stand\u2026: Heb. be silent'",
+          "options": [
+            "A. Joshua 11:12",
+            "B. Joshua 10:11",
+            "C. Joshua 10:13",
+            "D. Joshua 10:12-14"
+          ],
+          "answer": "D",
+          "explanation": "The verse '\u00b6 Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.10.12 stand\u2026: Heb. be silent' is found in Joshua 10:12-14.",
+          "source_section": "Joshua 10:12-14"
+        },
+        {
+          "id": "BW3Q32",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 10:12-14:\n\u00b6 Then spake Joshua to the LORD in the day when the _____ delivered up the Amorites before the children of _____, and he said in the sight of Israel, Sun, _____ thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.10.12 stand\u2026: Heb. be silent",
+          "answer": "LORD, Israel, stand",
+          "keywords": [
+            "LORD",
+            "Israel",
+            "stand"
+          ],
+          "explanation": "The full text is: \u00b6 Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon.10.12 stand\u2026: Heb. be silent",
+          "source_section": "Joshua 10:12-14"
+        },
+        {
+          "id": "BW3Q33",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they come unto him, bringing one sick of the palsy, which was borne of four.'",
+          "options": [
+            "A. Another book 5:3",
+            "B. Another book 5:4",
+            "C. Another book 1:16",
+            "D. Mark 2:3, 11"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And they come unto him, bringing one sick of the palsy, which was borne of four.' is found in Mark 2:3, 11.",
+          "source_section": "Mark 2:3, 11"
+        },
+        {
+          "id": "BW3Q34",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 2:3, 11:\nAnd they come unto him, bringing one sick of the _____, which was _____ of _____.",
+          "answer": "palsy, borne, four",
+          "keywords": [
+            "palsy",
+            "borne",
+            "four"
+          ],
+          "explanation": "The full text is: And they come unto him, bringing one sick of the palsy, which was borne of four.",
+          "source_section": "Mark 2:3, 11"
+        },
+        {
+          "id": "BW3Q35",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Therefore doth my Father love me, because I lay down my life, that I might take it again.'",
+          "options": [
+            "A. John 11:17",
+            "B. John 10:16",
+            "C. John 10:17-18",
+            "D. John 10:18"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Therefore doth my Father love me, because I lay down my life, that I might take it again.' is found in John 10:17-18.",
+          "source_section": "John 10:17-18"
+        },
+        {
+          "id": "BW3Q36",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 10:17-18:\n_____ doth my _____ love me, because I lay down my life, _____ I might take it again.",
+          "answer": "Therefore, Father, that",
+          "keywords": [
+            "Therefore",
+            "Father",
+            "that"
+          ],
+          "explanation": "The full text is: Therefore doth my Father love me, because I lay down my life, that I might take it again.",
+          "source_section": "John 10:17-18"
+        },
+        {
+          "id": "BW3Q37",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.'",
+          "options": [
+            "A. John 6:11-13",
+            "B. John 6:10",
+            "C. John 6:12",
+            "D. John 7:11"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.' is found in John 6:11-13.",
+          "source_section": "John 6:11-13"
+        },
+        {
+          "id": "BW3Q38",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 6:11-13:\nAnd Jesus took the loaves; and _____ he had _____ thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as _____ as they would.",
+          "answer": "when, given, much",
+          "keywords": [
+            "when",
+            "given",
+            "much"
+          ],
+          "explanation": "The full text is: And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would.",
+          "source_section": "John 6:11-13"
+        },
+        {
+          "id": "BW3Q39",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.'",
+          "options": [
+            "A. Matthew 29:5",
+            "B. Matthew 28:6",
+            "C. Matthew 28:5-7",
+            "D. Matthew 28:4"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.' is found in Matthew 28:5-7.",
+          "source_section": "Matthew 28:5-7"
+        },
+        {
+          "id": "BW3Q40",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 28:5-7:\nAnd the angel _____ and said _____ the women, Fear not ye: for I know that ye seek Jesus, _____ was crucified.",
+          "answer": "answered, unto, which",
+          "keywords": [
+            "answered",
+            "unto",
+            "which"
+          ],
+          "explanation": "The full text is: And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.",
+          "source_section": "Matthew 28:5-7"
+        },
+        {
+          "id": "BW3Q41",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherefore God also hath highly exalted him, and given him a name which is above every name:'",
+          "options": [
+            "A. Philippians 2:8",
+            "B. Philippians 2:10",
+            "C. Philippians 2:9",
+            "D. Philippians 3:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Wherefore God also hath highly exalted him, and given him a name which is above every name:' is found in Philippians 2:9.",
+          "source_section": "Philippians 2:9"
+        },
+        {
+          "id": "BW3Q42",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 2:9:\n_____ God also hath highly exalted him, and given him a name _____ is above _____ name:",
+          "answer": "Wherefore, which, every",
+          "keywords": [
+            "Wherefore",
+            "which",
+            "every"
+          ],
+          "explanation": "The full text is: Wherefore God also hath highly exalted him, and given him a name which is above every name:",
+          "source_section": "Philippians 2:9"
+        },
+        {
+          "id": "BW3Q43",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.'",
+          "options": [
+            "A. Mark 1:40-42",
+            "B. Mark 1:41",
+            "C. Mark 2:40",
+            "D. Mark 1:39"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.' is found in Mark 1:40-42.",
+          "source_section": "Mark 1:40-42"
+        },
+        {
+          "id": "BW3Q44",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Mark 1:40-42:\nAnd there came a leper to him, beseeching him, and kneeling _____ to him, and saying unto him, If thou _____, thou _____ make me clean.",
+          "answer": "down, wilt, canst",
+          "keywords": [
+            "down",
+            "wilt",
+            "canst"
+          ],
+          "explanation": "The full text is: And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.",
+          "source_section": "Mark 1:40-42"
+        },
+        {
+          "id": "BW3Q45",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And in the fourth watch of the night Jesus went unto them, walking on the sea.'",
+          "options": [
+            "A. Matthew 14:26",
+            "B. Matthew 14:25",
+            "C. Matthew 14:24",
+            "D. Matthew 15:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And in the fourth watch of the night Jesus went unto them, walking on the sea.' is found in Matthew 14:25.",
+          "source_section": "Matthew 14:25"
+        },
+        {
+          "id": "BW3Q46",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 14:25:\nAnd in the _____ watch of the _____ Jesus went unto _____, walking on the sea.",
+          "answer": "fourth, night, them",
+          "keywords": [
+            "fourth",
+            "night",
+            "them"
+          ],
+          "explanation": "The full text is: And in the fourth watch of the night Jesus went unto them, walking on the sea.",
+          "source_section": "Matthew 14:25"
+        },
+        {
+          "id": "BW3Q47",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thy righteousness is an everlasting righteousness, and thy law is the truth.'",
+          "options": [
+            "A. Psalm 120:142",
+            "B. Psalm 119:141",
+            "C. Psalm 119:143",
+            "D. Psalm 119:142"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Thy righteousness is an everlasting righteousness, and thy law is the truth.' is found in Psalm 119:142.",
+          "source_section": "Psalm 119:142"
+        },
+        {
+          "id": "BW3Q48",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 119:142:\nThy _____ is an everlasting _____, and thy law is the _____.",
+          "answer": "righteousness, righteousness, truth",
+          "keywords": [
+            "righteousness",
+            "righteousness",
+            "truth"
+          ],
+          "explanation": "The full text is: Thy righteousness is an everlasting righteousness, and thy law is the truth.",
+          "source_section": "Psalm 119:142"
+        },
+        {
+          "id": "BW3Q49",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.'",
+          "options": [
+            "A. Acts 4:11",
+            "B. Acts 4:12",
+            "C. Acts 4:13",
+            "D. Acts 5:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.' is found in Acts 4:12.",
+          "source_section": "Acts 4:12"
+        },
+        {
+          "id": "BW3Q50",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 4:12:\nNeither is there salvation in any _____: for there is none other name _____ heaven given among men, _____ we must be saved.",
+          "answer": "other, under, whereby",
+          "keywords": [
+            "other",
+            "under",
+            "whereby"
+          ],
+          "explanation": "The full text is: Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+          "source_section": "Acts 4:12"
+        },
+        {
+          "id": "BW3Q51",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when the Lord saw her, he had compassion on her, and said unto her, Weep not.'",
+          "options": [
+            "A. Luke 8:13",
+            "B. Luke 7:12",
+            "C. Luke 7:14",
+            "D. Luke 7:13-15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And when the Lord saw her, he had compassion on her, and said unto her, Weep not.' is found in Luke 7:13-15.",
+          "source_section": "Luke 7:13-15"
+        },
+        {
+          "id": "BW3Q52",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 7:13-15:\nAnd when the Lord saw her, he had _____ on her, and _____ _____ her, Weep not.",
+          "answer": "compassion, said, unto",
+          "keywords": [
+            "compassion",
+            "said",
+            "unto"
+          ],
+          "explanation": "The full text is: And when the Lord saw her, he had compassion on her, and said unto her, Weep not.",
+          "source_section": "Luke 7:13-15"
+        },
+        {
+          "id": "BW3Q53",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.'",
+          "options": [
+            "A. Matthew 6:17",
+            "B. Matthew 5:17",
+            "C. Matthew 5:18",
+            "D. Matthew 5:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.' is found in Matthew 5:17.",
+          "source_section": "Matthew 5:17"
+        },
+        {
+          "id": "BW3Q54",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 5:17:\n\u00b6 _____ not that I am _____ to destroy the law, or the _____: I am not come to destroy, but to fulfil.",
+          "answer": "Think, come, prophets",
+          "keywords": [
+            "Think",
+            "come",
+            "prophets"
+          ],
+          "explanation": "The full text is: \u00b6 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.",
+          "source_section": "Matthew 5:17"
+        },
+        {
+          "id": "BW3Q55",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.'",
+          "options": [
+            "A. John 11:42",
+            "B. John 11:43-44",
+            "C. John 12:43",
+            "D. John 11:44"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.' is found in John 11:43-44.",
+          "source_section": "John 11:43-44"
+        },
+        {
+          "id": "BW3Q56",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 11:43-44:\nAnd when he thus had _____, he cried _____ a loud voice, _____, come forth.",
+          "answer": "spoken, with, Lazarus",
+          "keywords": [
+            "spoken",
+            "with",
+            "Lazarus"
+          ],
+          "explanation": "The full text is: And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+          "source_section": "John 11:43-44"
+        },
+        {
+          "id": "BW3Q57",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'That whosoever believeth in him should not perish, but have eternal life.'",
+          "options": [
+            "A. John 3:15-16",
+            "B. John 3:14",
+            "C. John 4:15",
+            "D. John 3:16"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'That whosoever believeth in him should not perish, but have eternal life.' is found in John 3:15-16.",
+          "source_section": "John 3:15-16"
+        },
+        {
+          "id": "BW3Q58",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 3:15-16:\nThat _____ believeth in him _____ not perish, but have eternal _____.",
+          "answer": "whosoever, should, life",
+          "keywords": [
+            "whosoever",
+            "should",
+            "life"
+          ],
+          "explanation": "The full text is: That whosoever believeth in him should not perish, but have eternal life.",
+          "source_section": "John 3:15-16"
+        },
+        {
+          "id": "BW3Q59",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.'",
+          "options": [
+            "A. John 15:6",
+            "B. John 14:7",
+            "C. John 14:6-11",
+            "D. John 14:5"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.' is found in John 14:6-11.",
+          "source_section": "John 14:6-11"
+        },
+        {
+          "id": "BW3Q60",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 14:6-11:\nJesus _____ unto him, I am the way, the _____, and the life: no man cometh unto the _____, but by me.",
+          "answer": "saith, truth, Father",
+          "keywords": [
+            "saith",
+            "truth",
+            "Father"
+          ],
+          "explanation": "The full text is: Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+          "source_section": "John 14:6-11"
+        },
+        {
+          "id": "BW3Q61",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.'",
+          "options": [
+            "A. Acts 10:42",
+            "B. Acts 10:40",
+            "C. Acts 10:41",
+            "D. Acts 11:41"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.' is found in Acts 10:41.",
+          "source_section": "Acts 10:41"
+        },
+        {
+          "id": "BW3Q62",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 10:41:\nNot to all the people, but _____ witnesses chosen before of God, _____ to us, who did eat and drink with him _____ he rose from the dead.",
+          "answer": "unto, even, after",
+          "keywords": [
+            "unto",
+            "even",
+            "after"
+          ],
+          "explanation": "The full text is: Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.",
+          "source_section": "Acts 10:41"
+        },
+        {
+          "id": "BW3Q63",
+          "week": 3,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.'",
+          "options": [
+            "A. Exodus 14:22",
+            "B. Exodus 14:21-23",
+            "C. Exodus 15:21",
+            "D. Exodus 14:20"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.' is found in Exodus 14:21-23.",
+          "source_section": "Exodus 14:21-23"
+        },
+        {
+          "id": "BW3Q64",
+          "week": 3,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Exodus 14:21-23:\nAnd Moses _____ out his hand _____ the sea; and the LORD _____ the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.",
+          "answer": "stretched, over, caused",
+          "keywords": [
+            "stretched",
+            "over",
+            "caused"
+          ],
+          "explanation": "The full text is: And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.",
+          "source_section": "Exodus 14:21-23"
+        }
+      ]
+    }
+  ]
+}

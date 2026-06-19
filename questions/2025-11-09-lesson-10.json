@@ -1,0 +1,569 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:15:00Z",
+  "weeks": [
+    {
+      "week_number": 10,
+      "topic": "SPIRITUAL MATURITY",
+      "memory_verse_reference": "1 Corinthians 3:3",
+      "questions": [
+        {
+          "id": "W10Q1",
+          "week": 10,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 10?",
+          "options": [
+            "A. PROPHECY",
+            "B. SIGNS OF SPIRITUAL IMMATURITY",
+            "C. SPIRITUAL MATURITY",
+            "D. JOURNEY TO SPIRITUAL MATURITY"
+          ],
+          "answer": "C",
+          "explanation": "The topic provided for Lesson Ten is SPIRITUAL MATURITY.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W10Q2",
+          "week": 10,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 9?",
+          "options": [
+            "A. SPIRITUAL MATURITY",
+            "B. FAITH AND SCIENCE",
+            "C. PROPHECY",
+            "D. FORGIVENESS"
+          ],
+          "answer": "C",
+          "explanation": "Prophecy was the topic for Week 9.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W10Q3",
+          "week": 10,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "For you are still ________. For where there are envy, strife, and divisions among you, are you not ________ and behaving like mere men?",
+          "options": [
+            "A. babes",
+            "B. fleshly",
+            "C. carnal",
+            "D. children"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (1 Corinthians 3:3) uses the word 'carnal'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W10Q4",
+          "week": 10,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "1 Corinthians 3:3",
+          "keywords": ["1 Corinthians", "3:3"],
+          "explanation": "The memory verse reference is 1 Corinthians 3:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W10Q5",
+          "week": 10,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 10 in full (NKJV).",
+          "answer": "For you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men?",
+          "keywords": ["carnal", "envy", "strife", "divisions", "behaving", "mere", "men"],
+          "explanation": "Full text recall of 1 Corinthians 3:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W10Q6",
+          "week": 10,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse, what behaviors mark a believer as still being 'carnal' and 'behaving like mere men'?",
+          "options": [
+            "A. Stealing, lying, and cheating",
+            "B. Envy, strife, and divisions",
+            "C. Doubting, fear, and worry",
+            "D. Failing to pray and fast"
+          ],
+          "answer": "B",
+          "explanation": "The verse lists 'envy, strife, and divisions among you'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W10Q7",
+          "week": 10,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the introduction define spiritual maturity?",
+          "options": [
+            "A. Knowing all the books of the Bible from memory",
+            "B. Consciously leaving the longings for continuous 'milk and baby steps' and growing to be like Christ",
+            "C. Never making a mistake or sinning again",
+            "D. Reaching a certain age in physical years"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'Spiritual maturity is consciously leaving the longings for continuous “milk and baby steps” and growing to be like Christ.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W10Q8",
+          "week": 10,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that every believer is expected to grow up to the measure of the stature of the fullness of Christ?",
+          "options": [
+            "A. 1 Corinthians 3:3",
+            "B. Hebrews 5:12",
+            "C. Ephesians 4:13",
+            "D. 2 Timothy 3:2"
+          ],
+          "answer": "C",
+          "explanation": "The text lists '(Ephesians 4:13)' at the end of the Introduction.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W10Q9",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "SIGNS OF SPIRITUAL IMMATURITY",
+          "keywords": ["SIGNS", "SPIRITUAL", "IMMATURITY"],
+          "explanation": "Outline I is titled 'SIGNS OF SPIRITUAL IMMATURITY'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q10",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, which of the following is a sign of spiritual immaturity regarding speaking and hearing?",
+          "options": [
+            "A. Slow to speak, slow to hear",
+            "B. Quick to speak, quick to hear",
+            "C. Slow to speak, quick to hear",
+            "D. Quick to speak, slow to hear"
+          ],
+          "answer": "D",
+          "explanation": "Point 3 states 'Quick to speak, slow to hear (Proverbs 12:18; James 1:19).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q11",
+          "week": 10,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are cited to support the immaturity sign of 'Selfishness' (caring about oneself alone like babies)?",
+          "options": [
+            "A. 2 Timothy 3:2; Philippians 2:21",
+            "B. Proverbs 12:18; James 1:19",
+            "C. John 8:7; Matthew 7:1",
+            "D. 1 Corinthians 10:10"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(2 Timothy 3:2; Philippians 2:21)' for Selfishness.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q12",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, a believer who is gifted but lacks the corresponding fruit of the Spirit is exhibiting a sign of spiritual immaturity.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 2 lists 'Gifted but lacking the corresponding fruit of the Spirit' as a sign of immaturity.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q13",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these behaviors is considered a sign of spiritual immaturity in Outline I?",
+          "options": [
+            "A. Flowing with the world",
+            "B. Taking to corrections",
+            "C. Forgiving and forgetting",
+            "D. Feeding intensely on the word"
+          ],
+          "answer": "A",
+          "explanation": "Point 10 under immaturity signs is 'Flowing with the world (1 John 2:15-17).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q14",
+          "week": 10,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are listed to support the immaturity sign of being 'Quick at judging others and justifying himself/herself'?",
+          "options": [
+            "A. 2 Timothy 4:3",
+            "B. 1 John 2:15-17",
+            "C. John 8:7; Matthew 7:1",
+            "D. Proverbs 19:11"
+          ],
+          "answer": "C",
+          "explanation": "The text cites '(John 8:7; Matthew 7:1)' for this point.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q15",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "An inability to endure sound doctrines, tending to be pampered and listening only to what is soothing, is a sign of spiritual maturity.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "It is listed as Point 6 under 'SIGNS OF SPIRITUAL IMMATURITY'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q16",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "A spiritually immature believer is easily controlled by sights, emotions, and ________ (2 Corinthians 4:18).",
+          "options": [
+            "A. friends",
+            "B. wealth",
+            "C. feelings",
+            "D. demons"
+          ],
+          "answer": "C",
+          "explanation": "Point 7 says 'Controlled by sights/emotions/feelings'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q17",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "JOURNEY TO SPIRITUAL MATURITY",
+          "keywords": ["JOURNEY", "TO", "SPIRITUAL", "MATURITY"],
+          "explanation": "Outline II is titled 'JOURNEY TO SPIRITUAL MATURITY'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q18",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, how does the journey to spiritual maturity begin?",
+          "options": [
+            "A. With a 40-day fast",
+            "B. By attending a Bible college",
+            "C. With a deliberate walk with the Holy Spirit",
+            "D. By getting baptized"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'The journey to spiritual maturity begins with a deliberate walk with the Holy Spirit (Romans 8:4, 14).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q19",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the journey to spiritual maturity require regarding the word of God?",
+          "options": [
+            "A. Listening to sermons on Sunday only",
+            "B. Feeding intensely on the word of God and doing what it says",
+            "C. Memorizing the entire New Testament",
+            "D. Teaching the word to others regardless of understanding"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'It is about feeding intensely on the word of God... and doing what the word says'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q20",
+          "week": 10,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for 'forgiving and growing to forget' as part of spiritual maturity?",
+          "options": [
+            "A. Proverbs 16:32",
+            "B. Colossians 3:13",
+            "C. Ephesians 4:24",
+            "D. Job 27:5"
+          ],
+          "answer": "B",
+          "explanation": "The text lists 'forgiving and growing to forget (Colossians 3:13)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q21",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Spiritual maturity involves managing our emotions and living beyond our feelings.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states: 'managing our emotions and living beyond our feelings (Proverbs 16:32)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q22",
+          "week": 10,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are listed to support 'taking to corrections and heeding instructions'?",
+          "options": [
+            "A. Proverbs 1:8; 4:13",
+            "B. Proverbs 20:3",
+            "C. Proverbs 22:4; James 4:6",
+            "D. Acts 17:11; 2 Timothy 2:15"
+          ],
+          "answer": "A",
+          "explanation": "The lesson lists '(Proverbs 1:8; 4:13)' for taking corrections.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q23",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is meant by 'having integrity and not going with the current of the world' in Outline II?",
+          "options": [
+            "A. Refusing to use modern technology",
+            "B. Not conforming to worldly standards and maintaining moral uprightness",
+            "C. Never interacting with non-believers",
+            "D. Refusing to obey government laws"
+          ],
+          "answer": "B",
+          "explanation": "The phrase means maintaining integrity without being swept away by worldly trends (supported by Job 27:5; Prov 20:7).",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q24",
+          "week": 10,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what is the purpose of 'putting on the righteousness of Christ' (Ephesians 4:24)?",
+          "options": [
+            "A. To look good before others",
+            "B. To avoid going to hell",
+            "C. To produce pure fruits always",
+            "D. To gain wealth and prosperity"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'putting on the righteousness of Christ to produce pure fruits always (Ephesians 4:24).' ",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q25",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "A spiritually mature believer is known for doing away with ________ (Proverbs 20:3).",
+          "options": [
+            "A. prayer",
+            "B. studying",
+            "C. strife",
+            "D. fasting"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'doing away with strife (Proverbs 20:3)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q26",
+          "week": 10,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "According to the conclusion, stagnancy is a sign of spiritual ________.",
+          "options": [
+            "A. rest",
+            "B. contentment",
+            "C. sickness",
+            "D. death"
+          ],
+          "answer": "C",
+          "explanation": "The conclusion explicitly states: 'Stagnancy is a sign of spiritual sickness.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W10Q27",
+          "week": 10,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'For though by this time you ought to be teachers, you need someone to teach you again the first principles of the oracles of God...'",
+          "verse_text": "For though by this time you ought to be teachers, you need someone to teach you again the first principles of the oracles of God...",
+          "options": [
+            "A. Hebrews 5:12",
+            "B. 1 Corinthians 3:3",
+            "C. Hebrews 5:14",
+            "D. James 1:19"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 12 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W10Q28",
+          "week": 10,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Hebrews 5:13), what is the condition of someone who partakes only of milk?",
+          "options": [
+            "A. He is strong in faith",
+            "B. He is unskilled in the word of righteousness, for he is a babe",
+            "C. He is ready to be a teacher",
+            "D. He has his senses exercised to discern good and evil"
+          ],
+          "answer": "B",
+          "explanation": "Hebrews 5:13 states 'For everyone who partakes only of milk is unskilled in the word of righteousness, for he is a babe.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W10Q29",
+          "week": 10,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Hebrews 5:14, who does 'solid food' belong to?",
+          "options": [
+            "A. Babes in Christ",
+            "B. Those who are of full age",
+            "C. Those who are newly saved",
+            "D. Only apostles and prophets"
+          ],
+          "answer": "B",
+          "explanation": "Verse 14 begins 'But solid food belongs to those who are of full age...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W10Q30",
+          "week": 10,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Hebrews 5:14), how do those of full age have their senses exercised to discern both good and evil?",
+          "options": [
+            "A. By divine revelation only",
+            "B. By reason of use",
+            "C. By attending church every day",
+            "D. By fasting"
+          ],
+          "answer": "B",
+          "explanation": "Verse 14 says 'those who by reason of use have their senses exercised to discern both good and evil.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W10Q31",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Getting upset over petty things is listed as a sign of spiritual immaturity.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 9 says 'Gets upset over petty things (Proverbs 19:11).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q32",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is linked to the immaturity sign of 'Given to complaining and murmuring at all times'?",
+          "options": [
+            "A. 1 Corinthians 10:10",
+            "B. Proverbs 12:18",
+            "C. James 3:14-16",
+            "D. 2 Timothy 4:3"
+          ],
+          "answer": "A",
+          "explanation": "Point 4 explicitly cites '(1 Corinthians 10:10)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W10Q33",
+          "week": 10,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What kind of manifestations must be visible in a journey to spiritual maturity?",
+          "options": [
+            "A. Working of miracles and healing",
+            "B. Speaking in tongues and prophecy",
+            "C. Visible manifestations of the fruit of the Spirit",
+            "D. Wealth and financial breakthrough"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'Also, there must be visible manifestations of the fruit of the Spirit (Galatians 5:22–24).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q34",
+          "week": 10,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are associated with the command to 'be humble' in the journey to spiritual maturity?",
+          "options": [
+            "A. Proverbs 22:4; James 4:6",
+            "B. Proverbs 1:8; 4:13",
+            "C. Job 27:5; Proverbs 20:7",
+            "D. Romans 8:4, 14"
+          ],
+          "answer": "A",
+          "explanation": "The text lists 'being humble (Proverbs 22:4; James 4:6)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W10Q35",
+          "week": 10,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Engaging in envy, strife, heated arguments, and disagreements is tied to which scripture in Outline I?",
+          "options": [
+            "A. James 3:14-16",
+            "B. 1 Corinthians 12:7",
+            "C. 2 Corinthians 4:18",
+            "D. Philippians 2:21"
+          ],
+          "answer": "A",
+          "explanation": "Point 8 links this directly to '(James 3:14-16)'.",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}

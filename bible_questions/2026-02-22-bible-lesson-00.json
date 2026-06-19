@@ -1,0 +1,870 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 0,
+      "topic": "STRENGTH IN QUIETNESS",
+      "questions": [
+        {
+          "id": "BW0Q1",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Set a watch, O LORD, before my mouth; keep the door of my lips.'",
+          "options": [
+            "A. Psalm 141:2",
+            "B. Psalm 142:3",
+            "C. Psalm 141:4",
+            "D. Psalm 141:3"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Set a watch, O LORD, before my mouth; keep the door of my lips.' is found in Psalm 141:3.",
+          "source_section": "Psalm 141:3"
+        },
+        {
+          "id": "BW0Q2",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 141:3:\nSet a watch, O _____, before my _____; keep the door of my _____.",
+          "answer": "LORD, mouth, lips",
+          "keywords": [
+            "LORD",
+            "mouth",
+            "lips"
+          ],
+          "explanation": "The full text is: Set a watch, O LORD, before my mouth; keep the door of my lips.",
+          "source_section": "Psalm 141:3"
+        },
+        {
+          "id": "BW0Q3",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.'",
+          "options": [
+            "A. Psalm 37:29",
+            "B. Psalm 38:30",
+            "C. Psalm 37:31",
+            "D. Psalm 37:30"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.' is found in Psalm 37:30.",
+          "source_section": "Psalm 37:30"
+        },
+        {
+          "id": "BW0Q4",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 37:30:\nThe mouth of the righteous speaketh wisdom, and his _____ _____ of _____.",
+          "answer": "tongue, talketh, judgment",
+          "keywords": [
+            "tongue",
+            "talketh",
+            "judgment"
+          ],
+          "explanation": "The full text is: The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+          "source_section": "Psalm 37:30"
+        },
+        {
+          "id": "BW0Q5",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.'",
+          "options": [
+            "A. Titus 2:7",
+            "B. Titus 2:8",
+            "C. Titus 2:9",
+            "D. Titus 3:8"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.' is found in Titus 2:8.",
+          "source_section": "Titus 2:8"
+        },
+        {
+          "id": "BW0Q6",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Titus 2:8:\nSound speech, that _____ be condemned; _____ he that is of the contrary part may be ashamed, _____ no evil thing to say of you.",
+          "answer": "cannot, that, having",
+          "keywords": [
+            "cannot",
+            "that",
+            "having"
+          ],
+          "explanation": "The full text is: Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.",
+          "source_section": "Titus 2:8"
+        },
+        {
+          "id": "BW0Q7",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A fool\u2019s mouth is his destruction, and his lips are the snare of his soul.'",
+          "options": [
+            "A. Proverbs 18:7",
+            "B. Proverbs 19:7",
+            "C. Proverbs 18:6",
+            "D. Proverbs 18:8"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'A fool\u2019s mouth is his destruction, and his lips are the snare of his soul.' is found in Proverbs 18:7.",
+          "source_section": "Proverbs 18:7"
+        },
+        {
+          "id": "BW0Q8",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:7:\nA _____ mouth is his _____, and his _____ are the snare of his soul.",
+          "answer": "fool\u2019s, destruction, lips",
+          "keywords": [
+            "fool\u2019s",
+            "destruction",
+            "lips"
+          ],
+          "explanation": "The full text is: A fool\u2019s mouth is his destruction, and his lips are the snare of his soul.",
+          "source_section": "Proverbs 18:7"
+        },
+        {
+          "id": "BW0Q9",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'It is an honour for a man to cease from strife: but every fool will be meddling.'",
+          "options": [
+            "A. Proverbs 20:3",
+            "B. Proverbs 20:4",
+            "C. Proverbs 21:3",
+            "D. Proverbs 20:2"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'It is an honour for a man to cease from strife: but every fool will be meddling.' is found in Proverbs 20:3.",
+          "source_section": "Proverbs 20:3"
+        },
+        {
+          "id": "BW0Q10",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 20:3:\nIt is an honour for a man to cease from strife: but _____ _____ will be _____.",
+          "answer": "every, fool, meddling",
+          "keywords": [
+            "every",
+            "fool",
+            "meddling"
+          ],
+          "explanation": "The full text is: It is an honour for a man to cease from strife: but every fool will be meddling.",
+          "source_section": "Proverbs 20:3"
+        },
+        {
+          "id": "BW0Q11",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.'",
+          "options": [
+            "A. Acts 19:36",
+            "B. Acts 19:35",
+            "C. Acts 20:36",
+            "D. Acts 19:37"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.' is found in Acts 19:36.",
+          "source_section": "Acts 19:36"
+        },
+        {
+          "id": "BW0Q12",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 19:36:\nSeeing then that _____ _____ cannot be spoken against, ye _____ to be quiet, and to do nothing rashly.",
+          "answer": "these, things, ought",
+          "keywords": [
+            "these",
+            "things",
+            "ought"
+          ],
+          "explanation": "The full text is: Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.",
+          "source_section": "Acts 19:36"
+        },
+        {
+          "id": "BW0Q13",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The princes refrained talking, and laid their hand on their mouth.'",
+          "options": [
+            "A. Job 29:9-10",
+            "B. Job 29:8",
+            "C. Job 30:9",
+            "D. Job 29:10"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The princes refrained talking, and laid their hand on their mouth.' is found in Job 29:9-10.",
+          "source_section": "Job 29:9-10"
+        },
+        {
+          "id": "BW0Q14",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Job 29:9-10:\nThe princes refrained _____, and laid their hand on _____ _____.",
+          "answer": "talking, their, mouth",
+          "keywords": [
+            "talking",
+            "their",
+            "mouth"
+          ],
+          "explanation": "The full text is: The princes refrained talking, and laid their hand on their mouth.",
+          "source_section": "Job 29:9-10"
+        },
+        {
+          "id": "BW0Q15",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.17.27 an\u2026: or, a cool'",
+          "options": [
+            "A. Proverbs 18:27",
+            "B. Proverbs 17:27",
+            "C. Proverbs 17:28",
+            "D. Proverbs 17:26"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.17.27 an\u2026: or, a cool' is found in Proverbs 17:27.",
+          "source_section": "Proverbs 17:27"
+        },
+        {
+          "id": "BW0Q16",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 17:27:\nHe that hath knowledge spareth his words: and a man of _____ is of an _____ spirit.17.27 an\u2026: or, a _____",
+          "answer": "understanding, excellent, cool",
+          "keywords": [
+            "understanding",
+            "excellent",
+            "cool"
+          ],
+          "explanation": "The full text is: He that hath knowledge spareth his words: and a man of understanding is of an excellent spirit.17.27 an\u2026: or, a cool",
+          "source_section": "Proverbs 17:27"
+        },
+        {
+          "id": "BW0Q17",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.'",
+          "options": [
+            "A. James 3:1",
+            "B. James 3:3",
+            "C. James 3:2",
+            "D. James 4:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.' is found in James 3:2.",
+          "source_section": "James 3:2"
+        },
+        {
+          "id": "BW0Q18",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 3:2:\nFor in _____ _____ we _____ all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.",
+          "answer": "many, things, offend",
+          "keywords": [
+            "many",
+            "things",
+            "offend"
+          ],
+          "explanation": "The full text is: For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body.",
+          "source_section": "James 3:2"
+        },
+        {
+          "id": "BW0Q19",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.'",
+          "options": [
+            "A. Colossians 4:6",
+            "B. Colossians 4:7",
+            "C. Colossians 4:5",
+            "D. Colossians 5:6"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.' is found in Colossians 4:6.",
+          "source_section": "Colossians 4:6"
+        },
+        {
+          "id": "BW0Q20",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Colossians 4:6:\nLet _____ speech be alway with grace, seasoned with _____, that ye may _____ how ye ought to answer every man.",
+          "answer": "your, salt, know",
+          "keywords": [
+            "your",
+            "salt",
+            "know"
+          ],
+          "explanation": "The full text is: Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.",
+          "source_section": "Colossians 4:6"
+        },
+        {
+          "id": "BW0Q21",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A soft answer turneth away wrath: but grievous words stir up anger.'",
+          "options": [
+            "A. Proverbs 15:2",
+            "B. Proverbs 15:3",
+            "C. Proverbs 15:1",
+            "D. Proverbs 16:1"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'A soft answer turneth away wrath: but grievous words stir up anger.' is found in Proverbs 15:1.",
+          "source_section": "Proverbs 15:1"
+        },
+        {
+          "id": "BW0Q22",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 15:1:\nA _____ answer turneth away wrath: but _____ words stir up _____.",
+          "answer": "soft, grievous, anger",
+          "keywords": [
+            "soft",
+            "grievous",
+            "anger"
+          ],
+          "explanation": "The full text is: A soft answer turneth away wrath: but grievous words stir up anger.",
+          "source_section": "Proverbs 15:1"
+        },
+        {
+          "id": "BW0Q23",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A word fitly spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken upon his wheels'",
+          "options": [
+            "A. Proverbs 25:12",
+            "B. Proverbs 26:11",
+            "C. Proverbs 25:11",
+            "D. Proverbs 25:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'A word fitly spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken upon his wheels' is found in Proverbs 25:11.",
+          "source_section": "Proverbs 25:11"
+        },
+        {
+          "id": "BW0Q24",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 25:11:\nA _____ fitly spoken is like apples of gold in pictures of silver.25.11 _____: Heb. spoken upon his _____",
+          "answer": "word, fitly\u2026, wheels",
+          "keywords": [
+            "word",
+            "fitly\u2026",
+            "wheels"
+          ],
+          "explanation": "The full text is: A word fitly spoken is like apples of gold in pictures of silver.25.11 fitly\u2026: Heb. spoken upon his wheels",
+          "source_section": "Proverbs 25:11"
+        },
+        {
+          "id": "BW0Q25",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!15.23 due\u2026: Heb. his season'",
+          "options": [
+            "A. Proverbs 15:22",
+            "B. Proverbs 16:23",
+            "C. Proverbs 15:24",
+            "D. Proverbs 15:23"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!15.23 due\u2026: Heb. his season' is found in Proverbs 15:23.",
+          "source_section": "Proverbs 15:23"
+        },
+        {
+          "id": "BW0Q26",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 15:23:\nA man hath joy by the answer of his _____: and a _____ spoken in due season, how good is _____ due\u2026: Heb. his season",
+          "answer": "mouth, word, it!15.23",
+          "keywords": [
+            "mouth",
+            "word",
+            "it!15.23"
+          ],
+          "explanation": "The full text is: A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!15.23 due\u2026: Heb. his season",
+          "source_section": "Proverbs 15:23"
+        },
+        {
+          "id": "BW0Q27",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.'",
+          "options": [
+            "A. Proverbs 23:6",
+            "B. Proverbs 23:8",
+            "C. Proverbs 24:7",
+            "D. Proverbs 23:7"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.' is found in Proverbs 23:7.",
+          "source_section": "Proverbs 23:7"
+        },
+        {
+          "id": "BW0Q28",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 23:7:\nFor as he thinketh in his heart, so is he: Eat and drink, saith he to _____; but his heart is not _____ _____.",
+          "answer": "thee, with, thee",
+          "keywords": [
+            "thee",
+            "with",
+            "thee"
+          ],
+          "explanation": "The full text is: For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+          "source_section": "Proverbs 23:7"
+        },
+        {
+          "id": "BW0Q29",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.'",
+          "options": [
+            "A. Proverbs 13:4",
+            "B. Proverbs 13:3",
+            "C. Proverbs 14:3",
+            "D. Proverbs 13:2"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.' is found in Proverbs 13:3.",
+          "source_section": "Proverbs 13:3"
+        },
+        {
+          "id": "BW0Q30",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 13:3:\nHe _____ keepeth his mouth keepeth his _____: but he that openeth _____ his lips shall have destruction.",
+          "answer": "that, life, wide",
+          "keywords": [
+            "that",
+            "life",
+            "wide"
+          ],
+          "explanation": "The full text is: He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.",
+          "source_section": "Proverbs 13:3"
+        },
+        {
+          "id": "BW0Q31",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.'",
+          "options": [
+            "A. Proverbs 18:28",
+            "B. Proverbs 17:27",
+            "C. Proverbs 17:28",
+            "D. Proverbs 17:29"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.' is found in Proverbs 17:28.",
+          "source_section": "Proverbs 17:28"
+        },
+        {
+          "id": "BW0Q32",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 17:28:\nEven a _____, when he holdeth his peace, is counted wise: and he that _____ his _____ is esteemed a man of understanding.",
+          "answer": "fool, shutteth, lips",
+          "keywords": [
+            "fool",
+            "shutteth",
+            "lips"
+          ],
+          "explanation": "The full text is: Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.",
+          "source_section": "Proverbs 17:28"
+        },
+        {
+          "id": "BW0Q33",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.'",
+          "options": [
+            "A. Proverbs 15:28",
+            "B. Proverbs 16:28",
+            "C. Proverbs 15:29",
+            "D. Proverbs 15:27"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.' is found in Proverbs 15:28.",
+          "source_section": "Proverbs 15:28"
+        },
+        {
+          "id": "BW0Q34",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 15:28:\nThe _____ of the righteous _____ to answer: but the mouth of the wicked poureth out evil _____.",
+          "answer": "heart, studieth, things",
+          "keywords": [
+            "heart",
+            "studieth",
+            "things"
+          ],
+          "explanation": "The full text is: The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.",
+          "source_section": "Proverbs 15:28"
+        },
+        {
+          "id": "BW0Q35",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A fool\u2019s lips enter into contention, and his mouth calleth for strokes.'",
+          "options": [
+            "A. Proverbs 18:5",
+            "B. Proverbs 18:7",
+            "C. Proverbs 18:6",
+            "D. Proverbs 19:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'A fool\u2019s lips enter into contention, and his mouth calleth for strokes.' is found in Proverbs 18:6.",
+          "source_section": "Proverbs 18:6"
+        },
+        {
+          "id": "BW0Q36",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 18:6:\nA fool\u2019s lips _____ into _____, and his mouth _____ for strokes.",
+          "answer": "enter, contention, calleth",
+          "keywords": [
+            "enter",
+            "contention",
+            "calleth"
+          ],
+          "explanation": "The full text is: A fool\u2019s lips enter into contention, and his mouth calleth for strokes.",
+          "source_section": "Proverbs 18:6"
+        },
+        {
+          "id": "BW0Q37",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.'",
+          "options": [
+            "A. Proverbs 6:3",
+            "B. Proverbs 6:2",
+            "C. Proverbs 7:2",
+            "D. Proverbs 6:1"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.' is found in Proverbs 6:2.",
+          "source_section": "Proverbs 6:2"
+        },
+        {
+          "id": "BW0Q38",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 6:2:\n_____ art snared with the _____ of thy mouth, thou art taken with the words of thy _____.",
+          "answer": "Thou, words, mouth",
+          "keywords": [
+            "Thou",
+            "words",
+            "mouth"
+          ],
+          "explanation": "The full text is: Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.",
+          "source_section": "Proverbs 6:2"
+        },
+        {
+          "id": "BW0Q39",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man\u2019s hands shall be rendered unto him.'",
+          "options": [
+            "A. Proverbs 13:14",
+            "B. Proverbs 12:14",
+            "C. Proverbs 12:15",
+            "D. Proverbs 12:13"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man\u2019s hands shall be rendered unto him.' is found in Proverbs 12:14.",
+          "source_section": "Proverbs 12:14"
+        },
+        {
+          "id": "BW0Q40",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 12:14:\nA man _____ be satisfied with good by the fruit of his _____: and the recompence of a man\u2019s hands shall be _____ unto him.",
+          "answer": "shall, mouth, rendered",
+          "keywords": [
+            "shall",
+            "mouth",
+            "rendered"
+          ],
+          "explanation": "The full text is: A man shall be satisfied with good by the fruit of his mouth: and the recompence of a man\u2019s hands shall be rendered unto him.",
+          "source_section": "Proverbs 12:14"
+        },
+        {
+          "id": "BW0Q41",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'A fool uttereth all his mind: but a wise man keepeth it in till afterwards.'",
+          "options": [
+            "A. Proverbs 29:10",
+            "B. Proverbs 30:11",
+            "C. Proverbs 29:12",
+            "D. Proverbs 29:11"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'A fool uttereth all his mind: but a wise man keepeth it in till afterwards.' is found in Proverbs 29:11.",
+          "source_section": "Proverbs 29:11"
+        },
+        {
+          "id": "BW0Q42",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 29:11:\nA fool uttereth all his _____: but a _____ man keepeth it in _____ afterwards.",
+          "answer": "mind, wise, till",
+          "keywords": [
+            "mind",
+            "wise",
+            "till"
+          ],
+          "explanation": "The full text is: A fool uttereth all his mind: but a wise man keepeth it in till afterwards.",
+          "source_section": "Proverbs 29:11"
+        },
+        {
+          "id": "BW0Q43",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.'",
+          "options": [
+            "A. Proverbs 19:2",
+            "B. Proverbs 20:1",
+            "C. Proverbs 19:1",
+            "D. Proverbs 19:3"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.' is found in Proverbs 19:1.",
+          "source_section": "Proverbs 19:1"
+        },
+        {
+          "id": "BW0Q44",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 19:1:\nBetter is the _____ that walketh in his _____, _____ he that is perverse in his lips, and is a fool.",
+          "answer": "poor, integrity, than",
+          "keywords": [
+            "poor",
+            "integrity",
+            "than"
+          ],
+          "explanation": "The full text is: Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
+          "source_section": "Proverbs 19:1"
+        },
+        {
+          "id": "BW0Q45",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.10.13 of understanding: Heb. of heart'",
+          "options": [
+            "A. Proverbs 11:13",
+            "B. Proverbs 10:14",
+            "C. Proverbs 10:13",
+            "D. Proverbs 10:12"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.10.13 of understanding: Heb. of heart' is found in Proverbs 10:13.",
+          "source_section": "Proverbs 10:13"
+        },
+        {
+          "id": "BW0Q46",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 10:13:\nIn the lips of him that hath understanding _____ is _____: but a rod is for the back of him that is void of understanding.10.13 of understanding: Heb. of _____",
+          "answer": "wisdom, found, heart",
+          "keywords": [
+            "wisdom",
+            "found",
+            "heart"
+          ],
+          "explanation": "The full text is: In the lips of him that hath understanding wisdom is found: but a rod is for the back of him that is void of understanding.10.13 of understanding: Heb. of heart",
+          "source_section": "Proverbs 10:13"
+        },
+        {
+          "id": "BW0Q47",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:'",
+          "options": [
+            "A. James 1:20",
+            "B. James 2:19",
+            "C. James 1:18",
+            "D. James 1:19"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:' is found in James 1:19.",
+          "source_section": "James 1:19"
+        },
+        {
+          "id": "BW0Q48",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:19:\nWherefore, my _____ brethren, let every man be swift to hear, slow to speak, _____ to _____:",
+          "answer": "beloved, slow, wrath",
+          "keywords": [
+            "beloved",
+            "slow",
+            "wrath"
+          ],
+          "explanation": "The full text is: Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:",
+          "source_section": "James 1:19"
+        },
+        {
+          "id": "BW0Q49",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'All the words of my mouth are in righteousness; there is nothing froward or perverse in them.8.8 froward: Heb. wreathed'",
+          "options": [
+            "A. Proverbs 8:8",
+            "B. Proverbs 8:7",
+            "C. Proverbs 9:8",
+            "D. Proverbs 8:9"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'All the words of my mouth are in righteousness; there is nothing froward or perverse in them.8.8 froward: Heb. wreathed' is found in Proverbs 8:8.",
+          "source_section": "Proverbs 8:8"
+        },
+        {
+          "id": "BW0Q50",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 8:8:\nAll the words of my mouth are in righteousness; there is nothing _____ or perverse in them.8.8 _____: Heb. _____",
+          "answer": "froward, froward, wreathed",
+          "keywords": [
+            "froward",
+            "froward",
+            "wreathed"
+          ],
+          "explanation": "The full text is: All the words of my mouth are in righteousness; there is nothing froward or perverse in them.8.8 froward: Heb. wreathed",
+          "source_section": "Proverbs 8:8"
+        },
+        {
+          "id": "BW0Q51",
+          "week": 0,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The words of a wise man\u2019s mouth are gracious; but the lips of a fool will swallow up himself.10.12 gracious: Heb. grace'",
+          "options": [
+            "A. Ecclesiastes 10:11",
+            "B. Ecclesiastes 11:12",
+            "C. Ecclesiastes 10:13",
+            "D. Ecclesiastes 10:12"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'The words of a wise man\u2019s mouth are gracious; but the lips of a fool will swallow up himself.10.12 gracious: Heb. grace' is found in Ecclesiastes 10:12.",
+          "source_section": "Ecclesiastes 10:12"
+        },
+        {
+          "id": "BW0Q52",
+          "week": 0,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ecclesiastes 10:12:\nThe words of a wise man\u2019s mouth are gracious; but the _____ of a fool _____ _____ up himself.10.12 gracious: Heb. grace",
+          "answer": "lips, will, swallow",
+          "keywords": [
+            "lips",
+            "will",
+            "swallow"
+          ],
+          "explanation": "The full text is: The words of a wise man\u2019s mouth are gracious; but the lips of a fool will swallow up himself.10.12 gracious: Heb. grace",
+          "source_section": "Ecclesiastes 10:12"
+        }
+      ]
+    }
+  ]
+}

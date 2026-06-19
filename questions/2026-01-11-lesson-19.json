@@ -1,0 +1,559 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:22:00Z",
+  "weeks": [
+    {
+      "week_number": 19,
+      "topic": "EFFECTIVE PLANNING",
+      "memory_verse_reference": "Proverbs 16:9",
+      "questions": [
+        {
+          "id": "W19Q1",
+          "week": 19,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 19?",
+          "options": [
+            "A. EFFECTIVE PLANNING",
+            "B. DESTINY DESTROYERS",
+            "C. STAY PURE",
+            "D. FACTORS AFFECTING EFFECTIVE PLANNING"
+          ],
+          "answer": "A",
+          "explanation": "The topic listed for Lesson Nineteen is EFFECTIVE PLANNING.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W19Q2",
+          "week": 19,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 17?",
+          "options": [
+            "A. DESTINY DESTROYERS",
+            "B. EFFECTIVE PLANNING",
+            "C. STAY PURE",
+            "D. UNTOWARD FREEDOM"
+          ],
+          "answer": "C",
+          "explanation": "Stay Pure was the topic for Week 17.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W19Q3",
+          "week": 19,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "A man's heart plans his way, But the LORD directs his ________.",
+          "options": [
+            "A. thoughts",
+            "B. path",
+            "C. steps",
+            "D. hands"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Proverbs 16:9) says 'But the LORD directs his steps.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W19Q4",
+          "week": 19,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Proverbs 16:9",
+          "keywords": ["Proverbs", "16:9"],
+          "explanation": "The memory verse reference is Proverbs 16:9.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W19Q5",
+          "week": 19,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 19 in full (NKJV).",
+          "answer": "A man’s heart plans his way, But the LORD directs his steps.",
+          "keywords": ["man's", "heart", "plans", "way", "LORD", "directs", "steps"],
+          "explanation": "Full text recall of Proverbs 16:9.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W19Q6",
+          "week": 19,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Proverbs 16:9), what directs a man's steps after his heart plans his way?",
+          "options": [
+            "A. His wisdom",
+            "B. The LORD",
+            "C. His friends",
+            "D. His enemies"
+          ],
+          "answer": "B",
+          "explanation": "The verse states: 'But the LORD directs his steps.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W19Q7",
+          "week": 19,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, effective planning transforms abstract goals into what?",
+          "options": [
+            "A. Perfect timelines",
+            "B. Financial success",
+            "C. Actionable steps",
+            "D. Immediate wealth"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'It is a process that transforms abstract goals into actionable steps.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W19Q8",
+          "week": 19,
+          "category": "introduction",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of these is NOT one of the characteristics of a plan mentioned in the introduction?",
+          "options": [
+            "A. Measurable",
+            "B. Unchanging",
+            "C. Specific",
+            "D. Time-bound"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'our plans must be measurable, specific, relevant, achievable, flexible and time-bound.' Unchanging is the opposite of flexible.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W19Q9",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "FACTORS AFFECTING EFFECTIVE PLANNING",
+          "keywords": ["FACTORS", "AFFECTING", "EFFECTIVE", "PLANNING"],
+          "explanation": "Outline I is titled 'FACTORS AFFECTING EFFECTIVE PLANNING'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q10",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what sets the direction, guides priorities and informs decision-making?",
+          "options": [
+            "A. Money",
+            "B. Vision",
+            "C. Friends",
+            "D. Faith"
+          ],
+          "answer": "B",
+          "explanation": "Point 1 states: 'Vision sets the direction, guides priorities and informs decision-making...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q11",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What happens to plans without vision according to the lesson?",
+          "options": [
+            "A. They succeed anyway",
+            "B. They take twice as long",
+            "C. They are aimless and unmotivated",
+            "D. They become too expensive"
+          ],
+          "answer": "C",
+          "explanation": "Point 1 explicitly states: 'Without vision, plans are aimless and unmotivated.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q12",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Without specific and measurable goals, planning becomes vague and unproductive.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 2 states exactly this: 'Without specific and measurable goals, planning becomes vague and unproductive.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q13",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which factor of effective planning allows you to hand a job off to someone who can complete it successfully while you focus on more important tasks?",
+          "options": [
+            "A. Timing",
+            "B. Vision",
+            "C. Delegation",
+            "D. Faith"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 defines Delegation as allowing you 'to hand a job off to someone who can complete it successfully...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q14",
+          "week": 19,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that a late start or procrastination often results in inefficiency, warning against laziness?",
+          "options": [
+            "A. Proverbs 29:18",
+            "B. Proverbs 21:5",
+            "C. Proverbs 6:9-11",
+            "D. Proverbs 3:5-6"
+          ],
+          "answer": "C",
+          "explanation": "Point 4 cites '(Proverbs 6:9-11 warns against laziness...)'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q15",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Disobedience to God's instructions can ________ even the most well-thought-out plans.",
+          "options": [
+            "A. improve",
+            "B. delay",
+            "C. derail",
+            "D. test"
+          ],
+          "answer": "C",
+          "explanation": "Point 6 states 'Disobedience to God’s instructions can derail even the most well-thought-out plans.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q16",
+          "week": 19,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "BENEFITS OF EFFECTIVE PLANNING",
+          "keywords": ["BENEFITS", "OF", "EFFECTIVE", "PLANNING"],
+          "explanation": "Outline II is titled 'BENEFITS OF EFFECTIVE PLANNING'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q17",
+          "week": 19,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does effective planning relieve stress according to the lesson?",
+          "options": [
+            "A. It gives you more money to solve problems",
+            "B. It forces others to do the work for you",
+            "C. It provides a structured approach, eliminating the overwhelming feeling of being unprepared",
+            "D. It removes the need to pray"
+          ],
+          "answer": "C",
+          "explanation": "Point 2 says 'It provides a structured approach to tackling tasks. When plans are in place, the overwhelming feeling of being unprepared is eliminated.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q18",
+          "week": 19,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Effective planning minimizes distractions and maximizes output.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 3 states 'With priorities and steps defined, distractions are minimised and output is maximized.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q19",
+          "week": 19,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding effective planning resulting in more opportunities, and availing time for other things outside the routines?",
+          "options": [
+            "A. Proverbs 21:5",
+            "B. Matthew 25:21",
+            "C. Luke 14:28-30",
+            "D. Ecclesiastes 3:1"
+          ],
+          "answer": "D",
+          "explanation": "Point 5 links 'avails you time for other things' to '(Ecclesiastes 3:1).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q20",
+          "week": 19,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, planning allows you to achieve results worthy of what?",
+          "options": [
+            "A. Envy",
+            "B. Wealth",
+            "C. Commendation",
+            "D. Popularity"
+          ],
+          "answer": "C",
+          "explanation": "Point 4 says 'Planning allows you to achieve results worthy of commendation (Matthew 25:21).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q21",
+          "week": 19,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion of the lesson states that effective planning will help you reach your desired goal.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states: 'Effective planning will help you to reach your desired goal.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W19Q22",
+          "week": 19,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'For which of you, intending to build a tower, does not sit down first and count the cost, whether he has enough to finish it —'",
+          "verse_text": "For which of you, intending to build a tower, does not sit down first and count the cost, whether he has enough to finish it —",
+          "options": [
+            "A. Luke 14:28",
+            "B. Luke 14:29",
+            "C. Luke 14:30",
+            "D. Matthew 25:21"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 28 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W19Q23",
+          "week": 19,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (Luke 14:28), what must a person intending to build a tower do first?",
+          "options": [
+            "A. Dig a deep foundation",
+            "B. Ask for a loan",
+            "C. Sit down first and count the cost",
+            "D. Gather his friends"
+          ],
+          "answer": "C",
+          "explanation": "Verse 28 says '...does not sit down first and count the cost...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W19Q24",
+          "week": 19,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Luke 14:29, what will happen if a person lays a foundation and is not able to finish?",
+          "options": [
+            "A. He will be arrested",
+            "B. All who see it will begin to mock him",
+            "C. His family will finish it for him",
+            "D. God will punish him"
+          ],
+          "answer": "B",
+          "explanation": "Verse 29 says 'lest, after he has laid the foundation, and is not able to finish, all who see it begin to mock him'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W19Q25",
+          "week": 19,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Luke 14:30, what specific phrase will the mockers say?",
+          "options": [
+            "A. 'This man was foolish and lost his money'",
+            "B. 'This man began to build and was not able to finish'",
+            "C. 'This man had no faith in God'",
+            "D. 'This man did not pray before he built'"
+          ],
+          "answer": "B",
+          "explanation": "Verse 30 quotes the mockers: “saying, ‘This man began to build and was not able to finish’?”",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W19Q26",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What is Delegation said to prevent in Outline I?",
+          "options": [
+            "A. Poverty",
+            "B. Burnout",
+            "C. Sin",
+            "D. Mockery"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 concludes with: 'Delegation prevents burnout.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q27",
+          "week": 19,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited as an example for delegation in Outline I?",
+          "options": [
+            "A. Proverbs 21:5",
+            "B. Habakkuk 2:2-3",
+            "C. Exodus 18:13-23",
+            "D. Mark 11:22-24"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 cites '(Exodus 18:13-23)' for Delegation.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q28",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Trusting in God to guide your efforts and provide resources is part of the 'Faith' factor in effective planning.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 5 says 'Faith: It plays a significant role in planning... Trust in God to guide your efforts and provide the resources needed...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q29",
+          "week": 19,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of these is NOT listed as something effective planning helps avoid in day-to-day activities?",
+          "options": [
+            "A. Burn out",
+            "B. Depression",
+            "C. Physical sickness",
+            "D. Non-productivity"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'burn out, stress, frustration, depression, non-productivity, etc.' Physical sickness is not explicitly mentioned.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q30",
+          "week": 19,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is associated with obedience, which is key to aligning plans with God's will?",
+          "options": [
+            "A. Mark 11:22-24",
+            "B. 1 Samuel 15:22-23",
+            "C. Proverbs 3:5-6",
+            "D. Matthew 6:33"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 cites '(1 Samuel 15:22-23)' for Obedience.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q31",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "In addition to the listed factors, effective planning must be done with God's guidance, wisdom, flexibility and right ________.",
+          "options": [
+            "A. priorities",
+            "B. friends",
+            "C. money",
+            "D. tools"
+          ],
+          "answer": "A",
+          "explanation": "The summary paragraph says 'must be done with God’s guidance... flexibility and right priorities (Matthew 6:33).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q32",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Beginning the day late has no effect on planning, as long as you eventually do the work.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Point 4 says 'A late start or procrastination often results in inefficiency and missed opportunities.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q33",
+          "week": 19,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support that clear plans enable focused efforts, leading to maximum productivity?",
+          "options": [
+            "A. Proverbs 21:5",
+            "B. Proverbs 24:3-4",
+            "C. Matthew 25:21",
+            "D. Luke 14:28-30"
+          ],
+          "answer": "A",
+          "explanation": "Point 3 of Outline II cites '(Proverbs 21:5)' regarding productivity.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W19Q34",
+          "week": 19,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which factor specifically provides focus and ensures that progress can be evaluated?",
+          "options": [
+            "A. Delegation",
+            "B. Timing",
+            "C. Goals",
+            "D. Vision"
+          ],
+          "answer": "C",
+          "explanation": "Point 2 says 'Goals: ...Clear objectives provide focus and ensure that progress can be evaluated'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W19Q35",
+          "week": 19,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Effective planning involves not only managing time but also strategically allocating resources.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The introduction states 'as it involves not only managing time but also strategically allocating resources...'",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

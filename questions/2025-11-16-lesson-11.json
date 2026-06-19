@@ -1,0 +1,569 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:16:00Z",
+  "weeks": [
+    {
+      "week_number": 11,
+      "topic": "WORKPLACE MINISTRY",
+      "memory_verse_reference": "Colossians 3:23",
+      "questions": [
+        {
+          "id": "W11Q1",
+          "week": 11,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 11?",
+          "options": [
+            "A. SPIRITUAL MATURITY",
+            "B. WORKPLACE MINISTRY",
+            "C. THE PRINCIPLES",
+            "D. A MISSION FIELD"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly given for Lesson Eleven is WORKPLACE MINISTRY.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W11Q2",
+          "week": 11,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 10?",
+          "options": [
+            "A. SPIRITUAL MATURITY",
+            "B. WORKPLACE MINISTRY",
+            "C. PROPHECY",
+            "D. FAITH AND SCIENCE"
+          ],
+          "answer": "A",
+          "explanation": "Spiritual Maturity was the topic for Week 10.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W11Q3",
+          "week": 11,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "And whosoever ye do, do it heartily, as to the ________, and not unto men.",
+          "options": [
+            "A. king",
+            "B. boss",
+            "C. lord",
+            "D. church"
+          ],
+          "answer": "C",
+          "explanation": "Colossians 3:23 says 'do it heartily, as to the lord, and not unto men'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W11Q4",
+          "week": 11,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Colossians 3:23",
+          "keywords": ["Colossians", "3:23"],
+          "explanation": "The memory verse reference is Colossians 3:23.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W11Q5",
+          "week": 11,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 11 in full (KJV/NKJV as provided).",
+          "answer": "And whosoever ye do, do it heartily, as to the lord, and not unto men",
+          "keywords": ["whosoever", "do", "heartily", "lord", "unto", "men"],
+          "explanation": "Full text recall of Colossians 3:23.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W11Q6",
+          "week": 11,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Colossians 3:23), how should whatever we do be done?",
+          "options": [
+            "A. Carefully",
+            "B. Heartily",
+            "C. Perfectly",
+            "D. Quickly"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'do it heartily'.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W11Q7",
+          "week": 11,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is another name for Workplace Ministry according to the introduction?",
+          "options": [
+            "A. Marketplace Ministry",
+            "B. Corporate Ministry",
+            "C. Career Calling",
+            "D. Secular Service"
+          ],
+          "answer": "A",
+          "explanation": "The intro states: 'Workplace Ministry, also known as Marketplace Ministry...'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W11Q8",
+          "week": 11,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Workplace ministry is about shifting your perspective by viewing your work as a service to the Lord.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states: 'Workplace ministry is about shifting your perspective by viewing your work, in whatever role, as a service to the Lord'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W11Q9",
+          "week": 11,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "A MISSION FIELD",
+          "keywords": ["MISSION", "FIELD"],
+          "explanation": "Outline I is titled 'A MISSION FIELD'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q10",
+          "week": 11,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to encourage us that God's presence is with us in every aspect of life, including the workplace?",
+          "options": [
+            "A. Ephesians 6:5-8",
+            "B. Psalm 139:7-10",
+            "C. Daniel 11:32b",
+            "D. Matthew 28:18-20"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Psalm 139:7-10)' for God's presence in every aspect.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q11",
+          "week": 11,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline I, our jobs are just a means of income and have no eternal significance.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'Our jobs are more than a means of income; they are opportunities to worship and serve God'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q12",
+          "week": 11,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "When we view work as worship, how do we reflect God's character? (According to Daniel 11:32b in the lesson)",
+          "options": [
+            "A. Through preaching constantly at our desks",
+            "B. Through excellence and integrity",
+            "C. By giving our salaries to the poor",
+            "D. By working 24 hours a day"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'reflecting God’s character through excellence and integrity (Daniel 11:32b).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q13",
+          "week": 11,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for bringing Christ's love, truth, and hope as His ambassadors to colleagues and clients?",
+          "options": [
+            "A. Matthew 28:18-20",
+            "B. Proverbs 3:13",
+            "C. 2 Corinthians 5:20",
+            "D. Acts 2:42-47"
+          ],
+          "answer": "C",
+          "explanation": "The lesson points to '(2 Corinthians 5:20)' for being Christ's ambassadors.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q14",
+          "week": 11,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Aligning our work with biblical values requires ________ (Proverbs 3:13).",
+          "options": [
+            "A. wisdom",
+            "B. wealth",
+            "C. patience",
+            "D. courage"
+          ],
+          "answer": "A",
+          "explanation": "The text states 'Aligning our work with biblical values requires wisdom (Proverbs 3:13).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q15",
+          "week": 11,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to the lesson citing Acts 2:42-47, what did the early church do that modelled influencing others and drew people to Christ?",
+          "options": [
+            "A. They debated theology in the synagogues",
+            "B. They fought against the Roman empire",
+            "C. They shared resources, served others, and drew people through love and unity",
+            "D. They isolated themselves from the community"
+          ],
+          "answer": "C",
+          "explanation": "The text states: 'modelled by the early church, which shared resources, served others, and drew people to Christ through love and unity (Acts 2:42-47).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q16",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "THE PRINCIPLES",
+          "keywords": ["THE", "PRINCIPLES"],
+          "explanation": "Outline II is titled 'THE PRINCIPLES'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q17",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which principle involves setting goals that align with God’s priorities to ensure our work reflects His purposes (Proverbs 16:3)?",
+          "options": [
+            "A. INTENTIONALITY",
+            "B. ALIGNMENT",
+            "C. RELATIONSHIPS",
+            "D. INTEGRITY"
+          ],
+          "answer": "B",
+          "explanation": "The first principle is '1. ALIGNMENT: Setting goals that align with God’s priorities...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q18",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which principle focuses on purposeful actions to share the gospel, whether through conversations or living out Christ-like virtues (1 Peter 3:15)?",
+          "options": [
+            "A. INTEGRITY",
+            "B. GUIDANCE",
+            "C. INTENTIONALITY",
+            "D. ALIGNMENT"
+          ],
+          "answer": "C",
+          "explanation": "The second principle is '2. INTENTIONALITY: Sharing the gospel requires purposeful actions...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q19",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which principle emphasizes fostering trust, offering support, and celebrating others to open doors to share faith (Proverbs 27:9-10)?",
+          "options": [
+            "A. RELATIONSHIPS",
+            "B. INTEGRITY",
+            "C. GUIDANCE",
+            "D. ALIGNMENT"
+          ],
+          "answer": "A",
+          "explanation": "The third principle is '3. RELATIONSHIPS: Building meaningful workplace relationships...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q20",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which principle is about upholding honesty, fairness, and transparency in all dealings to reflect Christ’s character (Proverbs 10:9; 28:18)?",
+          "options": [
+            "A. GUIDANCE",
+            "B. INTEGRITY",
+            "C. RELATIONSHIPS",
+            "D. INTENTIONALITY"
+          ],
+          "answer": "B",
+          "explanation": "The fourth principle is '4. INTEGRITY: Upholding honesty, fairness, and transparency...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q21",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which principle involves seeking God’s wisdom through prayer, His word, and wise counsel (Psalm 119:105; Proverbs 11:14)?",
+          "options": [
+            "A. ALIGNMENT",
+            "B. RELATIONSHIPS",
+            "C. GUIDANCE",
+            "D. INTENTIONALITY"
+          ],
+          "answer": "C",
+          "explanation": "The fifth principle is '5. GUIDANCE: Seeking God’s wisdom through prayer...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q22",
+          "week": 11,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verses are associated with the principle of INTEGRITY in the lesson?",
+          "options": [
+            "A. Proverbs 16:3",
+            "B. 1 Peter 3:15",
+            "C. Proverbs 10:9; 28:18",
+            "D. Psalm 119:105; Proverbs 11:14"
+          ],
+          "answer": "C",
+          "explanation": "Under Integrity, the text cites '(Proverbs 10:9; 28:18)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q23",
+          "week": 11,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the conclusion, believers should approach the workplace with a sense of mission and use their unique gifts to glorify God.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states this.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W11Q24",
+          "week": 11,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In the Bible Passage (Acts 9:36-40), what was the name of the disciple at Joppa who was full of good works?",
+          "options": [
+            "A. Lydia",
+            "B. Tabitha (Dorcas)",
+            "C. Priscilla",
+            "D. Mary"
+          ],
+          "answer": "B",
+          "explanation": "Acts 9:36 says 'a certain disciple named Tabitha, which by interpretation is called Dorcas'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W11Q25",
+          "week": 11,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What happened to Tabitha in those days according to Acts 9:37?",
+          "options": [
+            "A. She moved to Jerusalem",
+            "B. She got married",
+            "C. She was sick, and died",
+            "D. She was arrested"
+          ],
+          "answer": "C",
+          "explanation": "Verse 37 states 'she was sick, and died'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W11Q26",
+          "week": 11,
+          "category": "name_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which apostle did the disciples send for when Tabitha died, because he was in the nearby town of Lydda?",
+          "options": [
+            "A. Paul",
+            "B. John",
+            "C. James",
+            "D. Peter"
+          ],
+          "answer": "D",
+          "explanation": "Acts 9:38 says 'the disciples had heard that Peter was there, they sent unto him...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W11Q27",
+          "week": 11,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "When Peter arrived, what did the widows show him in the upper chamber?",
+          "options": [
+            "A. The money Tabitha had given them",
+            "B. The coats and garments which Dorcas made while she was with them",
+            "C. The food she had prepared for the poor",
+            "D. Her family members weeping"
+          ],
+          "answer": "B",
+          "explanation": "Acts 9:39 says 'shewing the coats and garments which Dorcas made'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W11Q28",
+          "week": 11,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What did Peter do immediately before telling Tabitha to arise? (Acts 9:40)",
+          "options": [
+            "A. He put everyone out, kneeled down, and prayed",
+            "B. He laid hands on her head",
+            "C. He anointed her with oil",
+            "D. He sang a hymn of praise"
+          ],
+          "answer": "A",
+          "explanation": "Verse 40 says 'But Peter put them all forth, and kneeled down, and prayed'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W11Q29",
+          "week": 11,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there...'",
+          "verse_text": "And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there...",
+          "options": [
+            "A. Acts 9:36",
+            "B. Acts 9:38",
+            "C. Acts 9:40",
+            "D. Acts 8:38"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 38 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W11Q30",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is associated with the 'ALIGNMENT' principle, highlighting setting goals that align with God's priorities?",
+          "options": [
+            "A. Proverbs 16:3",
+            "B. Proverbs 10:9",
+            "C. 1 Peter 3:15",
+            "D. Proverbs 27:9-10"
+          ],
+          "answer": "A",
+          "explanation": "The ALIGNMENT principle cites '(Proverbs 16:3)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q31",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to the 'ALIGNMENT' principle, this begins when we do what?",
+          "options": [
+            "A. Ask for a promotion",
+            "B. Surrender to God's will and allow Him to shape our vision",
+            "C. Start a Bible study at work",
+            "D. Quit secular jobs to work in a church"
+          ],
+          "answer": "B",
+          "explanation": "The text states: 'This begins when we surrender to God’s will, allow Him to shape our vision...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q32",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the 'INTENTIONALITY' principle, intentionality helps us do what?",
+          "options": [
+            "A. Climb the corporate ladder faster",
+            "B. Avoid conflicts with the boss",
+            "C. Reflect God's love naturally in everyday interactions",
+            "D. Increase our salary"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Intentionality helps us reflect God’s love naturally in everyday interactions.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W11Q33",
+          "week": 11,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Outline I, how does workplace ministry transform lives and communities?",
+          "options": [
+            "A. By addressing spiritual, emotional, and practical needs",
+            "B. By establishing Christian-only businesses",
+            "C. By making everyone wealthy",
+            "D. By creating new political parties"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'Workplace ministry can transform lives and communities by addressing spiritual, emotional, and practical needs.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q34",
+          "week": 11,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture encourages us that our jobs are opportunities to worship and serve God?",
+          "options": [
+            "A. Ephesians 6:5-8",
+            "B. 1 Peter 3:15",
+            "C. Proverbs 11:14",
+            "D. Psalm 119:105"
+          ],
+          "answer": "A",
+          "explanation": "The lesson lists '(Ephesians 6:5-8)' regarding jobs as opportunities to worship/serve.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W11Q35",
+          "week": 11,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "In the 'RELATIONSHIPS' principle, fostering trust and celebrating others opens doors to share authentic faith.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text explicitly states: 'By fostering trust, offering support, and celebrating others, we open doors to share authentic faith.'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

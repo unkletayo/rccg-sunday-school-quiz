@@ -1,0 +1,560 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:10:00Z",
+  "weeks": [
+    {
+      "week_number": 5,
+      "topic": "MY ENEMY: “THE FLESH”",
+      "memory_verse_reference": "Romans 8:8",
+      "questions": [
+        {
+          "id": "W5Q1",
+          "week": 5,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 5?",
+          "options": [
+            "A. HODEGEO PNEUMA",
+            "B. MY ENEMY: “THE FLESH”",
+            "C. THE WORLD AND ITS LUSTS",
+            "D. VICTORY OVER SIN"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly given for Lesson Five is MY ENEMY: “THE FLESH”.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W5Q2",
+          "week": 5,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 4?",
+          "options": [
+            "A. MY ENEMY: “THE FLESH”",
+            "B. THE DEITY OF JESUS (PART 2)",
+            "C. HODEGEO PNEUMA",
+            "D. THEOS BASILEIA"
+          ],
+          "answer": "C",
+          "explanation": "Hodegeo Pneuma was the topic for Week 4.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W5Q3",
+          "week": 5,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what is described as our 'external' enemy?",
+          "options": [
+            "A. The devil",
+            "B. The flesh",
+            "C. The world",
+            "D. Sin"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states: 'The world' is our external enemy.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W5Q4",
+          "week": 5,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Our enemy, the Devil, has a ________ inside of us that cooperates with him in his battle against us.",
+          "options": [
+            "A. stronghold",
+            "B. weakness",
+            "C. agent",
+            "D. footstool"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'the Devil, has “a stronghold” inside of us'.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W5Q5",
+          "week": 5,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The one controlled by the flesh is referred to as a spiritual man.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states 'The one controlled by the flesh is also referred to as a natural or carnal man.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W5Q6",
+          "week": 5,
+          "category": "memory_verse_text",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "So then, those who are in the flesh cannot ________ God.",
+          "options": [
+            "A. serve",
+            "B. please",
+            "C. know",
+            "D. worship"
+          ],
+          "answer": "B",
+          "explanation": "Romans 8:8 states 'those who are in the flesh cannot please God.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W5Q7",
+          "week": 5,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Romans 8:8",
+          "keywords": ["Romans", "8:8"],
+          "explanation": "The memory verse reference is Romans 8:8.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W5Q8",
+          "week": 5,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 5 in full (NKJV).",
+          "answer": "So then, those who are in the flesh cannot please God.",
+          "keywords": ["So", "then", "flesh", "cannot", "please", "God"],
+          "explanation": "Full text recall of Romans 8:8.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W5Q9",
+          "week": 5,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is the ultimate consequence of being 'in the flesh' according to the memory verse?",
+          "options": [
+            "A. You will suffer physically",
+            "B. You cannot please God",
+            "C. You will be cast out of the church",
+            "D. You cannot forgive others"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'those who are in the flesh cannot please God.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W5Q10",
+          "week": 5,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the exact heading of Outline I?",
+          "answer": "THE “FLESH” DESCRIBED",
+          "keywords": ["THE", "FLESH", "DESCRIBED"],
+          "explanation": "Outline I is titled 'THE “FLESH” DESCRIBED'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q11",
+          "week": 5,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline I, 'the flesh' is literally our physical body.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Outline I clearly states: '“The flesh” is not our body, but the sinful nature that dwells in our body.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q12",
+          "week": 5,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Romans 7:5 and Ephesians 2:2-3 cited in the lesson, what was on the throne of our hearts before we were saved?",
+          "options": [
+            "A. The Holy Spirit",
+            "B. 'Self'",
+            "C. The conscience",
+            "D. The law"
+          ],
+          "answer": "B",
+          "explanation": "The lesson says 'Before we were saved, ‘self’ was on the throne of our hearts (Romans 7:5; Ephesians 2:2-3).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q13",
+          "week": 5,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "What happened to 'self' when we received Christ and He came to live in us (Galatians 2:20)?",
+          "options": [
+            "A. It moved out completely",
+            "B. It submitted fully to Christ instantly",
+            "C. It did not move out and wants to continue its rule",
+            "D. It became entirely spiritual"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'However, ‘self’ did not move out. Not only is it still there, but it wants to continue its rule in our hearts'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q14",
+          "week": 5,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of the following is NOT one of the three things the Bible tells us about 'self' according to Outline I?",
+          "options": [
+            "A. 'Self' will never obey God (Romans 8:7)",
+            "B. Sin comes from our sinful nature (Mark 7:21-23)",
+            "C. 'Self' can be reformed into the Spirit (John 3:6)",
+            "D. The flesh is Satan’s 'stronghold' for sinning (Galatians 5:19-21)"
+          ],
+          "answer": "C",
+          "explanation": "Reforming self is not listed. The three things are: never obey God, sin comes from it, and it is Satan's stronghold.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q15",
+          "week": 5,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which form of 'self' expects people to look up to and honour him, declaring himself as first and above all?",
+          "options": [
+            "A. Self-will",
+            "B. Self-pity",
+            "C. Self-love",
+            "D. Self-pride"
+          ],
+          "answer": "D",
+          "explanation": "The text defines Self-pride as 'Declares himself as first and above all. He expects people to look up to and honour him'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q16",
+          "week": 5,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which biblical reference is used to illustrate 'Self-love' (affirming that the person who should be loved more than anyone else is himself)?",
+          "options": [
+            "A. Exodus 5:2",
+            "B. Luke 12:16-20",
+            "C. 1 Kings 19:14",
+            "D. Judges 14:3"
+          ],
+          "answer": "B",
+          "explanation": "The text uses '(Luke 12:16-20)' for Self-love.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q17",
+          "week": 5,
+          "category": "name_meaning",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "Which form of 'self' is described as believing that he is poor and not treated right, always complaining and never satisfied?",
+          "answer": "Self-pity",
+          "keywords": ["Self", "pity"],
+          "explanation": "The lesson defines this as Self-pity.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q18",
+          "week": 5,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which Old Testament passage is used to illustrate 'Self-righteousness'?",
+          "options": [
+            "A. Exodus 16:2-3",
+            "B. 1 Kings 19:14",
+            "C. Judges 14:3",
+            "D. Exodus 5:2"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(1 Kings 19:14)' for Self-righteousness.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q19",
+          "week": 5,
+          "category": "name_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How is 'Self-will' described in the lesson?",
+          "options": [
+            "A. Always wants to have his way and does not care whether it contradicts God’s will.",
+            "B. Satisfied with his own goodness and morality.",
+            "C. Believes he is poor and not treated right.",
+            "D. Expects people to look up to and honour him."
+          ],
+          "answer": "A",
+          "explanation": "The lesson states: 'Always wants to have his way. He will do what he wants to do and does not care whether it contradicts God’s will.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q20",
+          "week": 5,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the exact heading of Outline II?",
+          "answer": "VICTORY THROUGH GOD",
+          "keywords": ["VICTORY", "THROUGH", "GOD"],
+          "explanation": "Outline II is titled 'VICTORY THROUGH GOD'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q21",
+          "week": 5,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to Outline II, a sinner can easily come into the presence of God even with the old sinful life still active.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states: 'Since no sinner can come into the presence of God, our old sinful life must come to an end...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q22",
+          "week": 5,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Romans 6:6-7, what was the first wonderful thing God did for us out of His love?",
+          "options": [
+            "A. He made us angels",
+            "B. He ended our old self-life and created something entirely new that sin cannot touch",
+            "C. He gave us wealth and power",
+            "D. He made us rulers over demons"
+          ],
+          "answer": "B",
+          "explanation": "The text lists: '1. He ended our old self-life and created something entirely new i.e. something that sin cannot touch (Romans 6:6-7).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q23",
+          "week": 5,
+          "category": "bible_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "When Christ rose from the dead, we rose with Him as 'new persons' in God’s new ________ (2 Corinthians 5:17).",
+          "options": [
+            "A. heaven",
+            "B. kingdom",
+            "C. creation",
+            "D. era"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'new persons” in God’s new creation (2 Corinthians 5:17)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q24",
+          "week": 5,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for the truth that God gave Christ to us as our new Master, and in Him we live to do the will of His father?",
+          "options": [
+            "A. Galatians 2:20",
+            "B. John 3:30",
+            "C. Romans 8:7",
+            "D. Matthew 13:25"
+          ],
+          "answer": "B",
+          "explanation": "The text lists '3. He gave Christ to us as our new Master... John 3:30.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q25",
+          "week": 5,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "The lesson asserts that as long as we are in our bodies, we can completely get rid of 'self'.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text explicitly says: 'As long as we are in our bodies, we can never get rid of self, but we can avoid being ruled by self.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q26",
+          "week": 5,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which of the following is NOT one of the steps given in Outline II to subdue self?",
+          "options": [
+            "A. Choose to keep self on the Cross",
+            "B. Make Christ our King",
+            "C. Live the Christ-life by bearing the fruit of the Spirit",
+            "D. Perform daily self-flagellation to weaken the flesh"
+          ],
+          "answer": "D",
+          "explanation": "Self-flagellation is not mentioned. The three steps are keeping self on the cross, making Christ king, and bearing fruit of the Spirit.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q27",
+          "week": 5,
+          "category": "bible_verse_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which verse is cited for the step: 'Choose to keep self on the Cross'?",
+          "options": [
+            "A. 2 Corinthians 5:14-15",
+            "B. Galatians 5:24",
+            "C. Galatians 5:22-23",
+            "D. Romans 6:6-7"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Choose to keep self on the Cross (Galatians 5:24)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W5Q28",
+          "week": 5,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "fill_in_blank",
+          "question": "Be in control of your flesh with the help of the ________ (Galatians 5:16).",
+          "options": [
+            "A. Angels",
+            "B. Holy Spirit",
+            "C. Pastors",
+            "D. Ten Commandments"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion reads 'Be in control of your flesh with the help of the Holy Spirit'.",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W5Q29",
+          "week": 5,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'For I know that in me (that is, in my flesh) nothing good dwells; for to will is present with me...'",
+          "verse_text": "For I know that in me (that is, in my flesh) nothing good dwells; for to will is present with me...",
+          "options": [
+            "A. Romans 8:8",
+            "B. Romans 7:18",
+            "C. Galatians 5:17",
+            "D. Ephesians 2:3"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 18 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W5Q30",
+          "week": 5,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Romans 7:19), what struggle does the writer express?",
+          "options": [
+            "A. He wants to preach but lacks the words",
+            "B. He does the evil he wills not to do, instead of the good he wills to do",
+            "C. He faces physical persecution from the Jews",
+            "D. He cannot understand the mysteries of God"
+          ],
+          "answer": "B",
+          "explanation": "Romans 7:19 says 'For the good that I will to do, I do not do; but the evil I will not to do, that I practice.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W5Q31",
+          "week": 5,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Now if I do what I will not to do, it is no longer I who do it, but sin that dwells in me.'",
+          "verse_text": "Now if I do what I will not to do, it is no longer I who do it, but sin that dwells in me.",
+          "options": [
+            "A. Romans 7:20",
+            "B. Galatians 5:24",
+            "C. Romans 6:6",
+            "D. Mark 7:21"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 20 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W5Q32",
+          "week": 5,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Romans 7:22), in what does the writer delight according to the inward man?",
+          "options": [
+            "A. The grace of God",
+            "B. The law of God",
+            "C. The traditions of the elders",
+            "D. The fellowship of the brethren"
+          ],
+          "answer": "B",
+          "explanation": "Romans 7:22 says 'For I delight in the law of God according to the inward man.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W5Q33",
+          "week": 5,
+          "category": "introduction",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "The introduction states that the Devil has a stronghold inside of us. Which biblical reference is given to support the Devil's cooperation in his battle against us?",
+          "options": [
+            "A. Matthew 13:25, 39a",
+            "B. Galatians 5:19-21",
+            "C. Mark 7:21-23",
+            "D. Romans 8:7"
+          ],
+          "answer": "A",
+          "explanation": "The text lists '(Matthew 13:25, 39a)' immediately after mentioning the Devil's battle against us and his stronghold.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W5Q34",
+          "week": 5,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that 'self' is Satan's stronghold for sinning?",
+          "options": [
+            "A. Galatians 5:19-21",
+            "B. Exodus 5:2",
+            "C. Galatians 5:17",
+            "D. 2 Corinthians 5:14-15"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'the flesh is Satan’s “stronghold” for sinning (Galatians 5:19-21).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W5Q35",
+          "week": 5,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "To live the Christ-life, Outline II says we must bear what?",
+          "answer": "the fruit of the Spirit",
+          "keywords": ["fruit", "Spirit"],
+          "explanation": "The outline says 'live the Christ-life by bearing the fruit of the Spirit (Galatians 5:22-23).'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

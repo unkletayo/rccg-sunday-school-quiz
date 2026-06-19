@@ -1,0 +1,672 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:15Z",
+  "weeks": [
+    {
+      "week_number": 6,
+      "topic": "KNOW YOURSELF",
+      "questions": [
+        {
+          "id": "BW6Q1",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But what things were gain to me, those I counted loss for Christ.'",
+          "options": [
+            "A. Philippians 3:8",
+            "B. Philippians 4:7",
+            "C. Philippians 3:6",
+            "D. Philippians 3:7-14"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'But what things were gain to me, those I counted loss for Christ.' is found in Philippians 3:7-14.",
+          "source_section": "Philippians 3:7-14"
+        },
+        {
+          "id": "BW6Q2",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Philippians 3:7-14:\nBut _____ _____ were gain to me, those I _____ loss for Christ.",
+          "answer": "what, things, counted",
+          "keywords": [
+            "what",
+            "things",
+            "counted"
+          ],
+          "explanation": "The full text is: But what things were gain to me, those I counted loss for Christ.",
+          "source_section": "Philippians 3:7-14"
+        },
+        {
+          "id": "BW6Q3",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:'",
+          "options": [
+            "A. 1 Peter 2:8",
+            "B. 1 Peter 3:9",
+            "C. 1 Peter 2:9",
+            "D. 1 Peter 2:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:' is found in 1 Peter 2:9.",
+          "source_section": "1 Peter 2:9"
+        },
+        {
+          "id": "BW6Q4",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Peter 2:9:\nBut ye are a _____ generation, a royal priesthood, an holy nation, a peculiar people; that ye should _____ forth the _____ of him who hath called you out of darkness into his marvellous light:",
+          "answer": "chosen, shew, praises",
+          "keywords": [
+            "chosen",
+            "shew",
+            "praises"
+          ],
+          "explanation": "The full text is: But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+          "source_section": "1 Peter 2:9"
+        },
+        {
+          "id": "BW6Q5",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.'",
+          "options": [
+            "A. Luke 10:19",
+            "B. Luke 10:18",
+            "C. Luke 10:20",
+            "D. Luke 11:19"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.' is found in Luke 10:19.",
+          "source_section": "Luke 10:19"
+        },
+        {
+          "id": "BW6Q6",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Luke 10:19:\nBehold, I give _____ you power to tread on serpents and scorpions, and _____ all the power of the enemy: and nothing _____ by any means hurt you.",
+          "answer": "unto, over, shall",
+          "keywords": [
+            "unto",
+            "over",
+            "shall"
+          ],
+          "explanation": "The full text is: Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.",
+          "source_section": "Luke 10:19"
+        },
+        {
+          "id": "BW6Q7",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.4.16 present: Heb. found'",
+          "options": [
+            "A. Esther 4:16",
+            "B. Esther 5:16",
+            "C. Esther 4:15",
+            "D. Esther 4:17"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.4.16 present: Heb. found' is found in Esther 4:16.",
+          "source_section": "Esther 4:16"
+        },
+        {
+          "id": "BW6Q8",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Esther 4:16:\nGo, _____ _____ all the Jews _____ are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.4.16 present: Heb. found",
+          "answer": "gather, together, that",
+          "keywords": [
+            "gather",
+            "together",
+            "that"
+          ],
+          "explanation": "The full text is: Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.4.16 present: Heb. found",
+          "source_section": "Esther 4:16"
+        },
+        {
+          "id": "BW6Q9",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.'",
+          "options": [
+            "A. 1 Corinthians 9:23",
+            "B. 1 Corinthians 10:22",
+            "C. 1 Corinthians 9:22",
+            "D. 1 Corinthians 9:21"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.' is found in 1 Corinthians 9:22.",
+          "source_section": "1 Corinthians 9:22"
+        },
+        {
+          "id": "BW6Q10",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Corinthians 9:22:\nTo the _____ became I as weak, that I might gain the weak: I am made all things to all men, that I might by all _____ _____ some.",
+          "answer": "weak, means, save",
+          "keywords": [
+            "weak",
+            "means",
+            "save"
+          ],
+          "explanation": "The full text is: To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some.",
+          "source_section": "1 Corinthians 9:22"
+        },
+        {
+          "id": "BW6Q11",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:'",
+          "options": [
+            "A. James 1:24",
+            "B. James 1:22",
+            "C. James 2:23",
+            "D. James 1:23-25"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:' is found in James 1:23-25.",
+          "source_section": "James 1:23-25"
+        },
+        {
+          "id": "BW6Q12",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 1:23-25:\nFor if any be a _____ of the _____, and not a doer, he is like unto a man beholding his _____ face in a glass:",
+          "answer": "hearer, word, natural",
+          "keywords": [
+            "hearer",
+            "word",
+            "natural"
+          ],
+          "explanation": "The full text is: For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:",
+          "source_section": "James 1:23-25"
+        },
+        {
+          "id": "BW6Q13",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 My son, attend to my words; incline thine ear unto my sayings.'",
+          "options": [
+            "A. Proverbs 4:20-22",
+            "B. Proverbs 4:21",
+            "C. Proverbs 4:19",
+            "D. Proverbs 5:20"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 My son, attend to my words; incline thine ear unto my sayings.' is found in Proverbs 4:20-22.",
+          "source_section": "Proverbs 4:20-22"
+        },
+        {
+          "id": "BW6Q14",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 4:20-22:\n\u00b6 My son, _____ to my words; _____ thine ear unto my _____.",
+          "answer": "attend, incline, sayings",
+          "keywords": [
+            "attend",
+            "incline",
+            "sayings"
+          ],
+          "explanation": "The full text is: \u00b6 My son, attend to my words; incline thine ear unto my sayings.",
+          "source_section": "Proverbs 4:20-22"
+        },
+        {
+          "id": "BW6Q15",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;'",
+          "options": [
+            "A. 1 Samuel 30:12",
+            "B. 1 Samuel 31:11",
+            "C. 1 Samuel 30:11-17",
+            "D. 1 Samuel 30:10"
+          ],
+          "answer": "C",
+          "explanation": "The verse '\u00b6 And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;' is found in 1 Samuel 30:11-17.",
+          "source_section": "1 Samuel 30:11-17"
+        },
+        {
+          "id": "BW6Q16",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 30:11-17:\n\u00b6 And they found an Egyptian in the _____, and _____ him to _____, and gave him bread, and he did eat; and they made him drink water;",
+          "answer": "field, brought, David",
+          "keywords": [
+            "field",
+            "brought",
+            "David"
+          ],
+          "explanation": "The full text is: \u00b6 And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;",
+          "source_section": "1 Samuel 30:11-17"
+        },
+        {
+          "id": "BW6Q17",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.1.1 ungodly: or, wicked'",
+          "options": [
+            "A. Psalm 2:1",
+            "B. Psalm 1:3",
+            "C. Psalm 1:2",
+            "D. Psalm 1:1-2"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.1.1 ungodly: or, wicked' is found in Psalm 1:1-2.",
+          "source_section": "Psalm 1:1-2"
+        },
+        {
+          "id": "BW6Q18",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 1:1-2:\nBlessed is the man that _____ not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the _____ of the _____ ungodly: or, wicked",
+          "answer": "walketh, seat, scornful.1.1",
+          "keywords": [
+            "walketh",
+            "seat",
+            "scornful.1.1"
+          ],
+          "explanation": "The full text is: Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.1.1 ungodly: or, wicked",
+          "source_section": "Psalm 1:1-2"
+        },
+        {
+          "id": "BW6Q19",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And she said, The Philistines be upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him.'",
+          "options": [
+            "A. Judges 16:20",
+            "B. Judges 17:20",
+            "C. Judges 16:19",
+            "D. Judges 16:21"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And she said, The Philistines be upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him.' is found in Judges 16:20.",
+          "source_section": "Judges 16:20"
+        },
+        {
+          "id": "BW6Q20",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Judges 16:20:\nAnd she said, The Philistines be upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at _____ _____ before, and shake myself. And he wist not that the LORD was _____ from him.",
+          "answer": "other, times, departed",
+          "keywords": [
+            "other",
+            "times",
+            "departed"
+          ],
+          "explanation": "The full text is: And she said, The Philistines be upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him.",
+          "source_section": "Judges 16:20"
+        },
+        {
+          "id": "BW6Q21",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And David said to Saul, Let no man\u2019s heart fail because of him; thy servant will go and fight with this Philistine.'",
+          "options": [
+            "A. 1 Samuel 17:32-37",
+            "B. 1 Samuel 18:32",
+            "C. 1 Samuel 17:31",
+            "D. 1 Samuel 17:33"
+          ],
+          "answer": "A",
+          "explanation": "The verse '\u00b6 And David said to Saul, Let no man\u2019s heart fail because of him; thy servant will go and fight with this Philistine.' is found in 1 Samuel 17:32-37.",
+          "source_section": "1 Samuel 17:32-37"
+        },
+        {
+          "id": "BW6Q22",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 1 Samuel 17:32-37:\n\u00b6 And David said to Saul, Let no man\u2019s heart _____ _____ of him; thy servant _____ go and fight with this Philistine.",
+          "answer": "fail, because, will",
+          "keywords": [
+            "fail",
+            "because",
+            "will"
+          ],
+          "explanation": "The full text is: \u00b6 And David said to Saul, Let no man\u2019s heart fail because of him; thy servant will go and fight with this Philistine.",
+          "source_section": "1 Samuel 17:32-37"
+        },
+        {
+          "id": "BW6Q23",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thy words were found, and I did eat them; and thy word was unto me the joy and rejoicing of mine heart: for I am called by thy name, O LORD God of hosts.15.16 I am\u2026: Heb. thy name is called upon me'",
+          "options": [
+            "A. Jeremiah 15:17",
+            "B. Jeremiah 15:16",
+            "C. Jeremiah 15:15",
+            "D. Jeremiah 16:16"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Thy words were found, and I did eat them; and thy word was unto me the joy and rejoicing of mine heart: for I am called by thy name, O LORD God of hosts.15.16 I am\u2026: Heb. thy name is called upon me' is found in Jeremiah 15:16.",
+          "source_section": "Jeremiah 15:16"
+        },
+        {
+          "id": "BW6Q24",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Jeremiah 15:16:\nThy words _____ found, and I did eat them; and thy word was unto me the joy and _____ of mine heart: for I am called by thy name, O _____ God of hosts.15.16 I am\u2026: Heb. thy name is called upon me",
+          "answer": "were, rejoicing, LORD",
+          "keywords": [
+            "were",
+            "rejoicing",
+            "LORD"
+          ],
+          "explanation": "The full text is: Thy words were found, and I did eat them; and thy word was unto me the joy and rejoicing of mine heart: for I am called by thy name, O LORD God of hosts.15.16 I am\u2026: Heb. thy name is called upon me",
+          "source_section": "Jeremiah 15:16"
+        },
+        {
+          "id": "BW6Q25",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,'",
+          "options": [
+            "A. Ephesians 1:17",
+            "B. Ephesians 1:18-19",
+            "C. Ephesians 1:19",
+            "D. Ephesians 2:18"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,' is found in Ephesians 1:18-19.",
+          "source_section": "Ephesians 1:18-19"
+        },
+        {
+          "id": "BW6Q26",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Ephesians 1:18-19:\nThe eyes of your understanding _____ enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his _____ in the _____,",
+          "answer": "being, inheritance, saints",
+          "keywords": [
+            "being",
+            "inheritance",
+            "saints"
+          ],
+          "explanation": "The full text is: The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,",
+          "source_section": "Ephesians 1:18-19"
+        },
+        {
+          "id": "BW6Q27",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.'",
+          "options": [
+            "A. 2 Timothy 2:14",
+            "B. 2 Timothy 2:16",
+            "C. 2 Timothy 3:15",
+            "D. 2 Timothy 2:15"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.' is found in 2 Timothy 2:15.",
+          "source_section": "2 Timothy 2:15"
+        },
+        {
+          "id": "BW6Q28",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 2:15:\n_____ to shew thyself approved _____ God, a workman that _____ not to be ashamed, rightly dividing the word of truth.",
+          "answer": "Study, unto, needeth",
+          "keywords": [
+            "Study",
+            "unto",
+            "needeth"
+          ],
+          "explanation": "The full text is: Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+          "source_section": "2 Timothy 2:15"
+        },
+        {
+          "id": "BW6Q29",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.'",
+          "options": [
+            "A. Genesis 2:26",
+            "B. Genesis 1:26-27",
+            "C. Genesis 1:27",
+            "D. Genesis 1:25"
+          ],
+          "answer": "B",
+          "explanation": "The verse '\u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.' is found in Genesis 1:26-27.",
+          "source_section": "Genesis 1:26-27"
+        },
+        {
+          "id": "BW6Q30",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Genesis 1:26-27:\n\u00b6 And God said, Let us make man in our image, after our _____: and let them have dominion over the _____ of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the _____.",
+          "answer": "likeness, fish, earth",
+          "keywords": [
+            "likeness",
+            "fish",
+            "earth"
+          ],
+          "explanation": "The full text is: \u00b6 And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+          "source_section": "Genesis 1:26-27"
+        },
+        {
+          "id": "BW6Q31",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For I am now ready to be offered, and the time of my departure is at hand.'",
+          "options": [
+            "A. 2 Timothy 4:5",
+            "B. 2 Timothy 4:6-7",
+            "C. 2 Timothy 5:6",
+            "D. 2 Timothy 4:7"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For I am now ready to be offered, and the time of my departure is at hand.' is found in 2 Timothy 4:6-7.",
+          "source_section": "2 Timothy 4:6-7"
+        },
+        {
+          "id": "BW6Q32",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Timothy 4:6-7:\nFor I am now _____ to be offered, and the _____ of my departure is at _____.",
+          "answer": "ready, time, hand",
+          "keywords": [
+            "ready",
+            "time",
+            "hand"
+          ],
+          "explanation": "The full text is: For I am now ready to be offered, and the time of my departure is at hand.",
+          "source_section": "2 Timothy 4:6-7"
+        },
+        {
+          "id": "BW6Q33",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And hast made us unto our God kings and priests: and we shall reign on the earth.'",
+          "options": [
+            "A. Revelation 5:9",
+            "B. Revelation 5:10",
+            "C. Revelation 5:11",
+            "D. Revelation 6:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And hast made us unto our God kings and priests: and we shall reign on the earth.' is found in Revelation 5:10.",
+          "source_section": "Revelation 5:10"
+        },
+        {
+          "id": "BW6Q34",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Revelation 5:10:\nAnd hast made us unto our God _____ and priests: and we shall _____ on the _____.",
+          "answer": "kings, reign, earth",
+          "keywords": [
+            "kings",
+            "reign",
+            "earth"
+          ],
+          "explanation": "The full text is: And hast made us unto our God kings and priests: and we shall reign on the earth.",
+          "source_section": "Revelation 5:10"
+        },
+        {
+          "id": "BW6Q35",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Thy word have I hid in mine heart, that I might not sin against thee.'",
+          "options": [
+            "A. Psalm 119:11",
+            "B. Psalm 120:11",
+            "C. Psalm 119:10",
+            "D. Psalm 119:12"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Thy word have I hid in mine heart, that I might not sin against thee.' is found in Psalm 119:11.",
+          "source_section": "Psalm 119:11"
+        },
+        {
+          "id": "BW6Q36",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Psalm 119:11:\nThy _____ _____ I hid in _____ heart, that I might not sin against thee.",
+          "answer": "word, have, mine",
+          "keywords": [
+            "word",
+            "have",
+            "mine"
+          ],
+          "explanation": "The full text is: Thy word have I hid in mine heart, that I might not sin against thee.",
+          "source_section": "Psalm 119:11"
+        },
+        {
+          "id": "BW6Q37",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Every prudent man dealeth with knowledge: but a fool layeth open his folly.13.16 layeth\u2026: Heb. spreadeth'",
+          "options": [
+            "A. Proverbs 13:17",
+            "B. Proverbs 14:16",
+            "C. Proverbs 13:16",
+            "D. Proverbs 13:15"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Every prudent man dealeth with knowledge: but a fool layeth open his folly.13.16 layeth\u2026: Heb. spreadeth' is found in Proverbs 13:16.",
+          "source_section": "Proverbs 13:16"
+        },
+        {
+          "id": "BW6Q38",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 13:16:\n_____ prudent man _____ with knowledge: but a _____ layeth open his folly.13.16 layeth\u2026: Heb. spreadeth",
+          "answer": "Every, dealeth, fool",
+          "keywords": [
+            "Every",
+            "dealeth",
+            "fool"
+          ],
+          "explanation": "The full text is: Every prudent man dealeth with knowledge: but a fool layeth open his folly.13.16 layeth\u2026: Heb. spreadeth",
+          "source_section": "Proverbs 13:16"
+        },
+        {
+          "id": "BW6Q39",
+          "week": 6,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.'",
+          "options": [
+            "A. John 15:5",
+            "B. John 15:4",
+            "C. John 15:6",
+            "D. John 16:5"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.' is found in John 15:5.",
+          "source_section": "John 15:5"
+        },
+        {
+          "id": "BW6Q40",
+          "week": 6,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for John 15:5:\nI am the vine, ye are the _____: He _____ _____ in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+          "answer": "branches, that, abideth",
+          "keywords": [
+            "branches",
+            "that",
+            "abideth"
+          ],
+          "explanation": "The full text is: I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+          "source_section": "John 15:5"
+        }
+      ]
+    }
+  ]
+}

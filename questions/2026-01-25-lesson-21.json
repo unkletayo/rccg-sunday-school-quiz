@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:24:00Z",
+  "weeks": [
+    {
+      "week_number": 21,
+      "topic": "TIME MANAGEMENT",
+      "memory_verse_reference": "Ephesians 5:16",
+      "questions": [
+        {
+          "id": "W21Q1",
+          "week": 21,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 21?",
+          "options": [
+            "A. RESOURCEFULNESS",
+            "B. TIME MANAGEMENT",
+            "C. HOW TO MANAGE YOUR TIME",
+            "D. EFFECTIVE PLANNING"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Twenty-One is TIME MANAGEMENT.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W21Q2",
+          "week": 21,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 20?",
+          "options": [
+            "A. TIME MANAGEMENT",
+            "B. EFFECTIVE PLANNING",
+            "C. RESOURCEFULNESS",
+            "D. DESTINY DESTROYERS"
+          ],
+          "answer": "C",
+          "explanation": "Resourcefulness was the topic for Week 20.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W21Q3",
+          "week": 21,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Redeeming the time, because the days are ________.",
+          "options": [
+            "A. short",
+            "B. evil",
+            "C. numbered",
+            "D. passing"
+          ],
+          "answer": "B",
+          "explanation": "The memory verse (Ephesians 5:16) says 'because the days are evil.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W21Q4",
+          "week": 21,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Ephesians 5:16",
+          "keywords": ["Ephesians", "5:16"],
+          "explanation": "The memory verse reference is Ephesians 5:16.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W21Q5",
+          "week": 21,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 21 in full (NKJV).",
+          "answer": "Redeeming the time, because the days are evil.",
+          "keywords": ["Redeeming", "time", "because", "days", "evil"],
+          "explanation": "Full text recall of Ephesians 5:16.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W21Q6",
+          "week": 21,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Ephesians 5:16), why should we be redeeming the time?",
+          "options": [
+            "A. Because time is money",
+            "B. Because the days are evil",
+            "C. Because Jesus is coming soon",
+            "D. Because we only live once"
+          ],
+          "answer": "B",
+          "explanation": "The verse explicitly states 'because the days are evil.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W21Q7",
+          "week": 21,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the introduction, time is distributed differently based on age, race, and status.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states: 'Time is evenly distributed across board, irrespective of age, race, gender or status.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W21Q8",
+          "week": 21,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is cited in the introduction regarding time being of the essence to a man who counts it important to fulfill purpose?",
+          "options": [
+            "A. Proverbs 6:6-11",
+            "B. John 9:4",
+            "C. Ecclesiastes 3:1",
+            "D. Matthew 6:33"
+          ],
+          "answer": "B",
+          "explanation": "The introduction cites '(John 9:4)' for this point.",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W21Q9",
+          "week": 21,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "TIME MANAGEMENT DEFINED",
+          "keywords": ["TIME", "MANAGEMENT", "DEFINED"],
+          "explanation": "Outline I is titled 'TIME MANAGEMENT DEFINED'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q10",
+          "week": 21,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, time management is about making the best use of your time productively and efficiently because it is always ________.",
+          "options": [
+            "A. expensive",
+            "B. running out",
+            "C. limited",
+            "D. unpredictable"
+          ],
+          "answer": "C",
+          "explanation": "The text says '...because it is always limited (Ephesians 5:16).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q11",
+          "week": 21,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Time management can be defined as the art of having time to do everything that you need to do without feeling what?",
+          "options": [
+            "A. Tired",
+            "B. Stressed about it",
+            "C. Bored",
+            "D. Rushed"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'without feeling stressed about it (Exodus 18:18-23)...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q12",
+          "week": 21,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Outline I suggests that you should just work hard and be busy, even if you have nothing to show for the hours used.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text says 'Do not just work hard but work smart. Do not just be busy without having something to show for the hours used...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q13",
+          "week": 21,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding prioritising your tasks in order of importance?",
+          "options": [
+            "A. Matthew 6:33",
+            "B. Proverbs 6:6-11",
+            "C. Ephesians 5:16",
+            "D. James 5:12"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'and prioritising your tasks in order of importance (Matthew 6:33).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q14",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "HOW TO MANAGE YOUR TIME",
+          "keywords": ["HOW", "TO", "MANAGE", "YOUR", "TIME"],
+          "explanation": "Outline II is titled 'HOW TO MANAGE YOUR TIME'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q15",
+          "week": 21,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture supports the statement that 'Every purpose in life has a time attached'?",
+          "options": [
+            "A. Job 36:10",
+            "B. Philippians 3:13",
+            "C. Ecclesiastes 3:1",
+            "D. Esther 9:27"
+          ],
+          "answer": "C",
+          "explanation": "The text cites '(Ecclesiastes 3:1)' right after that statement.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q16",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the lesson, setting 'smart goals' means they should be all of the following EXCEPT?",
+          "options": [
+            "A. Specific",
+            "B. Measurable",
+            "C. Spiritual",
+            "D. Attainable"
+          ],
+          "answer": "C",
+          "explanation": "The text lists 'specific, measurable, attainable, relevant and time-bound'. 'Spiritual' is not listed there.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q17",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, saying 'No' sometimes is an act of disrespect to others.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "The text states 'Saying ‘No’ sometimes is an act of respect for your person.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q18",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the lesson define 'Discipline' in the context of time management?",
+          "options": [
+            "A. Fasting for many days",
+            "B. The effective use of your time, energy and resources in the pursuit of your task",
+            "C. Punishing yourself when you make a mistake",
+            "D. Waking up very early every morning"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 says 'Discipline is the effective use of your time, energy and resources in the pursuit of your task (Job 36:10).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q19",
+          "week": 21,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding knowing when to say 'NO'?",
+          "options": [
+            "A. Philippians 3:13",
+            "B. Esther 9:27",
+            "C. James 5:12",
+            "D. Job 36:10"
+          ],
+          "answer": "C",
+          "explanation": "Point 4 cites '(James 5:12)' regarding knowing when to say NO.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q20",
+          "week": 21,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which verse is associated with staying focused and shunning distractions?",
+          "options": [
+            "A. Job 36:10",
+            "B. Esther 9:27",
+            "C. Philippians 3:13",
+            "D. James 5:12"
+          ],
+          "answer": "C",
+          "explanation": "Point 2 says 'Stay focused: Shun Distractions (Philippians 3:13).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q21",
+          "week": 21,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What does the conclusion of the lesson say a lived life is?",
+          "options": [
+            "A. A series of choices",
+            "B. A gift from God",
+            "C. An accumulation of time",
+            "D. A test of faith"
+          ],
+          "answer": "C",
+          "explanation": "The conclusion states: 'A life lived is an accumulation of time.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W21Q22",
+          "week": 21,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'See then that you walk circumspectly, not as fools but as wise,'",
+          "verse_text": "See then that you walk circumspectly, not as fools but as wise,",
+          "options": [
+            "A. Ephesians 5:15",
+            "B. Ephesians 5:16",
+            "C. Ephesians 5:17",
+            "D. Colossians 2:3"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 15 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W21Q23",
+          "week": 21,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Ephesians 5:15), how are we instructed to walk?",
+          "options": [
+            "A. In love",
+            "B. Boldly and courageously",
+            "C. Circumspectly, not as fools but as wise",
+            "D. Quickly, because time is short"
+          ],
+          "answer": "C",
+          "explanation": "Verse 15 reads 'See then that you walk circumspectly, not as fools but as wise'.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W21Q24",
+          "week": 21,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to Ephesians 5:17, what should we understand instead of being unwise?",
+          "options": [
+            "A. The mysteries of the universe",
+            "B. What the will of the Lord is",
+            "C. The signs of the times",
+            "D. The hearts of men"
+          ],
+          "answer": "B",
+          "explanation": "Verse 17 says 'Therefore do not be unwise, but understand what the will of the Lord is.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W21Q25",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, if you always say 'Yes' to everyone or everything, it will take you to the grave early in life.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Point 4 explicitly states 'You cannot always say ‘Yes’ to everyone or everything. It will take you to the grave early in life...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q26",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the lesson define being 'punctual'?",
+          "options": [
+            "A. Leaving early before an event finishes",
+            "B. Being available to do something at the agreed or proper time",
+            "C. Working faster than everyone else",
+            "D. Setting multiple alarms"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 says 'Being punctual is being available to do something at the agreed or proper time (Esther 9:27).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W21Q27",
+          "week": 21,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited in connection with making the best use of time productively and efficiently?",
+          "options": [
+            "A. John 9:4",
+            "B. Proverbs 6:6-11",
+            "C. Exodus 18:18-23",
+            "D. Matthew 6:33"
+          ],
+          "answer": "B",
+          "explanation": "Outline I says 'making the best use of your time productively and efficiently (Proverbs 6:6-11)...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q28",
+          "week": 21,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Until you understand the ________ of time, you cannot succeed maximally in life.",
+          "options": [
+            "A. nature",
+            "B. source",
+            "C. value",
+            "D. measurement"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states 'Until you understand the value of time, you cannot succeed maximally in life.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W21Q29",
+          "week": 21,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding having time to do everything without feeling stressed about it?",
+          "options": [
+            "A. Exodus 18:18-23",
+            "B. Matthew 6:33",
+            "C. Ephesians 5:16",
+            "D. John 9:4"
+          ],
+          "answer": "A",
+          "explanation": "The text says 'without feeling stressed about it (Exodus 18:18-23)...'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W21Q30",
+          "week": 21,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "When time is wasted, the ________ is no longer guaranteed.",
+          "options": [
+            "A. future",
+            "B. reward",
+            "C. purpose",
+            "D. success"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Hence, when time is wasted, the purpose is no longer guaranteed.'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}

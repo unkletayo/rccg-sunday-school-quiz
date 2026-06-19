@@ -1,0 +1,639 @@
+{
+  "quiz_title": "Bible Mastery Quiz",
+  "generated_at": "2026-06-16T03:15:17Z",
+  "weeks": [
+    {
+      "week_number": 40,
+      "topic": "RAHAB",
+      "questions": [
+        {
+          "id": "BW40Q1",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Take fast hold of instruction; let her not go: keep her; for she is thy life.'",
+          "options": [
+            "A. Proverbs 5:13",
+            "B. Proverbs 4:14",
+            "C. Proverbs 4:12",
+            "D. Proverbs 4:13"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Take fast hold of instruction; let her not go: keep her; for she is thy life.' is found in Proverbs 4:13.",
+          "source_section": "Proverbs 4:13"
+        },
+        {
+          "id": "BW40Q2",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Proverbs 4:13:\nTake _____ hold of _____; let her not go: keep her; for she is thy _____.",
+          "answer": "fast, instruction, life",
+          "keywords": [
+            "fast",
+            "instruction",
+            "life"
+          ],
+          "explanation": "The full text is: Take fast hold of instruction; let her not go: keep her; for she is thy life.",
+          "source_section": "Proverbs 4:13"
+        },
+        {
+          "id": "BW40Q3",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather'",
+          "options": [
+            "A. Joshua 3:18",
+            "B. Joshua 2:17",
+            "C. Joshua 2:18",
+            "D. Joshua 2:19"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather' is found in Joshua 2:18.",
+          "source_section": "Joshua 2:18"
+        },
+        {
+          "id": "BW40Q4",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:18:\nBehold, when we come into the land, thou shalt bind this _____ of _____ thread in the window _____ thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather",
+          "answer": "line, scarlet, which",
+          "keywords": [
+            "line",
+            "scarlet",
+            "which"
+          ],
+          "explanation": "The full text is: Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather",
+          "source_section": "Joshua 2:18"
+        },
+        {
+          "id": "BW40Q5",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.'",
+          "options": [
+            "A. Joshua 3:13",
+            "B. Joshua 2:13",
+            "C. Joshua 2:12",
+            "D. Joshua 2:14"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.' is found in Joshua 2:13.",
+          "source_section": "Joshua 2:13"
+        },
+        {
+          "id": "BW40Q6",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:13:\nAnd _____ ye will _____ alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from _____.",
+          "answer": "that, save, death",
+          "keywords": [
+            "that",
+            "save",
+            "death"
+          ],
+          "explanation": "The full text is: And that ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.",
+          "source_section": "Joshua 2:13"
+        },
+        {
+          "id": "BW40Q7",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.'",
+          "options": [
+            "A. Joshua 2:5",
+            "B. Joshua 2:7",
+            "C. Joshua 2:6",
+            "D. Joshua 3:6"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.' is found in Joshua 2:6.",
+          "source_section": "Joshua 2:6"
+        },
+        {
+          "id": "BW40Q8",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:6:\nBut she had _____ them up to the roof of the house, and hid them with the stalks of flax, which she had laid in _____ upon the _____.",
+          "answer": "brought, order, roof",
+          "keywords": [
+            "brought",
+            "order",
+            "roof"
+          ],
+          "explanation": "The full text is: But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.",
+          "source_section": "Joshua 2:6"
+        },
+        {
+          "id": "BW40Q9",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.'",
+          "options": [
+            "A. Joshua 2:11",
+            "B. Joshua 2:10",
+            "C. Joshua 2:9",
+            "D. Joshua 3:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.' is found in Joshua 2:10.",
+          "source_section": "Joshua 2:10"
+        },
+        {
+          "id": "BW40Q10",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:10:\nFor we have _____ how the LORD dried up the water of the Red sea for you, when ye came out of _____; and _____ ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
+          "answer": "heard, Egypt, what",
+          "keywords": [
+            "heard",
+            "Egypt",
+            "what"
+          ],
+          "explanation": "The full text is: For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed.",
+          "source_section": "Joshua 2:10"
+        },
+        {
+          "id": "BW40Q11",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.'",
+          "options": [
+            "A. Isaiah 1:18",
+            "B. Isaiah 1:17",
+            "C. Isaiah 1:19",
+            "D. Isaiah 2:18"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.' is found in Isaiah 1:18.",
+          "source_section": "Isaiah 1:18"
+        },
+        {
+          "id": "BW40Q12",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Isaiah 1:18:\nCome now, and let us reason together, saith the LORD: though your sins be as _____, they _____ be as white as snow; though they be red like crimson, they shall be as _____.",
+          "answer": "scarlet, shall, wool",
+          "keywords": [
+            "scarlet",
+            "shall",
+            "wool"
+          ],
+          "explanation": "The full text is: Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+          "source_section": "Isaiah 1:18"
+        },
+        {
+          "id": "BW40Q13",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.'",
+          "options": [
+            "A. Acts 16:32",
+            "B. Acts 16:31",
+            "C. Acts 16:30",
+            "D. Acts 17:31"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.' is found in Acts 16:31.",
+          "source_section": "Acts 16:31"
+        },
+        {
+          "id": "BW40Q14",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Acts 16:31:\nAnd they said, _____ on the _____ Jesus Christ, and thou shalt be saved, and thy _____.",
+          "answer": "Believe, Lord, house",
+          "keywords": [
+            "Believe",
+            "Lord",
+            "house"
+          ],
+          "explanation": "The full text is: And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
+          "source_section": "Acts 16:31"
+        },
+        {
+          "id": "BW40Q15",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;'",
+          "options": [
+            "A. Matthew 1:5",
+            "B. Matthew 2:5",
+            "C. Matthew 1:4",
+            "D. Matthew 1:6"
+          ],
+          "answer": "A",
+          "explanation": "The verse 'And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;' is found in Matthew 1:5.",
+          "source_section": "Matthew 1:5"
+        },
+        {
+          "id": "BW40Q16",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Matthew 1:5:\nAnd Salmon begat Booz of Rachab; and _____ begat Obed of _____; and Obed begat _____;",
+          "answer": "Booz, Ruth, Jesse",
+          "keywords": [
+            "Booz",
+            "Ruth",
+            "Jesse"
+          ],
+          "explanation": "The full text is: And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;",
+          "source_section": "Matthew 1:5"
+        },
+        {
+          "id": "BW40Q17",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.'",
+          "options": [
+            "A. Joshua 2:4",
+            "B. Joshua 2:6",
+            "C. Joshua 3:5",
+            "D. Joshua 2:5"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.' is found in Joshua 2:5.",
+          "source_section": "Joshua 2:5"
+        },
+        {
+          "id": "BW40Q18",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:5:\nAnd it came to pass about the time of shutting of the _____, when it was dark, that the men went out: whither the men went I wot not: pursue after _____ quickly; for ye _____ overtake them.",
+          "answer": "gate, them, shall",
+          "keywords": [
+            "gate",
+            "them",
+            "shall"
+          ],
+          "explanation": "The full text is: And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.",
+          "source_section": "Joshua 2:5"
+        },
+        {
+          "id": "BW40Q19",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? '(For we walk by faith, not by sight:)'",
+          "options": [
+            "A. 2 Corinthians 6:7",
+            "B. 2 Corinthians 5:6",
+            "C. 2 Corinthians 5:7",
+            "D. 2 Corinthians 5:8"
+          ],
+          "answer": "C",
+          "explanation": "The verse '(For we walk by faith, not by sight:)' is found in 2 Corinthians 5:7.",
+          "source_section": "2 Corinthians 5:7"
+        },
+        {
+          "id": "BW40Q20",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for 2 Corinthians 5:7:\n(For we _____ by _____, not by _____:)",
+          "answer": "walk, faith, sight",
+          "keywords": [
+            "walk",
+            "faith",
+            "sight"
+          ],
+          "explanation": "The full text is: (For we walk by faith, not by sight:)",
+          "source_section": "2 Corinthians 5:7"
+        },
+        {
+          "id": "BW40Q21",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot\u2019s house, named Rahab, and lodged there.2.1 sent: or, had sent2.1 lodged: Heb. lay'",
+          "options": [
+            "A. Joshua 3:1",
+            "B. Joshua 2:3",
+            "C. Joshua 2:1-6,12-13",
+            "D. Joshua 2:2"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot\u2019s house, named Rahab, and lodged there.2.1 sent: or, had sent2.1 lodged: Heb. lay' is found in Joshua 2:1-6,12-13.",
+          "source_section": "Joshua 2:1-6,12-13"
+        },
+        {
+          "id": "BW40Q22",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:1-6,12-13:\nAnd Joshua the son of Nun sent out of _____ two men to spy secretly, saying, Go view the _____, even Jericho. And they went, and came into an harlot\u2019s house, named Rahab, and _____ there.2.1 sent: or, had sent2.1 lodged: Heb. lay",
+          "answer": "Shittim, land, lodged",
+          "keywords": [
+            "Shittim",
+            "land",
+            "lodged"
+          ],
+          "explanation": "The full text is: And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot\u2019s house, named Rahab, and lodged there.2.1 sent: or, had sent2.1 lodged: Heb. lay",
+          "source_section": "Joshua 2:1-6,12-13"
+        },
+        {
+          "id": "BW40Q23",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.'",
+          "options": [
+            "A. Hebrews 11:32",
+            "B. Hebrews 11:31",
+            "C. Hebrews 12:31",
+            "D. Hebrews 11:30"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.' is found in Hebrews 11:31.",
+          "source_section": "Hebrews 11:31"
+        },
+        {
+          "id": "BW40Q24",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Hebrews 11:31:\nBy faith the _____ Rahab perished not with _____ that believed not, when she had received the _____ with peace.",
+          "answer": "harlot, them, spies",
+          "keywords": [
+            "harlot",
+            "them",
+            "spies"
+          ],
+          "explanation": "The full text is: By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.",
+          "source_section": "Hebrews 11:31"
+        },
+        {
+          "id": "BW40Q25",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.'",
+          "options": [
+            "A. Galatians 7:10",
+            "B. Galatians 6:11",
+            "C. Galatians 6:10",
+            "D. Galatians 6:9"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.' is found in Galatians 6:10.",
+          "source_section": "Galatians 6:10"
+        },
+        {
+          "id": "BW40Q26",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Galatians 6:10:\nAs we have _____ opportunity, let us do good _____ all men, _____ unto them who are of the household of faith.",
+          "answer": "therefore, unto, especially",
+          "keywords": [
+            "therefore",
+            "unto",
+            "especially"
+          ],
+          "explanation": "The full text is: As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.",
+          "source_section": "Galatians 6:10"
+        },
+        {
+          "id": "BW40Q27",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.2.9 faint: Heb. melt'",
+          "options": [
+            "A. Joshua 2:8",
+            "B. Joshua 2:10",
+            "C. Joshua 3:9",
+            "D. Joshua 2:9-10"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.2.9 faint: Heb. melt' is found in Joshua 2:9-10.",
+          "source_section": "Joshua 2:9-10"
+        },
+        {
+          "id": "BW40Q28",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:9-10:\nAnd she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen _____ us, and that all the inhabitants of the land faint _____ of you.2.9 _____: Heb. melt",
+          "answer": "upon, because, faint",
+          "keywords": [
+            "upon",
+            "because",
+            "faint"
+          ],
+          "explanation": "The full text is: And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.2.9 faint: Heb. melt",
+          "source_section": "Joshua 2:9-10"
+        },
+        {
+          "id": "BW40Q29",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.2.9 faint: Heb. melt'",
+          "options": [
+            "A. Joshua 2:8",
+            "B. Joshua 2:9-12",
+            "C. Joshua 3:9",
+            "D. Joshua 2:10"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.2.9 faint: Heb. melt' is found in Joshua 2:9-12.",
+          "source_section": "Joshua 2:9-12"
+        },
+        {
+          "id": "BW40Q30",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:9-12:\nAnd she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen _____ us, and that all the inhabitants of the _____ faint because of you.2.9 _____: Heb. melt",
+          "answer": "upon, land, faint",
+          "keywords": [
+            "upon",
+            "land",
+            "faint"
+          ],
+          "explanation": "The full text is: And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you.2.9 faint: Heb. melt",
+          "source_section": "Joshua 2:9-12"
+        },
+        {
+          "id": "BW40Q31",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?'",
+          "options": [
+            "A. James 2:24",
+            "B. James 2:26",
+            "C. James 3:25",
+            "D. James 2:25"
+          ],
+          "answer": "D",
+          "explanation": "The verse 'Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?' is found in James 2:25.",
+          "source_section": "James 2:25"
+        },
+        {
+          "id": "BW40Q32",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for James 2:25:\nLikewise _____ was not Rahab the _____ justified by _____, when she had received the messengers, and had sent them out another way?",
+          "answer": "also, harlot, works",
+          "keywords": [
+            "also",
+            "harlot",
+            "works"
+          ],
+          "explanation": "The full text is: Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?",
+          "source_section": "James 2:25"
+        },
+        {
+          "id": "BW40Q33",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather'",
+          "options": [
+            "A. Joshua 2:19",
+            "B. Joshua 3:18",
+            "C. Joshua 2:18-21",
+            "D. Joshua 2:17"
+          ],
+          "answer": "C",
+          "explanation": "The verse 'Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather' is found in Joshua 2:18-21.",
+          "source_section": "Joshua 2:18-21"
+        },
+        {
+          "id": "BW40Q34",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:18-21:\nBehold, when we come into the land, thou shalt _____ this line of scarlet thread in the window which thou didst let us down by: and thou _____ bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. _____",
+          "answer": "bind, shalt, gather",
+          "keywords": [
+            "bind",
+            "shalt",
+            "gather"
+          ],
+          "explanation": "The full text is: Behold, when we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father\u2019s household, home unto thee.2.18 bring: Heb. gather",
+          "source_section": "Joshua 2:18-21"
+        },
+        {
+          "id": "BW40Q35",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father\u2019s house, and give me a true token:'",
+          "options": [
+            "A. Joshua 2:11",
+            "B. Joshua 2:12-13",
+            "C. Joshua 2:13",
+            "D. Joshua 3:12"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father\u2019s house, and give me a true token:' is found in Joshua 2:12-13.",
+          "source_section": "Joshua 2:12-13"
+        },
+        {
+          "id": "BW40Q36",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 2:12-13:\nNow therefore, I pray you, swear unto me by the LORD, _____ I _____ shewed you _____, that ye will also shew kindness unto my father\u2019s house, and give me a true token:",
+          "answer": "since, have, kindness",
+          "keywords": [
+            "since",
+            "have",
+            "kindness"
+          ],
+          "explanation": "The full text is: Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father\u2019s house, and give me a true token:",
+          "source_section": "Joshua 2:12-13"
+        },
+        {
+          "id": "BW40Q37",
+          "week": 40,
+          "category": "bible_reference",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Where is this verse found? 'And Joshua saved Rahab the harlot alive, and her father\u2019s household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.'",
+          "options": [
+            "A. Joshua 6:26",
+            "B. Joshua 6:25",
+            "C. Joshua 7:25",
+            "D. Joshua 6:24"
+          ],
+          "answer": "B",
+          "explanation": "The verse 'And Joshua saved Rahab the harlot alive, and her father\u2019s household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.' is found in Joshua 6:25.",
+          "source_section": "Joshua 6:25"
+        },
+        {
+          "id": "BW40Q38",
+          "week": 40,
+          "category": "bible_memorization",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Fill in the blanks for Joshua 6:25:\nAnd Joshua saved Rahab the _____ alive, and her _____ household, and all that she had; and she dwelleth in Israel even unto this day; _____ she hid the messengers, which Joshua sent to spy out Jericho.",
+          "answer": "harlot, father\u2019s, because",
+          "keywords": [
+            "harlot",
+            "father\u2019s",
+            "because"
+          ],
+          "explanation": "The full text is: And Joshua saved Rahab the harlot alive, and her father\u2019s household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.",
+          "source_section": "Joshua 6:25"
+        }
+      ]
+    }
+  ]
+}

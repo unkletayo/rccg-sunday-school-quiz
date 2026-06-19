@@ -1,0 +1,484 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:37:00Z",
+  "weeks": [
+    {
+      "week_number": 35,
+      "topic": "PARENTING STYLES (PART 1)",
+      "memory_verse_reference": "Luke 15:12",
+      "questions": [
+        {
+          "id": "W35Q1",
+          "week": 35,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 35?",
+          "options": [
+            "A. AUTHORITARIAN AND AUTHORITATIVE",
+            "B. SOCIAL MEDIA ROMANCE",
+            "C. PARENTING STYLES (PART 1)",
+            "D. PERMISSIVE AND UNINVOLVED"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Thirty-Five is PARENTING STYLES (PART 1).",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W35Q2",
+          "week": 35,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 34?",
+          "options": [
+            "A. SOCIAL MEDIA ROMANCE",
+            "B. LIVE HEALTHY",
+            "C. PARENTING STYLES",
+            "D. DEFINE YOUR RELATIONSHIP"
+          ],
+          "answer": "A",
+          "explanation": "Social Media Romance was the topic for Week 34.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W35Q3",
+          "week": 35,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "And the younger of them said to his father, ‘Father, give me the portion of goods that falls to me.’ So he divided to them his ________.",
+          "options": [
+            "A. property",
+            "B. inheritance",
+            "C. wealth",
+            "D. livelihood"
+          ],
+          "answer": "D",
+          "explanation": "The memory verse (Luke 15:12) says 'So he divided to them his livelihood.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W35Q4",
+          "week": 35,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Luke 15:12",
+          "keywords": ["Luke", "15:12"],
+          "explanation": "The memory verse reference is Luke 15:12.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W35Q5",
+          "week": 35,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 35 in full (NKJV).",
+          "answer": "And the younger of them said to his father, ‘Father, give me the portion of goods that falls to me.’ So he divided to them his livelihood.",
+          "keywords": ["younger", "father", "give", "portion", "goods", "divided", "livelihood"],
+          "explanation": "Full text recall of Luke 15:12.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W35Q6",
+          "week": 35,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Luke 15:12), what did the younger son ask his father for?",
+          "options": [
+            "A. The best robe and a ring",
+            "B. The portion of goods that falls to him",
+            "C. To be made one of his hired servants",
+            "D. Ten pieces of silver"
+          ],
+          "answer": "B",
+          "explanation": "The verse says 'Father, give me the portion of goods that falls to me.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W35Q7",
+          "week": 35,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "In the introduction, 'responsiveness' is described as the extent to which parents are:",
+          "options": [
+            "A. Warm and sensitive to their children",
+            "B. Strict and demanding of obedience",
+            "C. Absent and neglectful",
+            "D. Willing to buy gifts"
+          ],
+          "answer": "A",
+          "explanation": "The text states '“responsiveness” (the extent to which parents are warm and sensitive to their children)'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W35Q8",
+          "week": 35,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How does the introduction define 'demandingness'?",
+          "options": [
+            "A. The extent to which parents are warm and sensitive",
+            "B. The extent of control parents put on their children",
+            "C. How much money parents make",
+            "D. The number of chores parents give"
+          ],
+          "answer": "B",
+          "explanation": "The text states '“demandingness” (the extent of control parents put on their children)'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W35Q9",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "PERMISSIVE AND UNINVOLVED",
+          "keywords": ["PERMISSIVE", "AND", "UNINVOLVED"],
+          "explanation": "Outline I is titled 'PERMISSIVE AND UNINVOLVED'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q10",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, permissive parents are high in responsiveness/love but low in what?",
+          "options": [
+            "A. Compassion",
+            "B. Demandingness/discipline",
+            "C. Creativity",
+            "D. Communication"
+          ],
+          "answer": "B",
+          "explanation": "The text states 'Permissive parents are high “responsiveness/love” but low in “demandingness/discipline.”'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q11",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which parenting style involves giving in to children's demands to make them happy and avoid conflicts, even at their own expense?",
+          "options": [
+            "A. Authoritarian",
+            "B. Authoritative",
+            "C. Permissive",
+            "D. Uninvolved"
+          ],
+          "answer": "C",
+          "explanation": "The text describes this under 'Permissive' parenting.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q12",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, what are some traits common under permissive parenting?",
+          "options": [
+            "A. Self-discipline and social competence",
+            "B. Delinquent behaviours and the inability to make the right decisions",
+            "C. Depression and aggression",
+            "D. Fear of becoming dependent on others"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'Delinquent behaviours and the inability to make the right decisions are traits common under permissive parenting.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q13",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Neglectful/Uninvolved parents are described as being:",
+          "options": [
+            "A. High in love, high in discipline",
+            "B. High in love, low in discipline",
+            "C. Low in love, high in discipline",
+            "D. Low in responsiveness/love and low in demandingness/discipline"
+          ],
+          "answer": "D",
+          "explanation": "The text says 'Neglectful/Uninvolved parents are low in “responsiveness/love” and low in “demandingness/discipline.”'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q14",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "AUTHORITARIAN AND AUTHORITATIVE",
+          "keywords": ["AUTHORITARIAN", "AND", "AUTHORITATIVE"],
+          "explanation": "Outline II is titled 'AUTHORITARIAN AND AUTHORITATIVE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q15",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, which parenting style is high in demandingness/discipline but low in responsiveness/love?",
+          "options": [
+            "A. Permissive",
+            "B. Uninvolved",
+            "C. Authoritarian",
+            "D. Authoritative"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Authoritarian parents are high in “demandingness/discipline” but low in “responsiveness/love.”'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q16",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Authoritarian parents use rigid parenting and harsh discipline, often justified as 'tough love'.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text says 'This rigid parenting style uses harsh discipline, justified as “tough love” (1 Samuel 20:30).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q17",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of these are common traits in children of authoritarian parents?",
+          "options": [
+            "A. Truancy and emotional withdrawal",
+            "B. High self-esteem and creativity",
+            "C. Low self-esteem, depression, aggression and poor social skills",
+            "D. Socially competent and can think for themselves"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Low self-esteem, depression, aggression and poor social skills are common traits in these children...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q18",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "How are authoritative parents described in terms of responsiveness and demandingness?",
+          "options": [
+            "A. Low love, high discipline",
+            "B. High love, low discipline",
+            "C. High love, high discipline",
+            "D. Low love, low discipline"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'Authoritative parents are high in “responsiveness/love” and high in “demandingness/discipline.”'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q19",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Children of authoritative parents tend to be self-disciplined, socially competent, and can think for themselves.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'Children who have authoritative parents tend to be self-disciplined, socially competent and can think for themselves...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q20",
+          "week": 35,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Now Eli was very old; and he heard everything his sons did to all Israel, and how they lay with the women who assembled at the door of the tabernacle of meeting.'",
+          "verse_text": "Now Eli was very old; and he heard everything his sons did to all Israel, and how they lay with the women who assembled at the door of the tabernacle of meeting.",
+          "options": [
+            "A. 1 Samuel 2:22",
+            "B. 1 Samuel 2:23",
+            "C. 1 Samuel 2:24",
+            "D. 1 Samuel 2:25"
+          ],
+          "answer": "A",
+          "explanation": "This is verse 22 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W35Q21",
+          "week": 35,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (1 Samuel 2:23), what did Eli say to his sons when he heard of their evil dealings?",
+          "options": [
+            "A. 'Why do you do such things?'",
+            "B. 'You are banished from the tabernacle.'",
+            "C. 'I will offer a sacrifice for you.'",
+            "D. 'You are no longer my sons.'"
+          ],
+          "answer": "A",
+          "explanation": "Verse 23 says 'So he said to them, “Why do you do such things? For I hear of your evil dealings from all the people.”'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W35Q22",
+          "week": 35,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Samuel 2:24, what did Eli say his sons were making the Lord's people do?",
+          "options": [
+            "A. Worship idols",
+            "B. Transgress",
+            "C. Rebel against the king",
+            "D. Stop giving offerings"
+          ],
+          "answer": "B",
+          "explanation": "Verse 24 says 'You make the Lord’s people transgress.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W35Q23",
+          "week": 35,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In 1 Samuel 2:25, Eli asks, 'But if a man sins against the Lord, who will ________ for him?'",
+          "options": [
+            "A. sacrifice",
+            "B. pay",
+            "C. intercede",
+            "D. mourn"
+          ],
+          "answer": "C",
+          "explanation": "Verse 25 says 'who will intercede for him?'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W35Q24",
+          "week": 35,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to 1 Samuel 2:25, why did Eli's sons not heed the voice of their father?",
+          "options": [
+            "A. Because they were drunk",
+            "B. Because the Lord desired to kill them",
+            "C. Because they were older than him",
+            "D. Because they were deaf"
+          ],
+          "answer": "B",
+          "explanation": "Verse 25 says 'Nevertheless they did not heed the voice of their father, because the Lord desired to kill them.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W35Q25",
+          "week": 35,
+          "category": "bible_verse_meaning",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "According to 1 Samuel 2:29, God rebuked Eli asking why he honored his sons more than whom?",
+          "options": [
+            "A. The king",
+            "B. The high priest",
+            "C. Me (God)",
+            "D. The prophets"
+          ],
+          "answer": "C",
+          "explanation": "Verse 29 says 'and honor your sons more than Me...'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W35Q26",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding permissive parents who give in to demands to make their children happy and avoid conflicts (like a father giving inheritance early)?",
+          "options": [
+            "A. 1 Samuel 3:13",
+            "B. Luke 15:12",
+            "C. 1 Kings 1:5-6",
+            "D. Proverbs 29:15"
+          ],
+          "answer": "B",
+          "explanation": "The text cites '(Luke 15:12)' regarding giving in to demands.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q27",
+          "week": 35,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Permissive parenting has the potential to increase self-esteem and creativity in children.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'However, it has the potential to increase self-esteem and creativity in children.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W35Q28",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "In an attempt to be in control, ________ parents often talk to their children without expecting feedback.",
+          "options": [
+            "A. authoritative",
+            "B. permissive",
+            "C. authoritarian",
+            "D. neglectful"
+          ],
+          "answer": "C",
+          "explanation": "Outline II says 'authoritarian parents often talk to their children without expecting feedback.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q29",
+          "week": 35,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which biblical characters are given as examples of children who had authoritative parents (self-disciplined, socially competent)?",
+          "options": [
+            "A. Cain and Abel",
+            "B. Mordecai and Esther, Naomi and Ruth",
+            "C. Hophni and Phinehas",
+            "D. Absalom and Amnon"
+          ],
+          "answer": "B",
+          "explanation": "Outline II says '(e.g. Mordecai and Esther, Naomi and Ruth)'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W35Q30",
+          "week": 35,
+          "category": "conclusion",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the conclusion, your parenting style will greatly affect your children's lives.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states 'Understand that your parenting style will greatly affect your children’s lives.'",
+          "source_section": "Conclusion"
+        }
+      ]
+    }
+  ]
+}

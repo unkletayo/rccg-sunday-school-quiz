@@ -1,0 +1,479 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-16T00:35:00Z",
+  "weeks": [
+    {
+      "week_number": 33,
+      "topic": "DEFINE YOUR RELATIONSHIP",
+      "memory_verse_reference": "Amos 3:3",
+      "questions": [
+        {
+          "id": "W33Q1",
+          "week": 33,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 33?",
+          "options": [
+            "A. LIVE HEALTHY",
+            "B. POINTERS OF A HEALTHY RELATIONSHIP",
+            "C. DEFINE YOUR RELATIONSHIP",
+            "D. BE INTENTIONAL"
+          ],
+          "answer": "C",
+          "explanation": "The topic explicitly listed for Lesson Thirty-Three is DEFINE YOUR RELATIONSHIP.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W33Q2",
+          "week": 33,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 32?",
+          "options": [
+            "A. LIVE HEALTHY",
+            "B. SELF-WORTH",
+            "C. DEFINE YOUR RELATIONSHIP",
+            "D. CRISIS MANAGEMENT"
+          ],
+          "answer": "A",
+          "explanation": "Live Healthy was the topic for Week 32.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W33Q3",
+          "week": 33,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Can two walk together, unless they are ________?",
+          "options": [
+            "A. friends",
+            "B. married",
+            "C. agreed",
+            "D. one"
+          ],
+          "answer": "C",
+          "explanation": "The memory verse (Amos 3:3) asks 'Can two walk together, unless they are agreed?'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W33Q4",
+          "week": 33,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Amos 3:3",
+          "keywords": ["Amos", "3:3"],
+          "explanation": "The memory verse reference is Amos 3:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W33Q5",
+          "week": 33,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 33 in full (NKJV).",
+          "answer": "Can two walk together, unless they are agreed?",
+          "keywords": ["walk", "together", "unless", "agreed"],
+          "explanation": "Full text recall of Amos 3:3.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W33Q6",
+          "week": 33,
+          "category": "introduction",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "According to the introduction, a normal intentional premarital relationship must have marriage as a destination.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'A normal and correct intentional premarital relationship/courtship... must have marriage as a destination.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W33Q7",
+          "week": 33,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, why are there lots of breakups in premarital relationships?",
+          "options": [
+            "A. Because people don't have enough money",
+            "B. Because many of the relationships were accidental",
+            "C. Because people are too young",
+            "D. Because they listen to bad advice"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'There are lots of breakups in premarital relationships because many of the relationships were accidental.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W33Q8",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "POINTERS OF A HEALTHY RELATIONSHIP",
+          "keywords": ["POINTERS", "OF", "A", "HEALTHY", "RELATIONSHIP"],
+          "explanation": "Outline I is titled 'POINTERS OF A HEALTHY RELATIONSHIP'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q9",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline I, if someone shows care, like visiting you or supporting you financially, does it automatically mean you are in a courtship?",
+          "options": [
+            "A. Yes, definitely",
+            "B. Only if they are a believer",
+            "C. No, it does not mean you are in a courtship",
+            "D. Yes, if they give you money"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Just because someone shows care, like visiting you or supporting you financially, does not mean you are in a courtship (Proverbs 23:7).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q10",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What should you do if you are unsure of someone's intentions in a relationship?",
+          "options": [
+            "A. Ignore them",
+            "B. Assume they want to marry you",
+            "C. Always ask questions",
+            "D. Tell your parents"
+          ],
+          "answer": "C",
+          "explanation": "The text advises: 'Always ask questions if you are unsure of someone’s intentions.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q11",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does Outline I say about assuming you are engaged?",
+          "options": [
+            "A. Assume you are engaged if they buy you a ring",
+            "B. Assume you are engaged if you hold hands",
+            "C. Never assume you are engaged unless there has been a formal proposal and mutual consent",
+            "D. Assume you are engaged if you go to the same church"
+          ],
+          "answer": "C",
+          "explanation": "Point 3 states 'Never assume you are engaged unless there has been a formal proposal and mutual consent (Genesis 24:48-51, 57-58).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q12",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What is described as a 'key sign' of a well-defined relationship where there is no fear of the unknown?",
+          "options": [
+            "A. Wealth",
+            "B. Peace",
+            "C. Excitement",
+            "D. Jealousy"
+          ],
+          "answer": "B",
+          "explanation": "Point 6 says 'Peace: Peace is a key sign of a well-defined relationship. There should be no fear of the unknown or unnecessary suspense.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q13",
+          "week": 33,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding accountability and open communication in a relationship?",
+          "options": [
+            "A. Proverbs 10:9",
+            "B. Proverbs 26:1",
+            "C. Proverbs 29:18a",
+            "D. 1 John 4:18"
+          ],
+          "answer": "A",
+          "explanation": "Point 5 on Accountability cites '(Proverbs 10:9)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q14",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "BE INTENTIONAL",
+          "keywords": ["BE", "INTENTIONAL"],
+          "explanation": "Outline II is titled 'BE INTENTIONAL'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q15",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what does it mean to be deliberate in a relationship?",
+          "options": [
+            "A. To keep your options open",
+            "B. To set clear timelines and goals",
+            "C. To wait for the other person to decide everything",
+            "D. To date for at least five years"
+          ],
+          "answer": "B",
+          "explanation": "The text says 'To be deliberate in a relationship is to set clear timelines and goals...'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q16",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, a well-defined relationship must have a take-off point and a landing point.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The text states 'A well-defined relationship must have a take-off point and a landing point (Genesis 24:51).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q17",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the lesson say the would-be couples must abstain from since they are not legally married?",
+          "options": [
+            "A. Praying together",
+            "B. Calling each other",
+            "C. Premarital sex and other sexual vices",
+            "D. Eating together"
+          ],
+          "answer": "C",
+          "explanation": "The text states 'Since the two parties are not legally married, they must abstain from premarital sex and other sexual vices (Hebrews 13:4).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q18",
+          "week": 33,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which biblical figure is given as an example of standing firm and persevering until he married?",
+          "options": [
+            "A. Abraham",
+            "B. Isaac",
+            "C. Jacob",
+            "D. David"
+          ],
+          "answer": "C",
+          "explanation": "The text says 'A clear-cut relationship stands firm even when challenges arise just as Jacob persevered until he married Rachel (Genesis 29:20-28; Proverbs 12:3).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q19",
+          "week": 33,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "true_false",
+          "question": "The conclusion advises you not to leave your relationship to chance, but to define it and have a direction.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "The conclusion explicitly states 'Do not leave your relationship to chance, define it and have a direction for where you are heading.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W33Q20",
+          "week": 33,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Now Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel.'",
+          "verse_text": "Now Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel.",
+          "options": [
+            "A. Genesis 29:15",
+            "B. Genesis 29:16",
+            "C. Genesis 29:17",
+            "D. Genesis 29:18"
+          ],
+          "answer": "B",
+          "explanation": "This is verse 16 from the main Bible Passage.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W33Q21",
+          "week": 33,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the Bible Passage (Genesis 29:15), what did Laban ask Jacob regarding his service?",
+          "options": [
+            "A. 'How long will you stay?'",
+            "B. 'What should your wages be?'",
+            "C. 'Why did you leave your father?'",
+            "D. 'Will you marry my daughter?'"
+          ],
+          "answer": "B",
+          "explanation": "Verse 15 says 'Because you are my relative, should you therefore serve me for nothing? Tell me, what should your wages be?'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W33Q22",
+          "week": 33,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In Genesis 29:17, how are Leah and Rachel described?",
+          "options": [
+            "A. Both were beautiful",
+            "B. Leah had delicate eyes, but Rachel was beautiful of form and appearance",
+            "C. Leah was tall, Rachel was short",
+            "D. Leah was strong, Rachel was weak"
+          ],
+          "answer": "B",
+          "explanation": "Verse 17 says 'Leah’s eyes were delicate, but Rachel was beautiful of form and appearance.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W33Q23",
+          "week": 33,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Genesis 29:18, what did Jacob offer to do to marry Rachel?",
+          "options": [
+            "A. Pay Laban 100 shekels of silver",
+            "B. Serve Laban for seven years",
+            "C. Give Laban ten flocks of sheep",
+            "D. Defeat Laban's enemies"
+          ],
+          "answer": "B",
+          "explanation": "Verse 18 says 'I will serve you seven years for Rachel your younger daughter.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W33Q24",
+          "week": 33,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Genesis 29:20, how did the seven years seem to Jacob?",
+          "options": [
+            "A. Like an eternity",
+            "B. Like only a few days",
+            "C. Like ten years",
+            "D. Like a heavy burden"
+          ],
+          "answer": "B",
+          "explanation": "Verse 20 says 'and they seemed only a few days to him because of the love he had for her.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W33Q25",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited regarding not wandering aimlessly and ensuring a relationship has a clear path with well-defined stages?",
+          "options": [
+            "A. Proverbs 29:18a; 1 Corinthians 14:40",
+            "B. Proverbs 26:1",
+            "C. 1 John 4:18",
+            "D. Proverbs 10:9"
+          ],
+          "answer": "A",
+          "explanation": "Point 4 (Direction) cites '(Proverbs 29:18a; 1 Corinthians 14:40)'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q26",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "The relationship must be established and driven by a good and realistic ________.",
+          "options": [
+            "A. vision",
+            "B. contract",
+            "C. dream",
+            "D. feeling"
+          ],
+          "answer": "A",
+          "explanation": "Outline II says 'The relationship must be established and driven by a good and realistic vision (Proverbs 29:18).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q27",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Shared interests or working together automatically equates to compatibility for marriage.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Outline I explicitly states 'Shared interests or working together does not automatically equate to compatibility for marriage.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W33Q28",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Truthfulness must be intentionally exhibited by the two parties in the relationship.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II concludes 'Truthfulness must be intentionally exhibited by the two parties in the relationship.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q29",
+          "week": 33,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What must be set during courtship to guide the would-be couples on the 'dos and don'ts' of the relationship?",
+          "options": [
+            "A. Financial goals",
+            "B. Necessary boundaries",
+            "C. Wedding dates",
+            "D. Friendships"
+          ],
+          "answer": "B",
+          "explanation": "Outline II states 'Necessary boundaries must be set during the courtship to guide the would-be couples on the ‘dos and don’ts’ of the relationship.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W33Q30",
+          "week": 33,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "A formal proposal does not need to be extravagant; what matters is that it is:",
+          "options": [
+            "A. Recorded on video",
+            "B. Clear and agreed upon by both parties",
+            "C. Done in front of the whole church",
+            "D. Approved by friends first"
+          ],
+          "answer": "B",
+          "explanation": "Point 3 says 'The proposal does not need to be extravagant; what matters is that it is clear and agreed upon by both parties.'",
+          "source_section": "Outline I"
+        }
+      ]
+    }
+  ]
+}
