@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Secrets / env
+.env
+*.env
+
+# Generated cache
+scripts/bible_api_cache.json
