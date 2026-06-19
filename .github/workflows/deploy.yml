@@ -1,0 +1,18 @@
+name: Deploy to Surge.sh
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Surge
+        run: npm install -g surge
+
+      - name: Deploy to ssquiz.surge.sh
+        run: surge . ssquiz.surge.sh --token ${{ secrets.SURGE_TOKEN }}
