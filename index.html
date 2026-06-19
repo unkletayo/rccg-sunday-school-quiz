@@ -41,6 +41,11 @@
                         <button class="mode-btn" data-mode="bible">Bible Mastery</button>
                         <button class="mode-btn" data-mode="topics">Topics Mastery</button>
                         <button class="mode-btn" data-mode="memory">Memory Verses</button>
+                        <button class="mode-btn" data-mode="mix">Mix Mode</button>
+                    </div>
+
+                    <div class="quiz-options-bar">
+                        <button id="timer-toggle" class="option-toggle">⏱ Timer: Off</button>
                     </div>
 
                     <div class="search-container">
@@ -65,6 +70,10 @@
                         <span id="question-counter">Question 1 of 10</span>
                         <span id="live-score" class="live-score">0 correct</span>
                         <span id="difficulty-badge" class="week-badge">Medium</span>
+                    </div>
+                    <div id="timer-bar-container" class="timer-bar-container hidden">
+                        <div id="timer-bar" class="timer-bar-fill"></div>
+                        <span id="timer-count" class="timer-count">30</span>
                     </div>
                     <h2 id="quiz-title">Quiz Title</h2>
                 </div>
@@ -94,12 +103,39 @@
                     <p id="result-message" style="margin-bottom: 2rem;">Great job!</p>
                     <div class="result-actions">
                         <button id="try-again-btn" class="btn">Try Again</button>
+                        <button id="review-btn" class="btn">Review Answers</button>
+                        <button id="share-btn" class="btn">Share</button>
                         <button id="return-home-btn" class="btn primary-btn">Return to Menu</button>
                     </div>
                 </div>
             </section>
+            <!-- Review Screen -->
+            <section id="review-screen" class="screen hidden">
+                <div class="review-header">
+                    <h2>Question Review</h2>
+                    <button id="review-back-btn" class="btn">← Back to Results</button>
+                </div>
+                <div id="review-list" class="review-list"></div>
+            </section>
         </main>
     </div>
+
+    <!-- Question count modal -->
+    <div id="count-modal" class="modal-overlay hidden">
+        <div class="modal-card">
+            <h3>How many questions?</h3>
+            <div class="count-options">
+                <button class="count-btn" data-count="5">5</button>
+                <button class="count-btn" data-count="10">10</button>
+                <button class="count-btn" data-count="20">20</button>
+                <button class="count-btn" data-count="all">All</button>
+            </div>
+            <button id="count-cancel" class="btn">Cancel</button>
+        </div>
+    </div>
+
+    <!-- Confetti canvas -->
+    <canvas id="confetti-canvas" class="confetti-canvas hidden"></canvas>
 
     <script src="app.js"></script>
 </body>

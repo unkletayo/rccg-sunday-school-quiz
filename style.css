@@ -612,3 +612,208 @@ p {
         grid-template-columns: 1fr;
     }
 }
+
+/* ---- Quiz Options Bar ---- */
+.quiz-options-bar {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.option-toggle {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    padding: 0.3rem 0.65rem;
+    border-radius: var(--radius);
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.15s;
+}
+
+.option-toggle:hover { background: var(--hover-bg); color: var(--text-main); }
+.option-toggle.active { background: #fff3cd; color: #856404; border-color: #ffc107; }
+
+/* ---- Timer Bar ---- */
+.timer-bar-container {
+    position: relative;
+    height: 6px;
+    background: var(--hover-bg);
+    border-radius: 3px;
+    margin-bottom: 0.75rem;
+    overflow: visible;
+}
+
+.timer-bar-fill {
+    height: 100%;
+    background: var(--primary);
+    border-radius: 3px;
+    transition: width 1s linear, background 0.3s;
+    width: 100%;
+}
+
+.timer-bar-fill.timer-warning { background: #e74c3c; }
+
+.timer-count {
+    position: absolute;
+    right: 0;
+    top: -18px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--text-muted);
+}
+
+/* ---- Difficulty Badge Colors ---- */
+.week-badge.easy, .week-badge.Easy { background: var(--badge-bg-green); color: var(--badge-text-green); }
+.week-badge.medium, .week-badge.Medium { background: var(--badge-bg-blue); color: var(--badge-text-blue); }
+.week-badge.hard, .week-badge.Hard { background: #fae8e0; color: #863d2a; }
+
+/* ---- Card Top (badge + completion) ---- */
+.card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.card-top .week-badge { margin-bottom: 0; }
+
+.completion-badge {
+    font-size: 0.75rem;
+    font-weight: 700;
+    background: var(--badge-bg-green);
+    color: var(--badge-text-green);
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+}
+
+/* ---- Score Dots ---- */
+.score-dots {
+    display: flex;
+    gap: 4px;
+    margin-top: 0.5rem;
+}
+
+.score-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot-good { background: #4caf50; }
+.dot-ok   { background: #ff9800; }
+.dot-bad  { background: #e74c3c; }
+
+/* ---- Count Modal ---- */
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.modal-card {
+    background: white;
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    max-width: 340px;
+    width: 100%;
+}
+
+.modal-card h3 { margin-bottom: 1.25rem; }
+
+.count-options {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.count-btn {
+    padding: 0.6rem 1.1rem;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    background: white;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    min-width: 56px;
+}
+
+.count-btn:hover { background: var(--primary); color: white; border-color: var(--primary); }
+
+/* ---- Review Screen ---- */
+.review-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.review-header h2 { margin-bottom: 0; }
+
+.review-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding-bottom: 2rem;
+}
+
+.review-item {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: 0.875rem 1rem;
+    font-size: 0.9rem;
+}
+
+.review-item.review-correct { border-left: 3px solid #4caf50; }
+.review-item.review-wrong   { border-left: 3px solid #e74c3c; }
+
+.review-item-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.review-num { font-weight: 700; color: var(--text-muted); font-size: 0.78rem; }
+
+.review-verdict {
+    font-size: 0.78rem;
+    font-weight: 700;
+}
+
+.review-item.review-correct .review-verdict { color: #2e7d32; }
+.review-item.review-wrong   .review-verdict { color: #c62828; }
+
+.review-question { font-weight: 600; color: var(--text-main); margin-bottom: 0.4rem; }
+
+.review-your-answer { color: #c62828; margin-bottom: 0.2rem; }
+.review-correct-answer { color: #2e7d32; margin-bottom: 0.4rem; }
+.review-explanation { color: var(--text-muted); font-size: 0.85rem; font-style: italic; }
+
+/* ---- Confetti Canvas ---- */
+.confetti-canvas {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9999;
+}
+
+@media (max-width: 600px) {
+    .count-btn { min-width: 48px; padding: 0.5rem 0.9rem; }
+    .review-header { flex-direction: column; align-items: flex-start; }
+}
