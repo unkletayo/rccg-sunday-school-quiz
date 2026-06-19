@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Sunday School Quiz</title>
+    <!-- Notion uses a specific system font stack, but Inter is close enough for the web if we want it. We'll stick to the system font stack specified in CSS for true Notion feel, but let's just keep this tag just in case we need it later -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header>
+            <div class="logo">Sunday School Quiz</div>
+            <button id="back-to-menu-btn" class="hidden btn">Back to Menu</button>
+        </header>
+
+        <!-- Main Content -->
+        <main>
+            <!-- Menu Screen -->
+            <section id="menu-screen" class="screen active">
+                <div class="hero-section">
+                    <h1>Test Your Knowledge</h1>
+                    <p>Select a week's lesson to start your quiz or try a Mastery mode.</p>
+                </div>
+                
+                <div class="controls-section">
+                    <div class="mode-selector" id="mode-selector">
+                        <button class="mode-btn active" data-mode="general">General Quiz</button>
+                        <button class="mode-btn" data-mode="bible">Bible Mastery</button>
+                        <button class="mode-btn" data-mode="topics">Topics Mastery</button>
+                        <button class="mode-btn" data-mode="memory">Memory Verses</button>
+                    </div>
+                    
+                    <div class="search-container">
+                        <input type="text" id="search-input" class="search-input" placeholder="Search by topic or week...">
+                        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                    </div>
+                </div>
+
+                <div id="quiz-list" class="quiz-grid">
+                    <!-- Quizzes will be loaded here -->
+                </div>
+            </section>
+
+            <!-- Quiz Screen -->
+            <section id="quiz-screen" class="screen hidden">
+                <div class="quiz-header">
+                    <div class="progress-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+                    <div class="quiz-meta">
+                        <span id="question-counter">Question 1 of 10</span>
+                        <span id="difficulty-badge" class="week-badge">Medium</span>
+                    </div>
+                    <h2 id="quiz-title">Quiz Title</h2>
+                </div>
+
+                <div class="question-container">
+                    <h3 class="question-text" id="question-text">Question text goes here?</h3>
+                    <div class="options-grid" id="options-container">
+                        <!-- Options loaded dynamically -->
+                    </div>
+                </div>
+
+                <div id="feedback-container" class="feedback-panel hidden">
+                    <h4 id="feedback-title">Correct!</h4>
+                    <p id="feedback-explanation">Explanation goes here.</p>
+                </div>
+
+                <div class="quiz-actions">
+                    <button id="next-btn" class="btn primary-btn" disabled>Next Question</button>
+                </div>
+            </section>
+
+            <!-- Result Screen -->
+            <section id="result-screen" class="screen hidden">
+                <div class="result-card">
+                    <h2>Quiz Completed!</h2>
+                    <div class="final-score" id="final-score">8/10</div>
+                    <p id="result-message" style="margin-bottom: 2rem;">Great job!</p>
+                    <button id="return-home-btn" class="btn primary-btn">Return to Menu</button>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
