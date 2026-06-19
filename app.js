@@ -429,7 +429,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function startQuiz(quizData) {
-        currentQuizData = quizData;
+        currentQuizData = { ...quizData, questions: shuffleArray(quizData.questions) };
         currentQuestionIndex = 0;
         score = 0;
         setUrl(currentMode, currentFile);
