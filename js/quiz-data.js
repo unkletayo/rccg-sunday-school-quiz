@@ -42,7 +42,8 @@ export async function buildMixQuiz(count) {
                 loadQuestionsFromIndex('quiz_index.json', 'questions/'),
                 loadQuestionsFromIndex('bible_quiz_index.json', 'bible_questions/'),
             ]);
-            state.allMixQuestions = [...general, ...bible];
+            state.allMixQuestions = [...general, ...bible]
+                .filter(q => !q.question.startsWith('Type out the memory verse'));
         }
         const n = count === Infinity ? state.allMixQuestions.length : count;
         const picked = shuffleArray(state.allMixQuestions).slice(0, n);
