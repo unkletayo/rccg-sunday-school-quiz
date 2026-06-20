@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Proverbs 16:9",
-          "keywords": ["Proverbs", "16:9"],
+          "keywords": [
+            "Proverbs",
+            "16:9"
+          ],
           "explanation": "The memory verse reference is Proverbs 16:9.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 19 in full (NKJV).",
           "answer": "A man’s heart plans his way, But the LORD directs his steps.",
-          "keywords": ["man's", "heart", "plans", "way", "LORD", "directs", "steps"],
+          "keywords": [
+            "man's",
+            "heart",
+            "plans",
+            "way",
+            "LORD",
+            "directs",
+            "steps"
+          ],
           "explanation": "Full text recall of Proverbs 16:9.",
           "source_section": "Memory Verse"
         },
@@ -141,7 +152,12 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "FACTORS AFFECTING EFFECTIVE PLANNING",
-          "keywords": ["FACTORS", "AFFECTING", "EFFECTIVE", "PLANNING"],
+          "keywords": [
+            "FACTORS",
+            "AFFECTING",
+            "EFFECTIVE",
+            "PLANNING"
+          ],
           "explanation": "Outline I is titled 'FACTORS AFFECTING EFFECTIVE PLANNING'.",
           "source_section": "Outline I"
         },
@@ -168,7 +184,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What happens to plans without vision according to the lesson?",
+          "question": "What happens to plans without vision according to the Week 19 lesson?",
           "options": [
             "A. They succeed anyway",
             "B. They take twice as long",
@@ -186,7 +202,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Without specific and measurable goals, planning becomes vague and unproductive.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 2 states exactly this: 'Without specific and measurable goals, planning becomes vague and unproductive.'",
           "source_section": "Outline I"
@@ -250,7 +269,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "BENEFITS OF EFFECTIVE PLANNING",
-          "keywords": ["BENEFITS", "OF", "EFFECTIVE", "PLANNING"],
+          "keywords": [
+            "BENEFITS",
+            "OF",
+            "EFFECTIVE",
+            "PLANNING"
+          ],
           "explanation": "Outline II is titled 'BENEFITS OF EFFECTIVE PLANNING'.",
           "source_section": "Outline II"
         },
@@ -260,7 +284,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How does effective planning relieve stress according to the lesson?",
+          "question": "How does effective planning relieve stress according to the Week 19 lesson?",
           "options": [
             "A. It gives you more money to solve problems",
             "B. It forces others to do the work for you",
@@ -278,7 +302,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Effective planning minimizes distractions and maximizes output.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 3 states 'With priorities and steps defined, distractions are minimised and output is maximized.'",
           "source_section": "Outline II"
@@ -306,7 +333,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, planning allows you to achieve results worthy of what?",
+          "question": "According to the Week 19 lesson, planning allows you to achieve results worthy of what?",
           "options": [
             "A. Envy",
             "B. Wealth",
@@ -323,8 +350,11 @@
           "category": "conclusion",
           "difficulty": "easy",
           "type": "true_false",
-          "question": "The conclusion of the lesson states that effective planning will help you reach your desired goal.",
-          "options": ["True", "False"],
+          "question": "The conclusion of the Week 19 lesson states that effective planning will help you reach your desired goal.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states: 'Effective planning will help you to reach your desired goal.'",
           "source_section": "Conclusion"
@@ -439,7 +469,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Trusting in God to guide your efforts and provide resources is part of the 'Faith' factor in effective planning.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 says 'Faith: It plays a significant role in planning... Trust in God to guide your efforts and provide the resources needed...'",
           "source_section": "Outline I"
@@ -502,7 +535,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Beginning the day late has no effect on planning, as long as you eventually do the work.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Point 4 says 'A late start or procrastination often results in inefficiency and missed opportunities.'",
           "source_section": "Outline I"
@@ -548,7 +584,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Effective planning involves not only managing time but also strategically allocating resources.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The introduction states 'as it involves not only managing time but also strategically allocating resources...'",
           "source_section": "Introduction"

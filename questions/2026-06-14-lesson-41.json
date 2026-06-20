@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Exodus 18:21",
-          "keywords": ["Exodus", "18:21"],
+          "keywords": [
+            "Exodus",
+            "18:21"
+          ],
           "explanation": "The memory verse reference is Exodus 18:21.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,17 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 41 in full (NKJV).",
           "answer": "Moreover you shall select from all the people able men, such as fear God, men of truth, hating covetousness; and place such over them to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
-          "keywords": ["able", "fear God", "truth", "covetousness", "rulers", "thousands", "hundreds", "fifties", "tens"],
+          "keywords": [
+            "able",
+            "fear God",
+            "truth",
+            "covetousness",
+            "rulers",
+            "thousands",
+            "hundreds",
+            "fifties",
+            "tens"
+          ],
           "explanation": "Full text recall of Exodus 18:21 (NKJV).",
           "source_section": "Memory Verse"
         },
@@ -124,7 +137,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "TRAITS OF STRATEGIC LEADERS",
-          "keywords": ["TRAITS", "STRATEGIC", "LEADERS"],
+          "keywords": [
+            "TRAITS",
+            "STRATEGIC",
+            "LEADERS"
+          ],
           "explanation": "Outline I is titled 'TRAITS OF STRATEGIC LEADERS'.",
           "source_section": "Outline I"
         },
@@ -134,7 +151,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What does the trait 'Allegiance To The Group's Vision' mean for strategic leaders, according to the lesson?",
+          "question": "What does the trait 'Allegiance To The Group's Vision' mean for strategic leaders, according to the Week 41 lesson?",
           "options": [
             "A. They enforce the leader's personal agenda above the group",
             "B. They are completely devoted to the group's vision, see the big picture, and map out strategies for its fulfilment",
@@ -169,7 +186,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "'Cautious Use Of Power' means strategic leaders oppress their subordinates and rule them with fear.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Outline I states 'As leaders, they do not oppress their subordinates. They lead with the fear of God (Ephesians 6:9).'",
           "source_section": "Outline I"
@@ -180,7 +200,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "The trait 'Delegation' in strategic leaders involves what specific purpose, according to the lesson?",
+          "question": "The trait 'Delegation' in strategic leaders involves what specific purpose, according to the Week 41 lesson?",
           "options": [
             "A. Keeping all authority to themselves to avoid errors",
             "B. Giving assignments and transferring power to subordinates and deliberately raising future leaders",
@@ -199,7 +219,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "WAYS TO BE ONE",
-          "keywords": ["WAYS", "TO", "BE", "ONE"],
+          "keywords": [
+            "WAYS",
+            "TO",
+            "BE",
+            "ONE"
+          ],
           "explanation": "Outline II is titled 'WAYS TO BE ONE'.",
           "source_section": "Outline II"
         },
@@ -226,8 +251,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, it takes humility to lead strategically (Proverbs 22:4).",
-          "options": ["True", "False"],
+          "question": "According to the Week 41 lesson, it takes humility to lead strategically (Proverbs 22:4).",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II concludes 'It takes humility to lead strategically (Proverbs 22:4).'",
           "source_section": "Outline II"
@@ -272,8 +300,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, a strategic leader should recognise and seize opportunities all the time (Numbers 13:30).",
-          "options": ["True", "False"],
+          "question": "According to the Week 41 lesson, a strategic leader should recognise and seize opportunities all the time (Numbers 13:30).",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II states 'Recognise and seize opportunities all the time (Numbers 13:30).'",
           "source_section": "Outline II"
@@ -352,7 +383,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "The trait 'Empathy' in strategic leaders means what, according to the lesson?",
+          "question": "The trait 'Empathy' in strategic leaders means what, according to the Week 41 lesson?",
           "options": [
             "A. Imposing strict rules without exception to maintain discipline",
             "B. Leading with compassion, recognising that leaders are also humans with strengths and weaknesses",
@@ -420,8 +451,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "Being creative and confident to bring new initiatives is linked in the lesson to being sensitive to change (2 Chronicles 26:10, 14-15).",
-          "options": ["True", "False"],
+          "question": "Being creative and confident to bring new initiatives is linked in the Week 41 lesson to being sensitive to change (2 Chronicles 26:10, 14-15).",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II states 'Always be creative and confident to bring new initiatives to the company (2 Chronicles 26:10, 14-15)' in the same sentence about being sensitive to change.",
           "source_section": "Outline II"

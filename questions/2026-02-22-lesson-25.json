@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "James 3:2",
-          "keywords": ["James", "3:2"],
+          "keywords": [
+            "James",
+            "3:2"
+          ],
           "explanation": "The memory verse reference is James 3:2.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 25 in full (NKJV).",
           "answer": "For we all stumble in many things. If anyone does not stumble in word, he is a perfect man, able also to bridle the whole body.",
-          "keywords": ["stumble", "word", "perfect", "man", "bridle", "whole", "body"],
+          "keywords": [
+            "stumble",
+            "word",
+            "perfect",
+            "man",
+            "bridle",
+            "whole",
+            "body"
+          ],
           "explanation": "Full text recall of James 3:2.",
           "source_section": "Memory Verse"
         },
@@ -141,7 +152,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE FOOL'S MOUTH",
-          "keywords": ["THE", "FOOL'S", "MOUTH"],
+          "keywords": [
+            "THE",
+            "FOOL'S",
+            "MOUTH"
+          ],
           "explanation": "Outline I is titled 'THE FOOL’S MOUTH'.",
           "source_section": "Outline I"
         },
@@ -169,7 +184,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "A fool utters his entire mind and hates accountability.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point in Outline I says 'A fool utters his entire mind (Proverbs 29:11) and hates accountability.'",
           "source_section": "Outline I"
@@ -233,7 +251,15 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "BEING SLOW TO SPEAK AND ITS BENEFITS",
-          "keywords": ["BEING", "SLOW", "TO", "SPEAK", "AND", "ITS", "BENEFITS"],
+          "keywords": [
+            "BEING",
+            "SLOW",
+            "TO",
+            "SPEAK",
+            "AND",
+            "ITS",
+            "BENEFITS"
+          ],
           "explanation": "Outline II is titled 'BEING SLOW TO SPEAK AND ITS BENEFITS'.",
           "source_section": "Outline II"
         },
@@ -243,8 +269,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, being slow to speak is often a sign of weakness.",
-          "options": ["True", "False"],
+          "question": "According to the Week 25 lesson, being slow to speak is often a sign of weakness.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Outline II explicitly states 'Being slow to speak is never a sign of weakness.'",
           "source_section": "Outline II"
@@ -306,7 +335,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, if we 'bridle' our tongues, what will we command?",
+          "question": "According to the Week 25 lesson, if we 'bridle' our tongues, what will we command?",
           "options": [
             "A. Armies",
             "B. Attention and respect",
@@ -324,7 +353,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "By being slow to speak, we will avoid needless arguments, troubles, battles and keep safe.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'We will avoid needless arguments, troubles, battles and keep safe (Proverbs 13:3; 21:23).'",
           "source_section": "Outline II"
@@ -456,7 +488,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The talk of a fool will destroy him because he does not take to instruction and rejects responsibilities.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I says 'The talk of a fool will destroy him because he does not take to instruction and rejects responsibilities (Ecclesiastes 10:12).'",
           "source_section": "Outline I"

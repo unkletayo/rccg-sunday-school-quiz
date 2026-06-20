@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "1 Corinthians 15:33",
-          "keywords": ["1 Corinthians", "15:33"],
+          "keywords": [
+            "1 Corinthians",
+            "15:33"
+          ],
           "explanation": "The reference for the memory verse is 1 Corinthians 15:33.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 14 in full (NKJV).",
           "answer": "Do not be deceived: “Evil company corrupts good habits”",
-          "keywords": ["deceived", "Evil", "company", "corrupts", "good", "habits"],
+          "keywords": [
+            "deceived",
+            "Evil",
+            "company",
+            "corrupts",
+            "good",
+            "habits"
+          ],
           "explanation": "Full text recall of 1 Corinthians 15:33.",
           "source_section": "Memory Verse"
         },
@@ -105,7 +115,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How are 'peers' defined in the introduction of the lesson?",
+          "question": "How are 'peers' defined in the introduction of the Week 14 lesson?",
           "options": [
             "A. Enemies who want to destroy you",
             "B. Mentors who are older than you",
@@ -123,7 +133,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the introduction, peer pressure is especially dangerous for those whose personal convictions are fully developed.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "It says it is dangerous 'especially for those whose personal convictions are NOT yet fully developed or established.'",
           "source_section": "Introduction"
@@ -136,7 +149,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "IDENTIFYING PEER PRESSURE",
-          "keywords": ["IDENTIFYING", "PEER", "PRESSURE"],
+          "keywords": [
+            "IDENTIFYING",
+            "PEER",
+            "PRESSURE"
+          ],
           "explanation": "Outline I is titled 'IDENTIFYING PEER PRESSURE'.",
           "source_section": "Outline I"
         },
@@ -215,7 +232,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Influence of Ungodly Mentors is one of the examples of peer pressure listed in Outline I.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 4 explicitly states 'Influence of Ungodly Mentors'.",
           "source_section": "Outline I"
@@ -228,7 +248,11 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "STRATEGIES TO STAND FIRM",
-          "keywords": ["STRATEGIES", "STAND", "FIRM"],
+          "keywords": [
+            "STRATEGIES",
+            "STAND",
+            "FIRM"
+          ],
           "explanation": "Outline II is titled 'STRATEGIES TO STAND FIRM'.",
           "source_section": "Outline II"
         },
@@ -238,7 +262,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "To resist peer pressure, the lesson says it is essential to grow spiritually and allow what to guide you effectively?",
+          "question": "To resist peer pressure, the Week 14 lesson says it is essential to grow spiritually and allow what to guide you effectively?",
           "options": [
             "A. Your inner feelings",
             "B. The Spirit of God",
@@ -324,7 +348,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Offering positive alternatives that steer clear of trouble is one of the strategies to stand firm.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 7 explicitly states 'Offer Alternatives: Suggest positive activities that steer clear of trouble.'",
           "source_section": "Outline II"
@@ -490,7 +517,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline II, 'Seek Guidance' means you should keep your challenges to yourself and not talk to anyone.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Point 6 says 'Talk about your challenges with a trusted person who can offer support and advice'.",
           "source_section": "Outline II"
@@ -552,8 +582,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "The lesson advises to spend time with friends who share your values and avoid those whose influence is harmful.",
-          "options": ["True", "False"],
+          "question": "the Week 14 lesson advises to spend time with friends who share your values and avoid those whose influence is harmful.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 says 'Spend time with friends who share your values and avoid those whose influence is harmful'.",
           "source_section": "Outline II"

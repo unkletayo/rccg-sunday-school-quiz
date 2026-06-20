@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Hebrews 11:31",
-          "keywords": ["Hebrews", "11:31"],
+          "keywords": [
+            "Hebrews",
+            "11:31"
+          ],
           "explanation": "The memory verse reference is Hebrews 11:31.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 40 in full (NKJV).",
           "answer": "By faith the harlot Rahab did not perish with those who did not believe, when she had received the spies with peace.",
-          "keywords": ["faith", "harlot", "Rahab", "perish", "spies", "peace"],
+          "keywords": [
+            "faith",
+            "harlot",
+            "Rahab",
+            "perish",
+            "spies",
+            "peace"
+          ],
           "explanation": "Full text recall of Hebrews 11:31 (NKJV).",
           "source_section": "Memory Verse"
         },
@@ -124,7 +134,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "HER CHARACTER",
-          "keywords": ["HER", "CHARACTER"],
+          "keywords": [
+            "HER",
+            "CHARACTER"
+          ],
           "explanation": "Outline I is titled 'HER CHARACTER'.",
           "source_section": "Outline I"
         },
@@ -169,7 +182,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Rahab lived in the 10th century B.C.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Outline I states she 'lived in the 12th century B.C.', not the 10th.",
           "source_section": "Outline I"
@@ -199,7 +215,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "ACHIEVEMENTS AND LESSONS FROM HER LIFE",
-          "keywords": ["ACHIEVEMENTS", "LESSONS"],
+          "keywords": [
+            "ACHIEVEMENTS",
+            "LESSONS"
+          ],
           "explanation": "Outline II is titled 'ACHIEVEMENTS AND LESSONS FROM HER LIFE'.",
           "source_section": "Outline II"
         },
@@ -227,7 +246,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Matthew lists Rahab in the lineage of Jesus Christ (Matthew 1:5).",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II explicitly states 'Matthew lists her in the lineage of Jesus Christ (Matthew 1:5).'",
           "source_section": "Outline II"
@@ -273,7 +295,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Just as Rahab ensured the safety of her household (Joshua 2:18-21), a child of God should ensure the salvation of his/her family (Acts 16:31).",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II's Lessons section explicitly draws this parallel with citations of Joshua 2:18-21 and Acts 16:31.",
           "source_section": "Outline II"
@@ -421,7 +446,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "We should show kindness to people, just as Rahab did to the spies (Galatians 6:10).",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II's Lessons section explicitly states 'We should show kindness to people, just as Rahab did to the spies (Galatians 6:10).'",
           "source_section": "Outline II"
@@ -466,7 +494,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "Which scripture is cited alongside the lesson that we are also expected to walk by faith and not by sight, as modeled by Rahab?",
+          "question": "Which scripture is cited alongside the Week 40 lesson that we are also expected to walk by faith and not by sight, as modeled by Rahab?",
           "options": [
             "A. Isaiah 1:18",
             "B. 2 Corinthians 5:7",

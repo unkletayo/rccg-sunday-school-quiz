@@ -11,28 +11,38 @@ export function shuffleArray(array) {
     return a;
 }
 
+async function loadQuestionsFromIndex(indexFile, folder) {
+    const res = await fetch(indexFile);
+    if (!res.ok) return [];
+    const idx = await res.json();
+    const files = await Promise.all(
+        idx.map(q => fetch(`${folder}${q.filename}`).then(r => r.json()).catch(() => null))
+    );
+    const questions = [];
+    files.forEach(f => {
+        if (f && f.weeks && f.weeks[0]) {
+            const weekNum = f.weeks[0].week_number;
+            f.weeks[0].questions.forEach(q => {
+                questions.push({
+                    ...q,
+                    question: q.question
+                        .replace(/this week's/gi, `Week ${weekNum}'s`)
+                        .replace(/this week/gi, `Week ${weekNum}`),
+                });
+            });
+        }
+    });
+    return questions;
+}
+
 export async function buildMixQuiz(count) {
     try {
         if (!state.allMixQuestions) {
-            const idxRes = await fetch('quiz_index.json');
-            if (!idxRes.ok) throw new Error('Index not found');
-            const idx = await idxRes.json();
-            const files = await Promise.all(
-                idx.map(q => fetch(`questions/${q.filename}`).then(r => r.json()).catch(() => null))
-            );
-            state.allMixQuestions = [];
-            files.forEach(f => {
-                if (f && f.weeks && f.weeks[0]) {
-                    const weekNum = f.weeks[0].week_number;
-                    const patched = f.weeks[0].questions.map(q => ({
-                        ...q,
-                        question: q.question
-                            .replace(/this week's/gi, `Week ${weekNum}'s`)
-                            .replace(/this week/gi, `Week ${weekNum}`),
-                    }));
-                    state.allMixQuestions.push(...patched);
-                }
-            });
+            const [general, bible] = await Promise.all([
+                loadQuestionsFromIndex('quiz_index.json', 'questions/'),
+                loadQuestionsFromIndex('bible_quiz_index.json', 'bible_questions/'),
+            ]);
+            state.allMixQuestions = [...general, ...bible];
         }
         const n = count === Infinity ? state.allMixQuestions.length : count;
         const picked = shuffleArray(state.allMixQuestions).slice(0, n);

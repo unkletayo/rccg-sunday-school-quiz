@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "1 Thessalonians 4:3",
-          "keywords": ["1 Thessalonians", "4:3"],
+          "keywords": [
+            "1 Thessalonians",
+            "4:3"
+          ],
           "explanation": "The memory verse reference is 1 Thessalonians 4:3.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 17 in full (NKJV).",
           "answer": "For this is the will of God, your sanctification: that you should abstain from sexual immorality.",
-          "keywords": ["will", "God", "sanctification", "abstain", "sexual", "immorality"],
+          "keywords": [
+            "will",
+            "God",
+            "sanctification",
+            "abstain",
+            "sexual",
+            "immorality"
+          ],
           "explanation": "Full text recall of 1 Thessalonians 4:3.",
           "source_section": "Memory Verse"
         },
@@ -141,7 +151,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "OUR ROLES",
-          "keywords": ["OUR", "ROLES"],
+          "keywords": [
+            "OUR",
+            "ROLES"
+          ],
           "explanation": "Outline I is titled 'OUR ROLES'.",
           "source_section": "Outline I"
         },
@@ -185,7 +198,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, since the eyes are gates to the mind, what must they be trained to do?",
+          "question": "According to the Week 17 lesson, since the eyes are gates to the mind, what must they be trained to do?",
           "options": [
             "A. Look away from all human beings",
             "B. Focus on what is pure and edifying",
@@ -219,8 +232,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "The lesson advises staying away from toxic friends because they will be negative influences on us.",
-          "options": ["True", "False"],
+          "question": "the Week 17 lesson advises staying away from toxic friends because they will be negative influences on us.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'We also need to stay off toxic friends (1 Corinthians 15:33) who will be negative influences on us.'",
           "source_section": "Outline I"
@@ -250,7 +266,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "BENEFITS OF SEXUAL PURITY",
-          "keywords": ["BENEFITS", "OF", "SEXUAL", "PURITY"],
+          "keywords": [
+            "BENEFITS",
+            "OF",
+            "SEXUAL",
+            "PURITY"
+          ],
           "explanation": "Outline II is titled 'BENEFITS OF SEXUAL PURITY'.",
           "source_section": "Outline II"
         },
@@ -277,8 +298,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, sexual sin is equated with slavery.",
-          "options": ["True", "False"],
+          "question": "According to the Week 17 lesson, sexual sin is equated with slavery.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states: 'sexual sin is slavery (Proverbs 6:26; Galatians 5:1).'",
           "source_section": "Outline II"
@@ -323,7 +347,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, what happens to the heart of those who are free from sexual sin?",
+          "question": "According to the Week 17 lesson, what happens to the heart of those who are free from sexual sin?",
           "options": [
             "A. The heart becomes hardened",
             "B. The heart is not racing because of guilt and secret sin",
@@ -357,7 +381,7 @@
           "category": "conclusion",
           "difficulty": "easy",
           "type": "multiple_choice",
-          "question": "What is the final instruction given in the conclusion of the lesson?",
+          "question": "What is the final instruction given in the conclusion of the Week 17 lesson?",
           "options": [
             "A. Repent from all your sins immediately",
             "B. Make the right choice to be sexually pure",
@@ -427,7 +451,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to 1 Thessalonians 4:2, the brethren already knew the commandments that were given to them through the Lord Jesus.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Verse 2 explicitly states: 'for you know what commandments we gave you through the Lord Jesus.'",
           "source_section": "Bible Passage"
@@ -455,7 +482,7 @@
           "category": "outline_I",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "What happens if we listen to erotic words, songs, etc., according to the lesson's section on the ears?",
+          "question": "What happens if we listen to erotic words, songs, etc., according to the Week 17 lesson's section on the ears?",
           "options": [
             "A. It can trigger anger",
             "B. It can trigger sexual pollution",
@@ -473,7 +500,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Staying pure sexually helps our relationship with God because sexual sin breaks our association with God.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'It helps our relationship with God; sexual sin breaks our association with God...'",
           "source_section": "Outline II"
@@ -519,7 +549,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "To stay pure, there is no need to ask God for help as long as you discipline your mind.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The lesson ends Outline I with 'It is also necessary to ask God to help us.'",
           "source_section": "Outline I"

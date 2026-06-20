@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Colossians 3:23",
-          "keywords": ["Colossians", "3:23"],
+          "keywords": [
+            "Colossians",
+            "3:23"
+          ],
           "explanation": "The memory verse reference is Colossians 3:23.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 11 in full (KJV/NKJV as provided).",
           "answer": "And whosoever ye do, do it heartily, as to the lord, and not unto men",
-          "keywords": ["whosoever", "do", "heartily", "lord", "unto", "men"],
+          "keywords": [
+            "whosoever",
+            "do",
+            "heartily",
+            "lord",
+            "unto",
+            "men"
+          ],
           "explanation": "Full text recall of Colossians 3:23.",
           "source_section": "Memory Verse"
         },
@@ -123,7 +133,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Workplace ministry is about shifting your perspective by viewing your work as a service to the Lord.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states: 'Workplace ministry is about shifting your perspective by viewing your work, in whatever role, as a service to the Lord'.",
           "source_section": "Introduction"
@@ -136,7 +149,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "A MISSION FIELD",
-          "keywords": ["MISSION", "FIELD"],
+          "keywords": [
+            "MISSION",
+            "FIELD"
+          ],
           "explanation": "Outline I is titled 'A MISSION FIELD'.",
           "source_section": "Outline I"
         },
@@ -164,7 +180,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline I, our jobs are just a means of income and have no eternal significance.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says 'Our jobs are more than a means of income; they are opportunities to worship and serve God'.",
           "source_section": "Outline I"
@@ -175,7 +194,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "When we view work as worship, how do we reflect God's character? (According to Daniel 11:32b in the lesson)",
+          "question": "When we view work as worship, how do we reflect God's character? (According to Daniel 11:32b in the Week 11 lesson)",
           "options": [
             "A. Through preaching constantly at our desks",
             "B. Through excellence and integrity",
@@ -226,7 +245,7 @@
           "category": "bible_verse_meaning",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "According to the lesson citing Acts 2:42-47, what did the early church do that modelled influencing others and drew people to Christ?",
+          "question": "According to the Week 11 lesson citing Acts 2:42-47, what did the early church do that modelled influencing others and drew people to Christ?",
           "options": [
             "A. They debated theology in the synagogues",
             "B. They fought against the Roman empire",
@@ -245,7 +264,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "THE PRINCIPLES",
-          "keywords": ["THE", "PRINCIPLES"],
+          "keywords": [
+            "THE",
+            "PRINCIPLES"
+          ],
           "explanation": "Outline II is titled 'THE PRINCIPLES'.",
           "source_section": "Outline II"
         },
@@ -340,7 +362,7 @@
           "category": "bible_verse_reference",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "Which verses are associated with the principle of INTEGRITY in the lesson?",
+          "question": "Which verses are associated with the principle of INTEGRITY in the Week 11 lesson?",
           "options": [
             "A. Proverbs 16:3",
             "B. 1 Peter 3:15",
@@ -358,7 +380,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, believers should approach the workplace with a sense of mission and use their unique gifts to glorify God.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states this.",
           "source_section": "Conclusion"
@@ -558,7 +583,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "In the 'RELATIONSHIPS' principle, fostering trust and celebrating others opens doors to share authentic faith.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states: 'By fostering trust, offering support, and celebrating others, we open doors to share authentic faith.'",
           "source_section": "Outline II"

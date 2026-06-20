@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Proverbs 18:22",
-          "keywords": ["Proverbs", "18:22"],
+          "keywords": [
+            "Proverbs",
+            "18:22"
+          ],
           "explanation": "The memory verse reference is Proverbs 18:22.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 34 in full (NKJV).",
           "answer": "He who finds a wife finds a good thing, And obtains favour from the LORD.",
-          "keywords": ["finds", "wife", "good", "thing", "obtains", "favour", "LORD"],
+          "keywords": [
+            "finds",
+            "wife",
+            "good",
+            "thing",
+            "obtains",
+            "favour",
+            "LORD"
+          ],
           "explanation": "Full text recall of Proverbs 18:22.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +117,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the introduction, meeting someone online who becomes a significant part of your life is not possible in today's digital age.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states 'meeting someone online who becomes a significant part of your life is not only possible but has become increasingly common.'",
           "source_section": "Introduction"
@@ -136,7 +150,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE POSSIBILITIES",
-          "keywords": ["THE", "POSSIBILITIES"],
+          "keywords": [
+            "THE",
+            "POSSIBILITIES"
+          ],
           "explanation": "Outline I is titled 'THE POSSIBILITIES'.",
           "source_section": "Outline I"
         },
@@ -197,8 +214,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, you should involve mentors and trusted counsellors who can provide insight into the relationship.",
-          "options": ["True", "False"],
+          "question": "According to the Week 34 lesson, you should involve mentors and trusted counsellors who can provide insight into the relationship.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I states 'Seek Trusted Counsel: Involve mentors and trusted counsellors who can provide insight...'",
           "source_section": "Outline I"
@@ -211,7 +231,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "THE DANGERS",
-          "keywords": ["THE", "DANGERS"],
+          "keywords": [
+            "THE",
+            "DANGERS"
+          ],
           "explanation": "Outline II is titled 'THE DANGERS'.",
           "source_section": "Outline II"
         },
@@ -255,8 +278,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, people often present a false version of themselves online, hiding their true nature or intentions.",
-          "options": ["True", "False"],
+          "question": "According to the Week 34 lesson, people often present a false version of themselves online, hiding their true nature or intentions.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 on Deception says 'People often present a false version of themselves online, hiding their true nature or intentions.'",
           "source_section": "Outline II"
@@ -422,7 +448,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Balancing online interactions with real-life connections, accountability, and careful discernment can help protect you from online relationship dangers.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II concludes 'Balancing online interactions with real-life connections, accountability, and careful discernment can help protect you from these dangers.'",
           "source_section": "Outline II"
@@ -467,8 +496,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, oneness in purpose is vital for a thriving relationship.",
-          "options": ["True", "False"],
+          "question": "According to the Week 34 lesson, oneness in purpose is vital for a thriving relationship.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I states 'Oneness in purpose is vital for a thriving relationship (Amos 3:3).'",
           "source_section": "Outline I"

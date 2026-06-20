@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Colossians 2:3",
-          "keywords": ["Colossians", "2:3"],
+          "keywords": [
+            "Colossians",
+            "2:3"
+          ],
           "explanation": "The memory verse reference is Colossians 2:3.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,12 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 20 in full (NKJV).",
           "answer": "In whom are hidden all the treasures of wisdom and knowledge.",
-          "keywords": ["hidden", "treasures", "wisdom", "knowledge"],
+          "keywords": [
+            "hidden",
+            "treasures",
+            "wisdom",
+            "knowledge"
+          ],
           "explanation": "Full text recall of Colossians 2:3.",
           "source_section": "Memory Verse"
         },
@@ -105,7 +113,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How is 'resourcefulness' defined in the introduction of the lesson?",
+          "question": "How is 'resourcefulness' defined in the introduction of the Week 20 lesson?",
           "options": [
             "A. The ability to borrow money quickly",
             "B. The ability to deal creatively and effectively with challenges, using available resources",
@@ -141,7 +149,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "UNDERSTAND RESOURCEFULNESS",
-          "keywords": ["UNDERSTAND", "RESOURCEFULNESS"],
+          "keywords": [
+            "UNDERSTAND",
+            "RESOURCEFULNESS"
+          ],
           "explanation": "Outline I is titled 'UNDERSTAND RESOURCEFULNESS'.",
           "source_section": "Outline I"
         },
@@ -168,8 +179,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, a resourceful person focuses on what is NOT available, rather than what is within reach.",
-          "options": ["True", "False"],
+          "question": "According to the Week 20 lesson, a resourceful person focuses on what is NOT available, rather than what is within reach.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says 'The focus of resourceful persons is how to make the most of what is within reach rather than what is not available.'",
           "source_section": "Outline I"
@@ -215,7 +229,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Being resourceful drives innovation, increases efficiency, and maintains a high level of productivity despite constraints.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'It drives innovation, increases efficiency... and maintains a high level of productivity despite constraints.'",
           "source_section": "Outline I"
@@ -245,7 +262,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "CULTIVATE RESOURCEFULNESS",
-          "keywords": ["CULTIVATE", "RESOURCEFULNESS"],
+          "keywords": [
+            "CULTIVATE",
+            "RESOURCEFULNESS"
+          ],
           "explanation": "Outline II is titled 'CULTIVATE RESOURCEFULNESS'.",
           "source_section": "Outline II"
         },
@@ -272,8 +292,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, practicing adaptability by embracing change is a way to cultivate resourcefulness.",
-          "options": ["True", "False"],
+          "question": "According to the Week 20 lesson, practicing adaptability by embracing change is a way to cultivate resourcefulness.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 3 explicitly says 'Practice adaptability by embracing change (Ruth 2:2, 17-18; 1 Corinthians 9:22).'",
           "source_section": "Outline II"
@@ -284,7 +307,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How does the lesson suggest you can 'Leverage what you have'?",
+          "question": "How does the Week 20 lesson suggest you can 'Leverage what you have'?",
           "options": [
             "A. By hiding it from others",
             "B. By taking stock of available resources and asking how to use them more effectively",
@@ -336,7 +359,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, being resourceful will help you make the most out of any situation.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states 'Being resourceful will help you to make the most out of any situation.'",
           "source_section": "Conclusion"
@@ -450,8 +476,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, staying persistent and keeping trying different strategies is a way to cultivate resourcefulness.",
-          "options": ["True", "False"],
+          "question": "According to the Week 20 lesson, staying persistent and keeping trying different strategies is a way to cultivate resourcefulness.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 says 'Stay persistent. Keep trying different strategies.'",
           "source_section": "Outline II"
@@ -531,7 +560,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Being resourceful helps individuals grow by challenging the team to develop new skills and learn how to solve complex problems.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states this in Outline I: 'Being resourceful helps individuals to grow by challenging the team to develop new skills...'",
           "source_section": "Outline I"
@@ -542,7 +574,7 @@
           "category": "outline_I",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "Which of these is NOT a result of being resourceful, according to the lesson?",
+          "question": "Which of these is NOT a result of being resourceful, according to the Week 20 lesson?",
           "options": [
             "A. It enhances leadership",
             "B. It drives innovation",

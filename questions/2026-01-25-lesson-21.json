@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Ephesians 5:16",
-          "keywords": ["Ephesians", "5:16"],
+          "keywords": [
+            "Ephesians",
+            "5:16"
+          ],
           "explanation": "The memory verse reference is Ephesians 5:16.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,13 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 21 in full (NKJV).",
           "answer": "Redeeming the time, because the days are evil.",
-          "keywords": ["Redeeming", "time", "because", "days", "evil"],
+          "keywords": [
+            "Redeeming",
+            "time",
+            "because",
+            "days",
+            "evil"
+          ],
           "explanation": "Full text recall of Ephesians 5:16.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +115,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the introduction, time is distributed differently based on age, race, and status.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states: 'Time is evenly distributed across board, irrespective of age, race, gender or status.'",
           "source_section": "Introduction"
@@ -136,7 +148,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "TIME MANAGEMENT DEFINED",
-          "keywords": ["TIME", "MANAGEMENT", "DEFINED"],
+          "keywords": [
+            "TIME",
+            "MANAGEMENT",
+            "DEFINED"
+          ],
           "explanation": "Outline I is titled 'TIME MANAGEMENT DEFINED'.",
           "source_section": "Outline I"
         },
@@ -181,7 +197,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Outline I suggests that you should just work hard and be busy, even if you have nothing to show for the hours used.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says 'Do not just work hard but work smart. Do not just be busy without having something to show for the hours used...'",
           "source_section": "Outline I"
@@ -211,7 +230,13 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "HOW TO MANAGE YOUR TIME",
-          "keywords": ["HOW", "TO", "MANAGE", "YOUR", "TIME"],
+          "keywords": [
+            "HOW",
+            "TO",
+            "MANAGE",
+            "YOUR",
+            "TIME"
+          ],
           "explanation": "Outline II is titled 'HOW TO MANAGE YOUR TIME'.",
           "source_section": "Outline II"
         },
@@ -238,7 +263,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, setting 'smart goals' means they should be all of the following EXCEPT?",
+          "question": "According to the Week 21 lesson, setting 'smart goals' means they should be all of the following EXCEPT?",
           "options": [
             "A. Specific",
             "B. Measurable",
@@ -255,8 +280,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, saying 'No' sometimes is an act of disrespect to others.",
-          "options": ["True", "False"],
+          "question": "According to the Week 21 lesson, saying 'No' sometimes is an act of disrespect to others.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states 'Saying ‘No’ sometimes is an act of respect for your person.'",
           "source_section": "Outline II"
@@ -267,7 +295,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How does the lesson define 'Discipline' in the context of time management?",
+          "question": "How does the Week 21 lesson define 'Discipline' in the context of time management?",
           "options": [
             "A. Fasting for many days",
             "B. The effective use of your time, energy and resources in the pursuit of your task",
@@ -318,7 +346,7 @@
           "category": "conclusion",
           "difficulty": "easy",
           "type": "multiple_choice",
-          "question": "What does the conclusion of the lesson say a lived life is?",
+          "question": "What does the conclusion of the Week 21 lesson say a lived life is?",
           "options": [
             "A. A series of choices",
             "B. A gift from God",
@@ -387,8 +415,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, if you always say 'Yes' to everyone or everything, it will take you to the grave early in life.",
-          "options": ["True", "False"],
+          "question": "According to the Week 21 lesson, if you always say 'Yes' to everyone or everything, it will take you to the grave early in life.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 4 explicitly states 'You cannot always say ‘Yes’ to everyone or everything. It will take you to the grave early in life...'",
           "source_section": "Outline II"
@@ -399,7 +430,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How does the lesson define being 'punctual'?",
+          "question": "How does the Week 21 lesson define being 'punctual'?",
           "options": [
             "A. Leaving early before an event finishes",
             "B. Being available to do something at the agreed or proper time",

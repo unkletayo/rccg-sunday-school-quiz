@@ -283,7 +283,7 @@
           "category": "bible_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "Which miracle is associated with the reference John 2:7-9 in the lesson?",
+          "question": "Which miracle is associated with the reference John 2:7-9 in the Week 3 lesson?",
           "options": [
             "A. Multiplying a meal",
             "B. Healing the blind",
@@ -300,7 +300,7 @@
           "category": "bible_verse_reference",
           "difficulty": "hard",
           "type": "true_false",
-          "question": "The references John 11:43-44 and Luke 7:13-15 are used in the lesson to support the fact that Jesus healed the sick.",
+          "question": "The references John 11:43-44 and Luke 7:13-15 are used in the Week 3 lesson to support the fact that Jesus healed the sick.",
           "options": [
             "True",
             "False"
@@ -315,7 +315,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "The lesson claims that no other religion can claim the resurrection of its founders.",
+          "question": "the Week 3 lesson claims that no other religion can claim the resurrection of its founders.",
           "options": [
             "True",
             "False"
@@ -514,7 +514,7 @@
           "category": "conclusion",
           "difficulty": "easy",
           "type": "true_false",
-          "question": "The conclusion of the lesson states that there is still much controversy over whether Jesus Christ is God.",
+          "question": "The conclusion of the Week 3 lesson states that there is still much controversy over whether Jesus Christ is God.",
           "options": [
             "True",
             "False"
@@ -547,7 +547,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "Which of these is NOT one of the miracles of Jesus listed in the lesson?",
+          "question": "Which of these is NOT one of the miracles of Jesus listed in the Week 3 lesson?",
           "options": [
             "A. Walked on water",
             "B. Turned water to wine",

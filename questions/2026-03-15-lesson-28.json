@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Matthew 22:39",
-          "keywords": ["Matthew", "22:39"],
+          "keywords": [
+            "Matthew",
+            "22:39"
+          ],
           "explanation": "The memory verse reference is Matthew 22:39.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,13 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 28 in full (NKJV).",
           "answer": "And the second is like it: ‘You shall love your neighbour as yourself.’",
-          "keywords": ["second", "like", "love", "neighbour", "yourself"],
+          "keywords": [
+            "second",
+            "like",
+            "love",
+            "neighbour",
+            "yourself"
+          ],
           "explanation": "Full text recall of Matthew 22:39.",
           "source_section": "Memory Verse"
         },
@@ -123,7 +132,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the introduction, you are a victim of circumstance due to the incidents that may surround your birth.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly states: 'you are not a victim of circumstance, irrespective of the incident that may surround your birth or family.'",
           "source_section": "Introduction"
@@ -136,7 +148,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "A MASTERPIECE",
-          "keywords": ["A", "MASTERPIECE"],
+          "keywords": [
+            "A",
+            "MASTERPIECE"
+          ],
           "explanation": "Outline I is titled 'A MASTERPIECE'.",
           "source_section": "Outline I"
         },
@@ -216,7 +231,11 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "SELF-AFFECTION",
-          "keywords": ["SELF-AFFECTION", "SELF", "AFFECTION"],
+          "keywords": [
+            "SELF-AFFECTION",
+            "SELF",
+            "AFFECTION"
+          ],
           "explanation": "Outline II is titled 'SELF-AFFECTION'.",
           "source_section": "Outline II"
         },
@@ -244,7 +263,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Loving yourself involves taking care of your physical and emotional well-being, such as eating healthily and sleeping well.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'Loving yourself involves taking care of your physical and emotional well-being... eat healthily, exercise (1 Timothy 4:8), sleep well (Ecclesiastes 5:12)...'",
           "source_section": "Outline II"
@@ -289,8 +311,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, true self-love involves recognising God's supreme position in your life.",
-          "options": ["True", "False"],
+          "question": "According to the Week 28 lesson, true self-love involves recognising God's supreme position in your life.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states 'as true self-love involves recognising God’s supreme position in your life.'",
           "source_section": "Outline II"
@@ -456,7 +481,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The human nose does not vary from person to person.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Outline I explicitly states: 'Also, the human nose varies from person to person.'",
           "source_section": "Outline I"

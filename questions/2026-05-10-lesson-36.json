@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Proverbs 13:24",
-          "keywords": ["Proverbs", "13:24"],
+          "keywords": [
+            "Proverbs",
+            "13:24"
+          ],
           "explanation": "The memory verse reference is Proverbs 13:24.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 36 in full (KJV/NKJV).",
           "answer": "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.",
-          "keywords": ["spareth", "rod", "hateth", "loveth", "chasteneth", "betimes"],
+          "keywords": [
+            "spareth",
+            "rod",
+            "hateth",
+            "loveth",
+            "chasteneth",
+            "betimes"
+          ],
           "explanation": "Full text recall of Proverbs 13:24.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +116,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the introduction, the four major parenting styles are permissive, uninvolved, authoritarian, and authoritative.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'In our last lesson, we discussed the four major parenting styles namely the “permissive”, “uninvolved”, “authoritarian” and “authoritative.”'",
           "source_section": "Introduction"
@@ -117,7 +130,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What significant responsibility of Christian parents does the lesson focus on?",
+          "question": "What significant responsibility of Christian parents does the Week 36 lesson focus on?",
           "options": [
             "A. Paying school fees",
             "B. Raising their children in a way that honours God and promotes spiritual growth, emotional well-being and career success",
@@ -136,7 +149,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "BIBLICAL POINTERS",
-          "keywords": ["BIBLICAL", "POINTERS"],
+          "keywords": [
+            "BIBLICAL",
+            "POINTERS"
+          ],
           "explanation": "Outline I is titled 'BIBLICAL POINTERS'.",
           "source_section": "Outline I"
         },
@@ -180,8 +196,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, knowing the biblical pointers is enough to make a person a godly and effective parent.",
-          "options": ["True", "False"],
+          "question": "According to the Week 36 lesson, knowing the biblical pointers is enough to make a person a godly and effective parent.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly states 'Knowing these pointers are not enough to make the necessary changes! Obeying them is crucial...'",
           "source_section": "Outline I"
@@ -211,7 +230,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "THE BEST PARENTING STYLE",
-          "keywords": ["THE", "BEST", "PARENTING", "STYLE"],
+          "keywords": [
+            "THE",
+            "BEST",
+            "PARENTING",
+            "STYLE"
+          ],
           "explanation": "Outline II is titled 'THE BEST PARENTING STYLE'.",
           "source_section": "Outline II"
         },
@@ -256,7 +280,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "An authoritarian parent might choose to be more permissive when a child is unwell, offering extra warmth.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text gives this as an example: 'For instance, an authoritarian parent might choose to be more permissive when a child is unwell, offering extra warmth and easing some restrictions...'",
           "source_section": "Outline II"
@@ -422,7 +449,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "You do not have to stick to a single parenting approach, as there will be times when a mix of methods is necessary.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II explicitly states this.",
           "source_section": "Outline II"

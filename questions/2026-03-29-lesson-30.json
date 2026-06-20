@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Psalm 46:1",
-          "keywords": ["Psalm", "46:1"],
+          "keywords": [
+            "Psalm",
+            "46:1"
+          ],
           "explanation": "The memory verse reference is Psalm 46:1.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 30 in full (NKJV).",
           "answer": "God is our refuge and strength, A very present help in trouble.",
-          "keywords": ["God", "refuge", "strength", "present", "help", "trouble"],
+          "keywords": [
+            "God",
+            "refuge",
+            "strength",
+            "present",
+            "help",
+            "trouble"
+          ],
           "explanation": "Full text recall of Psalm 46:1.",
           "source_section": "Memory Verse"
         },
@@ -122,8 +132,11 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, being born again is a guarantee of a jolly ride on our journey of faith with no crises.",
-          "options": ["True", "False"],
+          "question": "According to the Week 30 lesson, being born again is a guarantee of a jolly ride on our journey of faith with no crises.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly states 'For a child of God, being born again is no guarantee of a jolly ride on our journey of faith.'",
           "source_section": "Introduction"
@@ -136,7 +149,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "FORMS OF CRISIS",
-          "keywords": ["FORMS", "OF", "CRISIS"],
+          "keywords": [
+            "FORMS",
+            "OF",
+            "CRISIS"
+          ],
           "explanation": "Outline I is titled 'FORMS OF CRISIS'.",
           "source_section": "Outline I"
         },
@@ -216,7 +233,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "HOW TO MANAGE CRISIS",
-          "keywords": ["HOW", "TO", "MANAGE", "CRISIS"],
+          "keywords": [
+            "HOW",
+            "TO",
+            "MANAGE",
+            "CRISIS"
+          ],
           "explanation": "Outline II is titled 'HOW TO MANAGE CRISIS'.",
           "source_section": "Outline II"
         },
@@ -243,8 +265,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "When an unforeseen crisis occurs, the lesson advises to immediately attempt to solve it without first defining its nature or causes.",
-          "options": ["True", "False"],
+          "question": "When an unforeseen crisis occurs, the Week 30 lesson advises to immediately attempt to solve it without first defining its nature or causes.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says '...it is important to seek to properly understand the crisis by defining its nature, causes and implications... before attempting to solve it.'",
           "source_section": "Outline II"
@@ -255,7 +280,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, every crisis is an opportunity to prove yourself as a what?",
+          "question": "According to the Week 30 lesson, every crisis is an opportunity to prove yourself as a what?",
           "options": [
             "A. Victim",
             "B. Solution provider",
@@ -290,7 +315,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, believers should ensure the safety and wellbeing of all concerned in a crisis and that God is glorified.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states this.",
           "source_section": "Conclusion"
@@ -422,7 +450,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Domestic violence, wayward children, and infidelity are given as examples of Family crisis.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 lists 'divorce, infidelity, wayward children, domestic violence, etc.' under Family crisis.",
           "source_section": "Outline I"
@@ -433,7 +464,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, after taking action during a crisis, what should you do next?",
+          "question": "According to the Week 30 lesson, after taking action during a crisis, what should you do next?",
           "options": [
             "A. Forget about it",
             "B. Take a vacation",

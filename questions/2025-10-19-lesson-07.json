@@ -315,7 +315,7 @@
           "category": "name_meaning",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the acronym for the 5-step model adopted in the lesson to achieve forgiveness?",
+          "question": "What is the acronym for the 5-step model adopted in the Week 7 lesson to achieve forgiveness?",
           "answer": "REACH",
           "keywords": [
             "REACH"
@@ -463,7 +463,7 @@
           "category": "conclusion",
           "difficulty": "easy",
           "type": "true_false",
-          "question": "The conclusion of the lesson states that true forgiveness is cheap and easy.",
+          "question": "The conclusion of the Week 7 lesson states that true forgiveness is cheap and easy.",
           "options": [
             "True",
             "False"

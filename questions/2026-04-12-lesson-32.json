@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "1 Timothy 4:8",
-          "keywords": ["1 Timothy", "4:8"],
+          "keywords": [
+            "1 Timothy",
+            "4:8"
+          ],
           "explanation": "The memory verse reference is 1 Timothy 4:8.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,19 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 32 in full (KJV/NKJV).",
           "answer": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
-          "keywords": ["bodily", "exercise", "profiteth", "little", "godliness", "profitable", "things", "promise", "life", "now", "come"],
+          "keywords": [
+            "bodily",
+            "exercise",
+            "profiteth",
+            "little",
+            "godliness",
+            "profitable",
+            "things",
+            "promise",
+            "life",
+            "now",
+            "come"
+          ],
           "explanation": "Full text recall of 1 Timothy 4:8.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +121,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the introduction, we should pay serious attention to career and family but it is okay to neglect our health.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The introduction explicitly states 'we should not neglect our health (Acts 27:34; 1 Timothy 5:23).'",
           "source_section": "Introduction"
@@ -119,7 +137,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE IMPORTANCE",
-          "keywords": ["THE", "IMPORTANCE"],
+          "keywords": [
+            "THE",
+            "IMPORTANCE"
+          ],
           "explanation": "Outline I is titled 'THE IMPORTANCE'.",
           "source_section": "Outline I"
         },
@@ -163,8 +184,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, good health is more expensive than ill-health.",
-          "options": ["True", "False"],
+          "question": "According to the Week 32 lesson, good health is more expensive than ill-health.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Point 6 says 'It is less expensive than ill-health (Mark 5:25-26).'",
           "source_section": "Outline I"
@@ -211,7 +235,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "THE TIPS",
-          "keywords": ["THE", "TIPS"],
+          "keywords": [
+            "THE",
+            "TIPS"
+          ],
           "explanation": "Outline II is titled 'THE TIPS'.",
           "source_section": "Outline II"
         },
@@ -238,8 +265,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, negative thoughts and mind-sets can be detrimental to our health.",
-          "options": ["True", "False"],
+          "question": "According to the Week 32 lesson, negative thoughts and mind-sets can be detrimental to our health.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'It is important to renew our minds because negative thoughts and mind-sets can be detrimental to our health (Romans 12:2).'",
           "source_section": "Outline II"
@@ -250,7 +280,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "Why does the lesson suggest spending time outdoors and reducing screen time?",
+          "question": "Why does the Week 32 lesson suggest spending time outdoors and reducing screen time?",
           "options": [
             "A. To save electricity",
             "B. To meet new people",
@@ -267,7 +297,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What happens when you steer clear of alcoholic/strong drinks, according to the lesson?",
+          "question": "What happens when you steer clear of alcoholic/strong drinks, according to the Week 32 lesson?",
           "options": [
             "A. You save money",
             "B. You avoid damaging the organs and the image of the victims",
@@ -302,7 +332,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, what we eat or drink is our first medicine.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states 'What we eat or drink is our first medicine.'",
           "source_section": "Conclusion"
@@ -400,7 +433,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Sitting for long periods at a stretch is detrimental to our health, so we must ensure that we walk more.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II states 'We must ensure that we walk more than sit in a position for long periods at a stretch as this is detrimental to our health.'",
           "source_section": "Outline II"

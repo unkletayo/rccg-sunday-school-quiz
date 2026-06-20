@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "2 Samuel 1:12",
-          "keywords": ["2 Samuel", "1:12"],
+          "keywords": [
+            "2 Samuel",
+            "1:12"
+          ],
           "explanation": "The memory verse reference is 2 Samuel 1:12.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,20 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 29 in full (NKJV).",
           "answer": "And they mourned and wept and fasted until evening for Saul and for Jonathan his son, for the people of the LORD and for the house of Israel, because they had fallen by the sword.",
-          "keywords": ["mourned", "wept", "fasted", "evening", "Saul", "Jonathan", "people", "LORD", "house", "Israel", "fallen", "sword"],
+          "keywords": [
+            "mourned",
+            "wept",
+            "fasted",
+            "evening",
+            "Saul",
+            "Jonathan",
+            "people",
+            "LORD",
+            "house",
+            "Israel",
+            "fallen",
+            "sword"
+          ],
           "explanation": "Full text recall of 2 Samuel 1:12.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +122,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The introduction states that loss is an inevitable part of life that takes many forms.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text begins: 'Loss is an inevitable part of life (Ecclesiastes 3:1-2, 4) that takes many forms...'",
           "source_section": "Introduction"
@@ -136,7 +155,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "COPING MECHANISMS",
-          "keywords": ["COPING", "MECHANISMS"],
+          "keywords": [
+            "COPING",
+            "MECHANISMS"
+          ],
           "explanation": "Outline I is titled 'COPING MECHANISMS'.",
           "source_section": "Outline I"
         },
@@ -163,8 +185,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, engaging in simple daily tasks can provide stability during an emotionally challenging time.",
-          "options": ["True", "False"],
+          "question": "According to the Week 29 lesson, engaging in simple daily tasks can provide stability during an emotionally challenging time.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'However, engaging in simple daily tasks can provide stability during an emotionally challenging time (Ruth 2:2).'",
           "source_section": "Outline I"
@@ -175,7 +200,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "Which of these is NOT mentioned as a healthy way to express grief in the lesson?",
+          "question": "Which of these is NOT mentioned as a healthy way to express grief in the Week 29 lesson?",
           "options": [
             "A. Journaling",
             "B. Tourism",
@@ -211,7 +236,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "FINDING COMFORT IN GOD",
-          "keywords": ["FINDING", "COMFORT", "IN", "GOD"],
+          "keywords": [
+            "FINDING",
+            "COMFORT",
+            "IN",
+            "GOD"
+          ],
           "explanation": "Outline II is titled 'FINDING COMFORT IN GOD'.",
           "source_section": "Outline II"
         },
@@ -255,8 +285,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, trusting that God has a plan, even in times of suffering, can provide a sense of purpose and hope.",
-          "options": ["True", "False"],
+          "question": "According to the Week 29 lesson, trusting that God has a plan, even in times of suffering, can provide a sense of purpose and hope.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'trusting that God has a plan, even in times of suffering, can provide a sense of purpose and hope for the future (Romans 8:28; Jeremiah 29:11).'",
           "source_section": "Outline II"
@@ -302,7 +335,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, coping with loss is a personal journey, but we can find strength by embracing practical mechanisms and leaning on faith.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states this.",
           "source_section": "Conclusion"
@@ -434,7 +470,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Finding healthy ways like journaling or art to express grief can be therapeutic because they allow us to process our emotions.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'can be incredibly therapeutic because they allow us to process our emotions and alleviate the intensity of our grief.'",
           "source_section": "Outline I"

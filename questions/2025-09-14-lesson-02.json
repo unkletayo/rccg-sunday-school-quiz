@@ -410,7 +410,7 @@
           "category": "bible_verse_reference",
           "difficulty": "hard",
           "type": "where_is_this_from",
-          "question": "Where is the title 'judge the living and the dead' found in reference to Jesus in the lesson?",
+          "question": "Where is the title 'judge the living and the dead' found in reference to Jesus in the Week 2 lesson?",
           "verse_text": "judge the living and the dead",
           "options": [
             "A. Revelation 22:11-12",
@@ -428,7 +428,7 @@
           "category": "name_meaning",
           "difficulty": "medium",
           "type": "free_text",
-          "question": "According to the lesson, what is the formal name of God in the Old Testament?",
+          "question": "According to the Week 2 lesson, what is the formal name of God in the Old Testament?",
           "answer": "Jehovah",
           "keywords": [
             "Jehovah"

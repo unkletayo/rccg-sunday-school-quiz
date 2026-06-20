@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Romans 12:2",
-          "keywords": ["Romans", "12:2"],
+          "keywords": [
+            "Romans",
+            "12:2"
+          ],
           "explanation": "The memory verse reference is Romans 12:2.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,18 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 22 in full (NKJV).",
           "answer": "And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
-          "keywords": ["conformed", "world", "transformed", "renewing", "mind", "prove", "acceptable", "perfect", "will", "God"],
+          "keywords": [
+            "conformed",
+            "world",
+            "transformed",
+            "renewing",
+            "mind",
+            "prove",
+            "acceptable",
+            "perfect",
+            "will",
+            "God"
+          ],
           "explanation": "Full text recall of Romans 12:2.",
           "source_section": "Memory Verse"
         },
@@ -105,7 +119,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How does the lesson define 'Agents of transformation'?",
+          "question": "How does the Week 22 lesson define 'Agents of transformation'?",
           "options": [
             "A. People who enforce the law in churches",
             "B. Men and women who change things from the way they used to be for the betterment of all",
@@ -122,8 +136,11 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, agents of transformation see a possibility for a new 'normal' and can motivate others to work towards that goal.",
-          "options": ["True", "False"],
+          "question": "According to the Week 22 lesson, agents of transformation see a possibility for a new 'normal' and can motivate others to work towards that goal.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly says 'They are people who see a possibility for a new ‘normal’ and can motivate others to work together towards the achievement of that goal...'",
           "source_section": "Introduction"
@@ -136,7 +153,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE QUALITIES",
-          "keywords": ["THE", "QUALITIES"],
+          "keywords": [
+            "THE",
+            "QUALITIES"
+          ],
           "explanation": "Outline I is titled 'THE QUALITIES'.",
           "source_section": "Outline I"
         },
@@ -197,8 +217,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, boldness is empowered by faith in God and courage, enabling agents to challenge the status quo.",
-          "options": ["True", "False"],
+          "question": "According to the Week 22 lesson, boldness is empowered by faith in God and courage, enabling agents to challenge the status quo.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 says 'Boldness: Faith in God and courage enable bold actions, empowering them to challenge the status quo (Joshua 1:9).'",
           "source_section": "Outline I"
@@ -245,7 +268,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "HOW TO BE ONE",
-          "keywords": ["HOW", "TO", "BE", "ONE"],
+          "keywords": [
+            "HOW",
+            "TO",
+            "BE",
+            "ONE"
+          ],
           "explanation": "Outline II is titled 'HOW TO BE ONE'.",
           "source_section": "Outline II"
         },
@@ -306,8 +334,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, studying and applying God's word equips you with faith, wisdom, counsel, and authority to navigate uncertainties.",
-          "options": ["True", "False"],
+          "question": "According to the Week 22 lesson, studying and applying God's word equips you with faith, wisdom, counsel, and authority to navigate uncertainties.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 3 explicitly states: 'God’s Word: Studying and applying God’s word equips you with faith, wisdom, counsel, and authority to navigate uncertainties...'",
           "source_section": "Outline II"
@@ -456,7 +487,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Prayer connects your efforts with God's will and invites His intervention in the process of transformation.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 7 explicitly states: 'Prayer connects your efforts with God’s will and invites His intervention in the process (Colossians 4:2).'",
           "source_section": "Outline II"

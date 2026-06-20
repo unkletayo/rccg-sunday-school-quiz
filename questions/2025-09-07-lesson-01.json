@@ -30,7 +30,7 @@
           "category": "greek_hebrew",
           "difficulty": "medium",
           "type": "free_text",
-          "question": "What is the Greek word for 'God' used in the lesson title?",
+          "question": "What is the Greek word for 'God' used in the Week 1 lesson title?",
           "answer": "Theos",
           "keywords": [
             "Theos"
@@ -44,7 +44,7 @@
           "category": "greek_hebrew",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "How is the Greek word 'Basileia' translated according to the lesson?",
+          "question": "How is the Greek word 'Basileia' translated according to the Week 1 lesson?",
           "options": [
             "A. Power, might, and dominion",
             "B. Kingdom, realm, rule and royalty",
@@ -93,7 +93,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to Matthew 19:23-24 referenced in the lesson, the Kingdom of God is also known as what?",
+          "question": "According to Matthew 19:23-24 referenced in the Week 1 lesson, the Kingdom of God is also known as what?",
           "options": [
             "A. The kingdom of heaven",
             "B. The kingdom of light",
@@ -228,7 +228,7 @@
           "category": "bible_verse_reference",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "Daniel 4:3 is used in the lesson to support the concept of the Spiritual Kingdom.",
+          "question": "Daniel 4:3 is used in the Week 1 lesson to support the concept of the Spiritual Kingdom.",
           "options": [
             "True",
             "False"
@@ -277,7 +277,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What is the concluding link between human history and the eternal kingdom according to Revelation 21-22 mentioned in the lesson?",
+          "question": "What is the concluding link between human history and the eternal kingdom according to Revelation 21-22 mentioned in the Week 1 lesson?",
           "options": [
             "A. The Universal Kingdom",
             "B. The Mediatorial Kingdom's end in the millennial reign",
@@ -428,7 +428,7 @@
           "category": "outline_II",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "What does the lesson state is the MAIN benefit of the kingdom (supported by Acts 3:19)?",
+          "question": "What does the Week 1 lesson state is the MAIN benefit of the kingdom (supported by Acts 3:19)?",
           "options": [
             "A. Physical healing",
             "B. Financial prosperity",
@@ -479,7 +479,7 @@
           "category": "bible_verse_meaning",
           "difficulty": "hard",
           "type": "true_false",
-          "question": "According to the lesson, 1 Corinthians 6:9-10 is used to explain the Universal Kingdom.",
+          "question": "According to the Week 1 lesson, 1 Corinthians 6:9-10 is used to explain the Universal Kingdom.",
           "options": [
             "True",
             "False"
@@ -512,7 +512,7 @@
           "category": "bible_verse_reference",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "Which set of scriptures does the lesson use to prove that the Spiritual kingdom exists in the hearts of believers?",
+          "question": "Which set of scriptures does the Week 1 lesson use to prove that the Spiritual kingdom exists in the hearts of believers?",
           "options": [
             "A. Luke 17:20-21",
             "B. Daniel 4:3",
@@ -608,7 +608,7 @@
           "category": "bible_verse_reference",
           "difficulty": "hard",
           "type": "multiple_choice",
-          "question": "According to the lesson, the millennial reign of Christ will last for a thousand years. Which scripture is cited to back this up?",
+          "question": "According to the Week 1 lesson, the millennial reign of Christ will last for a thousand years. Which scripture is cited to back this up?",
           "options": [
             "A. Revelation 20:4-6",
             "B. Revelation 21-22",

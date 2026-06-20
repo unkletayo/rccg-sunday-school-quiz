@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Galatians 5:13",
-          "keywords": ["Galatians", "5:13"],
+          "keywords": [
+            "Galatians",
+            "5:13"
+          ],
           "explanation": "The memory verse reference is Galatians 5:13.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 15 in full (NKJV).",
           "answer": "For you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another.",
-          "keywords": ["brethren", "liberty", "opportunity", "flesh", "love", "serve", "another"],
+          "keywords": [
+            "brethren",
+            "liberty",
+            "opportunity",
+            "flesh",
+            "love",
+            "serve",
+            "another"
+          ],
           "explanation": "Full text recall of Galatians 5:13.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +117,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the introduction, freedom without borders is problematic.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'However, freedom without borders is problematic.'",
           "source_section": "Introduction"
@@ -117,7 +131,7 @@
           "category": "introduction",
           "difficulty": "easy",
           "type": "multiple_choice",
-          "question": "How is freedom described in the introduction of the lesson?",
+          "question": "How is freedom described in the introduction of the Week 15 lesson?",
           "options": [
             "A. The condition of being free from external restraints",
             "B. The ability to control others",
@@ -136,7 +150,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "DESCRIPTION AND BRANDS",
-          "keywords": ["DESCRIPTION", "AND", "BRANDS"],
+          "keywords": [
+            "DESCRIPTION",
+            "AND",
+            "BRANDS"
+          ],
           "explanation": "Outline I is titled 'DESCRIPTION AND BRANDS'.",
           "source_section": "Outline I"
         },
@@ -231,8 +249,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "Engaging in unlawful or immoral activities under the pretence of freedom is called 'Evil Practices' in the lesson.",
-          "options": ["True", "False"],
+          "question": "Engaging in unlawful or immoral activities under the pretence of freedom is called 'Evil Practices' in the Week 15 lesson.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 is 'Evil Practices: Engaging in unlawful or immoral activities under the pretence of freedom.'",
           "source_section": "Outline I"
@@ -262,7 +283,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "TRUE FREEDOM",
-          "keywords": ["TRUE", "FREEDOM"],
+          "keywords": [
+            "TRUE",
+            "FREEDOM"
+          ],
           "explanation": "Outline II is titled 'TRUE FREEDOM'.",
           "source_section": "Outline II"
         },
@@ -358,7 +382,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "While freedom in Christ is a liberating gift, it is not a license to sin.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states 'While freedom in Christ is a beautiful and liberating gift, it is not a license to sin.'",
           "source_section": "Outline II"
@@ -370,7 +397,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, true freedom should be lived in obedience to God's word.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion begins with 'True freedom should be lived in obedience to God’s word...'",
           "source_section": "Conclusion"
@@ -468,7 +498,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Freedom from Principalities and Powers is part of true freedom in Christ Jesus.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 4 explicitly states 'Freedom from Principalities and Powers'.",
           "source_section": "Outline II"

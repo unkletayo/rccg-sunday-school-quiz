@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Proverbs 13:11",
-          "keywords": ["Proverbs", "13:11"],
+          "keywords": [
+            "Proverbs",
+            "13:11"
+          ],
           "explanation": "The memory verse reference is Proverbs 13:11.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 27 in full (NKJV).",
           "answer": "Wealth gained by dishonesty will be diminished: but he who gathers by labour will increase.",
-          "keywords": ["Wealth", "gained", "dishonesty", "diminished", "gathers", "labour", "increase"],
+          "keywords": [
+            "Wealth",
+            "gained",
+            "dishonesty",
+            "diminished",
+            "gathers",
+            "labour",
+            "increase"
+          ],
           "explanation": "Full text recall of Proverbs 13:11.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +117,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the introduction, wealth and living a comfortable life are NOT part of God's plan for humanity.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states 'Wealth and living a comfortable life are part of God’s plan for humanity.'",
           "source_section": "Introduction"
@@ -117,7 +131,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson's introduction, what has driven many youths to adopt the get-rich-quick syndrome?",
+          "question": "According to the Week 27 lesson's introduction, what has driven many youths to adopt the get-rich-quick syndrome?",
           "options": [
             "A. Poverty",
             "B. Lack of patience",
@@ -136,7 +150,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE SYNDROME",
-          "keywords": ["THE", "SYNDROME"],
+          "keywords": [
+            "THE",
+            "SYNDROME"
+          ],
           "explanation": "Outline I is titled 'THE SYNDROME'.",
           "source_section": "Outline I"
         },
@@ -180,8 +197,11 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, a lack of genuine satisfaction often leads to sudden death as a consequence of this syndrome.",
-          "options": ["True", "False"],
+          "question": "According to the Week 27 lesson, a lack of genuine satisfaction often leads to sudden death as a consequence of this syndrome.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says '...and lack of genuine satisfaction which often leads to sudden death (Proverbs 1:18-19).'",
           "source_section": "Outline I"
@@ -211,7 +231,11 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "RESIST THE URGE",
-          "keywords": ["RESIST", "THE", "URGE"],
+          "keywords": [
+            "RESIST",
+            "THE",
+            "URGE"
+          ],
           "explanation": "Outline II is titled 'RESIST THE URGE'.",
           "source_section": "Outline II"
         },
@@ -255,7 +279,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, how should society shift the spotlight?",
+          "question": "According to the Week 27 lesson, how should society shift the spotlight?",
           "options": [
             "A. From integrity to wealth",
             "B. From wealth to integrity",
@@ -272,8 +296,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, creating job opportunities and empowering youths through skill acquisition are crucial steps society can take.",
-          "options": ["True", "False"],
+          "question": "According to the Week 27 lesson, creating job opportunities and empowering youths through skill acquisition are crucial steps society can take.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'Additionally, creating job opportunities, empowering youths through skill acquisition, and supporting entrepreneurship are crucial steps...'",
           "source_section": "Outline II"
@@ -302,7 +329,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The conclusion warns that the get-rich-quick syndrome is a plan to make a lot of money in a short time, often not minding the risk.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion states: 'The get-rich-quick syndrome is a plan to make a lot of money in a short time, often with little effort and not minding the risk, beware (1 Timothy 6:10).'",
           "source_section": "Conclusion"
@@ -434,7 +464,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "One of the red flags for a scam is a stranger who claims to be connected through mutual acquaintances and proposes a business opportunity.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text specifically mentions this as a red flag in Outline I.",
           "source_section": "Outline I"

@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Leviticus 18:22",
-          "keywords": ["Leviticus", "18:22"],
+          "keywords": [
+            "Leviticus",
+            "18:22"
+          ],
           "explanation": "The memory verse reference is Leviticus 18:22.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,12 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 37 in full (NKJV).",
           "answer": "You shall not lie with a male as with a woman. It is an abomination.",
-          "keywords": ["lie", "male", "woman", "abomination"],
+          "keywords": [
+            "lie",
+            "male",
+            "woman",
+            "abomination"
+          ],
           "explanation": "Full text recall of Leviticus 18:22.",
           "source_section": "Memory Verse"
         },
@@ -106,7 +114,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The homosexual community wants to be seen as neither abnormal nor dangerous.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The introduction states 'They seek social, political, and cultural recognition and aim to be seen as neither abnormal nor dangerous.'",
           "source_section": "Introduction"
@@ -119,7 +130,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "HOMOSEXUALITY EXPLAINED",
-          "keywords": ["HOMOSEXUALITY", "EXPLAINED"],
+          "keywords": [
+            "HOMOSEXUALITY",
+            "EXPLAINED"
+          ],
           "explanation": "Outline I is titled 'HOMOSEXUALITY EXPLAINED'.",
           "source_section": "Outline I"
         },
@@ -129,7 +143,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What Greek word is the term 'homosexual' derived from in the lesson?",
+          "question": "What Greek word is the term 'homosexual' derived from in the Week 37 lesson?",
           "options": [
             "A. Agape",
             "B. Arsenokoites",
@@ -146,7 +160,7 @@
           "category": "outline_I",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What is homosexuality among the female gender referred to as in the lesson?",
+          "question": "What is homosexuality among the female gender referred to as in the Week 37 lesson?",
           "options": [
             "A. Feminism",
             "B. Misogyny",
@@ -164,7 +178,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline I, homosexual desires are completely natural.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly states 'Homosexual desires, which may feel natural, are unnatural (Romans 1:26-27).'",
           "source_section": "Outline I"
@@ -194,7 +211,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "WHAT THE BIBLE SAYS",
-          "keywords": ["WHAT", "THE", "BIBLE", "SAYS"],
+          "keywords": [
+            "WHAT",
+            "THE",
+            "BIBLE",
+            "SAYS"
+          ],
           "explanation": "Outline II is titled 'WHAT THE BIBLE SAYS'.",
           "source_section": "Outline II"
         },
@@ -238,7 +260,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the lesson, what will God do to homosexuals who refuse to repent?",
+          "question": "According to the Week 37 lesson, what will God do to homosexuals who refuse to repent?",
           "options": [
             "A. Punish them immediately with fire",
             "B. Let them alone and give them reprobate minds to continue in their sins",
@@ -376,7 +398,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The homosexual community attempts to use political power to control the church.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I explicitly states 'The homosexual community also attempts to use political power to control the church.'",
           "source_section": "Outline I"
@@ -422,7 +447,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The homosexual community wants their views taught in schools and promoted over the airwaves.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I states 'They also want their views taught in schools, promoted over the airwaves, and codified in literatures.'",
           "source_section": "Outline I"

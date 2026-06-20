@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Amos 3:3",
-          "keywords": ["Amos", "3:3"],
+          "keywords": [
+            "Amos",
+            "3:3"
+          ],
           "explanation": "The memory verse reference is Amos 3:3.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,12 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 33 in full (NKJV).",
           "answer": "Can two walk together, unless they are agreed?",
-          "keywords": ["walk", "together", "unless", "agreed"],
+          "keywords": [
+            "walk",
+            "together",
+            "unless",
+            "agreed"
+          ],
           "explanation": "Full text recall of Amos 3:3.",
           "source_section": "Memory Verse"
         },
@@ -89,7 +97,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the introduction, a normal intentional premarital relationship must have marriage as a destination.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'A normal and correct intentional premarital relationship/courtship... must have marriage as a destination.'",
           "source_section": "Introduction"
@@ -119,7 +130,13 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "POINTERS OF A HEALTHY RELATIONSHIP",
-          "keywords": ["POINTERS", "OF", "A", "HEALTHY", "RELATIONSHIP"],
+          "keywords": [
+            "POINTERS",
+            "OF",
+            "A",
+            "HEALTHY",
+            "RELATIONSHIP"
+          ],
           "explanation": "Outline I is titled 'POINTERS OF A HEALTHY RELATIONSHIP'.",
           "source_section": "Outline I"
         },
@@ -216,7 +233,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "BE INTENTIONAL",
-          "keywords": ["BE", "INTENTIONAL"],
+          "keywords": [
+            "BE",
+            "INTENTIONAL"
+          ],
           "explanation": "Outline II is titled 'BE INTENTIONAL'.",
           "source_section": "Outline II"
         },
@@ -243,8 +263,11 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the lesson, a well-defined relationship must have a take-off point and a landing point.",
-          "options": ["True", "False"],
+          "question": "According to the Week 33 lesson, a well-defined relationship must have a take-off point and a landing point.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'A well-defined relationship must have a take-off point and a landing point (Genesis 24:51).'",
           "source_section": "Outline II"
@@ -255,7 +278,7 @@
           "category": "outline_II",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What does the lesson say the would-be couples must abstain from since they are not legally married?",
+          "question": "What does the Week 33 lesson say the would-be couples must abstain from since they are not legally married?",
           "options": [
             "A. Praying together",
             "B. Calling each other",
@@ -290,7 +313,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The conclusion advises you not to leave your relationship to chance, but to define it and have a direction.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states 'Do not leave your relationship to chance, define it and have a direction for where you are heading.'",
           "source_section": "Conclusion"
@@ -422,7 +448,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Shared interests or working together automatically equates to compatibility for marriage.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Outline I explicitly states 'Shared interests or working together does not automatically equate to compatibility for marriage.'",
           "source_section": "Outline I"
@@ -434,7 +463,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Truthfulness must be intentionally exhibited by the two parties in the relationship.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II concludes 'Truthfulness must be intentionally exhibited by the two parties in the relationship.'",
           "source_section": "Outline II"
