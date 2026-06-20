@@ -113,6 +113,7 @@ export async function loadQuizzesForMode(mode) {
     }
 
     if (mode === 'mix') {
+        state.allMixQuestions = null;
         state.quizzes = [];
         renderMenu();
         return;
