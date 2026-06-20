@@ -42,6 +42,7 @@ function sessionId() {
 }
 
 export function saveProgress() {
+    if (state.currentMode === 'mix') return;
     localStorage.setItem(SESSION_KEY, JSON.stringify({
         id: sessionId(),
         questionIndex: state.currentQuestionIndex,
