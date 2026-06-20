@@ -18,7 +18,14 @@ export async function buildMixQuiz(count) {
             state.allMixQuestions = [];
             files.forEach(f => {
                 if (f && f.weeks && f.weeks[0]) {
-                    state.allMixQuestions.push(...f.weeks[0].questions);
+                    const weekNum = f.weeks[0].week_number;
+                    const patched = f.weeks[0].questions.map(q => ({
+                        ...q,
+                        question: q.question
+                            .replace(/this week's/gi, `Week ${weekNum}'s`)
+                            .replace(/this week/gi, `Week ${weekNum}`),
+                    }));
+                    state.allMixQuestions.push(...patched);
                 }
             });
         }

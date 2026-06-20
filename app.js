@@ -11,8 +11,9 @@ DOM.countBtns.forEach(btn => {
     btn.addEventListener('click', () => {
         const val = btn.dataset.count;
         const count = val === 'all' ? Infinity : parseInt(val, 10);
+        const cb = state.pendingQuizCallback;
         hideCountModal();
-        if (state.pendingQuizCallback) state.pendingQuizCallback(count);
+        if (cb) cb(count);
     });
 });
 
