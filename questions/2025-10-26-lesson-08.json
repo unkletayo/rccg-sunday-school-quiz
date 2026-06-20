@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Colossians 3:13",
-          "keywords": ["Colossians", "3:13"],
+          "keywords": [
+            "Colossians",
+            "3:13"
+          ],
           "explanation": "The memory verse is Colossians 3:13.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 8 in full (NKJV).",
           "answer": "Bearing with one another, and forgiving one another, if anyone has a complaint against another; even as Christ forgave you, so you also must do.",
-          "keywords": ["Bearing", "forgiving", "complaint", "Christ", "forgave", "must", "do"],
+          "keywords": [
+            "Bearing",
+            "forgiving",
+            "complaint",
+            "Christ",
+            "forgave",
+            "must",
+            "do"
+          ],
           "explanation": "Full text recall for Colossians 3:13.",
           "source_section": "Memory Verse"
         },
@@ -88,7 +99,7 @@
           "category": "memory_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the memory verse, what standard should we use when forgiving someone who we have a complaint against?",
+          "question": "According to the memory verse (Colossians 3:13), what standard should we use when forgiving someone who we have a complaint against?",
           "options": [
             "A. We should forgive as many times as they apologize",
             "B. We should forgive even as Christ forgave us",
@@ -106,7 +117,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the introduction, faith and science are often portrayed as opposing forces.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The intro states: 'Faith and science are often portrayed as opposing forces...'",
           "source_section": "Introduction"
@@ -136,7 +150,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE CONCEPTS",
-          "keywords": ["THE", "CONCEPTS"],
+          "keywords": [
+            "THE",
+            "CONCEPTS"
+          ],
           "explanation": "Outline I is titled 'THE CONCEPTS'.",
           "source_section": "Outline I"
         },
@@ -181,7 +198,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the lesson, science is defined as the discovery and orderly classification and exposition of the phenomena called nature.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I states exactly this definition.",
           "source_section": "Outline I"
@@ -262,7 +282,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "THE HARMONY",
-          "keywords": ["THE", "HARMONY"],
+          "keywords": [
+            "THE",
+            "HARMONY"
+          ],
           "explanation": "Outline II is titled 'THE HARMONY'.",
           "source_section": "Outline II"
         },
@@ -307,7 +330,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline II, the belief that the universe is orderly and governed by consistent laws stems from a faith-based worldview.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The lesson explicitly says 'The belief that the universe is orderly... stems from a faith-based worldview'.",
           "source_section": "Outline II"
@@ -370,7 +396,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the lesson, our belief in science should be absolute, while our faith in God should be intellectual.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The lesson says the exact opposite: 'our faith in God should be absolute... while our belief in science should be intellectual.'",
           "source_section": "Outline II"
@@ -485,7 +514,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The lesson asserts that faith provides meaning, purpose, and moral guidance.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I says 'For many, faith provides meaning, purpose and moral guidance'.",
           "source_section": "Outline I"
@@ -497,7 +529,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The misconception that faith and science are mutually exclusive can lead to unnecessary tension.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'These views can lead to unnecessary tension, playing down how faith and science can coexist.'",
           "source_section": "Outline I"

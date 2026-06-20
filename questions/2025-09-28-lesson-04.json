@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "What does the Greek word 'Pneuma' translate to in English according to the lesson?",
           "answer": "Holy Spirit",
-          "keywords": ["Holy", "Spirit"],
+          "keywords": [
+            "Holy",
+            "Spirit"
+          ],
           "explanation": "The text says 'while Pneuma is the Holy Spirit.'",
           "source_section": "Introduction"
         },
@@ -95,7 +98,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "John 16:13",
-          "keywords": ["John", "16:13"],
+          "keywords": [
+            "John",
+            "16:13"
+          ],
           "explanation": "The memory verse reference is John 16:13.",
           "source_section": "Memory Verse"
         },
@@ -107,7 +113,16 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 4 in full (NKJV).",
           "answer": "However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come",
-          "keywords": ["Spirit", "truth", "guide", "authority", "speak", "hears", "things", "come"],
+          "keywords": [
+            "Spirit",
+            "truth",
+            "guide",
+            "authority",
+            "speak",
+            "hears",
+            "things",
+            "come"
+          ],
           "explanation": "Full text recall of John 16:13.",
           "source_section": "Memory Verse"
         },
@@ -117,7 +132,7 @@
           "category": "memory_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the memory verse, on whose authority will the Spirit of truth speak?",
+          "question": "According to the memory verse (John 16:13), on whose authority will the Spirit of truth speak?",
           "options": [
             "A. His own authority",
             "B. The disciples' authority",
@@ -134,8 +149,11 @@
           "category": "memory_verse_meaning",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the memory verse, the Spirit of truth will tell you things of the past, but not things to come.",
-          "options": ["True", "False"],
+          "question": "According to the memory verse (John 16:13), the Spirit of truth will tell you things of the past, but not things to come.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The verse explicitly states 'and He will tell you things to come'.",
           "source_section": "Memory Verse"
@@ -197,9 +215,13 @@
           "category": "outline_I",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the first outline in this lesson?",
+          "question": "What is the heading of the first outline in the Week 4 lesson?",
           "answer": "FUNCTIONS OF THE HOLY SPIRIT",
-          "keywords": ["FUNCTIONS", "HOLY", "SPIRIT"],
+          "keywords": [
+            "FUNCTIONS",
+            "HOLY",
+            "SPIRIT"
+          ],
           "explanation": "Outline I is titled 'FUNCTIONS OF THE HOLY SPIRIT'.",
           "source_section": "Outline I"
         },
@@ -227,7 +249,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline I, the Holy Spirit distributes spiritual gifts according to our own personal desires and will.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "It says 'He distributes spiritual gifts according to His will'.",
           "source_section": "Outline I"
@@ -307,9 +332,16 @@
           "category": "outline_II",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the second outline in this lesson?",
+          "question": "What is the heading of the second outline in the Week 4 lesson?",
           "answer": "OUR THOUGHTS VERSUS THE HOLY SPIRIT’S LEADING",
-          "keywords": ["OUR", "THOUGHTS", "VERSUS", "HOLY", "SPIRIT", "LEADING"],
+          "keywords": [
+            "OUR",
+            "THOUGHTS",
+            "VERSUS",
+            "HOLY",
+            "SPIRIT",
+            "LEADING"
+          ],
           "explanation": "Outline II is titled 'OUR THOUGHTS VERSUS THE HOLY SPIRIT’S LEADING'.",
           "source_section": "Outline II"
         },
@@ -320,7 +352,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline II, fear is a product of uncontrolled thoughts.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states: 'Fear is a product of uncontrolled thoughts.'",
           "source_section": "Outline II"
@@ -434,7 +469,10 @@
           "difficulty": "hard",
           "type": "true_false",
           "question": "When we know the will of God but do not follow it, we are resisting the Spirit’s work in our lives.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The lesson states exactly this, citing Acts 7:51 and 1 Thess 5:19.",
           "source_section": "Outline II"

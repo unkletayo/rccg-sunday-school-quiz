@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Colossians 1:17",
-          "keywords": ["Colossians", "1:17"],
+          "keywords": [
+            "Colossians",
+            "1:17"
+          ],
           "explanation": "The memory verse is explicitly listed as Colossians 1:17.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,13 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 7 in full (NKJV).",
           "answer": "And He is before all things, and in Him all things consist.",
-          "keywords": ["before", "all", "things", "Him", "consist"],
+          "keywords": [
+            "before",
+            "all",
+            "things",
+            "Him",
+            "consist"
+          ],
           "explanation": "Full text recall for Colossians 1:17.",
           "source_section": "Memory Verse"
         },
@@ -139,9 +148,14 @@
           "category": "outline_I",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the first outline in this lesson?",
+          "question": "What is the heading of the first outline in the Week 7 lesson?",
           "answer": "REASONS CHRISTIANS SHOULD FORGIVE",
-          "keywords": ["REASONS", "CHRISTIANS", "SHOULD", "FORGIVE"],
+          "keywords": [
+            "REASONS",
+            "CHRISTIANS",
+            "SHOULD",
+            "FORGIVE"
+          ],
           "explanation": "Outline I is titled 'REASONS CHRISTIANS SHOULD FORGIVE'.",
           "source_section": "Outline I"
         },
@@ -186,7 +200,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline I, forgiveness is merely a suggestion for Christians, not a command.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says 'It is a command (Mark 11:25; Ephesians 4:32).'",
           "source_section": "Outline I"
@@ -248,9 +265,13 @@
           "category": "outline_II",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the second outline in this lesson?",
+          "question": "What is the heading of the second outline in the Week 7 lesson?",
           "answer": "ACHIEVING TRUE FORGIVENESS",
-          "keywords": ["ACHIEVING", "TRUE", "FORGIVENESS"],
+          "keywords": [
+            "ACHIEVING",
+            "TRUE",
+            "FORGIVENESS"
+          ],
           "explanation": "Outline II is titled 'ACHIEVING TRUE FORGIVENESS'.",
           "source_section": "Outline II"
         },
@@ -296,7 +317,9 @@
           "type": "free_text",
           "question": "What is the acronym for the 5-step model adopted in the lesson to achieve forgiveness?",
           "answer": "REACH",
-          "keywords": ["REACH"],
+          "keywords": [
+            "REACH"
+          ],
           "explanation": "The lesson says 'we can adopt the programme known as the REACH model.'",
           "source_section": "Outline II"
         },
@@ -341,7 +364,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "In the REACH model, 'Empathise' means seeing from the offender's point of view and downplaying the wrong that was done.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly says 'without downplaying the wrong that was done'.",
           "source_section": "Outline II"
@@ -438,7 +464,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The conclusion of the lesson states that true forgiveness is cheap and easy.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The conclusion explicitly states: 'True forgiveness may not come cheap, but its benefits outweigh the pain.'",
           "source_section": "Conclusion"
@@ -484,7 +513,7 @@
           "category": "bible_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the Bible Passage, how did Joseph respond to his brothers when they fell down as his servants?",
+          "question": "According to the Bible Passage (Genesis 50:19), how did Joseph respond to his brothers when they fell down as his servants?",
           "options": [
             "A. He threw them in prison",
             "B. He said 'Do not be afraid, for am I in the place of God?'",
@@ -536,7 +565,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the introduction, some believers say they will only be able to forgive when they get to heaven.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The introduction states: 'Some believers even say it is when they get to heaven before they can forgive.'",
           "source_section": "Introduction"
@@ -548,7 +580,10 @@
           "difficulty": "hard",
           "type": "true_false",
           "question": "The 'Hold' stage of the REACH model acknowledges that memories of the painful event will never reoccur once you have truly forgiven.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states: 'This is tough because memories of the event will often reoccur.'",
           "source_section": "Outline II"

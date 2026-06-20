@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "1 Corinthians 3:3",
-          "keywords": ["1 Corinthians", "3:3"],
+          "keywords": [
+            "1 Corinthians",
+            "3:3"
+          ],
           "explanation": "The memory verse reference is 1 Corinthians 3:3.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 10 in full (NKJV).",
           "answer": "For you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men?",
-          "keywords": ["carnal", "envy", "strife", "divisions", "behaving", "mere", "men"],
+          "keywords": [
+            "carnal",
+            "envy",
+            "strife",
+            "divisions",
+            "behaving",
+            "mere",
+            "men"
+          ],
           "explanation": "Full text recall of 1 Corinthians 3:3.",
           "source_section": "Memory Verse"
         },
@@ -88,7 +99,7 @@
           "category": "memory_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the memory verse, what behaviors mark a believer as still being 'carnal' and 'behaving like mere men'?",
+          "question": "According to the memory verse (1 Corinthians 3:3), what behaviors mark a believer as still being 'carnal' and 'behaving like mere men'?",
           "options": [
             "A. Stealing, lying, and cheating",
             "B. Envy, strife, and divisions",
@@ -141,7 +152,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "SIGNS OF SPIRITUAL IMMATURITY",
-          "keywords": ["SIGNS", "SPIRITUAL", "IMMATURITY"],
+          "keywords": [
+            "SIGNS",
+            "SPIRITUAL",
+            "IMMATURITY"
+          ],
           "explanation": "Outline I is titled 'SIGNS OF SPIRITUAL IMMATURITY'.",
           "source_section": "Outline I"
         },
@@ -186,7 +201,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the lesson, a believer who is gifted but lacks the corresponding fruit of the Spirit is exhibiting a sign of spiritual immaturity.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 2 lists 'Gifted but lacking the corresponding fruit of the Spirit' as a sign of immaturity.",
           "source_section": "Outline I"
@@ -232,7 +250,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "An inability to endure sound doctrines, tending to be pampered and listening only to what is soothing, is a sign of spiritual maturity.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "It is listed as Point 6 under 'SIGNS OF SPIRITUAL IMMATURITY'.",
           "source_section": "Outline I"
@@ -262,7 +283,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "JOURNEY TO SPIRITUAL MATURITY",
-          "keywords": ["JOURNEY", "TO", "SPIRITUAL", "MATURITY"],
+          "keywords": [
+            "JOURNEY",
+            "TO",
+            "SPIRITUAL",
+            "MATURITY"
+          ],
           "explanation": "Outline II is titled 'JOURNEY TO SPIRITUAL MATURITY'.",
           "source_section": "Outline II"
         },
@@ -324,7 +350,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Spiritual maturity involves managing our emotions and living beyond our feelings.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states: 'managing our emotions and living beyond our feelings (Proverbs 16:32)'.",
           "source_section": "Outline II"
@@ -490,7 +519,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Getting upset over petty things is listed as a sign of spiritual immaturity.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 9 says 'Gets upset over petty things (Proverbs 19:11).'",
           "source_section": "Outline I"

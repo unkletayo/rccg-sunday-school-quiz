@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Daniel 5:11",
-          "keywords": ["Daniel", "5:11"],
+          "keywords": [
+            "Daniel",
+            "5:11"
+          ],
           "explanation": "The memory verse reference is Daniel 5:11.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,24 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 24 in full (NKJV).",
           "answer": "There is a man in your kingdom in whom is the Spirit of the Holy God. And in the days of your father, light and understanding and wisdom, like the wisdom of the gods, were found in him; and King Nebuchadnezzar your father—your father the king—made him chief of the magicians, astrologers, Chaldeans, and soothsayers.",
-          "keywords": ["kingdom", "Spirit", "Holy", "God", "light", "understanding", "wisdom", "gods", "Nebuchadnezzar", "father", "king", "chief", "magicians", "astrologers", "Chaldeans", "soothsayers"],
+          "keywords": [
+            "kingdom",
+            "Spirit",
+            "Holy",
+            "God",
+            "light",
+            "understanding",
+            "wisdom",
+            "gods",
+            "Nebuchadnezzar",
+            "father",
+            "king",
+            "chief",
+            "magicians",
+            "astrologers",
+            "Chaldeans",
+            "soothsayers"
+          ],
           "explanation": "Full text recall of Daniel 5:11.",
           "source_section": "Memory Verse"
         },
@@ -105,8 +125,11 @@
           "category": "introduction",
           "difficulty": "easy",
           "type": "true_false",
-          "question": "The introduction of this lesson states that we will explore approaches to engage in political and community involvement.",
-          "options": ["True", "False"],
+          "question": "The introduction of the Week 24 lesson states that we will explore approaches to engage in political and community involvement.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text says 'In this lesson, we will explore approaches to engage in political and community involvement.'",
           "source_section": "Introduction"
@@ -119,7 +142,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "BIBLICAL BASIS",
-          "keywords": ["BIBLICAL", "BASIS"],
+          "keywords": [
+            "BIBLICAL",
+            "BASIS"
+          ],
           "explanation": "Outline I is titled 'BIBLICAL BASIS'.",
           "source_section": "Outline I"
         },
@@ -164,7 +190,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the lesson, one of our responsibilities as citizens is to disobey authority whenever we disagree with them.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says 'All authority comes from God and one of our responsibilities as citizens is to obey authority (Romans 13:1).'",
           "source_section": "Outline I"
@@ -194,7 +223,12 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "PRACTICAL STEPS FOR ENGAGEMENT",
-          "keywords": ["PRACTICAL", "STEPS", "FOR", "ENGAGEMENT"],
+          "keywords": [
+            "PRACTICAL",
+            "STEPS",
+            "FOR",
+            "ENGAGEMENT"
+          ],
           "explanation": "Outline II is titled 'PRACTICAL STEPS FOR ENGAGEMENT'.",
           "source_section": "Outline II"
         },
@@ -222,7 +256,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the lesson, joining a political party that reflects your Christian values can provide a platform for advocating policies that resonate with your beliefs.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 5 says 'This affiliation will amplify your voice and provide a platform for advocating policies that resonate with your beliefs.'",
           "source_section": "Outline II"
@@ -302,7 +339,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to the conclusion, we should remain steadfast in faith while actively participating in the political sphere.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion says 'actively participate in the political sphere and remain steadfast in faith.'",
           "source_section": "Conclusion"
@@ -434,7 +474,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Advocating for policies that reflect God's heart for justice can involve participating in peaceful demonstrations.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Point 7 says 'This could involve writing letters... participating in peaceful demonstrations...'",
           "source_section": "Outline II"
@@ -446,7 +489,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The lesson commands believers to project their relevance in the world and ensure biblical values guide their actions.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I says 'Instead, we should actively project our relevance in the world, as we ensure biblical values and principles guide our actions...'",
           "source_section": "Outline I"

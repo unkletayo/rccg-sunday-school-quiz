@@ -66,7 +66,9 @@
           "type": "free_text",
           "question": "What is the term used to describe a 'god or goddess' or a being of divine status, quality, or nature?",
           "answer": "Deity",
-          "keywords": ["Deity"],
+          "keywords": [
+            "Deity"
+          ],
           "explanation": "The introduction defines a 'deity' as a god or goddess, or a being of divine status.",
           "source_section": "Introduction"
         },
@@ -77,7 +79,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "People of other major religions commonly argue about the Deity of Jesus Christ, teaching that He was only a prophet, a good teacher, or a godly man.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The introduction mentions this is a common argument among other major religions.",
           "source_section": "Introduction"
@@ -124,7 +129,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "1 John 5:20",
-          "keywords": ["1 John", "5:20"],
+          "keywords": [
+            "1 John",
+            "5:20"
+          ],
           "explanation": "The memory verse reference is 1 John 5:20.",
           "source_section": "Memory Verse"
         },
@@ -136,7 +144,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 2 in full (NKJV).",
           "answer": "And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life.",
-          "keywords": ["know", "Son", "God", "understanding", "true", "eternal", "life"],
+          "keywords": [
+            "know",
+            "Son",
+            "God",
+            "understanding",
+            "true",
+            "eternal",
+            "life"
+          ],
           "explanation": "Full text recall of 1 John 5:20.",
           "source_section": "Memory Verse"
         },
@@ -163,9 +179,12 @@
           "category": "outline_I",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the first outline in this lesson?",
+          "question": "What is the heading of the first outline in the Week 2 lesson?",
           "answer": "HIS DIVINITY",
-          "keywords": ["HIS", "DIVINITY"],
+          "keywords": [
+            "HIS",
+            "DIVINITY"
+          ],
           "explanation": "Outline I is titled 'HIS DIVINITY'.",
           "source_section": "Outline I"
         },
@@ -193,7 +212,10 @@
           "difficulty": "hard",
           "type": "true_false",
           "question": "According to Colossians 2:9, the Bible clearly states that the Godhead resides in Jesus Christ spiritually, but not bodily.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text says 'The Bible clearly states that the Godhead resides in Jesus Christ bodily (Colossians 2:9).'",
           "source_section": "Outline I"
@@ -274,7 +296,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline I, Jesus rebuked people for worshipping Him in Matthew 2:11 and Luke 24:52.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The lesson explicitly states: 'He never rebukes people for worshipping Him.'",
           "source_section": "Outline I"
@@ -319,9 +344,14 @@
           "category": "outline_II",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the second outline in this lesson?",
+          "question": "What is the heading of the second outline in the Week 2 lesson?",
           "answer": "REASONS JESUS IS GOD",
-          "keywords": ["REASONS", "JESUS", "IS", "GOD"],
+          "keywords": [
+            "REASONS",
+            "JESUS",
+            "IS",
+            "GOD"
+          ],
           "explanation": "Outline II is titled 'REASONS JESUS IS GOD'.",
           "source_section": "Outline II"
         },
@@ -366,7 +396,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "According to Acts 5:31 and Luke 5:20-24, Jesus has the right to forgive sins, which is something only God can do.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The outline explicitly states that Jesus has the right to forgive sins, an action only God can perform.",
           "source_section": "Outline II"
@@ -397,7 +430,9 @@
           "type": "free_text",
           "question": "According to the lesson, what is the formal name of God in the Old Testament?",
           "answer": "Jehovah",
-          "keywords": ["Jehovah"],
+          "keywords": [
+            "Jehovah"
+          ],
           "explanation": "The text refers to Jehovah as '(the formal name of God)'.",
           "source_section": "Outline II"
         },
@@ -460,7 +495,9 @@
           "type": "free_text",
           "question": "Which divine attribute, representing God being present everywhere, is credited to Jesus in Matthew 18:20 and 28:20?",
           "answer": "Omnipresence",
-          "keywords": ["Omnipresence"],
+          "keywords": [
+            "Omnipresence"
+          ],
           "explanation": "The lesson lists Omnipresence and cites those verses.",
           "source_section": "Outline II"
         },
@@ -539,8 +576,11 @@
           "category": "bible_verse_meaning",
           "difficulty": "medium",
           "type": "true_false",
-          "question": "According to the Bible Passage, the light shines in the darkness, and the darkness comprehended it.",
-          "options": ["True", "False"],
+          "question": "According to the Bible Passage (John 1:5), the light shines in the darkness, and the darkness comprehended it.",
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "John 1:5 says 'and the darkness did not comprehend it.'",
           "source_section": "Bible Passage"
@@ -586,7 +626,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The right to forgive sins, which Jesus exercised in Luke 5:20-24, was shared by the apostles.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The outline states that forgiving sins 'is something only God can do'.",
           "source_section": "Outline II"
@@ -599,7 +642,10 @@
           "type": "free_text",
           "question": "What phrase did Jesus use in John 8:58 to directly apply the Old Testament name of God to Himself?",
           "answer": "I AM",
-          "keywords": ["I", "AM"],
+          "keywords": [
+            "I",
+            "AM"
+          ],
           "explanation": "The lesson quotes 'before Abraham was, I AM' as the direct application.",
           "source_section": "Outline I"
         },

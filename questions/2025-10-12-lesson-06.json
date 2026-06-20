@@ -83,7 +83,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "1 Peter 2:9",
-          "keywords": ["1 Peter", "2:9"],
+          "keywords": [
+            "1 Peter",
+            "2:9"
+          ],
           "explanation": "The memory verse is 1 Peter 2:9.",
           "source_section": "Memory Verse"
         },
@@ -95,7 +98,21 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 6 in full (NKJV).",
           "answer": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvellous light.",
-          "keywords": ["chosen", "generation", "royal", "priesthood", "holy", "nation", "special", "people", "proclaim", "praises", "darkness", "marvellous", "light"],
+          "keywords": [
+            "chosen",
+            "generation",
+            "royal",
+            "priesthood",
+            "holy",
+            "nation",
+            "special",
+            "people",
+            "proclaim",
+            "praises",
+            "darkness",
+            "marvellous",
+            "light"
+          ],
           "explanation": "Full text recall of 1 Peter 2:9.",
           "source_section": "Memory Verse"
         },
@@ -105,7 +122,7 @@
           "category": "memory_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the memory verse, what is the purpose of being a chosen generation and royal priesthood?",
+          "question": "According to the memory verse (1 Peter 2:9), what is the purpose of being a chosen generation and royal priesthood?",
           "options": [
             "A. To rule over the nations",
             "B. To judge the world",
@@ -141,7 +158,9 @@
           "type": "free_text",
           "question": "According to the introduction, to know yourself is to have adequate knowledge of your personality and the ________ you wield as God’s child.",
           "answer": "power",
-          "keywords": ["power"],
+          "keywords": [
+            "power"
+          ],
           "explanation": "The text says 'and the power you wield as God’s child'.",
           "source_section": "Introduction"
         },
@@ -170,7 +189,11 @@
           "type": "free_text",
           "question": "What is the exact heading for Outline I?",
           "answer": "THE MANUFACTURER’S MANUAL",
-          "keywords": ["THE", "MANUFACTURER", "MANUAL"],
+          "keywords": [
+            "THE",
+            "MANUFACTURER",
+            "MANUAL"
+          ],
           "explanation": "Outline I is titled 'THE MANUFACTURER’S MANUAL'.",
           "source_section": "Outline I"
         },
@@ -232,7 +255,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The more of the Bible we read, the more life we get and the healthier, stronger, and more joyful we become (Jeremiah 15:16; Proverbs 4:20-22).",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly makes this claim based on those verses.",
           "source_section": "Outline I"
@@ -279,7 +305,11 @@
           "type": "free_text",
           "question": "What is the exact heading for Outline II?",
           "answer": "THE PLACE OF KNOWLEDGE",
-          "keywords": ["THE", "PLACE", "KNOWLEDGE"],
+          "keywords": [
+            "THE",
+            "PLACE",
+            "KNOWLEDGE"
+          ],
           "explanation": "Outline II is titled 'THE PLACE OF KNOWLEDGE'.",
           "source_section": "Outline II"
         },
@@ -291,7 +321,11 @@
           "type": "free_text",
           "question": "How does the lesson define 'knowledge' in Outline II?",
           "answer": "Knowledge is information. It is facts gathered about something or someone",
-          "keywords": ["information", "facts", "gathered"],
+          "keywords": [
+            "information",
+            "facts",
+            "gathered"
+          ],
           "explanation": "The text defines it as 'Knowledge is information. It is facts gathered about something or someone'.",
           "source_section": "Outline II"
         },
@@ -319,7 +353,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "To know yourself is to have the understanding of your make-up, goals, aspirations, and authority in Christ.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "This is a direct statement from Outline II.",
           "source_section": "Outline II"
@@ -399,7 +436,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "When you know yourself, you know your strong areas and it is easier to work on your weaknesses and turn them into strengths.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "This is a direct quote from the lesson.",
           "source_section": "Outline II"
@@ -444,7 +484,7 @@
           "category": "name_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "In the Bible Passage, who doubted David’s ability to fight because he was just a youth while the opponent was a man of war?",
+          "question": "In the Bible Passage (1 Samuel 17:33), who doubted David’s ability to fight because he was just a youth while the opponent was a man of war?",
           "options": [
             "A. Samuel",
             "B. Jesse",
@@ -479,7 +519,7 @@
           "category": "bible_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the Bible Passage, why was David so confident he would defeat the Philistine?",
+          "question": "According to the Bible Passage (1 Samuel 17:37), why was David so confident he would defeat the Philistine?",
           "options": [
             "A. Because he had a better sword",
             "B. Because the Lord who delivered him from the lion and bear would deliver him from the Philistine",
@@ -514,7 +554,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Genesis 1:26-27 referenced in Outline I, God has every tiny detail about you.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text states 'He has every tiny detail about you (Genesis 1:26-27).'",
           "source_section": "Outline I"

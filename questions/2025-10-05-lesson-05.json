@@ -82,7 +82,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The one controlled by the flesh is referred to as a spiritual man.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states 'The one controlled by the flesh is also referred to as a natural or carnal man.'",
           "source_section": "Introduction"
@@ -112,7 +115,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Romans 8:8",
-          "keywords": ["Romans", "8:8"],
+          "keywords": [
+            "Romans",
+            "8:8"
+          ],
           "explanation": "The memory verse reference is Romans 8:8.",
           "source_section": "Memory Verse"
         },
@@ -124,7 +130,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 5 in full (NKJV).",
           "answer": "So then, those who are in the flesh cannot please God.",
-          "keywords": ["So", "then", "flesh", "cannot", "please", "God"],
+          "keywords": [
+            "So",
+            "then",
+            "flesh",
+            "cannot",
+            "please",
+            "God"
+          ],
           "explanation": "Full text recall of Romans 8:8.",
           "source_section": "Memory Verse"
         },
@@ -134,7 +147,7 @@
           "category": "memory_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What is the ultimate consequence of being 'in the flesh' according to the memory verse?",
+          "question": "What is the ultimate consequence of being 'in the flesh' according to the memory verse (Romans 8:8)?",
           "options": [
             "A. You will suffer physically",
             "B. You cannot please God",
@@ -153,7 +166,11 @@
           "type": "free_text",
           "question": "What is the exact heading of Outline I?",
           "answer": "THE “FLESH” DESCRIBED",
-          "keywords": ["THE", "FLESH", "DESCRIBED"],
+          "keywords": [
+            "THE",
+            "FLESH",
+            "DESCRIBED"
+          ],
           "explanation": "Outline I is titled 'THE “FLESH” DESCRIBED'.",
           "source_section": "Outline I"
         },
@@ -164,7 +181,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline I, 'the flesh' is literally our physical body.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Outline I clearly states: '“The flesh” is not our body, but the sinful nature that dwells in our body.'",
           "source_section": "Outline I"
@@ -262,7 +282,10 @@
           "type": "free_text",
           "question": "Which form of 'self' is described as believing that he is poor and not treated right, always complaining and never satisfied?",
           "answer": "Self-pity",
-          "keywords": ["Self", "pity"],
+          "keywords": [
+            "Self",
+            "pity"
+          ],
           "explanation": "The lesson defines this as Self-pity.",
           "source_section": "Outline I"
         },
@@ -308,7 +331,11 @@
           "type": "free_text",
           "question": "What is the exact heading of Outline II?",
           "answer": "VICTORY THROUGH GOD",
-          "keywords": ["VICTORY", "THROUGH", "GOD"],
+          "keywords": [
+            "VICTORY",
+            "THROUGH",
+            "GOD"
+          ],
           "explanation": "Outline II is titled 'VICTORY THROUGH GOD'.",
           "source_section": "Outline II"
         },
@@ -319,7 +346,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline II, a sinner can easily come into the presence of God even with the old sinful life still active.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states: 'Since no sinner can come into the presence of God, our old sinful life must come to an end...'",
           "source_section": "Outline II"
@@ -382,7 +412,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The lesson asserts that as long as we are in our bodies, we can completely get rid of 'self'.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly says: 'As long as we are in our bodies, we can never get rid of self, but we can avoid being ruled by self.'",
           "source_section": "Outline II"
@@ -550,7 +583,10 @@
           "type": "free_text",
           "question": "To live the Christ-life, Outline II says we must bear what?",
           "answer": "the fruit of the Spirit",
-          "keywords": ["fruit", "Spirit"],
+          "keywords": [
+            "fruit",
+            "Spirit"
+          ],
           "explanation": "The outline says 'live the Christ-life by bearing the fruit of the Spirit (Galatians 5:22-23).'",
           "source_section": "Outline II"
         }

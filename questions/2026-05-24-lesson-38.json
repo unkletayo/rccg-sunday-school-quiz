@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Leviticus 20:13",
-          "keywords": ["Leviticus", "20:13"],
+          "keywords": [
+            "Leviticus",
+            "20:13"
+          ],
           "explanation": "The memory verse reference is Leviticus 20:13.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,14 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 38 in full (NKJV).",
           "answer": "If a man lies with a male as he lies with a woman, both of them have committed an abomination. They shall surely be put to death. Their blood shall be upon them.",
-          "keywords": ["lies", "male", "woman", "abomination", "death", "blood"],
+          "keywords": [
+            "lies",
+            "male",
+            "woman",
+            "abomination",
+            "death",
+            "blood"
+          ],
           "explanation": "Full text recall of Leviticus 20:13.",
           "source_section": "Memory Verse"
         },
@@ -105,7 +115,7 @@
           "category": "introduction",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "What two things does the introduction say this lesson will examine?",
+          "question": "What two things does the introduction say the Week 38 lesson will examine?",
           "options": [
             "A. The history of homosexuality and modern laws",
             "B. The dangers involved and believers' disposition to homosexuals",
@@ -124,7 +134,11 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "THE DANGERS INVOLVED",
-          "keywords": ["THE", "DANGERS", "INVOLVED"],
+          "keywords": [
+            "THE",
+            "DANGERS",
+            "INVOLVED"
+          ],
           "explanation": "Outline I is titled 'THE DANGERS INVOLVED'.",
           "source_section": "Outline I"
         },
@@ -152,7 +166,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "God will give them over to continue in things that are 'not convenient', which means inappropriate and shameful.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The text explicitly states 'God will give them over to continue in things that are ‘not convenient’ i.e. ‘not becoming’, ‘inappropriate’, ‘shameful’.'",
           "source_section": "Outline I"
@@ -199,7 +216,13 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "CHRISTIANS' DISPOSITION",
-          "keywords": ["CHRISTIANS'", "DISPOSITION", "CHRISTIANS", "CHRISTIAN'S", "CHRISTIANS' DISPOSITION"],
+          "keywords": [
+            "CHRISTIANS'",
+            "DISPOSITION",
+            "CHRISTIANS",
+            "CHRISTIAN'S",
+            "CHRISTIANS' DISPOSITION"
+          ],
           "explanation": "Outline II is titled 'CHRISTIANS' DISPOSITION'.",
           "source_section": "Outline II"
         },
@@ -227,7 +250,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Treating homosexuals with dignity and praying for their salvation means that Christians should approve of their sin.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly says 'However, this does not mean that Christians should approve of their sin (Ephesians 5:11; 1 Timothy 5:22b).'",
           "source_section": "Outline II"
@@ -273,7 +299,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Outline II, it takes a huge 'leap of logic' to discern that homosexual marriage is also condemned in the Bible.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text states 'It takes no ‘leap of logic’ to discern that homosexual marriage is also condemned.'",
           "source_section": "Outline II"
@@ -422,7 +451,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Homosexuality is a sin, and like any other sin, it needs to be laid at the cross and repented of.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline II explicitly states 'Homosexuality is a sin and like any other sin, it needs to be laid at the cross and repented of (Romans 6:6; Ephesians 4:22-24).'",
           "source_section": "Outline II"

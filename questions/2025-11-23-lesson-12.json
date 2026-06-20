@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "Provide the book, chapter, and verse for this week's memory verse.",
           "answer": "Matthew 18:18",
-          "keywords": ["Matthew", "18:18"],
+          "keywords": [
+            "Matthew",
+            "18:18"
+          ],
           "explanation": "The memory verse reference is Matthew 18:18.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 12 in full (NKJV).",
           "answer": "Assuredly, I say to you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.",
-          "keywords": ["Assuredly", "bind", "earth", "bound", "heaven", "loose", "loosed"],
+          "keywords": [
+            "Assuredly",
+            "bind",
+            "earth",
+            "bound",
+            "heaven",
+            "loose",
+            "loosed"
+          ],
           "explanation": "Full text recall of Matthew 18:18.",
           "source_section": "Memory Verse"
         },
@@ -123,7 +134,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the introduction, the dominion God intended for mankind is purely physical and requires no spiritual connection.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The text explicitly states: 'This dominion is not just physical but spiritual, requiring a connection with God.'",
           "source_section": "Introduction"
@@ -136,7 +150,10 @@
           "type": "free_text",
           "question": "What is the heading of the first outline?",
           "answer": "BIBLICAL EXAMPLES",
-          "keywords": ["BIBLICAL", "EXAMPLES"],
+          "keywords": [
+            "BIBLICAL",
+            "EXAMPLES"
+          ],
           "explanation": "Outline I is titled 'BIBLICAL EXAMPLES'.",
           "source_section": "Outline I"
         },
@@ -250,7 +267,10 @@
           "type": "free_text",
           "question": "What is the heading of the second outline?",
           "answer": "THE HOW",
-          "keywords": ["THE", "HOW"],
+          "keywords": [
+            "THE",
+            "HOW"
+          ],
           "explanation": "Outline II is titled 'THE HOW'.",
           "source_section": "Outline II"
         },
@@ -329,7 +349,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "A righteous lifestyle has no effect on prayer, as long as you pray fervently.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Point 5 says 'Live Righteously: A righteous lifestyle enhances the effectiveness of prayer, while sin hinders it.'",
           "source_section": "Outline II"
@@ -375,7 +398,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The conclusion of the lesson states that prayer is the key to transforming situations, achieving victory and walking in dominion.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The conclusion explicitly states this word-for-word.",
           "source_section": "Conclusion"
@@ -421,7 +447,7 @@
           "category": "bible_verse_meaning",
           "difficulty": "medium",
           "type": "multiple_choice",
-          "question": "According to the Bible Passage, where did God tell Elijah to hide?",
+          "question": "According to the Bible Passage (1 Kings 17:3), where did God tell Elijah to hide?",
           "options": [
             "A. In the cave of Adullam",
             "B. By the Brook Cherith",
@@ -507,7 +533,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to the lesson, Daniel's prayer demonstrated that a righteous lifestyle hinders the effectiveness of prayer.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "A righteous lifestyle enhances it; sin hinders it.",
           "source_section": "Outline II"
@@ -553,7 +582,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "Through prayer, believers gain access to divine strategies, power, and intervention, allowing them to overcome challenges.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The introduction explicitly states this word-for-word.",
           "source_section": "Introduction"

@@ -66,7 +66,10 @@
           "type": "free_text",
           "question": "In which book, chapter, and verse is the memory verse for this week found? (Use format: Book Chapter:Verse)",
           "answer": "John 10:38",
-          "keywords": ["John", "10:38"],
+          "keywords": [
+            "John",
+            "10:38"
+          ],
           "explanation": "The memory verse is explicitly cited as John 10:38.",
           "source_section": "Memory Verse"
         },
@@ -78,7 +81,15 @@
           "type": "free_text",
           "question": "Type out the memory verse for Week 3 in full (NKJV).",
           "answer": "But if I do, though you do not believe Me, believe the works, that you may know and believe that the Father is in Me, and I in Him.",
-          "keywords": ["believe", "works", "know", "Father", "in", "Me", "Him"],
+          "keywords": [
+            "believe",
+            "works",
+            "know",
+            "Father",
+            "in",
+            "Me",
+            "Him"
+          ],
           "explanation": "Full text recall for John 10:38.",
           "source_section": "Memory Verse"
         },
@@ -141,7 +152,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "In the Bible Passage (John 14:10), Jesus stated that the words He speaks, He speaks entirely on His own authority.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "He said 'The words that I speak to you I do not speak on My own authority...' (John 14:10).",
           "source_section": "Bible Passage"
@@ -153,7 +167,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The introduction states that it is easy for all people to accept the fact that Jesus is God because the evidence is undeniable.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The introduction says 'While it may be difficult for some people to believe or accept the fact that Jesus is God, the evidence cannot be denied.'",
           "source_section": "Introduction"
@@ -181,9 +198,14 @@
           "category": "outline_I",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the first outline in this lesson?",
+          "question": "What is the heading of the first outline in the Week 3 lesson?",
           "answer": "THE MIRACLES HE PERFORMED",
-          "keywords": ["THE", "MIRACLES", "HE", "PERFORMED"],
+          "keywords": [
+            "THE",
+            "MIRACLES",
+            "HE",
+            "PERFORMED"
+          ],
           "explanation": "Outline I is titled 'THE MIRACLES HE PERFORMED'.",
           "source_section": "Outline I"
         },
@@ -279,7 +301,10 @@
           "difficulty": "hard",
           "type": "true_false",
           "question": "The references John 11:43-44 and Luke 7:13-15 are used in the lesson to support the fact that Jesus healed the sick.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "Those verses are used to support that He 'raised people from the dead', not healed the sick.",
           "source_section": "Outline I"
@@ -291,7 +316,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "The lesson claims that no other religion can claim the resurrection of its founders.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "Outline I explicitly states: 'No other religion can claim the resurrection of its founders.'",
           "source_section": "Outline I"
@@ -302,9 +330,14 @@
           "category": "outline_II",
           "difficulty": "easy",
           "type": "free_text",
-          "question": "What is the heading of the second outline in this lesson?",
+          "question": "What is the heading of the second outline in the Week 3 lesson?",
           "answer": "THE WAY, THE TRUTH, AND THE LIFE",
-          "keywords": ["THE", "WAY", "TRUTH", "LIFE"],
+          "keywords": [
+            "THE",
+            "WAY",
+            "TRUTH",
+            "LIFE"
+          ],
           "explanation": "Outline II is titled 'THE WAY, THE TRUTH, AND THE LIFE'.",
           "source_section": "Outline II"
         },
@@ -333,7 +366,11 @@
           "type": "free_text",
           "question": "According to Outline II, a 'way' is defined as what?",
           "answer": "a route leading somewhere",
-          "keywords": ["route", "leading", "somewhere"],
+          "keywords": [
+            "route",
+            "leading",
+            "somewhere"
+          ],
           "explanation": "The text defines: 'A way is a route leading somewhere.'",
           "source_section": "Outline II"
         },
@@ -412,7 +449,10 @@
           "difficulty": "medium",
           "type": "true_false",
           "question": "According to Matthew 5:17, Jesus said He came to destroy the demands of the law and the prophets.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The lesson states 'Jesus said He came to fulfil the demands of the law and the prophets'.",
           "source_section": "Outline II"
@@ -475,7 +515,10 @@
           "difficulty": "easy",
           "type": "true_false",
           "question": "The conclusion of the lesson states that there is still much controversy over whether Jesus Christ is God.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "False",
           "explanation": "The conclusion states: 'There is no controversy, Jesus Christ is God.'",
           "source_section": "Conclusion"
@@ -522,7 +565,10 @@
           "difficulty": "hard",
           "type": "true_false",
           "question": "By reminding His followers of the basic points of the law and giving new commands, Jesus was equating Himself with God as the authoritative standard of righteousness.",
-          "options": ["True", "False"],
+          "options": [
+            "True",
+            "False"
+          ],
           "answer": "True",
           "explanation": "The lesson explicitly says 'thereby equating Himself with God as the authoritative standard of righteousness.'",
           "source_section": "Outline II"
