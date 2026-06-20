@@ -12,7 +12,7 @@ export function saveScoreHistory(id, s, total) {
         const all = JSON.parse(localStorage.getItem(SCORES_KEY) || '{}');
         const hist = all[id] || [];
         hist.unshift({ score: s, total, ts: Date.now() });
-        all[id] = hist.slice(0, 3);
+        all[id] = hist.slice(0, 10);
         localStorage.setItem(SCORES_KEY, JSON.stringify(all));
     } catch {}
 }
