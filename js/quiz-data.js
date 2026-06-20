@@ -3,7 +3,12 @@ import { state } from './state.js';
 export const STOP_WORDS = new Set(['which','shall','that','with','have','will','from','they','this','when','then','been','were','their','what','into','your','about','there','these','those','them','also','upon','unto','even','said','thou','thee','hath','doth']);
 
 export function shuffleArray(array) {
-    return array.slice().sort(() => Math.random() - 0.5);
+    const a = array.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
 }
 
 export async function buildMixQuiz(count) {

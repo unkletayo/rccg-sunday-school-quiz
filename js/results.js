@@ -24,7 +24,7 @@ export function showResults() {
 
     if (percentage === 1) {
         DOM.resultIcon.textContent = '🏆';
-        DOM.resultMessage.textContent = "Perfect Score! You mastered this week's lesson!";
+        DOM.resultMessage.textContent = "Perfect Score! You mastered every question!";
         launchConfetti();
     } else if (percentage >= 0.8) {
         DOM.resultIcon.textContent = '🌟';
@@ -34,7 +34,7 @@ export function showResults() {
         DOM.resultMessage.textContent = "Good job. A little more review and you'll be an expert.";
     } else {
         DOM.resultIcon.textContent = '📚';
-        DOM.resultMessage.textContent = "Keep studying! Review the lesson and try again.";
+        DOM.resultMessage.textContent = "Keep studying! Review the lessons and try again.";
     }
 }
 

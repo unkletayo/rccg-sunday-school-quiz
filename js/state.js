@@ -62,7 +62,7 @@ export const state = {
     toastTimer: null,
 };
 
-export const TIMER_SECONDS = 30;
+export const TIMER_SECONDS = 10;
 export const SCORES_KEY = 'quiz_scores_v2';
 export const SESSION_KEY = 'quiz_progress';
 export const MODE_LABELS = {
