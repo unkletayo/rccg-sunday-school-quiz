@@ -1,4 +1,4 @@
-import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '../..'))
+import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import os
 import re
 import json
@@ -10,8 +10,8 @@ import ssl
 
 LESSONS_DIR = "lessons"
 OUTPUT_DIR = "bible_questions"
-INDEX_FILE = "quiz-app/bible_quiz_index.json"
-CACHE_FILE = "quiz-app/scripts/bible_api_cache.json"
+INDEX_FILE = "bible_quiz_index.json"
+CACHE_FILE = "scripts/bible_api_cache.json"
 
 BIBLE_REF_REGEX = re.compile(r'\b(?:[1-3]\s+)?[A-Z][a-z\s]+\s+\d+:\d+(?:-\d+)?(?:,\s*\d+(?:-\d+)?)?\b')
 
@@ -246,7 +246,7 @@ def main():
 
     # Build date → week fallback from general quiz_index
     date_week_map = {}
-    general_index = "quiz-app/quiz_index.json"
+    general_index = "quiz_index.json"
     if os.path.exists(general_index):
         with open(general_index) as f:
             for entry in json.load(f):

@@ -1,11 +1,11 @@
-import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '../..'))
+import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import os
 import glob
 import re
 import json
 
 LESSONS_DIR = "lessons"
-OUTPUT_FILE = "quiz-app/topics_memory_data.json"
+OUTPUT_FILE = "topics_memory_data.json"
 
 def process_file(filepath):
     with open(filepath, 'r') as f:

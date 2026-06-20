@@ -1,4 +1,4 @@
-import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '../..'))
+import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import requests
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md

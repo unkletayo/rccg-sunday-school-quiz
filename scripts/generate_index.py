@@ -1,9 +1,9 @@
-import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '../..'))
+import os; os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 import os
 import json
 
 questions_dir = "questions"
-output_file = "quiz-app/quiz_index.json"
+output_file = "quiz_index.json"
 
 quizzes = []
 

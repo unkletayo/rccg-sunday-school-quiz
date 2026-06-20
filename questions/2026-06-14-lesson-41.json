@@ -1,0 +1,483 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-20T00:00:00Z",
+  "weeks": [
+    {
+      "week_number": 41,
+      "topic": "STRATEGIC LEADERSHIP",
+      "memory_verse_reference": "Exodus 18:21",
+      "questions": [
+        {
+          "id": "W41Q1",
+          "week": 41,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 41?",
+          "options": [
+            "A. SERVANT LEADERSHIP",
+            "B. STRATEGIC LEADERSHIP",
+            "C. TRANSFORMATIONAL LEADERSHIP",
+            "D. SPIRITUAL LEADERSHIP"
+          ],
+          "answer": "B",
+          "explanation": "The topic explicitly listed for Lesson Forty-One is STRATEGIC LEADERSHIP.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W41Q2",
+          "week": 41,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 40?",
+          "options": [
+            "A. ESTHER",
+            "B. RUTH",
+            "C. DEBORAH",
+            "D. RAHAB"
+          ],
+          "answer": "D",
+          "explanation": "RAHAB was the topic for Week 40.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W41Q3",
+          "week": 41,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "Moreover you shall select from all the people able men, such as fear God, men of truth, hating ________; and place such over them to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+          "options": [
+            "A. covetousness",
+            "B. idolatry",
+            "C. dishonesty",
+            "D. laziness"
+          ],
+          "answer": "A",
+          "explanation": "The memory verse (Exodus 18:21) specifies 'men of truth, hating covetousness.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W41Q4",
+          "week": 41,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Exodus 18:21",
+          "keywords": ["Exodus", "18:21"],
+          "explanation": "The memory verse reference is Exodus 18:21.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W41Q5",
+          "week": 41,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 41 in full (NKJV).",
+          "answer": "Moreover you shall select from all the people able men, such as fear God, men of truth, hating covetousness; and place such over them to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+          "keywords": ["able", "fear God", "truth", "covetousness", "rulers", "thousands", "hundreds", "fifties", "tens"],
+          "explanation": "Full text recall of Exodus 18:21 (NKJV).",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W41Q6",
+          "week": 41,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Exodus 18:21), what four levels of rulers should be placed over the people?",
+          "options": [
+            "A. Rulers of thousands, hundreds, fifties, and tens",
+            "B. Rulers of nations, provinces, cities, and villages",
+            "C. Rulers of armies, fleets, priests, and judges",
+            "D. Rulers of churches, schools, markets, and courts"
+          ],
+          "answer": "A",
+          "explanation": "Exodus 18:21 specifies 'rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W41Q7",
+          "week": 41,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what does it mean to be 'strategic'?",
+          "options": [
+            "A. To be aggressive and bold in leadership",
+            "B. To fix a long-term objective and interest and the means to achieve such",
+            "C. To manage people through strict rules and discipline",
+            "D. To be politically savvy and network with the right people"
+          ],
+          "answer": "B",
+          "explanation": "The introduction defines 'strategic' as 'to fix a long-term objective and interest and the means to achieve such.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W41Q8",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "TRAITS OF STRATEGIC LEADERS",
+          "keywords": ["TRAITS", "STRATEGIC", "LEADERS"],
+          "explanation": "Outline I is titled 'TRAITS OF STRATEGIC LEADERS'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q9",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the trait 'Allegiance To The Group's Vision' mean for strategic leaders, according to the lesson?",
+          "options": [
+            "A. They enforce the leader's personal agenda above the group",
+            "B. They are completely devoted to the group's vision, see the big picture, and map out strategies for its fulfilment",
+            "C. They demand absolute loyalty from all followers",
+            "D. They vote on every major decision together as a team"
+          ],
+          "answer": "B",
+          "explanation": "Outline I states 'Strategic leaders are completely devoted to the group's vision; they see the big picture and map out strategies to see to its fulfilment (Proverbs 29:18a; Habakkuk 2:2).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q10",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are cited under the trait 'Allegiance To The Group's Vision'?",
+          "options": [
+            "A. Genesis 41:33-36; 1 Samuel 30:20-23",
+            "B. Proverbs 25:11; Colossians 4:6",
+            "C. Proverbs 29:18a; Habakkuk 2:2",
+            "D. Ephesians 6:9; Psalm 26:11a"
+          ],
+          "answer": "C",
+          "explanation": "Outline I cites '(Proverbs 29:18a; Habakkuk 2:2)' alongside the trait of Allegiance To The Group's Vision.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q11",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "'Cautious Use Of Power' means strategic leaders oppress their subordinates and rule them with fear.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Outline I states 'As leaders, they do not oppress their subordinates. They lead with the fear of God (Ephesians 6:9).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q12",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "The trait 'Delegation' in strategic leaders involves what specific purpose, according to the lesson?",
+          "options": [
+            "A. Keeping all authority to themselves to avoid errors",
+            "B. Giving assignments and transferring power to subordinates and deliberately raising future leaders",
+            "C. Rotating leadership monthly among team members",
+            "D. Reporting everything upward to a higher authority"
+          ],
+          "answer": "B",
+          "explanation": "Outline I states they 'give assignments and transfer power to their subordinates' and 'deliberately raise their followers to be future leaders (2 Timothy 2:2).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q13",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "WAYS TO BE ONE",
+          "keywords": ["WAYS", "TO", "BE", "ONE"],
+          "explanation": "Outline II is titled 'WAYS TO BE ONE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q14",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what does 'widening your scope' as a strategic leader mean?",
+          "options": [
+            "A. Expanding your personal wealth and influence",
+            "B. Thinking of the progress of the whole organisation instead of limiting success to yourself and your unit",
+            "C. Growing your team size as rapidly as possible",
+            "D. Acquiring more resources exclusively for your own unit"
+          ],
+          "answer": "B",
+          "explanation": "Outline II states 'Widen your scope by thinking of the progress of the whole organisation instead of limiting the success level to yourself and your unit (Nehemiah 2:3-5).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q15",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, it takes humility to lead strategically (Proverbs 22:4).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II concludes 'It takes humility to lead strategically (Proverbs 22:4).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q16",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Outline II, what is described as 'key to strategic leadership'?",
+          "options": [
+            "A. Wealth",
+            "B. Knowledge",
+            "C. Courage",
+            "D. Connections"
+          ],
+          "answer": "B",
+          "explanation": "Outline II states 'Knowledge is key to strategic leadership, so, keep yourself abreast with developments within and outside your environment (Proverbs 18:15).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q17",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to support exemplifying good values so you can lead your followers in the right way?",
+          "options": [
+            "A. Proverbs 22:4",
+            "B. Numbers 13:30",
+            "C. 1 Corinthians 11:1",
+            "D. Proverbs 18:15"
+          ],
+          "answer": "C",
+          "explanation": "Outline II states 'Exemplify good values so you can lead your followers in the right way (1 Corinthians 11:1).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q18",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "According to the lesson, a strategic leader should recognise and seize opportunities all the time (Numbers 13:30).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II states 'Recognise and seize opportunities all the time (Numbers 13:30).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q19",
+          "week": 41,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "According to the conclusion, what is the essence of being a strategic leader?",
+          "options": [
+            "A. To control all decisions from the top",
+            "B. To look beyond the surface into the big picture",
+            "C. To gather the most resources for your team",
+            "D. To ensure your unit outperforms all others"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion states 'To be a strategic leader is to look beyond the surface into the big picture.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W41Q20",
+          "week": 41,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'Come and let us build the wall of Jerusalem, that we may no longer be a reproach.'",
+          "options": [
+            "A. Nehemiah 2:16",
+            "B. Nehemiah 2:17",
+            "C. Nehemiah 2:18",
+            "D. Nehemiah 2:19"
+          ],
+          "answer": "B",
+          "explanation": "This phrase is from verse 17 of the Bible Passage (Nehemiah 2:17-18).",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W41Q21",
+          "week": 41,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Nehemiah 2:17, what was the state of Jerusalem and its gates?",
+          "options": [
+            "A. Jerusalem was thriving and its gates were newly built",
+            "B. Jerusalem was under siege by the Assyrians",
+            "C. Jerusalem lay waste and its gates were burned with fire",
+            "D. Jerusalem was abandoned and its walls were intact"
+          ],
+          "answer": "C",
+          "explanation": "Nehemiah 2:17 states 'You see the distress that we are in, how Jerusalem lies waste, and its gates are burned with fire.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W41Q22",
+          "week": 41,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Nehemiah 2:18, what two things did Nehemiah tell the people to inspire them to build?",
+          "options": [
+            "A. The history of Jerusalem and the prophecy of Isaiah",
+            "B. The hand of God which had been good upon him, and the king's words that he had spoken to him",
+            "C. The wealth available for the project and the size of their enemies",
+            "D. The detailed construction plans and the expected timeline"
+          ],
+          "answer": "B",
+          "explanation": "Nehemiah 2:18 states 'I told them of the hand of my God which had been good upon me, and also of the king's words that he had spoken to me.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W41Q23",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "The trait 'Empathy' in strategic leaders means what, according to the lesson?",
+          "options": [
+            "A. Imposing strict rules without exception to maintain discipline",
+            "B. Leading with compassion, recognising that leaders are also humans with strengths and weaknesses",
+            "C. Making all decisions based purely on data and logic",
+            "D. Delegating all emotional issues to other team members"
+          ],
+          "answer": "B",
+          "explanation": "Outline I states 'They lead with compassion recognising that though they are leaders, they are also humans with their strengths and weaknesses (Ephesians 4:32).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q24",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "The trait 'Transparency' in strategic leaders is described as what?",
+          "options": [
+            "A. Leaders share all classified information with the public",
+            "B. Leaders make every decision by committee vote",
+            "C. People can easily see through them as they carry out their day-to-day activities without any form of dishonesty",
+            "D. Leaders submit weekly accountability reports to their followers"
+          ],
+          "answer": "C",
+          "explanation": "Outline I states 'People can easily see through them as they carry out their day-to-day activities without any form of dishonesty (Psalm 26:11a; Proverbs 11:3).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q25",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited under the trait 'Delegation'?",
+          "options": [
+            "A. Ephesians 4:32",
+            "B. 2 Timothy 2:2",
+            "C. Colossians 4:6",
+            "D. Ephesians 6:9"
+          ],
+          "answer": "B",
+          "explanation": "Outline I cites '(2 Timothy 2:2)' alongside the Delegation trait, concerning raising followers to be future leaders.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q26",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "They synergise with their subordinates and allow for a free flow of ________. They seek to understand and to be understood (Proverbs 25:11; Colossians 4:6).",
+          "options": [
+            "A. communication",
+            "B. information",
+            "C. authority",
+            "D. resources"
+          ],
+          "answer": "A",
+          "explanation": "Outline I describes the trait 'Effective Communication' as allowing for 'a free flow of communication.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q27",
+          "week": 41,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Being creative and confident to bring new initiatives is linked in the lesson to being sensitive to change (2 Chronicles 26:10, 14-15).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II states 'Always be creative and confident to bring new initiatives to the company (2 Chronicles 26:10, 14-15)' in the same sentence about being sensitive to change.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q28",
+          "week": 41,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are cited to support increasing your value to the group by contributing effectively to its growth?",
+          "options": [
+            "A. Numbers 13:30; Proverbs 22:4",
+            "B. Proverbs 18:15; 2 Chronicles 26:10",
+            "C. Daniel 6:28; Proverbs 22:29",
+            "D. Nehemiah 2:3-5; Proverbs 29:18a"
+          ],
+          "answer": "C",
+          "explanation": "Outline II states 'Increase your value to the group by contributing effectively to its growth (Daniel 6:28; Proverbs 22:29).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W41Q29",
+          "week": 41,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scriptures are cited under the trait 'Problem-solving Skills'?",
+          "options": [
+            "A. Proverbs 25:11; Colossians 4:6",
+            "B. Genesis 41:33-36; 1 Samuel 30:20-23",
+            "C. Proverbs 29:18a; Habakkuk 2:2",
+            "D. Psalm 26:11a; Proverbs 11:3"
+          ],
+          "answer": "B",
+          "explanation": "Outline I cites '(Genesis 41:33-36; 1 Samuel 30:20-23)' alongside the trait 'Problem-solving Skills'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W41Q30",
+          "week": 41,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, what role does a strategic leader play regarding the group's vision?",
+          "options": [
+            "A. To make all decisions unilaterally without input from others",
+            "B. To create the group's overall vision and the means to achieve it, motivating others to foster unity and bring about change",
+            "C. To represent the group in all legal and governmental matters",
+            "D. To ensure the group never changes its founding methods"
+          ],
+          "answer": "B",
+          "explanation": "The introduction states 'Strategic leadership is all-inclusive as it creates the group's overall vision and the means to achieve it. Based on this vision, strategic leaders motivate others to foster unity and a way to bring about change.'",
+          "source_section": "Introduction"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "quiz_title": "Sunday School Comprehensive Quiz",
+  "generated_at": "2026-06-20T00:00:00Z",
+  "weeks": [
+    {
+      "week_number": 40,
+      "topic": "RAHAB",
+      "memory_verse_reference": "Hebrews 11:31",
+      "questions": [
+        {
+          "id": "W40Q1",
+          "week": 40,
+          "category": "topic_identification",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the topic for Week 40?",
+          "options": [
+            "A. DEBORAH",
+            "B. RUTH",
+            "C. ESTHER",
+            "D. RAHAB"
+          ],
+          "answer": "D",
+          "explanation": "The topic explicitly listed for Lesson Forty is RAHAB.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W40Q2",
+          "week": 40,
+          "category": "cross_week_topic",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which of the following was the topic for Week 38?",
+          "options": [
+            "A. SOCIAL MEDIA ROMANCE",
+            "B. CHRISTIANITY AND HOMOSEXUALITY (Part 1)",
+            "C. PARENTING STYLES (Part 2)",
+            "D. CHRISTIANITY AND HOMOSEXUALITY (Part 2)"
+          ],
+          "answer": "D",
+          "explanation": "Christianity and Homosexuality (Part 2) was the topic for Week 38.",
+          "source_section": "Topic"
+        },
+        {
+          "id": "W40Q3",
+          "week": 40,
+          "category": "memory_verse_text",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "By faith the harlot Rahab did not ________ with those who did not believe, when she had received the spies with peace.",
+          "options": [
+            "A. perish",
+            "B. agree",
+            "C. dwell",
+            "D. suffer"
+          ],
+          "answer": "A",
+          "explanation": "The memory verse (Hebrews 11:31) says 'By faith the harlot Rahab did not perish with those who did not believe.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W40Q4",
+          "week": 40,
+          "category": "memory_verse_reference",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Provide the book, chapter, and verse for this week's memory verse.",
+          "answer": "Hebrews 11:31",
+          "keywords": ["Hebrews", "11:31"],
+          "explanation": "The memory verse reference is Hebrews 11:31.",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W40Q5",
+          "week": 40,
+          "category": "memory_verse_text",
+          "difficulty": "hard",
+          "type": "free_text",
+          "question": "Type out the memory verse for Week 40 in full (NKJV).",
+          "answer": "By faith the harlot Rahab did not perish with those who did not believe, when she had received the spies with peace.",
+          "keywords": ["faith", "harlot", "Rahab", "perish", "spies", "peace"],
+          "explanation": "Full text recall of Hebrews 11:31 (NKJV).",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W40Q6",
+          "week": 40,
+          "category": "memory_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the memory verse (Hebrews 11:31), how did Rahab receive the spies?",
+          "options": [
+            "A. With hostility",
+            "B. With peace",
+            "C. With demands",
+            "D. With deception"
+          ],
+          "answer": "B",
+          "explanation": "Hebrews 11:31 states she 'received the spies with peace.'",
+          "source_section": "Memory Verse"
+        },
+        {
+          "id": "W40Q7",
+          "week": 40,
+          "category": "introduction",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to the introduction, Rahab's faith in the God of Israel projected her into what?",
+          "options": [
+            "A. The priesthood of Jericho",
+            "B. Political leadership of Canaan",
+            "C. The hall of faith",
+            "D. The seat of the Jericho elders"
+          ],
+          "answer": "C",
+          "explanation": "The introduction states the occasion projected her 'into the hall of faith.'",
+          "source_section": "Introduction"
+        },
+        {
+          "id": "W40Q8",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the first outline?",
+          "answer": "HER CHARACTER",
+          "keywords": ["HER", "CHARACTER"],
+          "explanation": "Outline I is titled 'HER CHARACTER'.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q9",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What does the name 'Rahab' mean in Hebrew?",
+          "options": [
+            "A. Faithful",
+            "B. Brave",
+            "C. Wide",
+            "D. Redeemed"
+          ],
+          "answer": "C",
+          "explanation": "Outline I states 'Rahab, in Hebrew, means wide.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q10",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "In which city did Rahab, the Canaanite harlot, live?",
+          "options": [
+            "A. Bethlehem",
+            "B. Jerusalem",
+            "C. Acacia Grove",
+            "D. Jericho"
+          ],
+          "answer": "D",
+          "explanation": "Outline I states she was 'a Canaanite harlot who lived in Jericho city (Joshua 2:5).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q11",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Rahab lived in the 10th century B.C.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "explanation": "Outline I states she 'lived in the 12th century B.C.', not the 10th.",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q12",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Why did the two spies sent by Joshua find lodging in Rahab's house?",
+          "options": [
+            "A. Joshua's commander directed them there",
+            "B. She rented rooms to travellers and visitors",
+            "C. She was a relative of Joshua",
+            "D. The king of Jericho recommended her house"
+          ],
+          "answer": "B",
+          "explanation": "Outline I explains 'She rented rooms to travellers and visitors who came into the city.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q13",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "easy",
+          "type": "free_text",
+          "question": "What is the heading of the second outline?",
+          "answer": "ACHIEVEMENTS AND LESSONS FROM HER LIFE",
+          "keywords": ["ACHIEVEMENTS", "LESSONS"],
+          "explanation": "Outline II is titled 'ACHIEVEMENTS AND LESSONS FROM HER LIFE'.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q14",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which New Testament book names Rahab as being justified by works?",
+          "options": [
+            "A. Hebrews",
+            "B. Matthew",
+            "C. James",
+            "D. Romans"
+          ],
+          "answer": "C",
+          "explanation": "Outline II states 'James records her as being justified by works (James 2:25).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q15",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Matthew lists Rahab in the lineage of Jesus Christ (Matthew 1:5).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II explicitly states 'Matthew lists her in the lineage of Jesus Christ (Matthew 1:5).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q16",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which book named Rahab among faith heroes in the Old Testament?",
+          "options": [
+            "A. Matthew",
+            "B. James",
+            "C. Acts",
+            "D. Hebrews"
+          ],
+          "answer": "D",
+          "explanation": "Outline II states 'The book of Hebrews named her among faith heroes in the Old Testament (Hebrews 11:31).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q17",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that anyone can change from bad to good, as Rahab stepped out of harlotry into faith in God?",
+          "options": [
+            "A. Galatians 6:10",
+            "B. 2 Corinthians 5:7",
+            "C. Isaiah 1:18",
+            "D. Acts 16:31"
+          ],
+          "answer": "C",
+          "explanation": "Outline II's Lessons section cites '(Isaiah 1:18)' alongside 'Rahab stepped out of her harlotry into faith in God. So, anyone can change from bad to good.'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q18",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "Just as Rahab ensured the safety of her household (Joshua 2:18-21), a child of God should ensure the salvation of his/her family (Acts 16:31).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II's Lessons section explicitly draws this parallel with citations of Joshua 2:18-21 and Acts 16:31.",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q19",
+          "week": 40,
+          "category": "conclusion",
+          "difficulty": "easy",
+          "type": "multiple_choice",
+          "question": "What is the key message of the conclusion drawn from Rahab's story?",
+          "options": [
+            "A. Harlots have no place in God's kingdom",
+            "B. Do not write yourself or anyone off",
+            "C. Faith is always greater than works",
+            "D. Women cannot lead armies into battle"
+          ],
+          "answer": "B",
+          "explanation": "The conclusion states 'Rahab is a typical example of God's transformative power. Do not write yourself or anyone off.'",
+          "source_section": "Conclusion"
+        },
+        {
+          "id": "W40Q20",
+          "week": 40,
+          "category": "bible_verse_text",
+          "difficulty": "hard",
+          "type": "where_is_this_from",
+          "question": "Where is this verse found? 'But she had brought them up to the roof and hidden them with the stalks of flax, which she had laid in order on the roof.'",
+          "options": [
+            "A. Joshua 2:4",
+            "B. Joshua 2:5",
+            "C. Joshua 2:6",
+            "D. Joshua 2:7"
+          ],
+          "answer": "C",
+          "explanation": "This is verse 6 of the Bible Passage (Joshua 2:1-6, 12-13).",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W40Q21",
+          "week": 40,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Joshua 2:2, who was informed about the arrival of the Israelite spies in Jericho?",
+          "options": [
+            "A. The priests of Jericho",
+            "B. The elders of the city",
+            "C. The king of Jericho",
+            "D. The army commander"
+          ],
+          "answer": "C",
+          "explanation": "Joshua 2:2 states 'it was told the king of Jericho' about the men who came from the children of Israel.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W40Q22",
+          "week": 40,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What did Rahab tell the king's messenger about the spies (Joshua 2:4-5)?",
+          "options": [
+            "A. That she had captured them and would hand them over",
+            "B. That she did not know where they were from and they had gone out before the gate was shut",
+            "C. That they were merchants, not spies",
+            "D. That they had already been arrested by her neighbours"
+          ],
+          "answer": "B",
+          "explanation": "Joshua 2:4-5 records Rahab saying she did not know where they were from, and that they left before the gate was shut.",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W40Q23",
+          "week": 40,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What did Rahab ask the spies to swear by in Joshua 2:12?",
+          "options": [
+            "A. Their own lives",
+            "B. The name of Joshua",
+            "C. The Lord",
+            "D. The covenant of Abraham"
+          ],
+          "answer": "C",
+          "explanation": "Joshua 2:12 records Rahab saying 'swear to me by the Lord, since I have shown you kindness.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W40Q24",
+          "week": 40,
+          "category": "bible_verse_meaning",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "According to Joshua 2:12-13, whom did Rahab request to be spared from death?",
+          "options": [
+            "A. Only herself",
+            "B. Her father's house, mother, brothers, sisters, and all that they have",
+            "C. All the inhabitants of Jericho",
+            "D. Only her brothers and sisters"
+          ],
+          "answer": "B",
+          "explanation": "Joshua 2:13 records her requesting: 'spare my father, my mother, my brothers, my sisters, and all that they have, and deliver our lives from death.'",
+          "source_section": "Bible Passage"
+        },
+        {
+          "id": "W40Q25",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to show that Rahab was smart enough to join herself to the winning side?",
+          "options": [
+            "A. Joshua 2:6",
+            "B. Joshua 2:12-13",
+            "C. Joshua 6:25",
+            "D. Joshua 2:9-10"
+          ],
+          "answer": "D",
+          "explanation": "Outline I states 'In her wisdom, she joined herself to the winning side (Joshua 2:9-10).'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q26",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "fill_in_blank",
+          "question": "She was diligent enough to follow ________ (Joshua 2:18; 6:22-23). Likewise, believers must carefully follow the right instruction (Proverbs 4:13).",
+          "options": [
+            "A. instructions",
+            "B. traditions",
+            "C. visions",
+            "D. prophecies"
+          ],
+          "answer": "A",
+          "explanation": "Outline II's Lessons section states 'she was diligent enough to follow instructions (Joshua 2:18; 6:22-23).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q27",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "true_false",
+          "question": "We should show kindness to people, just as Rahab did to the spies (Galatians 6:10).",
+          "options": ["True", "False"],
+          "answer": "True",
+          "explanation": "Outline II's Lessons section explicitly states 'We should show kindness to people, just as Rahab did to the spies (Galatians 6:10).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q28",
+          "week": 40,
+          "category": "bible_verse_reference",
+          "difficulty": "hard",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited to confirm that Rahab's act of kindness earned her salvation from destruction?",
+          "options": [
+            "A. Joshua 2:10",
+            "B. Joshua 2:13",
+            "C. Joshua 6:25",
+            "D. James 2:25"
+          ],
+          "answer": "C",
+          "explanation": "Outline II states 'This act of kindness earned her salvation from destruction (Joshua 6:25).'",
+          "source_section": "Outline II"
+        },
+        {
+          "id": "W40Q29",
+          "week": 40,
+          "category": "outline_I",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "What specific action demonstrated Rahab's faith in the only true God, according to Outline I?",
+          "options": [
+            "A. She paid tithes to the Israelite priests",
+            "B. She built an altar outside Jericho",
+            "C. She asked the two Israeli spies to swear by the Lord",
+            "D. She refused to worship the gods of Jericho"
+          ],
+          "answer": "C",
+          "explanation": "Outline I states 'Rahab asked the two Israeli spies to swear by the Lord thereby showing her faith in the only true God.'",
+          "source_section": "Outline I"
+        },
+        {
+          "id": "W40Q30",
+          "week": 40,
+          "category": "outline_II",
+          "difficulty": "medium",
+          "type": "multiple_choice",
+          "question": "Which scripture is cited alongside the lesson that we are also expected to walk by faith and not by sight, as modeled by Rahab?",
+          "options": [
+            "A. Isaiah 1:18",
+            "B. 2 Corinthians 5:7",
+            "C. Galatians 6:10",
+            "D. Acts 16:31"
+          ],
+          "answer": "B",
+          "explanation": "Outline II's Lessons section states 'We also are expected to walk by faith (2 Corinthians 5:7).'",
+          "source_section": "Outline II"
+        }
+      ]
+    }
+  ]
+}
